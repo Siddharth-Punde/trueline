@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+pydantic>=2
+python-dotenv
+phonenumbers
+tldextract
+rapidfuzz
+pytest
+serpapi
