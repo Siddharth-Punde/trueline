@@ -1,0 +1,34 @@
+{
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 20.5937,
+      "longitude": 78.9629
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Testco Help Centre",
+      "place_id": "FAKELOCALID000001",
+      "provider_id": "/g/11fake00001",
+      "address": "4 Imaginary Avenue, Pretend City, PC 000004",
+      "type": "Customer service",
+      "rating": 4.2,
+      "reviews": 8,
+      "phone": "1800-000-0006",
+      "website": "https://help.testco.example"
+    },
+    {
+      "position": 2,
+      "title": "Testco Unlisted Agents",
+      "place_id": "FAKELOCALID000002",
+      "provider_id": "/g/11fake00002",
+      "address": "5 Mock Nagar, Dummy District, DD 000005",
+      "type": "Customer service",
+      "rating": 2.9,
+      "reviews": 3,
+      "phone": "1800-000-0011",
+      "unclaimed_listing": true
+    }
+  ]
+}

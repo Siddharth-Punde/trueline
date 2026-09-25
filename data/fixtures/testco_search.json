@@ -1,0 +1,69 @@
+{
+  "search_information": {
+    "query_displayed": "Testco customer care number",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "title": "Testco Support Helpline - Call Now",
+      "link": "https://call-testco.example/now",
+      "displayed_link": "call-testco.example › now",
+      "snippet": "Talk to a Testco agent today on our toll-free number 1800-000-0000.",
+      "advertiser": "Testco Support Partners"
+    },
+    {
+      "position": 2,
+      "title": "Testco Refund Desk",
+      "link": "https://refund-testco.example/claim",
+      "displayed_link": "refund-testco.example › claim",
+      "snippet": "Track any Testco refund on 1800-000-0002, open 24x7."
+    }
+  ],
+  "answer_box": {
+    "title": "Testco customer care number",
+    "answer": "The Testco customer care number is 1800-000-0001, available 24x7.",
+    "link": "https://help.testco.example/contact"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Testco - Official Website",
+      "link": "https://www.testco.example/help",
+      "displayed_link": "www.testco.example › help",
+      "snippet": "Official Testco help centre. Dial 1800-000-0001 for assistance.",
+      "source": "Testco"
+    },
+    {
+      "position": 2,
+      "title": "Testco Third-Party Support Desk",
+      "link": "https://testco-support-desk.example/care",
+      "displayed_link": "testco-support-desk.example › care",
+      "snippet": "Independent Testco assistance, ring 1800-000-0003 any time."
+    },
+    {
+      "position": 11,
+      "title": "Testco Complaint Forum",
+      "link": "https://forum.example/testco-complaints",
+      "displayed_link": "forum.example › testco-complaints",
+      "snippet": "Customers share complaint numbers such as 1800-000-0004."
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How do I contact Testco support?",
+      "type": "featured_snippet",
+      "title": "Contact Testco",
+      "snippet": "Call our toll-free number 1800-000-0005 to speak with a Testco agent.",
+      "link": "https://contact.testco.example/toll-free",
+      "date": "3 days ago"
+    },
+    {
+      "question": "Does Testco have a mobile app?",
+      "type": "ai_overview",
+      "title": "Testco mobile app",
+      "snippet": "Testco offers a mobile app for account management and payments.",
+      "link": "https://app.testco.example"
+    }
+  ]
+}

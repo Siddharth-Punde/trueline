@@ -1,0 +1,39 @@
+{
+  "search_information": {
+    "total_results": 2
+  },
+  "advertiser": {
+    "id": "AR0000000000000000001",
+    "name": "Testco Official",
+    "legal_name": "Testco Private Limited",
+    "country_code": "IN",
+    "country": "India"
+  },
+  "ad_creatives": [
+    {
+      "advertiser_id": "AR0000000000000000001",
+      "advertiser": "Testco Official",
+      "ad_creative_id": "CRFAKE0000001",
+      "format": "text",
+      "link": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=fake",
+      "total_days_shown": 30,
+      "first_shown": 1700000000,
+      "last_shown": 1700002560,
+      "details_link": "https://adstransparency.google.com/advertiser/AR0000000000000000001/creative/CRFAKE0000001?region=anywhere",
+      "serpapi_details_link": "https://serpapi.com/search.json?advertiser_id=AR0000000000000000001&creative_id=CRFAKE0000001&engine=google_ads_transparency_center"
+    },
+    {
+      "advertiser_id": "AR0000000000000000002",
+      "advertiser": "Testco Resellers Hub",
+      "ad_creative_id": "CRFAKE0000002",
+      "format": "text",
+      "link": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=fake2",
+      "total_days_shown": 10,
+      "first_shown": 1700003000,
+      "last_shown": 1700003840,
+      "details_link": "https://adstransparency.google.com/advertiser/AR0000000000000000002/creative/CRFAKE0000002?region=anywhere",
+      "serpapi_details_link": "https://serpapi.com/search.json?advertiser_id=AR0000000000000000002&creative_id=CRFAKE0000002&engine=google_ads_transparency_center"
+    }
+  ],
+  "serpapi_pagination": {}
+}

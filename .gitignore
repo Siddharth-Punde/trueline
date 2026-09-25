@@ -1,5 +1,8 @@
 .env
 data/fixtures/*.json
+# Synthetic "Testco" fixtures are committed on purpose (tests/test_collectors.py);
+# real recorded responses above stay ignored.
+!data/fixtures/testco_*.json
 __pycache__/
 *.pyc
 .venv/

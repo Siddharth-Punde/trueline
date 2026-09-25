@@ -1,0 +1,56 @@
+{
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "Testco customer care"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Testco Customer Care (Official)",
+      "place_id": "FAKEPLACEID000001",
+      "data_id": "0x0000000000000000:0x0000000000000001",
+      "data_cid": "1000000000000001",
+      "gps_coordinates": {
+        "latitude": 20.5937,
+        "longitude": 78.9629
+      },
+      "address": "1 Fake Lane, Testville, TS 000001",
+      "type": "Customer service",
+      "rating": 4.6,
+      "reviews": 12,
+      "phone": "1800-000-0001",
+      "website": "https://www.testco.example/help"
+    },
+    {
+      "position": 2,
+      "title": "Testco Support Desk (Unofficial)",
+      "place_id": "FAKEPLACEID000002",
+      "data_id": "0x0000000000000000:0x0000000000000002",
+      "data_cid": "1000000000000002",
+      "gps_coordinates": {
+        "latitude": 28.6139,
+        "longitude": 77.209
+      },
+      "address": "2 Synthetic Street, Faketown, FS 000002",
+      "type": "Customer service",
+      "rating": 3.1,
+      "reviews": 4,
+      "phone": "1800-000-0009",
+      "website": "https://testco-support-desk.example/care",
+      "unclaimed_listing": true
+    },
+    {
+      "position": 3,
+      "title": "Testco Second-Hand Dealers",
+      "place_id": "FAKEPLACEID000003",
+      "data_id": "0x0000000000000000:0x0000000000000003",
+      "data_cid": "1000000000000003",
+      "address": "3 Placeholder Road, Dummy, DS 000003",
+      "type": "Used store",
+      "rating": 2.4,
+      "reviews": 1,
+      "phone": "1800-000-0010"
+    }
+  ],
+  "serpapi_pagination": {}
+}
