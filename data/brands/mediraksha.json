@@ -1,0 +1,14 @@
+{
+  "id": "mediraksha",
+  "display_name": "MediRaksha",
+  "official_domains": [
+    "mediraksha.example"
+  ],
+  "official_phones": [
+    "+911800000002",
+    "+911800000012"
+  ],
+  "aliases": [
+    "MediRaksha Helpline"
+  ]
+}

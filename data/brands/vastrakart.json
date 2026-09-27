@@ -1,0 +1,14 @@
+{
+  "id": "vastrakart",
+  "display_name": "VastraKart",
+  "official_domains": [
+    "vastrakart.example"
+  ],
+  "official_phones": [
+    "+911800000001",
+    "+911800000011"
+  ],
+  "aliases": [
+    "VastraKart Care"
+  ]
+}
