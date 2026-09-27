@@ -1,0 +1,468 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TrueLine — brand trust scan</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  .fade-in { animation: fade-in .22s ease-out; }
+  @keyframes fade-in {
+    from { opacity: 0; transform: translateY(4px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  #score-arc { transition: stroke-dashoffset .9s ease-out, stroke .3s ease; }
+  .step-dot { transition: background-color .2s ease, border-color .2s ease, color .2s ease; }
+  .evidence-body { transition: opacity .18s ease; }
+  .spin { animation: spin 1s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+</style>
+</head>
+<body class="min-h-screen bg-slate-50 text-slate-800 antialiased">
+<main class="mx-auto max-w-3xl px-4 py-8 sm:py-12">
+  <header class="mb-8 flex items-baseline justify-between gap-4">
+    <div>
+      <h1 class="text-2xl font-semibold tracking-tight text-slate-900">TrueLine</h1>
+      <p class="text-sm text-slate-500">What a customer sees when they search for your brand.</p>
+    </div>
+    <span class="rounded-full border border-slate-200 bg-white px-2.5 py-0.5 text-xs font-medium text-slate-500">demo</span>
+  </header>
+
+  <!-- ============ 1. INPUT ============ -->
+  <section id="screen-input" class="fade-in">
+    <div class="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+      <label for="brand-select" class="mb-1 block text-sm font-medium text-slate-700">Brand</label>
+      <p class="mb-3 text-sm text-slate-500">Pick a configured brand, then run a scan.</p>
+      <div class="flex flex-col gap-3 sm:flex-row">
+        <select id="brand-select"
+          class="w-full flex-1 rounded-lg border border-slate-300 bg-white px-3 py-2.5 text-sm shadow-sm focus:border-slate-500 focus:outline-none focus:ring-1 focus:ring-slate-500">
+          <option value="">Loading brands…</option>
+        </select>
+        <button id="scan-btn" disabled
+          class="rounded-lg bg-slate-900 px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-slate-700 disabled:cursor-not-allowed disabled:opacity-40">
+          Scan
+        </button>
+      </div>
+      <p id="brands-note" class="mt-3 text-sm text-slate-500"></p>
+      <div id="input-error" class="mt-4 hidden rounded-lg border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700"></div>
+    </div>
+  </section>
+
+  <!-- ============ 2. LOADING ============ -->
+  <section id="screen-loading" class="hidden">
+    <div class="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+      <h2 class="text-lg font-semibold text-slate-900">Scanning <span id="loading-brand"></span></h2>
+      <p class="mb-4 mt-1 text-sm text-slate-500">Running customer-care style queries across three engines.</p>
+      <ul id="progress-list" class="divide-y divide-slate-100"></ul>
+    </div>
+  </section>
+
+  <!-- ============ 3. RESULTS ============ -->
+  <section id="screen-results" class="hidden">
+    <div class="mb-5 flex flex-wrap items-center justify-between gap-3">
+      <div>
+        <h2 id="result-brand" class="text-lg font-semibold text-slate-900"></h2>
+        <p id="result-meta" class="text-sm text-slate-500"></p>
+      </div>
+      <button id="again-btn"
+        class="rounded-lg border border-slate-300 bg-white px-4 py-2 text-sm font-medium text-slate-700 shadow-sm transition hover:bg-slate-50">
+        Scan another brand
+      </button>
+    </div>
+
+    <div class="mb-6 grid gap-4 sm:grid-cols-[auto_1fr]">
+      <div class="flex items-center gap-5 rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
+        <div class="relative h-32 w-32">
+          <svg viewBox="0 0 120 120" class="h-32 w-32 -rotate-90">
+            <circle cx="60" cy="60" r="52" fill="none" stroke="#e2e8f0" stroke-width="10"></circle>
+            <circle id="score-arc" cx="60" cy="60" r="52" fill="none" stroke="#16a34a" stroke-width="10"
+              stroke-linecap="round" stroke-dasharray="326.73" stroke-dashoffset="326.73"></circle>
+          </svg>
+          <div class="absolute inset-0 flex flex-col items-center justify-center">
+            <span id="score-value" class="text-3xl font-bold tabular-nums">–</span>
+            <span class="text-[11px] uppercase tracking-wide text-slate-400">trust score</span>
+          </div>
+        </div>
+        <div class="text-sm text-slate-600">
+          <p id="score-label" class="mb-1 text-base font-semibold"></p>
+          <p id="score-summary"></p>
+        </div>
+      </div>
+      <div class="flex flex-col justify-center gap-3 rounded-xl border border-slate-200 bg-white p-5 shadow-sm text-sm">
+        <div class="flex items-center justify-between"><span class="text-slate-500">Findings</span><span id="stat-findings" class="font-semibold tabular-nums"></span></div>
+        <div class="flex items-center justify-between"><span class="text-slate-500">Evidence items</span><span id="stat-evidence" class="font-semibold tabular-nums"></span></div>
+        <div class="flex items-center justify-between"><span class="text-slate-500">Scanned at</span><span id="stat-scanned" class="font-medium"></span></div>
+        <button id="download-btn"
+          class="mt-1 w-full rounded-lg bg-slate-900 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-slate-700">
+          Download report
+        </button>
+      </div>
+    </div>
+
+    <h3 class="mb-3 text-sm font-semibold uppercase tracking-wide text-slate-500">What a customer sees</h3>
+    <div id="findings-list" class="space-y-3"></div>
+  </section>
+
+  <p class="mt-8 text-xs text-slate-400">
+    Wording is deliberately factual: items are flagged as unverified or suspected, never as confirmed.
+  </p>
+</main>
+
+<script>
+const API = 'http://localhost:8000';
+
+const screens = {
+  input: document.getElementById('screen-input'),
+  loading: document.getElementById('screen-loading'),
+  results: document.getElementById('screen-results'),
+};
+
+function show(name) {
+  for (const [key, node] of Object.entries(screens)) {
+    const active = key === name;
+    node.classList.toggle('hidden', !active);
+    node.classList.remove('fade-in');
+    if (active) { void node.offsetWidth; node.classList.add('fade-in'); }
+  }
+}
+
+function h(tag, props = {}, ...kids) {
+  const node = document.createElement(tag);
+  for (const [key, value] of Object.entries(props)) {
+    if (value == null) continue;
+    if (key === 'class') node.className = value;
+    else if (key === 'text') node.textContent = value;
+    else if (key.startsWith('on')) node.addEventListener(key.slice(2).toLowerCase(), value);
+    else node.setAttribute(key, value);
+  }
+  for (const kid of kids.flat(9)) if (kid != null && kid !== false) node.append(kid);
+  return node;
+}
+
+async function detailFrom(res) {
+  let detail = res.statusText || ('HTTP ' + res.status);
+  try {
+    const data = await res.json();
+    if (data && data.detail) {
+      detail = typeof data.detail === 'string' ? data.detail : JSON.stringify(data.detail);
+    }
+  } catch (err) { /* body was not JSON */ }
+  return detail;
+}
+
+function setInputError(message) {
+  const box = document.getElementById('input-error');
+  if (!message) { box.classList.add('hidden'); box.textContent = ''; return; }
+  box.textContent = message;
+  box.classList.remove('hidden');
+}
+
+/* ---------- input screen ---------- */
+
+let BRANDS = [];
+let lastResult = null;
+
+async function loadBrands() {
+  const select = document.getElementById('brand-select');
+  const note = document.getElementById('brands-note');
+  try {
+    const res = await fetch(API + '/brands');
+    if (!res.ok) throw new Error(await detailFrom(res));
+    BRANDS = await res.json();
+  } catch (err) {
+    select.innerHTML = '';
+    select.append(h('option', { value: '', text: 'No brands available' }));
+    setInputError('Could not reach the API at ' + API + ' — ' + err.message + '. Start it with: uvicorn app.api:app --reload');
+    note.textContent = '';
+    return;
+  }
+  select.innerHTML = '';
+  if (!BRANDS.length) {
+    select.append(h('option', { value: '', text: 'No brand configs found' }));
+    note.textContent = 'Add a brand config under data/brands/*.json.';
+    return;
+  }
+  for (const brand of BRANDS) {
+    select.append(h('option', { value: brand.brand_id, text: brand.display_name }));
+  }
+  note.textContent = '';
+  setInputError('');
+}
+
+function brandName(brandId) {
+  const found = BRANDS.find((b) => b.brand_id === brandId);
+  return found ? found.display_name : brandId;
+}
+
+/* ---------- loading screen ---------- */
+
+const STEPS = ['Checking Google Search…', 'Checking Maps…', 'Checking Ads Transparency…'];
+const STEP_MS = 750;
+const MIN_SCAN_MS = 2400;
+
+function renderProgress() {
+  const list = document.getElementById('progress-list');
+  list.innerHTML = '';
+  for (const label of STEPS) {
+    list.append(h('li', { class: 'step flex items-center gap-3 py-3', 'data-state': 'pending' },
+      h('span', { class: 'step-dot flex h-5 w-5 items-center justify-center rounded-full border border-slate-300 text-[10px] text-slate-400' }),
+      h('span', { class: 'text-sm text-slate-500', text: label })
+    ));
+  }
+}
+
+function setStep(li, state) {
+  li.dataset.state = state;
+  const dot = li.querySelector('.step-dot');
+  const label = li.querySelector('span:last-child');
+  dot.innerHTML = '';
+  if (state === 'active') {
+    dot.className = 'step-dot flex h-5 w-5 items-center justify-center rounded-full border-2 border-blue-500';
+    dot.append(h('span', { class: 'spin block h-2.5 w-2.5 rounded-full border-2 border-blue-500 border-t-transparent' }));
+    label.className = 'text-sm font-medium text-slate-800';
+  } else if (state === 'done') {
+    dot.className = 'step-dot flex h-5 w-5 items-center justify-center rounded-full bg-green-100 text-green-600';
+    dot.append(document.createTextNode('✓'));
+    label.className = 'text-sm text-slate-600';
+  } else {
+    dot.className = 'step-dot flex h-5 w-5 items-center justify-center rounded-full border border-slate-300 text-[10px] text-slate-400';
+    label.className = 'text-sm text-slate-400';
+  }
+}
+
+function runProgress() {
+  const items = [...document.querySelectorAll('#progress-list .step')];
+  items.forEach((li) => setStep(li, 'pending'));
+  let index = 0;
+  setStep(items[0], 'active');
+  const timer = setInterval(() => {
+    if (index < items.length) setStep(items[index], 'done');
+    index += 1;
+    if (index < items.length) setStep(items[index], 'active');
+    else clearInterval(timer);
+  }, STEP_MS);
+  return () => { clearInterval(timer); items.forEach((li) => setStep(li, 'done')); };
+}
+
+const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+/* ---------- results screen ---------- */
+
+const KIND_LABELS = {
+  unofficial_phone: 'Unofficial phone number',
+  unofficial_domain: 'Unofficial domain',
+  ad_off_domain: 'Ad points off the official domain',
+  advertiser_mismatch: 'Advertiser does not match the brand',
+  maps_listing_mismatch: 'Maps listing does not match',
+};
+
+const KIND_WEIGHT = {
+  unofficial_phone: 1,
+  ad_off_domain: 1,
+  unofficial_domain: 0.9,
+  advertiser_mismatch: 0.8,
+  maps_listing_mismatch: 0.7,
+};
+
+const ENGINE_LABELS = {
+  google_search: 'Google Search',
+  google_maps: 'Google Maps',
+  google_local: 'Local results',
+  ads_transparency: 'Ads Transparency',
+};
+
+function severityOf(finding) {
+  const weight = KIND_WEIGHT[finding.kind] != null ? KIND_WEIGHT[finding.kind] : 0.8;
+  const confidence = Number(finding.confidence);
+  return (Number.isFinite(confidence) ? confidence : 0) * weight;
+}
+
+function badgeFor(finding) {
+  const severity = severityOf(finding);
+  if (severity >= 0.6) return { label: 'Suspected', cls: 'border-red-200 bg-red-50 text-red-700' };
+  if (severity >= 0.25) return { label: 'Unverified', cls: 'border-amber-200 bg-amber-50 text-amber-700' };
+  return { label: 'Official', cls: 'border-green-200 bg-green-50 text-green-700' };
+}
+
+function scoreColor(score) {
+  if (score >= 80) return { stroke: '#16a34a', text: 'text-green-600', label: 'Looks consistent with official details' };
+  if (score >= 50) return { stroke: '#ca8a04', text: 'text-amber-600', label: 'Some items need a closer look' };
+  return { stroke: '#dc2626', text: 'text-red-600', label: 'Several items do not match official details' };
+}
+
+function renderScore(score) {
+  const circumference = 326.73;
+  const palette = scoreColor(score);
+  const arc = document.getElementById('score-arc');
+  arc.setAttribute('stroke', palette.stroke);
+  arc.style.strokeDashoffset = String(circumference * (1 - Math.max(0, Math.min(100, score)) / 100));
+  const value = document.getElementById('score-value');
+  value.textContent = String(score);
+  value.className = 'text-3xl font-bold tabular-nums ' + palette.text;
+  document.getElementById('score-label').textContent = score + '/100';
+  document.getElementById('score-label').className = 'mb-1 text-base font-semibold ' + palette.text;
+}
+
+function evidenceCard(item) {
+  const children = [
+    h('p', { class: 'font-medium text-slate-800', text: item.title }),
+    h('p', { class: 'mt-1 text-xs text-slate-500', text: (ENGINE_LABELS[item.engine] || item.engine) + (item.position != null ? ' · #' + item.position : '') + (item.is_ad ? ' · ad' : '') + ' · "' + item.query + '"' }),
+  ];
+  if (item.snippet) children.push(h('p', { class: 'mt-1.5 text-sm text-slate-600', text: item.snippet }));
+  if (item.link) {
+    children.push(h('a', {
+      class: 'mt-2 inline-block break-all text-sm text-blue-600 underline underline-offset-2 hover:text-blue-800',
+      href: item.link, target: '_blank', rel: 'noopener noreferrer', text: item.link,
+    }));
+  }
+  return h('li', { class: 'rounded-lg border border-slate-200 bg-slate-50 p-3' }, ...children);
+}
+
+function findingCard(finding, evidenceById) {
+  const badge = badgeFor(finding);
+  const linked = (finding.evidence_ids || []).map((id) => evidenceById.get(id)).filter(Boolean);
+  const bodyId = 'body-' + finding.finding_id;
+
+  const body = h('div', {
+    id: bodyId, class: 'evidence-body hidden border-t border-slate-100 pt-3',
+  });
+  if (linked.length) {
+    body.append(h('p', { class: 'mb-2 text-xs font-semibold uppercase tracking-wide text-slate-400', text: 'Linked evidence (' + linked.length + ')' }));
+    body.append(h('ul', { class: 'space-y-2' }, linked.map(evidenceCard)));
+  } else {
+    body.append(h('p', { class: 'text-sm text-slate-500', text: 'No stored evidence could be matched to this finding.' }));
+  }
+
+  const chevron = h('span', { class: 'ml-auto text-slate-400 transition-transform', text: '▾' });
+  const header = h('button', {
+    type: 'button',
+    class: 'flex w-full items-start gap-3 text-left focus:outline-none',
+    'aria-expanded': 'false',
+    'aria-controls': bodyId,
+    onclick: (event) => {
+      const open = body.classList.toggle('hidden') === false;
+      event.currentTarget.setAttribute('aria-expanded', String(open));
+      chevron.style.transform = open ? 'rotate(180deg)' : '';
+      if (!body.classList.contains('hidden')) body.classList.remove('fade-in');
+      void body.offsetWidth;
+      body.classList.add('fade-in');
+    },
+  },
+    h('div', { class: 'min-w-0 flex-1' },
+      h('div', { class: 'flex flex-wrap items-center gap-2' },
+        h('span', { class: 'text-sm font-semibold text-slate-900', text: finding.value }),
+        h('span', { class: 'rounded-full border px-2 py-0.5 text-[11px] font-semibold ' + badge.cls, text: badge.label })
+      ),
+      h('p', { class: 'mt-1 text-sm text-slate-500', text: KIND_LABELS[finding.kind] || finding.kind }),
+      h('p', { class: 'mt-1 text-sm text-slate-600', text: finding.explanation }),
+      h('p', { class: 'mt-1 text-xs text-slate-400', text: 'Confidence ' + Math.round((Number(finding.confidence) || 0) * 100) + '% · ' + linked.length + ' evidence item(s)' })
+    ),
+    chevron
+  );
+
+  return h('article', { class: 'rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-slate-300' }, header, body);
+}
+
+function renderResults(result, meta) {
+  lastResult = result;
+  const score = Number(result.trust_score) || 0;
+  const findings = Array.isArray(result.findings) ? result.findings : [];
+  const evidence = Array.isArray(result.evidence) ? result.evidence : [];
+
+  document.getElementById('result-brand').textContent = meta.display_name || result.brand_id;
+  document.getElementById('stat-findings').textContent = String(findings.length);
+  document.getElementById('stat-evidence').textContent = String(evidence.length);
+  const scanned = new Date(result.scanned_at);
+  document.getElementById('stat-scanned').textContent = Number.isNaN(scanned.getTime())
+    ? String(result.scanned_at)
+    : scanned.toLocaleString();
+  document.getElementById('result-meta').textContent = 'brand_id: ' + result.brand_id;
+
+  renderScore(score);
+  document.getElementById('score-summary').textContent =
+    findings.length === 0
+      ? 'No mismatches were found against the brand’s official details.'
+      : findings.length + ' item(s) shown to a customer did not match official details.';
+
+  const list = document.getElementById('findings-list');
+  list.innerHTML = '';
+  if (!findings.length) {
+    list.append(h('div', { class: 'rounded-xl border border-slate-200 bg-white p-5 text-sm text-slate-600 shadow-sm',
+      text: 'Nothing was flagged. Every result we checked matched the brand’s official domains and phone numbers.' }));
+  } else {
+    const evidenceById = new Map(evidence.map((item) => [item.evidence_id, item]));
+    for (const finding of findings) list.append(findingCard(finding, evidenceById));
+  }
+  show('results');
+}
+
+/* ---------- download ---------- */
+
+function downloadReport() {
+  if (!lastResult) return;
+  const blob = new Blob([JSON.stringify(lastResult, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const anchor = document.createElement('a');
+  anchor.href = url;
+  anchor.download = 'trueline-report-' + lastResult.brand_id + '.json';
+  document.body.append(anchor);
+  anchor.click();
+  anchor.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+}
+
+/* ---------- wiring ---------- */
+
+async function runScan() {
+  const select = document.getElementById('brand-select');
+  const brandId = select.value;
+  if (!brandId) { setInputError('Choose a brand first.'); return; }
+
+  setInputError('');
+  document.getElementById('loading-brand').textContent = brandName(brandId);
+  renderProgress();
+  show('loading');
+  const finishProgress = runProgress();
+
+  const started = Date.now();
+  try {
+    const res = await fetch(API + '/scan', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ brand_id: brandId }),
+    });
+    if (!res.ok) throw new Error(await detailFrom(res));
+    const result = await res.json();
+    const elapsed = Date.now() - started;
+    if (elapsed < MIN_SCAN_MS) await delay(MIN_SCAN_MS - elapsed);
+    finishProgress();
+    await delay(350);
+    renderResult(result, brandId);
+  } catch (err) {
+    finishProgress();
+    show('input');
+    setInputError('Scan failed: ' + err.message);
+  }
+}
+
+function renderResult(result, brandId) {
+  const found = BRANDS.find((b) => b.brand_id === brandId);
+  renderResults(result, { display_name: found ? found.display_name : result.brand_id });
+}
+
+document.getElementById('scan-btn').addEventListener('click', runScan);
+document.getElementById('brand-select').addEventListener('change', () => setInputError(''));
+document.getElementById('download-btn').addEventListener('click', downloadReport);
+document.getElementById('again-btn').addEventListener('click', () => show('input'));
+
+document.getElementById('brand-select').addEventListener('change', (event) => {
+  document.getElementById('scan-btn').disabled = !event.target.value;
+});
+
+loadBrands().then(() => {
+  const select = document.getElementById('brand-select');
+  document.getElementById('scan-btn').disabled = !select.value;
+});
+</script>
+</body>
+</html>
