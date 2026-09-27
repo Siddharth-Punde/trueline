@@ -28,8 +28,7 @@ MAPS_LOCAL_QUERY = "{name} customer care"
 # guaranteed to be within the requested geographic location".
 INDIA_MAPS_LL = "@20.5937,78.9629,4z"
 
-# region=2356 is India (serpapi.com/google-ads-transparency-center-regions).
-INDIA_ADS_REGION = "2356"
+
 
 
 def _names(brand: Brand) -> list[str]:
@@ -60,15 +59,17 @@ def _ads_query(brand: Brand) -> PlannedQuery | None:
         # gets no ads query instead of a planning error.
         return None
     domain = brand.official_domains[0]
-    # VERIFY in the SerpApi Playground: there is NO advertiser-by-domain
-    # parameter — `advertiser_id` only takes AR-prefixed IDs, and domain
-    # lookups go through the free-text `text` param
-    # (serpapi.com/google-ads-transparency-center-api). SPEC notes domain
-    # lookups often come back empty; if so, try dropping `region`.
+    # Verified in the SerpApi Playground (Run 4/5): engine
+    # "google_ads_transparency_center" with advertiser_id=<domain> returns a
+    # valid structured response. The earlier free-text {"text", "region"}
+    # shape was the one that failed; `advertiser_id` accepting a bare domain
+    # (not only AR-prefixed ids) is what the real run confirmed. Empty
+    # results for a known-good advertiser_id are expected (SPEC:
+    # best-effort), not a param error.
     return PlannedQuery(
         engine=EngineType.ADS_TRANSPARENCY,
         query_text=domain,
-        params={"text": domain, "region": INDIA_ADS_REGION},
+        params={"advertiser_id": domain},
     )
 
 

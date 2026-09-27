@@ -1,9 +1,9 @@
 """Ads Transparency collector: one Evidence per distinct advertiser.
 
-The lookup is a free-text search on the brand's official domain (see
-query_planner._ads_query), so a response can carry the resolved `advertiser`
-block plus a creative list (`ad_creatives`), or an advertiser list, or — most
-often for real brands — just an `error` such as:
+The lookup is keyed on the brand's official domain via the `advertiser_id`
+param (see query_planner._ads_query), so a response can carry the resolved
+`advertiser` block plus a creative list (`ad_creatives`), or an advertiser
+list, or — most often for real brands — just an `error` such as:
 
     {"error": "... hasn't returned any results for your query. ..."}
 

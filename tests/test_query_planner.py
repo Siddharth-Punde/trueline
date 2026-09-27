@@ -40,7 +40,7 @@ def test_ads_transparency_query_keyed_on_first_official_domain():
 
     assert len(ads) == 1
     assert ads[0].query_text == "primary.example"
-    assert ads[0].params["text"] == "primary.example"
+    assert ads[0].params == {"advertiser_id": "primary.example"}
 
 
 def test_ads_transparency_query_skipped_without_domains():
