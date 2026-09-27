@@ -237,6 +237,8 @@ def test_scan_brand_runs_collectors_then_scoring(fixtures_dir, monkeypatch):
 
 
 def test_render_report_html_returns_stable_html():
+    from app.models import Brand
+    brand = Brand(id="vastrakart", display_name="VastraKart", official_domains=["vastrakart.example"], official_phones=["+911800000001"])
     result = ScanResult(
         brand_id="vastrakart",
         scanned_at="2026-09-27T00:00:00+00:00",
@@ -244,7 +246,7 @@ def test_render_report_html_returns_stable_html():
         findings=[],
         evidence=[],
     )
-    html = api.render_report_html(result)
-    assert html == api.render_report_html(result)
+    html = api.render_report_html(result, brand)
+    assert html == api.render_report_html(result, brand)
     assert html.lstrip().lower().startswith("<!doctype html>")
-    assert "vastrakart" in html
+    assert "VastraKart" in html

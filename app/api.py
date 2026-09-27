@@ -32,18 +32,6 @@ DEFAULT_BRANDS_DIR = REPO_ROOT / "data" / "brands"
 
 BRAND_FILE_SUFFIX = ".json"
 
-_PLACEHOLDER_REPORT = """<!doctype html>
-<html lang="en">
-<head><meta charset="utf-8"><title>TrueLine report — {brand_id}</title></head>
-<body>
-<h1>TrueLine report — {brand_id}</h1>
-<p>Trust score: <strong>{trust_score}/100</strong></p>
-<p>{finding_count} finding(s) across {evidence_count} evidence item(s).</p>
-<p><em>Placeholder report: app/report.py fills in the real HTML in a later session.</em></p>
-</body>
-</html>
-"""
-
 
 class ScanRequest(BaseModel):
     model_config = ConfigDict(extra="forbid")
@@ -112,17 +100,9 @@ def scan_brand(brand_id: str, *, client: SerpApiClient) -> ScanResult:
     return score_and_verify(brand, evidence)
 
 
-def render_report_html(result: ScanResult) -> str:
-    """HTML for a ScanResult via app/report.py, placeholder until that exists."""
-    renderer = getattr(report_module, "render_report", None)
-    if callable(renderer):
-        return renderer(result)
-    return _PLACEHOLDER_REPORT.format(
-        brand_id=result.brand_id,
-        trust_score=result.trust_score,
-        finding_count=len(result.findings),
-        evidence_count=len(result.evidence),
-    )
+def render_report_html(result: ScanResult, brand: Brand) -> str:
+    """HTML for a ScanResult via app/report.py."""
+    return report_module.render_html_report(result, brand)
 
 
 def _client_or_http() -> SerpApiClient:
@@ -178,11 +158,10 @@ def create_app() -> FastAPI:
     def report(brand_id: str) -> Response:
         client = _client_or_http()
         result = _scan_or_http(client, brand_id)
+        brand = load_brand(brand_id)
         return Response(
-            content=render_report_html(result),
+            content=render_report_html(result, brand),
             media_type="text/html; charset=utf-8",
-            # header goes on the returned Response: FastAPI does not merge an
-            # injected sub_response's headers into a Response you return yourself
             headers={"X-Serpapi-Mode": client.mode},
         )
 
