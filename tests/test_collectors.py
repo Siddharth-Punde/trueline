@@ -373,3 +373,60 @@ def test_make_evidence_id_differs_on_every_component():
     assert make_evidence_id(EngineType.GOOGLE_SEARCH, "other", 1, "t") != base
     assert make_evidence_id(EngineType.GOOGLE_MAPS, "q", 1, "t") != base
     assert make_evidence_id("google_search", "q", 1, "t") == base
+
+
+def test_collect_search_payload_missing_organic():
+    # Payload with no organic_results key returns empty evidence.
+    client = FakeClient({EngineType.GOOGLE_SEARCH.value: {"ads": []}})
+    assert collect_search(client, [first_query(EngineType.GOOGLE_SEARCH)]) == []
+
+
+def test_collect_search_payload_with_malformed_items():
+    # Items missing title/link/snippet still produce evidence with empty defaults.
+    payload = {
+        "organic_results": [{"some_field": "value"}],
+        "ads": [],
+        "answer_box": [],
+        "related_questions": [],
+    }
+    client = FakeClient({EngineType.GOOGLE_SEARCH.value: payload})
+    evidence = collect_search(client, [first_query(EngineType.GOOGLE_SEARCH)])
+    assert len(evidence) == 1
+    # as_str(None) -> "" when key is absent
+    assert evidence[0].title == ""
+
+
+def test_collect_maps_place_missing_fields():
+    # A place item missing some fields still produces evidence with defaults.
+    payload = {"local_results": [{"title": "Partial Place", "phone": "1800-000-0099"}]}
+    client = FakeClient({EngineType.GOOGLE_MAPS.value: payload})
+    query = first_query(EngineType.GOOGLE_MAPS)
+    evidence = collect_maps(client, [query])
+    assert len(evidence) == 1
+    assert evidence[0].title == "Partial Place"
+    assert evidence[0].snippet == "1800-000-0099"
+    assert evidence[0].link is None
+
+
+def test_collect_maps_empty_local_results():
+    # local_results is an empty list returns no evidence.
+    payload = {"local_results": []}
+    client = FakeClient({EngineType.GOOGLE_MAPS.value: payload})
+    assert collect_maps(client, [first_query(EngineType.GOOGLE_MAPS)]) == []
+
+
+def test_collect_ads_transparency_item_missing_name():
+    # An item with no advertiser name field is skipped.
+    payload = {"ad_creatives": [{"some_other_field": "value"}]}
+    client = FakeClient({EngineType.ADS_TRANSPARENCY.value: payload})
+    query = first_query(EngineType.ADS_TRANSPARENCY)
+    evidence = collect_ads_transparency(client, [query])
+    assert evidence == []
+
+
+def test_collect_ads_transparency_payload_with_error():
+    # Payload with "error" key returns no evidence (normal empty result).
+    payload = {"error": "Some error message"}
+    client = FakeClient({EngineType.ADS_TRANSPARENCY.value: payload})
+    query = first_query(EngineType.ADS_TRANSPARENCY)
+    assert collect_ads_transparency(client, [query]) == []

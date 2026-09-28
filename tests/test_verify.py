@@ -112,7 +112,50 @@ def test_empty_ads_transparency_is_normal():
     assert result.trust_score == 100
 
 
-def test_empty_evidence_list_scores_full_trust():
-    result = score_and_verify(BRAND, [])
-    assert result.findings == []
-    assert result.trust_score == 100
+def test_non_indian_phone_in_evidence_flagged_as_unofficial():
+    # An evidence item with a non-Indian phone number should be flagged
+    # as unofficial_phone since it won't match the Indian official_phones.
+    ev = _evidence(
+        evidence_id="ev-nonindian",
+        is_ad=False,
+        position=3,
+        snippet="Call +44-800-555-0199 for support",
+    )
+    result = score_and_verify(BRAND, [ev])
+    phone_findings = [f for f in result.findings if f.kind.value == "unofficial_phone"]
+    assert len(phone_findings) == 1
+    assert phone_findings[0].value == "+448005550199"
+    assert result.trust_score < 100
+
+
+def test_advertiser_mismatch_in_nested_item():
+    # Ads Transparency item with a nested advertiser name that mismatches the brand.
+    ev = _evidence(
+        evidence_id="ev-ad-mismatch",
+        engine=EngineType.ADS_TRANSPARENCY,
+        query="HDFC Bank customer care number",
+        is_ad=True,
+        position=None,
+        title="Some Other Bank",
+        snippet="Call for support",
+        raw={"advertiser": {"name": "Some Other Bank", "id": "otherbank"}},
+    )
+    result = score_and_verify(BRAND, [ev])
+    adv_findings = [f for f in result.findings if f.kind.value == "advertiser_mismatch"]
+    assert len(adv_findings) == 1
+    assert adv_findings[0].value == "Some Other Bank"
+
+
+def test_domain_unusual_subdomain_in_evidence():
+    # A domain with an unusual subdomain that is not an exact match
+    # should be flagged as unofficial_domain.
+    ev = _evidence(
+        evidence_id="ev-subdomain",
+        title="Customer Care",
+        link="http://hdfcbank-support.com/contact",
+        snippet="Reach us here",
+    )
+    result = score_and_verify(BRAND, [ev])
+    domain_findings = [f for f in result.findings if "domain" in f.kind.value]
+    assert len(domain_findings) == 1
+    assert domain_findings[0].value == "hdfcbank-support.com"

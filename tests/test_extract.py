@@ -38,3 +38,30 @@ def test_extract_advertiser_name_known_key():
 def test_extract_advertiser_name_missing():
     assert extract_advertiser_name({}) is None
     assert extract_advertiser_name({"unrelated_field": "x"}) is None
+
+
+def test_extract_phones_non_indian_format():
+    # Numbers not in Indian format should be ignored (region="IN").
+    # US format with country code +1 and space does not match Indian region.
+    assert extract_phones("Call +1 555 0199 today") == []
+    # Very short number with parens does not match.
+    assert extract_phones("Call (555) 123-4567 today") == []
+
+
+def test_extract_domains_unusual_subdomain():
+    # A domain with an unusual multi-level subdomain: tldextract correctly
+    # resolves the registrable domain underneath the subdomain.
+    assert extract_domains("Visit sub.domain.example.co.uk now") == "example.co.uk"
+    assert extract_domains("http://nested.sub.stack.io/page") == "stack.io"
+
+
+def test_extract_advertiser_name_malformed_item():
+    # Item missing all known advertiser name keys returns None
+    assert extract_advertiser_name({"some_other_field": "x"}) is None
+    # Item with only nested advertiser key that is empty dict
+    assert extract_advertiser_name({"advertiser": {}}) is None
+    # Item with nested advertiser dict that has a name key (in _NESTED_ADVERTISER_KEYS)
+    assert (
+        extract_advertiser_name({"advertiser": {"name": "Acme"}})
+        == "Acme"
+    )
