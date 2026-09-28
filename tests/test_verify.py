@@ -54,9 +54,9 @@ def test_unknown_number_in_ad_flagged_with_confidence_1():
 def test_typosquat_domain_caught_by_fuzzy_match():
     ev = _evidence(
         evidence_id="ev-typo",
-        title="Customer Care Helpline",
+        title="HDFC Bank Customer Care Helpline",
         link="http://hdfcbank-support.com/contact",
-        snippet="Reach our support team here",
+        snippet="Reach our HDFC support team here",
     )
     result = score_and_verify(BRAND, [ev])
     domain_findings = [f for f in result.findings if "domain" in f.kind.value]
@@ -151,11 +151,102 @@ def test_domain_unusual_subdomain_in_evidence():
     # should be flagged as unofficial_domain.
     ev = _evidence(
         evidence_id="ev-subdomain",
-        title="Customer Care",
+        title="HDFC Bank Customer Care",
         link="http://hdfcbank-support.com/contact",
-        snippet="Reach us here",
+        snippet="Reach the HDFC team here",
     )
     result = score_and_verify(BRAND, [ev])
     domain_findings = [f for f in result.findings if "domain" in f.kind.value]
     assert len(domain_findings) == 1
     assert domain_findings[0].value == "hdfcbank-support.com"
+
+
+def test_neutral_platform_domain_is_never_flagged():
+    # amazon.in stays in evidence but yields no unofficial_domain finding,
+    # even though the result mentions the brand.
+    organic = _evidence(
+        evidence_id="ev-neutral",
+        title="HDFC Bank support on Amazon",
+        link="https://www.amazon.in/dp/example",
+        snippet="HDFC Bank help desk listed here",
+    )
+    maps_item = _evidence(
+        evidence_id="ev-neutral-maps",
+        engine=EngineType.GOOGLE_MAPS,
+        position=None,
+        title="HDFC Bank Branch",
+        link="https://www.amazon.in/store/example",
+        snippet="",
+        raw={},
+    )
+    result = score_and_verify(BRAND, [organic, maps_item])
+    assert [ev.evidence_id for ev in result.evidence] == ["ev-neutral", "ev-neutral-maps"]
+    assert [f for f in result.findings if f.value == "amazon.in"] == []
+    assert result.trust_score == 100
+
+
+def test_phone_in_result_that_never_mentions_brand_is_not_flagged():
+    # A phone number in an organic result about an unrelated business is
+    # noise, not signal — the gate requires a brand mention.
+    ev = _evidence(
+        evidence_id="ev-unrelated",
+        title="Some Other Business Support",
+        snippet="Call 1800 999 888 for help",
+    )
+    result = score_and_verify(BRAND, [ev])
+    assert [f for f in result.findings if f.kind.value == "unofficial_phone"] == []
+    assert result.trust_score == 100
+
+
+def test_maps_listing_about_unrelated_business_is_not_flagged():
+    ev = _evidence(
+        evidence_id="ev-maps-unrelated",
+        engine=EngineType.GOOGLE_MAPS,
+        position=None,
+        title="Unrelated Business Services",
+        link="https://unrelated.example/contact",
+        snippet="Call 1800 999 888",
+        raw={},
+    )
+    result = score_and_verify(BRAND, [ev])
+    assert result.findings == []
+    assert result.trust_score == 100
+
+
+def test_duplicate_values_merge_into_one_finding():
+    evs = [
+        _evidence(
+            evidence_id="ev-dup-1",
+            title="HDFC Bank Helpline",
+            snippet="HDFC customers call 1800 999 888",
+        ),
+        _evidence(
+            evidence_id="ev-dup-2",
+            title="HDFC Bank Support",
+            snippet="Dial 1800-999-888 for HDFC help",
+        ),
+    ]
+    result = score_and_verify(BRAND, evs)
+    phone_findings = [f for f in result.findings if f.kind.value == "unofficial_phone"]
+    assert len(phone_findings) == 1
+    assert phone_findings[0].value == "+911800999888"
+    assert phone_findings[0].evidence_ids == ["ev-dup-1", "ev-dup-2"]
+
+
+def test_many_low_confidence_findings_cannot_zero_the_score():
+    # 20 distinct low-confidence organic domains: uncapped that would be
+    # 20 x 5 = 100 penalty, but the per-kind cap (40) keeps the score at 60.
+    evs = [
+        _evidence(
+            evidence_id=f"ev-bulk-{i:02d}",
+            position=4,
+            title=f"HDFC Bank Partner {i:02d}",
+            link=f"https://shop{i:03d}-deals.com/offers",
+            snippet="HDFC Bank partner offers",
+        )
+        for i in range(20)
+    ]
+    result = score_and_verify(BRAND, evs)
+    assert len(result.findings) == 20
+    assert result.trust_score == 60
+    assert result.trust_score > 0

@@ -137,6 +137,17 @@ def test_scan_rejects_invalid_serpapi_mode_env(monkeypatch):
     assert "SERPAPI_MODE" in response.json()["detail"]
 
 
+# --- GET / -----------------------------------------------------------------
+
+
+def test_root_serves_the_web_ui(client):
+    response = client.get("/")
+
+    assert response.status_code == 200
+    assert response.headers["content-type"].startswith("text/html")
+    assert "TrueLine" in response.text
+
+
 # --- GET /brands -----------------------------------------------------------
 
 

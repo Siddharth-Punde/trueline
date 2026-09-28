@@ -18,13 +18,28 @@ Confidence rubric (simple and explainable, not sophisticated):
 - +0.15 boost (clamped to 1.0) on a maps_listing_mismatch whose raw evidence
   item has unclaimed_listing == True: an unclaimed listing showing unofficial
   contact info is a stronger impersonation signal than unofficial info alone.
+
+False-positive guards (real testing showed generic platforms and unrelated
+businesses dominating the findings):
+- Neutral platforms (data/neutral_domains.json: marketplaces, social
+  networks, email providers, directories, company-registry, news/wiki/video,
+  review sites) never produce unofficial_domain or maps_listing_mismatch
+  findings. They stay in the evidence list; they just are not flagged.
+- Brand-relevance gate: a phone/domain from an organic result is flagged
+  only when the result's title or snippet mentions the brand display_name or
+  an alias (case-insensitive, spaces/punctuation ignored). A maps/local
+  listing is flagged only when its title mentions the brand or an alias.
+  Paid ads (is_ad or the Ads Transparency engine) always count.
+- Dedupe: one Finding per (kind, value); evidence_ids are merged.
 """
 
 from __future__ import annotations
 
 import hashlib
 import json
+import re
 from datetime import datetime, timezone
+from pathlib import Path
 
 from rapidfuzz import fuzz
 
@@ -35,29 +50,77 @@ FUZZY_THRESHOLD = 85
 MAPS_UNCLAIMED_BOOST = 0.15
 TOP_ORGANIC_CUTOFF = 5
 
-# Severity weights for trust_score: trust_score = 100 - sum(weights),
-# clamped to [0, 100]. Rationale, most to least severe:
-# - unofficial_phone (25) / ad_off_domain (25): a wrong number or domain in
-#   a paid ad reaches customers with the brand's implicit endorsement.
-# - maps_listing_mismatch (20): fake contact info on a Maps/local listing
-#   intercepts "near me / call now" traffic directly.
-# - advertiser_mismatch (15): an ad running under an unrelated advertiser
-#   name suggests account impersonation, but the contact info itself may
-#   still be official.
-# - unofficial_domain (10): a wrong domain in an organic result is visible
-#   but competes with official results, so it costs less.
-# Fuzzy (possible-typosquat) findings count at half weight: similarity is a
-# weaker claim than a wholly unrelated value, mirroring the confidence
-# rubric above.
-SEVERITY_WEIGHTS: dict[FindingKind, float] = {
-    FindingKind.UNOFFICIAL_PHONE: 25.0,
-    FindingKind.AD_OFF_DOMAIN: 25.0,
-    FindingKind.MAPS_LISTING_MISMATCH: 20.0,
-    FindingKind.ADVERTISER_MISMATCH: 15.0,
-    FindingKind.UNOFFICIAL_DOMAIN: 10.0,
-}
+# Severity weights for trust_score: trust_score = 100 - total_penalty,
+# clamped to [0, 100]. Per-FINDING weights, most to least severe:
+# - 25: ad-based mismatches (unofficial phone/domain in a paid ad) and fuzzy
+#   lookalike domains in an ad or maps/listing — paid reach plus typosquat
+#   intent is the strongest impersonation signal.
+# - 20: exact maps/local listing mismatches (intercept "call now" traffic).
+# - 15: advertiser-name mismatches, and fuzzy lookalike domains in organic
+#   results (a near-miss domain is more suspicious than an unrelated one).
+# - 10: unofficial phones in organic results.
+# - 5:  exact unofficial domains in organic results — visible but competing
+#   with official results, the weakest signal.
+# Per-KIND caps: each finding kind contributes at most MAX_PENALTY_PER_KIND
+# (40 points) to the total penalty, so a large pile of low-confidence
+# same-kind organic mentions can cost at most 40 points and can never zero
+# the score on its own. Only findings spanning several kinds (or a few
+# high-severity ad findings) can drive trust_score to 0.
+W_AD_MISMATCH = 25.0
+W_MAPS_MISMATCH = 20.0
+W_ADVERTISER_MISMATCH = 15.0
+W_ORGANIC_FUZZY_DOMAIN = 15.0
+W_ORGANIC_PHONE = 10.0
+W_ORGANIC_DOMAIN = 5.0
+MAX_PENALTY_PER_KIND = 40.0
 
 _MAPS_ENGINES = {EngineType.GOOGLE_MAPS, EngineType.GOOGLE_LOCAL}
+
+NEUTRAL_DOMAINS_PATH = Path(__file__).resolve().parent.parent / "data" / "neutral_domains.json"
+
+
+def _load_neutral_domains() -> set[str]:
+    """Well-known neutral platform domains that are never flagged.
+
+    Missing/unreadable file -> empty set (fail open: flag everything, the
+    pre-fix behaviour) rather than crashing a scan.
+    """
+    try:
+        raw = json.loads(NEUTRAL_DOMAINS_PATH.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return set()
+    return {str(item).lower().strip() for item in raw if str(item).strip()}
+
+
+NEUTRAL_DOMAINS: set[str] = _load_neutral_domains()
+
+
+def _is_neutral(domain: str) -> bool:
+    return domain.lower().strip() in NEUTRAL_DOMAINS
+
+
+_NON_ALNUM_RE = re.compile(r"[^a-z0-9]+")
+
+
+def _normalized(text: str | None) -> str:
+    """Lowercase with spaces/punctuation stripped for brand-name matching."""
+    return _NON_ALNUM_RE.sub("", (text or "").lower())
+
+
+def _brand_tokens(brand: Brand) -> list[str]:
+    """Normalized display_name + aliases; empties dropped (an empty token
+    would substring-match every haystack)."""
+    tokens: list[str] = []
+    for name in [brand.display_name, *brand.aliases]:
+        token = _normalized(name)
+        if token and token not in tokens:
+            tokens.append(token)
+    return tokens
+
+
+def _mentions_brand(text: str | None, tokens: list[str]) -> bool:
+    haystack = _normalized(text)
+    return any(token in haystack for token in tokens)
 
 
 def _is_prominent(evidence: Evidence) -> bool:
@@ -129,25 +192,36 @@ def score_and_verify(brand: Brand, evidence: list[Evidence]) -> ScanResult:
     can produce findings. An empty ads_transparency slice is normal (that
     engine returns empty for many real brands) — it yields no findings and
     costs no trust_score; only observed evidence ever creates a Finding.
+
+    Brand-relevance gate: organic phones/domains count only when the
+    title/snippet mentions the brand; maps/local items only when the listing
+    title does; paid ads always count. Neutral platform domains never yield
+    unofficial_domain or maps_listing_mismatch findings. Findings dedupe to
+    one per (kind, value) with merged evidence_ids.
     """
-    # (kind, value) -> {"evidence_ids": set, "confidence": max, "fuzzy": bool, "explanations": [...]}
+    # (kind, value) -> {"evidence_ids": set, "confidence": max, "weight": max, "explanations": [...]}
     grouped: dict[tuple[FindingKind, str], dict] = {}
 
-    def add_finding(kind: FindingKind, value: str, ev: Evidence, confidence: float, explanation: str, fuzzy: bool = False) -> None:
+    def add_finding(kind: FindingKind, value: str, ev: Evidence, confidence: float, explanation: str, weight: float) -> None:
         key = (kind, value)
         slot = grouped.setdefault(
-            key, {"evidence_ids": set(), "confidence": 0.0, "fuzzy": False, "explanations": []}
+            key, {"evidence_ids": set(), "confidence": 0.0, "weight": 0.0, "explanations": []}
         )
         slot["evidence_ids"].add(ev.evidence_id)
         slot["confidence"] = max(slot["confidence"], min(1.0, confidence))
-        slot["fuzzy"] = slot["fuzzy"] or fuzzy
+        slot["weight"] = max(slot["weight"], weight)
         slot["explanations"].append(explanation)
 
     official_phones = {p.strip() for p in brand.official_phones}
+    tokens = _brand_tokens(brand)
 
     for ev in evidence:
         if not _is_prominent(ev):
             continue
+        is_maps = ev.engine in _MAPS_ENGINES
+        is_paid = ev.is_ad or ev.engine == EngineType.ADS_TRANSPARENCY
+        organic_relevant = _mentions_brand(f"{ev.title or ''} {ev.snippet or ''}", tokens)
+        maps_relevant = _mentions_brand(ev.title, tokens)
         haystack = " ".join(part for part in [ev.title, ev.snippet] if part)
         raw_json = json.dumps(ev.raw, default=str) if ev.raw else ""
 
@@ -155,24 +229,30 @@ def score_and_verify(brand: Brand, evidence: list[Evidence]) -> ScanResult:
         for phone in extract_phones(f"{haystack} {raw_json}"):
             if phone in official_phones:
                 continue
-            is_maps = ev.engine in _MAPS_ENGINES
             if is_maps:
+                if not maps_relevant:
+                    continue
                 confidence = 0.9
                 if ev.raw.get("unclaimed_listing") is True:
                     confidence = min(1.0, confidence + MAPS_UNCLAIMED_BOOST)
                 add_finding(
                     FindingKind.MAPS_LISTING_MISMATCH, phone, ev, confidence,
                     f"Maps/local listing shows phone {phone} not on the official list for {brand.display_name}.",
+                    W_MAPS_MISMATCH,
                 )
-            elif ev.is_ad:
+            elif is_paid:
                 add_finding(
                     FindingKind.UNOFFICIAL_PHONE, phone, ev, 1.0,
                     f"Ad shows phone {phone} not on the official list for {brand.display_name}.",
+                    W_AD_MISMATCH,
                 )
             else:
+                if not organic_relevant:
+                    continue
                 add_finding(
                     FindingKind.UNOFFICIAL_PHONE, phone, ev, 0.8,
                     f"Organic result shows phone {phone} not on the official list for {brand.display_name}.",
+                    W_ORGANIC_PHONE,
                 )
 
         # --- domains: exact match first, then fuzzy near-miss ---
@@ -192,40 +272,46 @@ def score_and_verify(brand: Brand, evidence: list[Evidence]) -> ScanResult:
             is_exact, is_fuzzy, score = _best_official_domain_match(domain, brand.official_domains)
             if is_exact:
                 continue
-            is_maps = ev.engine in _MAPS_ENGINES
             tag = f" (resembles official domain, similarity {score:.0f})" if is_fuzzy else ""
-            if ev.is_ad:
+            if is_paid:
+                # Ads always count, even for neutral platforms: a paid ad is
+                # an explicit endorsement regardless of where it points.
                 confidence = 0.65 if is_fuzzy else 0.9
                 add_finding(
                     FindingKind.AD_OFF_DOMAIN, domain, ev, confidence,
                     f"Ad links to {domain}, not on the official domain list for {brand.display_name}{tag}.",
-                    fuzzy=is_fuzzy,
+                    W_AD_MISMATCH,
                 )
             elif is_maps:
+                if _is_neutral(domain) or not maps_relevant:
+                    continue
                 confidence = 0.65 if is_fuzzy else 0.8
                 if ev.raw.get("unclaimed_listing") is True:
                     confidence = min(1.0, confidence + MAPS_UNCLAIMED_BOOST)
                 add_finding(
                     FindingKind.MAPS_LISTING_MISMATCH, domain, ev, confidence,
                     f"Maps/local listing links to {domain}, not on the official domain list for {brand.display_name}{tag}.",
-                    fuzzy=is_fuzzy,
+                    W_AD_MISMATCH if is_fuzzy else W_MAPS_MISMATCH,
                 )
             else:
+                if _is_neutral(domain) or not organic_relevant:
+                    continue
                 confidence = 0.55 if is_fuzzy else 0.7
                 add_finding(
                     FindingKind.UNOFFICIAL_DOMAIN, domain, ev, confidence,
                     f"Organic result links to {domain}, not on the official domain list for {brand.display_name}{tag}.",
-                    fuzzy=is_fuzzy,
+                    W_ORGANIC_FUZZY_DOMAIN if is_fuzzy else W_ORGANIC_DOMAIN,
                 )
 
         # --- advertiser name: only when the item actually names one ---
-        if ev.engine == EngineType.ADS_TRANSPARENCY or ev.is_ad:
+        if is_paid:
             advertiser = extract_advertiser_name(ev.raw)
             if advertiser and not _name_matches_brand(advertiser, brand):
                 add_finding(
                     FindingKind.ADVERTISER_MISMATCH, advertiser, ev, 0.75,
                     f"Ad/Ads Transparency item names advertiser '{advertiser}', matching neither "
                     f"{brand.display_name} nor its aliases.",
+                    W_ADVERTISER_MISMATCH,
                 )
 
     findings: list[Finding] = []
@@ -245,13 +331,12 @@ def score_and_verify(brand: Brand, evidence: list[Evidence]) -> ScanResult:
     # (Finding.evidence_ids also enforces min_length=1 at the model level.)
     assert all(f.evidence_ids for f in findings), "Finding created without evidence_ids"
 
-    penalty = 0.0
+    penalty_by_kind: dict[FindingKind, float] = {}
     for finding in findings:
-        weight = SEVERITY_WEIGHTS[finding.kind]
         key = (finding.kind, finding.value)
-        if grouped[key]["fuzzy"]:
-            weight *= 0.5
-        penalty += weight
+        subtotal = penalty_by_kind.get(finding.kind, 0.0) + grouped[key]["weight"]
+        penalty_by_kind[finding.kind] = subtotal
+    penalty = sum(min(subtotal, MAX_PENALTY_PER_KIND) for subtotal in penalty_by_kind.values())
     trust_score = max(0, min(100, round(100 - penalty)))
 
     return ScanResult(

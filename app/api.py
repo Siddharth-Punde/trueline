@@ -19,6 +19,7 @@ from pathlib import Path
 
 from fastapi import FastAPI, HTTPException, Response
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
 from pydantic import BaseModel, ConfigDict, Field, ValidationError
 
 from app import report as report_module
@@ -29,6 +30,7 @@ from app.verify import score_and_verify
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_BRANDS_DIR = REPO_ROOT / "data" / "brands"
+WEB_INDEX_PATH = Path(__file__).resolve().parent.parent / "web" / "index.html"
 
 BRAND_FILE_SUFFIX = ".json"
 
@@ -139,6 +141,11 @@ def create_app() -> FastAPI:
         allow_methods=["GET", "POST", "OPTIONS"],
         allow_headers=["*"],
     )
+
+    @application.get("/", response_class=FileResponse)
+    def index() -> FileResponse:
+        """Serve the single-page UI so one uvicorn command is enough."""
+        return FileResponse(path=WEB_INDEX_PATH, media_type="text/html; charset=utf-8")
 
     @application.post("/scan", response_model=ScanResult)
     def scan(request: ScanRequest, response: Response) -> ScanResult:
