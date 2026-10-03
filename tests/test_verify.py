@@ -235,7 +235,7 @@ def test_duplicate_values_merge_into_one_finding():
 
 def test_many_low_confidence_findings_cannot_zero_the_score():
     # 20 distinct low-confidence organic domains: uncapped that would be
-    # 20 x 5 = 100 penalty, but the per-kind cap (40) keeps the score at 60.
+    # 20 x 5 = 100 penalty, but the per-kind cap (8) keeps the score at 92.
     evs = [
         _evidence(
             evidence_id=f"ev-bulk-{i:02d}",
@@ -248,5 +248,77 @@ def test_many_low_confidence_findings_cannot_zero_the_score():
     ]
     result = score_and_verify(BRAND, evs)
     assert len(result.findings) == 20
-    assert result.trust_score == 60
+    assert result.trust_score == 92
     assert result.trust_score > 0
+
+
+def test_worst_case_multi_kind_capped_above_zero():
+    # Worst case: findings in every kind, each pile large enough to hit its
+    # per-kind cap (20 + 15 + 15 + 12 + 8 = 70). Score must be exactly 30,
+    # never 0.
+    evs = []
+    # Ad off-domains + ad phones (AD_OFF_DOMAIN cap 20, UNOFFICIAL_PHONE cap 12).
+    for i in range(3):
+        evs.append(
+            _evidence(
+                evidence_id=f"ev-worst-ad-{i}",
+                is_ad=True,
+                position=None,
+                title=f"HDFC Bank Offer {i}",
+                link=f"https://evil-ad{i}-deals.com/deal",
+                snippet=f"HDFC Bank deal, call 1800 900 10{i} now",
+            )
+        )
+    # Advertiser mismatches (ADVERTISER_MISMATCH cap 15).
+    for i, name in enumerate(["Evil Corp Alpha", "Evil Corp Beta"]):
+        evs.append(
+            _evidence(
+                evidence_id=f"ev-worst-adv-{i}",
+                engine=EngineType.ADS_TRANSPARENCY,
+                is_ad=True,
+                position=None,
+                title=name,
+                link=None,
+                snippet="Call for support",
+                raw={"advertiser": {"name": name}},
+            )
+        )
+    # Maps mismatches (MAPS_LISTING_MISMATCH cap 15).
+    for i in range(3):
+        evs.append(
+            _evidence(
+                evidence_id=f"ev-worst-maps-{i}",
+                engine=EngineType.GOOGLE_MAPS,
+                position=None,
+                title="HDFC Bank Branch",
+                link="https://www.hdfcbank.com/contact",
+                snippet=f"Call 1800 911 20{i}",
+                raw={},
+            )
+        )
+    # Organic phones (UNOFFICIAL_PHONE cap 12).
+    for i in range(3):
+        evs.append(
+            _evidence(
+                evidence_id=f"ev-worst-phone-{i}",
+                position=4,
+                title="HDFC Bank Helpline",
+                link="https://www.hdfcbank.com/contact",
+                snippet=f"HDFC Bank customers call 1800 922 30{i}",
+            )
+        )
+    # Organic domains (UNOFFICIAL_DOMAIN cap 8).
+    for i in range(3):
+        evs.append(
+            _evidence(
+                evidence_id=f"ev-worst-domain-{i}",
+                position=4,
+                title=f"HDFC Bank Partner {i}",
+                link=f"https://shop-worst-{i}-deals.com/offers",
+                snippet="HDFC Bank partner offers",
+            )
+        )
+    result = score_and_verify(BRAND, evs)
+    assert result.trust_score == 30
+    assert result.trust_score > 0
+    assert result.trust_score != 0

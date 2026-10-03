@@ -6,9 +6,11 @@ SERPAPI_MODE=replay in .env so all subsequent runs use the saved fixtures.
 
 Usage:
     SERPAPI_MODE=live SERPAPI_KEY=<your-key> python scripts/record_fixtures.py
+    SERPAPI_MODE=live SERPAPI_KEY=<your-key> python scripts/record_fixtures.py --brand <brand_id>
 """
 from __future__ import annotations
 
+import argparse
 import json
 import os
 import sys
@@ -38,10 +40,25 @@ def load_brands() -> list[Brand]:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Record SerpApi fixtures.")
+    parser.add_argument(
+        "--brand",
+        dest="brand_id",
+        default=None,
+        help="Record only this brand id (default: all brands).",
+    )
+    args = parser.parse_args()
+
     brands = load_brands()
     if not brands:
         print("No brands found in data/brands/. Exiting.", file=sys.stderr)
         sys.exit(0)
+
+    if args.brand_id is not None:
+        brands = [b for b in brands if b.id == args.brand_id]
+        if not brands:
+            print(f"Brand '{args.brand_id}' not found in data/brands/. Exiting.", file=sys.stderr)
+            sys.exit(1)
 
     mode = os.getenv("SERPAPI_MODE", "replay").strip().lower()
     if mode != "live":
@@ -56,6 +73,17 @@ def main() -> None:
     if not api_key:
         print("SERPAPI_KEY not set in environment. Exiting.", file=sys.stderr)
         sys.exit(1)
+
+    # One SerpApi call per planned query: count everything up front so the
+    # user sees the exact credit cost before any network call happens.
+    queries_per_brand: dict[str, int] = {b.id: len(build_queries(b)) for b in brands}
+    total_calls = sum(queries_per_brand.values())
+    brand_list = ", ".join(f"{b.display_name} ({b.id}: {queries_per_brand[b.id]} calls)" for b in brands)
+    print(f"About to make {total_calls} SerpApi calls for {len(brands)} brand(s): {brand_list}.")
+    answer = input("Type 'yes' to proceed: ").strip()
+    if answer != "yes":
+        print("Aborted. No SerpApi calls were made.", file=sys.stderr)
+        sys.exit(0)
 
     client = SerpApiClient(api_key=api_key, mode="live")
     fixtures_dir = DEFAULT_FIXTURES_DIR

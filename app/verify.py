@@ -61,18 +61,31 @@ TOP_ORGANIC_CUTOFF = 5
 # - 10: unofficial phones in organic results.
 # - 5:  exact unofficial domains in organic results — visible but competing
 #   with official results, the weakest signal.
-# Per-KIND caps: each finding kind contributes at most MAX_PENALTY_PER_KIND
-# (40 points) to the total penalty, so a large pile of low-confidence
-# same-kind organic mentions can cost at most 40 points and can never zero
-# the score on its own. Only findings spanning several kinds (or a few
-# high-severity ad findings) can drive trust_score to 0.
 W_AD_MISMATCH = 25.0
 W_MAPS_MISMATCH = 20.0
 W_ADVERTISER_MISMATCH = 15.0
 W_ORGANIC_FUZZY_DOMAIN = 15.0
 W_ORGANIC_PHONE = 10.0
 W_ORGANIC_DOMAIN = 5.0
-MAX_PENALTY_PER_KIND = 40.0
+# Per-KIND caps (chosen 2026-10-03 to keep worst-case score at >= 30/100):
+# - AD_OFF_DOMAIN: 20
+# - ADVERTISER_MISMATCH: 15
+# - MAPS_LISTING_MISMATCH: 15
+# - UNOFFICIAL_PHONE: 12
+# - UNOFFICIAL_DOMAIN: 8
+# Sum of all caps = 20 + 15 + 15 + 12 + 8 = 70, so a brand hitting every cap
+# simultaneously still scores 100 - 70 = 30, never 0. Severity order kept:
+# ad-based/advertiser (20/15) >= maps (15) >= fuzzy-domain/organic-phone
+# (12, via UNOFFICIAL_PHONE) >= plain organic-domain (8). A large pile of
+# same-kind organic mentions can no longer zero the score on its own, and
+# even findings spanning every kind bottom out at 30, not 0.
+MAX_PENALTY_BY_KIND: dict[FindingKind, float] = {
+    FindingKind.AD_OFF_DOMAIN: 20.0,
+    FindingKind.ADVERTISER_MISMATCH: 15.0,
+    FindingKind.MAPS_LISTING_MISMATCH: 15.0,
+    FindingKind.UNOFFICIAL_PHONE: 12.0,
+    FindingKind.UNOFFICIAL_DOMAIN: 8.0,
+}
 
 _MAPS_ENGINES = {EngineType.GOOGLE_MAPS, EngineType.GOOGLE_LOCAL}
 
@@ -336,7 +349,9 @@ def score_and_verify(brand: Brand, evidence: list[Evidence]) -> ScanResult:
         key = (finding.kind, finding.value)
         subtotal = penalty_by_kind.get(finding.kind, 0.0) + grouped[key]["weight"]
         penalty_by_kind[finding.kind] = subtotal
-    penalty = sum(min(subtotal, MAX_PENALTY_PER_KIND) for subtotal in penalty_by_kind.values())
+    penalty = sum(
+        min(subtotal, MAX_PENALTY_BY_KIND[kind]) for kind, subtotal in penalty_by_kind.items()
+    )
     trust_score = max(0, min(100, round(100 - penalty)))
 
     return ScanResult(
