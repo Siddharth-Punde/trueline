@@ -1,11 +1,44 @@
 """Tests for app.extract (pure functions, no network)."""
 
+import phonenumbers
+
 from app.extract import extract_advertiser_name, extract_domains, extract_phones
+
+# NOTE: numbers below are synthetic test fixtures, not real numbers, unless a
+# test says otherwise. The single exception is the Air India 1860-series
+# regression test — a published corporate helpline, never an individual's
+# number (see AGENTS.md on real phone numbers).
 
 
 def test_extract_phones_normalizes_indian_number():
-    # NOTE: all numbers below are synthetic test fixtures, not real numbers.
     assert extract_phones("Call us on 1800 123 456 today") == ["+911800123456"]
+
+
+def test_extract_phones_keeps_11_digit_1800_1860_series():
+    # India's 1800/1860 toll series is 11 digits nationally, one longer than
+    # the 10-digit mobile shape. Extraction must preserve the whole national
+    # number instead of reshaping it, so E.164 = +91 + 11 digits.
+    assert extract_phones("Dial 1860 233 4567 for support") == ["+9118602334567"]
+    assert extract_phones("Toll free on 1800 123 4567") == ["+9118001234567"]
+    assert extract_phones("With trunk prefix 01860 233 4567") == ["+9118602334567"]
+    assert extract_phones("Unsplit 18602334567") == ["+9118602334567"]
+
+
+def test_extract_phones_air_india_1860_number_regression():
+    # Regression from a real Google Maps fixture: "1860 233 1407" is the
+    # published Air India corporate helpline (Reservations Office) — public
+    # corporate info, not personal data. Region "IN" parses it as a VALID
+    # 11-digit national number, so the E.164 form legitimately carries 13
+    # digits after "+": country code 91 + 11-digit national number. The
+    # 13-digit tail is correct, not a malformed mobile number.
+    parsed = phonenumbers.parse("1860 233 1407", "IN")
+    assert phonenumbers.is_valid_number(parsed)
+    assert parsed.national_number == 18602331407
+    assert extract_phones("1860 233 1407") == ["+9118602331407"]
+    assert extract_phones("Air India reservations: +91 1860 233 1407") == ["+9118602331407"]
+    assert extract_phones("tel:1860 233 1407") == ["+9118602331407"]
+    # the canonical form round-trips to itself (what official_phones must match)
+    assert extract_phones("+9118602331407") == ["+9118602331407"]
 
 
 def test_extract_phones_dedupes_repeated_number():
