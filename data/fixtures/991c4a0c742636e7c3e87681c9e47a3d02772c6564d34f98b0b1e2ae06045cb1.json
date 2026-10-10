@@ -1,0 +1,562 @@
+{
+  "ai_overview": {
+    "references": [
+      {
+        "index": 0,
+        "link": "https://www.airindiaexpress.com/manage-booking",
+        "snippet": "Manage My Booking | Air India Express Check-in Manage View All Health and Medical Assistance Retrieve Itinerary Name (First or Last) or Email or Mobile No. * Name ...",
+        "source": "Air India Express",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.airindiaexpress.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "title": "Manage My Booking - Air India Express"
+      },
+      {
+        "index": 1,
+        "link": "https://www.happyfares.in/news/air-india-express-cancellation-policy-guide-2026",
+        "snippet": "Refunds 5-7 business days for cards. * How to Cancel an Air India Express Ticket Visit airindiaexpress.com → click 'Manage Booking' Enter PNR + lead passenger's la...",
+        "source": "HappyFares",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.happyfares.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "title": "Air India Express Cancellation Policy & Refund Guide 2026"
+      },
+      {
+        "index": 2,
+        "link": "https://www.airindiaexpress.com/support",
+        "snippet": "We are glad to assist you with anything! Let us know how we can help you. Our team works 24x7 to guide and help you with any queries or changes in your travel plan...",
+        "source": "Air India Express",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.airindiaexpress.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "title": "Support | Contact us for Your Queries - Air India Express"
+      },
+      {
+        "index": 3,
+        "link": "https://www.flightsmojo.in/blog/air-india-express-flight-cancellation-policy",
+        "snippet": "FAQs * Can I get a full refund if I cancel my flight? Yes, but only if you cancel within 24 hours of booking and at least 7 days before departure. * What happens i...",
+        "source": "FlightsMojo",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.flightsmojo.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtlg9aRU7XFmTqZ9PF2MCfNUNq-8juOzwBHe_G7RAriQ7g6uzWnDQFmO6h1ff49c0wJk5bVMPEy8lSSixUKszZAKPGLIFqNgc0fy6m",
+        "title": "Air India Express Flight Cancellation Policy: A Complete Guide"
+      },
+      {
+        "index": 4,
+        "link": "https://www.airindiaexpress.com/support/faqs/refunds",
+        "snippet": "Frequently Asked Questions * Is it possible to get a refund for a canceled itinerary? Yes, you can get a refund for a canceled itinerary. To do so, cancel your tic...",
+        "source": "Air India Express",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.airindiaexpress.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "title": "Refunds FAQ Domestic & International | Air India Express"
+      },
+      {
+        "index": 5,
+        "link": "https://www.happyfares.in/cancellation-policy/air-india-express",
+        "snippet": "Quick answer: Air India Express allows free cancellation within 24 hours of booking when travel is 7+ days away (DGCA lock-in — 24h for HappyFares/agent (OTA) book...",
+        "source": "HappyFares",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.happyfares.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "title": "Air India Express Cancellation & Refund Policy"
+      },
+      {
+        "index": 6,
+        "link": "https://www.airindia.com/in/en/frequently-asked-questions/payment-refund-cancellations.html",
+        "snippet": "Refunds: Request via website/app manage booking, ticketing office, or third-party agent; valid up to two years from issuance; processed in 7-10 business days (dela...",
+        "source": "Air India",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.airindia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbNd0d8c1S7G3p4ic0AN4nWQxkhO79n7kGSA7MFdoxetj67IoecfYhf-hwv28rst5FEXtz10PX6KHLeaSar3cCgbKaNEz7Yh798DWA",
+        "title": "Payment, Refund, and Cancellations FAQ - Air India Official"
+      },
+      {
+        "index": 7,
+        "link": "https://www.reddit.com/r/india/comments/y8dagf/air_india_express_horrible_experience_with_refund/",
+        "snippet": "Government Grievance Portal: To resolve refund issues with airlines like Air India Express, file a grievance on the government's public grievance portal (https://p...",
+        "source": "Reddit",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "title": "Air India express horrible experience with refund - Reddit"
+      }
+    ],
+    "text_blocks": [
+      {
+        "reference_indexes": [
+          0,
+          1,
+          2
+        ],
+        "snippet": "You can request a refund online through the Air India Express Manage Booking portal or get assistance via their virtual assistant Tia on WhatsApp +91 6360012345.",
+        "snippet_highlighted_words": [
+          "request a refund online through the Air India Express Manage Booking portal"
+        ],
+        "snippet_links": [
+          {
+            "link": "https://www.airindiaexpress.com/manage-booking",
+            "text": "Air India Express Manage Booking"
+          },
+          {
+            "link": "https://www.airindiaexpress.com/support",
+            "text": "Tia on WhatsApp"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "snippet": "Refund & Cancellation Rules",
+        "type": "heading"
+      },
+      {
+        "list": [
+          {
+            "reference_indexes": [
+              3
+            ],
+            "snippet": "Free Cancellation: Full refund if cancelled within 24 hours of booking, provided the departure is at least 7 days away."
+          },
+          {
+            "reference_indexes": [
+              4,
+              5
+            ],
+            "snippet": "Standard Cancellation: Must be done online at least 2 hours before departure to avoid a full \"no-show\" fee (where only statutory taxes are refundable)."
+          },
+          {
+            "snippet": "Airline-Initiated Cancellations: If Air India Express cancels or significantly reschedules your flight, you are entitled to a full refund or a free alternate flight under DGCA norms."
+          }
+        ],
+        "reference_indexes": [
+          4,
+          5
+        ],
+        "type": "list"
+      },
+      {
+        "snippet": "Refund Timelines",
+        "type": "heading"
+      },
+      {
+        "list": [
+          {
+            "reference_indexes": [
+              1
+            ],
+            "snippet": "UPI / Wallets: 1 to 3 business days"
+          },
+          {
+            "reference_indexes": [
+              1
+            ],
+            "snippet": "Net Banking: 3 to 5 business days"
+          },
+          {
+            "reference_indexes": [
+              1,
+              5
+            ],
+            "snippet": "Credit / Debit Cards: 5 to 7 business days (international or Gulf routes may take up to 21 days)"
+          },
+          {
+            "snippet": "Travel Agent Bookings: If you booked through a third-party site or agent, you must contact them directly to process your refund."
+          }
+        ],
+        "reference_indexes": [
+          5,
+          6,
+          7
+        ],
+        "type": "list"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmhxY1VKTFFMT0xoSmNtUzVUQ1ZUb1NXbVhBNUtDUFhkOXg0WXlDbk1kMEVfVTBxbXQ4LUczNkFDMGdLQ2FMeHl3SnVySmx4d2tQLWlMTnowUmlVQktraDhnQmpINV9xVGhRaWtPejVyRUxCWGdKbE5SR3N4N21MRGZpQjJ1QnZuZTFxemVzWGg2URIEGgIIABrHBBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaFwgBEhNhaXJpbmRpYWV4cHJlc3MuY29tcgB6AIJAigQIABAAGAAgAColCgNhaXIVOY4VQRoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyonCgVpbmRpYRU5jhVBGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKh8KB2V4cHJlc3MVOY4VQRoPYWlyaW5kaWFleHByZXNzKhYKBnJlZnVuZBUAAAAAGgdyZWZ1bmRzMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmhxY1VKTFFMT0xoSmNtUzVUQ1ZUb1NXbVhBNUtDUFhkOXg0WXlDbk1kMEVfVTBxbXQ4LUczNkFDMGdLQ2FMeHl3SnVySmx4d2tQLWlMTnowUmlVQktraDhnQmpINV9xVGhRaWtPejVyRUxCWGdKbE5SR3N4N21MRGZpQjJ1QnZuZTFxemVzWGg2UTo8RG9tZXN0aWMgJmFtcDsgSW50ZXJuYXRpb25hbCBCb29raW5nIEZBUSAtIEFpciBJbmRpYSBFeHByZXNzQpUBQ2hlY2sgb3VyIGNvbXBpbGVkIGxpc3Qgb2Ygc29tZSBvZiB0aGUgbW9zdCBmcmVxdWVudGx5IGFza2VkIHF1ZXN0aW9ucyByZWxhdGVkIHRvIGJvb2tpbmdzLiBHZXQgYW5zd2VycyB0byBhbnkgcXVlcmllcyBvbiBib29raW5nLCBmbGlnaHRzLCBhbmQgbW9yZS4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmhxY1VKTFFMT0xoSmNtUzVUQ1ZUb1NXbVhBNUtDUFhkOXg0WXlDbk1kMEVfVTBxbXQ4LUczNkFDMGdLQ2FMeHl3SnVySmx4d2tQLWlMTnowUmlVQktraDhnQmpINV9xVGhRaWtPejVyRUxCWGdKbE5SR3N4N21MRGZpQjJ1QnZuZTFxemVzWGg2URIEGgIIABrHBBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaFwgBEhNhaXJpbmRpYWV4cHJlc3MuY29tcgB6AIJAigQIABAAGAAgAColCgNhaXIVOY4VQRoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyonCgVpbmRpYRU5jhVBGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKh8KB2V4cHJlc3MVOY4VQRoPYWlyaW5kaWFleHByZXNzKhYKBnJlZnVuZBUAAAAAGgdyZWZ1bmRzMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmhxY1VKTFFMT0xoSmNtUzVUQ1ZUb1NXbVhBNUtDUFhkOXg0WXlDbk1kMEVfVTBxbXQ4LUczNkFDMGdLQ2FMeHl3SnVySmx4d2tQLWlMTnowUmlVQktraDhnQmpINV9xVGhRaWtPejVyRUxCWGdKbE5SR3N4N21MRGZpQjJ1QnZuZTFxemVzWGg2UTo8RG9tZXN0aWMgJmFtcDsgSW50ZXJuYXRpb25hbCBCb29raW5nIEZBUSAtIEFpciBJbmRpYSBFeHByZXNzQpUBQ2hlY2sgb3VyIGNvbXBpbGVkIGxpc3Qgb2Ygc29tZSBvZiB0aGUgbW9zdCBmcmVxdWVudGx5IGFza2VkIHF1ZXN0aW9ucyByZWxhdGVkIHRvIGJvb2tpbmdzLiBHZXQgYW5zd2VycyB0byBhbnkgcXVlcmllcyBvbiBib29raW5nLCBmbGlnaHRzLCBhbmQgbW9yZS4iAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Check our compiled list of some of the most frequently asked questions related to bookings. Get answers to any queries on booking, flights, and more.",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEX_ZCJHcEz_ZCP_ZCP_ZCL_____XRH_VAD_xLL_cDj_7un_hVv_o4j_k3D_2s__s53mZZbIAAAABHRSTlNJABSzKUlETgAAAMFJREFUKJF9k1EChCAIRLUMRKXuf9vA1hYr5aOCJ0QDOe_94j5sEeC8X8OnrQoHTKlbRiwEeZ3eQO0ONsddsMR4ZLwQ5kM8Aze1RHIeQqrOE14R89jKctklsiNoXmS2ZaUDjBLOpBfsG6qN1NR9K9giBkIRSjndzMKaGpHCJ6ypVqEOstYdQEzjstOGNFE_heEBIRgR6CFCyWzly7kY-FNbmqG38GZk9BqZjDdyGzbHftjdmsB_TaYLNl3N-VJPfocTwAQNt6SNKf8AAAAASUVORK5CYII.png",
+          "source_info_link": "https://www.airindiaexpress.com/support/faqs/booking"
+        }
+      },
+      "displayed_link": "https://www.airindiaexpress.com › support › faqs › boo...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEX_ZCJHcEz_ZCP_ZCP_ZCL_____XRH_VAD_xLL_cDj_7un_hVv_o4j_k3D_2s__s53mZZbIAAAABHRSTlNJABSzKUlETgAAAMFJREFUKJF9k1EChCAIRLUMRKXuf9vA1hYr5aOCJ0QDOe_94j5sEeC8X8OnrQoHTKlbRiwEeZ3eQO0ONsddsMR4ZLwQ5kM8Aze1RHIeQqrOE14R89jKctklsiNoXmS2ZaUDjBLOpBfsG6qN1NR9K9giBkIRSjndzMKaGpHCJ6ypVqEOstYdQEzjstOGNFE_heEBIRgR6CFCyWzly7kY-FNbmqG38GZk9BqZjDdyGzbHftjdmsB_TaYLNl3N-VJPfocTwAQNt6SNKf8AAAAASUVORK5CYII.png",
+      "link": "https://www.airindiaexpress.com/support/faqs/booking",
+      "position": 1,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVhqcUJLQLOLhJcmS5TCVToSWmXA5KCPXd9x4YyCnMd0E_U0qmt8-G36AC0gKCaLxywJurJlxwkP-iLNz0RiUBKkh8gBjH5_qThQikOz5rELBXgJlNRGsx7mLDfiB2uBvne1qzesXh6Q&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQFnoECA8QAQ&uoh=1",
+      "snippet": "Check our compiled list of some of the most frequently asked questions related to bookings. Get answers to any queries on booking, flights, and more.",
+      "source": "Air India Express",
+      "title": "Domestic & International Booking FAQ"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZXV0xfdThMRDhfSnBXUzIwXzBwa1J2dkliQVl3QTRZUlFBc2RzM01YNW1UVkktVDdJNy1QOXdXYi1jbkswVWNhN0RXeXc1MHl1ZW1KVW9EemdQemtldE1ZSkY5OEtuUEJITWNFRTFhM0ZPNDdhRk9FekNrVm1Valk2MzFuY0QzQ29LMUwyMUczNGdtM1kzOG5kR3p0QXV5ZEgzaVpOcENwQUw4Z2lZcWpJd2R6emd1eXRaSUw5dUx0RFRpdVNiMW9XQ1E0X0lKbm96VmVSWU1QMlkSBBoCCAAawQQSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAnQQIABAAGAAgAColCgNhaXIVRo_NQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyonCgVpbmRpYRWBQtJAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKh8KB2V4cHJlc3MVbA7CQBoPYWlyaW5kaWFleHByZXNzKhYKBnJlZnVuZBXuObhAGgdyZWZ1bmRzMukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZXV0xfdThMRDhfSnBXUzIwXzBwa1J2dkliQVl3QTRZUlFBc2RzM01YNW1UVkktVDdJNy1QOXdXYi1jbkswVWNhN0RXeXc1MHl1ZW1KVW9EemdQemtldE1ZSkY5OEtuUEJITWNFRTFhM0ZPNDdhRk9FekNrVm1Valk2MzFuY0QzQ29LMUwyMUczNGdtM1kzOG5kR3p0QXV5ZEgzaVpOcENwQUw4Z2lZcWpJd2R6emd1eXRaSUw5dUx0RFRpdVNiMW9XQ1E0X0lKbm96VmVSWU1QMlk6SjxiPkFpciBJbmRpYSBFeHByZXNzPC9iPiBmbGlnaHQgY2hhbmdlIGNhbmNlbGxhdGlvbiBhbmQgZnVsbCA8Yj5yZWZ1bmQ8L2I-QlJGbGlnaHQgY2FuY2VsbGF0aW9uIHdpdGhpbiAyNCBob3Vycz8gWW91IHNob3VsZCBnZXQgYSAxMDAlIDxiPnJlZnVuZDwvYj4gKGFsbW9zdCkhIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZXV0xfdThMRDhfSnBXUzIwXzBwa1J2dkliQVl3QTRZUlFBc2RzM01YNW1UVkktVDdJNy1QOXdXYi1jbkswVWNhN0RXeXc1MHl1ZW1KVW9EemdQemtldE1ZSkY5OEtuUEJITWNFRTFhM0ZPNDdhRk9FekNrVm1Valk2MzFuY0QzQ29LMUwyMUczNGdtM1kzOG5kR3p0QXV5ZEgzaVpOcENwQUw4Z2lZcWpJd2R6emd1eXRaSUw5dUx0RFRpdVNiMW9XQ1E0X0lKbm96VmVSWU1QMlkSBBoCCAAawQQSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAnQQIABAAGAAgAColCgNhaXIVRo_NQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyonCgVpbmRpYRWBQtJAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKh8KB2V4cHJlc3MVbA7CQBoPYWlyaW5kaWFleHByZXNzKhYKBnJlZnVuZBXuObhAGgdyZWZ1bmRzMukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZXV0xfdThMRDhfSnBXUzIwXzBwa1J2dkliQVl3QTRZUlFBc2RzM01YNW1UVkktVDdJNy1QOXdXYi1jbkswVWNhN0RXeXc1MHl1ZW1KVW9EemdQemtldE1ZSkY5OEtuUEJITWNFRTFhM0ZPNDdhRk9FekNrVm1Valk2MzFuY0QzQ29LMUwyMUczNGdtM1kzOG5kR3p0QXV5ZEgzaVpOcENwQUw4Z2lZcWpJd2R6emd1eXRaSUw5dUx0RFRpdVNiMW9XQ1E0X0lKbm96VmVSWU1QMlk6SjxiPkFpciBJbmRpYSBFeHByZXNzPC9iPiBmbGlnaHQgY2hhbmdlIGNhbmNlbGxhdGlvbiBhbmQgZnVsbCA8Yj5yZWZ1bmQ8L2I-QlJGbGlnaHQgY2FuY2VsbGF0aW9uIHdpdGhpbiAyNCBob3Vycz8gWW91IHNob3VsZCBnZXQgYSAxMDAlIDxiPnJlZnVuZDwvYj4gKGFsbW9zdCkhIgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Flight cancellation within 24 hours? You should get a 100% refund (almost)!",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+          "source_info_link": "https://www.reddit.com/r/indianaviation/comments/1oaqdvp/air_india_express_flight_change_cancellation_and/"
+        }
+      },
+      "displayed_link": "1 comment · 11 months ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "link": "https://www.reddit.com/r/indianaviation/comments/1oaqdvp/air_india_express_flight_change_cancellation_and/",
+      "position": 2,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESogEB6zswFWWL_u8LD8_JpWS20_0pkRvvIbAYwA4YRQAsds3MX5mTVI-T7I7-P9wWb-cnK0Uca7DWyw50yuemJUoDzgPzketMYJF98KnPBHMcEE1a3FO47aFOEzCkVmUjY631ncD3CoK1L21G34gm3Y38ndGztAuydH3iZNpCpAL8giYqjIwdzzguytZIL9uLtDTiuSb1oWCQ4_IJnozVeRYMP2Y&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQFnoECC8QAQ&uoh=1",
+      "snippet": "Flight cancellation within 24 hours? You should get a 100% refund (almost)!",
+      "snippet_highlighted_words": [
+        "refund"
+      ],
+      "source": "Reddit · r/indianaviation",
+      "title": "Air India Express flight change cancellation and full refund"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CukCL2dvdG8_dXJsPUNBRVNnZ0lCNnpzd0ZRanE3b1F5UEE4aFVMdjBTLS1CMEJVYkJuQTAzTXZ5cWdhaXUzUVd4ZTZ5aWxMNDlucVVZUlhDRHY1T0JvWjFQQkFTX2FGRXlJd042YVlPWlJFTm02QnI0cmJaX09tUkM0RHU5cDhndERiakdELTloYThYdkJ2ODY2VFl1NkFNeDYxN2FGRjRmVTZEZEVzNVRTd0d2c0pZdE9RcEV0bHpZcFNUXzdrS19yZHJySUFBVjdZcHNsVTZ3RG9odDNPb25OTExtZHpSeGxHYUdsWUVoTnN6RF9pZWI1MDlmNXFjTlAxX1NieXczLTVjNXNHRDdQR1JRM1JicGhGS0NvLU5uUUszeWN2M2YtSklqTGhZck93cFU4Wi1TRmNGdE9ZQ1JjSmRCenJVSl9WelA4MWMweGhaSGdlOXVBUUpVRDdhT2ZvTG51aC1yUGQ2SzZSMjktdxIEGgIIABqMBhIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDoBQgAEAAYACAAKiUKA2FpchUXZZBAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKicKBWluZGlhFdpavUAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqHwoHZXhwcmVzcxXmooZAGg9haXJpbmRpYWV4cHJlc3MqFgoGcmVmdW5kFc3sTD8aB3JlZnVuZHMy6QIvZ290bz91cmw9Q0FFU2dnSUI2enN3RlFqcTdvUXlQQThoVUx2MFMtLUIwQlViQm5BMDNNdnlxZ2FpdTNRV3hlNnlpbEw0OW5xVVlSWENEdjVPQm9aMVBCQVNfYUZFeUl3TjZhWU9aUkVObTZCcjRyYlpfT21SQzREdTlwOGd0RGJqR0QtOWhhOFh2QnY4NjZUWXU2QU14NjE3YUZGNGZVNkRkRXM1VFN3R3ZzSll0T1FwRXRsellwU1RfN2tLX3JkcnJJQUFWN1lwc2xVNndEb2h0M09vbk5MTG1kelJ4bEdhR2xZRWhOc3pEX2llYjUwOWY1cWNOUDFfU2J5dzMtNWM1c0dEN1BHUlEzUmJwaEZLQ28tTm5RSzN5Y3YzZi1KSWpMaFlyT3dwVThaLVNGY0Z0T1lDUmNKZEJ6clVKX1Z6UDgxYzB4aFpIZ2U5dUFRSlVEN2FPZm9MbnVoLXJQZDZLNlIyOS13Ok48Yj5BaXIgSW5kaWEgRXhwcmVzczwvYj4gb2ZmZXJzIGZyZWUgcmVzY2hlZHVsaW5nLCBmdWxsIDxiPnJlZnVuZHM8L2I-IGZvciAuLi5CmAE8Yj5yZWNlaXZlIGEgZnVsbCByZWZ1bmQgZHVlIHRvIG9uZ29pbmcgcHJvdGVzdHM8L2I-LiBjYW4gcmVzY2hlZHVsZSB0aGVpciB0cmlwcyB3aXRob3V0IGFueSBleHRyYSBjaGFyZ2VzIG9yIGNhbmNlbCBmb3IgYSBmdWxsIHJlZnVuZCwgRXhwcmVzcyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CukCL2dvdG8_dXJsPUNBRVNnZ0lCNnpzd0ZRanE3b1F5UEE4aFVMdjBTLS1CMEJVYkJuQTAzTXZ5cWdhaXUzUVd4ZTZ5aWxMNDlucVVZUlhDRHY1T0JvWjFQQkFTX2FGRXlJd042YVlPWlJFTm02QnI0cmJaX09tUkM0RHU5cDhndERiakdELTloYThYdkJ2ODY2VFl1NkFNeDYxN2FGRjRmVTZEZEVzNVRTd0d2c0pZdE9RcEV0bHpZcFNUXzdrS19yZHJySUFBVjdZcHNsVTZ3RG9odDNPb25OTExtZHpSeGxHYUdsWUVoTnN6RF9pZWI1MDlmNXFjTlAxX1NieXczLTVjNXNHRDdQR1JRM1JicGhGS0NvLU5uUUszeWN2M2YtSklqTGhZck93cFU4Wi1TRmNGdE9ZQ1JjSmRCenJVSl9WelA4MWMweGhaSGdlOXVBUUpVRDdhT2ZvTG51aC1yUGQ2SzZSMjktdxIEGgIIABqMBhIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDoBQgAEAAYACAAKiUKA2FpchUXZZBAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKicKBWluZGlhFdpavUAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqHwoHZXhwcmVzcxXmooZAGg9haXJpbmRpYWV4cHJlc3MqFgoGcmVmdW5kFc3sTD8aB3JlZnVuZHMy6QIvZ290bz91cmw9Q0FFU2dnSUI2enN3RlFqcTdvUXlQQThoVUx2MFMtLUIwQlViQm5BMDNNdnlxZ2FpdTNRV3hlNnlpbEw0OW5xVVlSWENEdjVPQm9aMVBCQVNfYUZFeUl3TjZhWU9aUkVObTZCcjRyYlpfT21SQzREdTlwOGd0RGJqR0QtOWhhOFh2QnY4NjZUWXU2QU14NjE3YUZGNGZVNkRkRXM1VFN3R3ZzSll0T1FwRXRsellwU1RfN2tLX3JkcnJJQUFWN1lwc2xVNndEb2h0M09vbk5MTG1kelJ4bEdhR2xZRWhOc3pEX2llYjUwOWY1cWNOUDFfU2J5dzMtNWM1c0dEN1BHUlEzUmJwaEZLQ28tTm5RSzN5Y3YzZi1KSWpMaFlyT3dwVThaLVNGY0Z0T1lDUmNKZEJ6clVKX1Z6UDgxYzB4aFpIZ2U5dUFRSlVEN2FPZm9MbnVoLXJQZDZLNlIyOS13Ok48Yj5BaXIgSW5kaWEgRXhwcmVzczwvYj4gb2ZmZXJzIGZyZWUgcmVzY2hlZHVsaW5nLCBmdWxsIDxiPnJlZnVuZHM8L2I-IGZvciAuLi5CmAE8Yj5yZWNlaXZlIGEgZnVsbCByZWZ1bmQgZHVlIHRvIG9uZ29pbmcgcHJvdGVzdHM8L2I-LiBjYW4gcmVzY2hlZHVsZSB0aGVpciB0cmlwcyB3aXRob3V0IGFueSBleHRyYSBjaGFyZ2VzIG9yIGNhbmNlbCBmb3IgYSBmdWxsIHJlZnVuZCwgRXhwcmVzcyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "receive a full refund due to ongoing protests. can reschedule their trips without any extra charges or cancel for a full refund, Express ...",
+          "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBACdASocABwAPtE-tFooIigoFAEAGglqAKwAD1Wf0pGIUINbx-y-9jzxix3I4AAA_p8ELfqEO4Wi-FZva3gGpZHdf5-MYo8oSzzzCPPLILGCo2YbyqdMDdK_WkQg__xvH-Tvv3AAfxeLbfVfKBSnYQ-StNpcagq_fkuiYwZYvhTOnwz_vm26B605HEySsAU7RS1piaLfCHgEc_7f_sXQl6Wmewl0XkDYbkOdrFm-qWhHldI-9YbY3Aw4sa1bA9JBADWk7RAAivnDghbPT1eOHFYNfIUAUUO4AAt2cdd5ApR-sDP5hCxB0OdWJPBPcQ3x78f8ITa3KMAA.webp",
+          "source_info_link": "https://m.economictimes.com/industry/transportation/airlines-/-aviation/air-india-express-offers-free-rescheduling-full-refunds-for-nepal-bound-passengers-amid-ongoing-protest/articleshow/123809410.cms"
+        }
+      },
+      "date": "10 Sept 2025",
+      "displayed_link": "https://m.economictimes.com › ... › Airlines / Aviation",
+      "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBACdASocABwAPtE-tFooIigoFAEAGglqAKwAD1Wf0pGIUINbx-y-9jzxix3I4AAA_p8ELfqEO4Wi-FZva3gGpZHdf5-MYo8oSzzzCPPLILGCo2YbyqdMDdK_WkQg__xvH-Tvv3AAfxeLbfVfKBSnYQ-StNpcagq_fkuiYwZYvhTOnwz_vm26B605HEySsAU7RS1piaLfCHgEc_7f_sXQl6Wmewl0XkDYbkOdrFm-qWhHldI-9YbY3Aw4sa1bA9JBADWk7RAAivnDghbPT1eOHFYNfIUAUUO4AAt2cdd5ApR-sDP5hCxB0OdWJPBPcQ3x78f8ITa3KMAA.webp",
+      "link": "https://m.economictimes.com/industry/transportation/airlines-/-aviation/air-india-express-offers-free-rescheduling-full-refunds-for-nepal-bound-passengers-amid-ongoing-protest/articleshow/123809410.cms",
+      "position": 3,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggIB6zswFQjq7oQyPA8hULv0S--B0BUbBnA03Mvyqgaiu3QWxe6yilL49nqUYRXCDv5OBoZ1PBAS_aFEyIwN6aYOZRENm6Br4rbZ_OmRC4Du9p8gtDbjGD-9ha8XvBv866TYu6AMx617aFF4fU6DdEs5TSwGvsJYtOQpEtlzYpST_7kK_rdrrIAAV7YpslU6wDoht3OonNLLmdzRxlGaGlYEhNszD_ieb509f5qcNP1_Sbyw3-5c5sGD7PGRQ3RbphFKCo-NnQK3ycv3f-JIjLhYrOwpU8Z-SFcFtOYCRcJdBzrUJ_VzP81c0xhZHge9uAQJUD7aOfoLnuh-rPd6K6R29-w&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQFnoECDAQAQ&uoh=1",
+      "snippet": "receive a full refund due to ongoing protests. can reschedule their trips without any extra charges or cancel for a full refund, Express ...",
+      "snippet_highlighted_words": [
+        "receive a full refund due to ongoing protests"
+      ],
+      "source": "The Economic Times",
+      "title": "Air India Express offers free rescheduling, full refunds for ..."
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYCL2dvdG8_dXJsPUNBRVN4QUVCNnpzd0ZXMTZYWVNLdUp6UXpWM3gwTW5HTEFJTzVfYmRGdG13b2dFSGZMcmFZcXRZdEhlNzhxTS1sblhzZmdKT2tDOUNuRGE1Z1F0WWl5MHlfS1UxdE9PWGdXSl9IZzA0R0dLRGxNdXdzNklGVlQ2empTdDBBQVQ4cHJZUkhCSmlyd3RtdmptR01mR3BkaXpfV2JZLWFMdzE2cWtkTWZHUVRqZHNvZjVWb3dzc2RnTkw5VUpPdVU1eGI0bUJWMkVSSTVjR2liWXpRUUsxenFqUjNlclBIUEx5SzllRGdLeFNFSmI2Z2tKTHk3LTk4aFVjVkQ5b1dvc2lreHcwcTJOeTNvZHASFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYCL2dvdG8_dXJsPUNBRVN4QUVCNnpzd0ZXMTZYWVNLdUp6UXpWM3gwTW5HTEFJTzVfYmRGdG13b2dFSGZMcmFZcXRZdEhlNzhxTS1sblhzZmdKT2tDOUNuRGE1Z1F0WWl5MHlfS1UxdE9PWGdXSl9IZzA0R0dLRGxNdXdzNklGVlQ2empTdDBBQVQ4cHJZUkhCSmlyd3RtdmptR01mR3BkaXpfV2JZLWFMdzE2cWtkTWZHUVRqZHNvZjVWb3dzc2RnTkw5VUpPdVU1eGI0bUJWMkVSSTVjR2liWXpRUUsxenFqUjNlclBIUEx5SzllRGdLeFNFSmI2Z2tKTHk3LTk4aFVjVkQ5b1dvc2lreHcwcTJOeTNvZHASFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_this_result": {
+        "source": {
+          "description": "Need help with flight status, changes, refunds, or any other query? Tia, our AI chatbot, has got you covered! WhatsApp at +91 63600 12345",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "displayed_link": "20+ reactions · 3 years ago",
+      "duration": "0:16",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "link": "https://www.facebook.com/AirIndiaX/videos/need-help-with-flight-status-changes-refunds-or-any-other-query-tia-our-ai-chatb/563538869263692/",
+      "position": 4,
+      "snippet": "Need help with flight status, changes, refunds, or any other query? Tia, our AI chatbot, has got you covered! WhatsApp at +91 63600 12345",
+      "source": "Facebook · Air India Express",
+      "thumbnail": "https://serpapi.com/searches/6ac3639071a41d88bc44dba4/images/YVb_EMll1FBGdhhcbKNVHO_KCKoIX6aNJJyR9RbbEqw.jpeg",
+      "title": "Chat with Tia AI Chatbot for Flight Status, Refunds and Bookings",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS_-yVQxN6LKWSiZ5UkcT5asC1949iuuTjS2w"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVmVKZE9BVldYX1hfa3NBN2ZGT01ZdXVRMjNjVzJGbWJGTnd2NWgzaHdVallaVHFCaWZxZWxvUnpVR3NxNjlwX0k1R1hmUTJPWGlaSEtFTUFjZ0w2bkJ0UEIwalVuaU1kQjh1bXBUSnlWYXlWR1RhT0ExajlMOWhSUlJDNFdtRnFmbnVpQVlTOBIEGgIIABrcBBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLYECAAQABgAIAAqJQoDYWlyFcha3EAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEV2urcQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyofCgdleHByZXNzFfI53EAaD2FpcmluZGlhZXhwcmVzcyoWCgZyZWZ1bmQVfsMHQBoHcmVmdW5kczKdAS9nb3RvP3VybD1DQUVTYWdIck96QVZlSmRPQVZXWF9YX2tzQTdmRk9NWXV1UTIzY1cyRm1iRk53djVoM2h3VWpZWlRxQmlmcWVsb1J6VUdzcTY5cF9JNUdYZlEyT1hpWkhLRU1BY2dMNm5CdFBCMGpVbmlNZEI4dW1wVEp5VmF5VkdUYU9BMWo5TDloUlJSQzRXbUZxZm51aUFZUzg6SDxiPkFpcjwvYj4tPGI-SW5kaWEgRXhwcmVzczwvYj4gRmxpZ2h0IFRpY2tldHMgQm9va2luZywgU2NoZWR1bGUgLSBJeGlnb0K4AVdlIG9mZmVyIDxiPkZVTEwgSU5TVEFOVCBSRUZVTkRTPC9iPiB3aGVuIHlvdSBjYW5jZWwgeW91ciBmbGlnaHQgd2l0aCAmIzM5O2l4aWdvIGFzc3VyZWQmIzM5OyBmYXJlcy4gTm8gZG9jdW1lbnRhdGlvbiByZXF1aXJlZCwgTm8gcXVlc3Rpb25zIGFza2VkLiBPZmZlcnMgb24gQWlyLUluZGlhIEV4cHJlc3MmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVmVKZE9BVldYX1hfa3NBN2ZGT01ZdXVRMjNjVzJGbWJGTnd2NWgzaHdVallaVHFCaWZxZWxvUnpVR3NxNjlwX0k1R1hmUTJPWGlaSEtFTUFjZ0w2bkJ0UEIwalVuaU1kQjh1bXBUSnlWYXlWR1RhT0ExajlMOWhSUlJDNFdtRnFmbnVpQVlTOBIEGgIIABrcBBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLYECAAQABgAIAAqJQoDYWlyFcha3EAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEV2urcQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyofCgdleHByZXNzFfI53EAaD2FpcmluZGlhZXhwcmVzcyoWCgZyZWZ1bmQVfsMHQBoHcmVmdW5kczKdAS9nb3RvP3VybD1DQUVTYWdIck96QVZlSmRPQVZXWF9YX2tzQTdmRk9NWXV1UTIzY1cyRm1iRk53djVoM2h3VWpZWlRxQmlmcWVsb1J6VUdzcTY5cF9JNUdYZlEyT1hpWkhLRU1BY2dMNm5CdFBCMGpVbmlNZEI4dW1wVEp5VmF5VkdUYU9BMWo5TDloUlJSQzRXbUZxZm51aUFZUzg6SDxiPkFpcjwvYj4tPGI-SW5kaWEgRXhwcmVzczwvYj4gRmxpZ2h0IFRpY2tldHMgQm9va2luZywgU2NoZWR1bGUgLSBJeGlnb0K4AVdlIG9mZmVyIDxiPkZVTEwgSU5TVEFOVCBSRUZVTkRTPC9iPiB3aGVuIHlvdSBjYW5jZWwgeW91ciBmbGlnaHQgd2l0aCAmIzM5O2l4aWdvIGFzc3VyZWQmIzM5OyBmYXJlcy4gTm8gZG9jdW1lbnRhdGlvbiByZXF1aXJlZCwgTm8gcXVlc3Rpb25zIGFza2VkLiBPZmZlcnMgb24gQWlyLUluZGlhIEV4cHJlc3MmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "We offer FULL INSTANT REFUNDS when you cancel your flight with 'ixigo assured' fares. No documentation required, No questions asked. Offers on Air-India Express ...",
+          "icon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhILPkF4ucA2wF2Abyw3wGPGEM3TcTl8MOvogI8Yturx-oAAAPIB8dwznUf8-6-CgDbzRgxfrJizSfhEqbdzzBzlFedeUFznBTLf5f_4vPze5dSx8b__xDPcmYxYQG7dXFFTXHKvLWIw9PRRHQ8y8rivsrRNX52jRvp-P7wNLsUNdR2_cyLMNXMx0bOxn0QoeN2vRfCkF8_qkN1h-_FkpKeNhUts7rVWUF83aKrF_FzdkDVKte84YEmoH2ZengpKlICLJHLXeh4dvhjJHYV1X-Y_XLFgEnlTh0R4LDm7dFDibvYeZBF4G6cACOdxIsibz-aIHO2hgnJ9BqYWYr850h_H2CU2TrjT3ruKcFgpAAAA.webp",
+          "source_info_link": "https://www.ixigo.com/airlines/airindia_express-i5"
+        }
+      },
+      "displayed_link": "https://www.ixigo.com › Airlines",
+      "favicon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhILPkF4ucA2wF2Abyw3wGPGEM3TcTl8MOvogI8Yturx-oAAAPIB8dwznUf8-6-CgDbzRgxfrJizSfhEqbdzzBzlFedeUFznBTLf5f_4vPze5dSx8b__xDPcmYxYQG7dXFFTXHKvLWIw9PRRHQ8y8rivsrRNX52jRvp-P7wNLsUNdR2_cyLMNXMx0bOxn0QoeN2vRfCkF8_qkN1h-_FkpKeNhUts7rVWUF83aKrF_FzdkDVKte84YEmoH2ZengpKlICLJHLXeh4dvhjJHYV1X-Y_XLFgEnlTh0R4LDm7dFDibvYeZBF4G6cACOdxIsibz-aIHO2hgnJ9BqYWYr850h_H2CU2TrjT3ruKcFgpAAAA.webp",
+      "link": "https://www.ixigo.com/airlines/airindia_express-i5",
+      "position": 5,
+      "read_more_link": "https://www.ixigo.com/airlines/airindia_express-i5#:~:text=We%20offer%20FULL%20INSTANT%20REFUNDS,%26%20international%20Air%2DIndia%20Express%20flights.",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVeJdOAVWX_X_ksA7fFOMYuuQ23cW2FmbFNwv5h3hwUjYZTqBifqeloRzUGsq69p_I5GXfQ2OXiZHKEMAcgL6nBtPB0jUniMdB8umpTJyVayVGTaOA1j9L9hRRRC4WmFqfnuiAYS8&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQFnoECC0QAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8,
+            "reviews": 158139
+          },
+          "extensions": [
+            "4.8(1,58,139)",
+            "Free",
+            "Travel"
+          ]
+        }
+      },
+      "snippet": "We offer FULL INSTANT REFUNDS when you cancel your flight with 'ixigo assured' fares. No documentation required, No questions asked. Offers on Air-India Express ...",
+      "snippet_highlighted_words": [
+        "FULL INSTANT REFUNDS"
+      ],
+      "source": "Ixigo",
+      "title": "Air-India Express Flight Tickets Booking, Schedule"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVm1qVzlYekJQbG9UVWZaX2VnQzUtMHdiVmpIZ0VSa01RTndCcUdFY0xVUEJwZmZKblB0X1YxdldUZjhocmhUdUdCODYzY1pMcnJhWVJIZkNkbE5fcVBjcmRsNWF3ZVVyZmE1aDNDclZFcjA4a1JQMnBHOGRhR0Ezd05CUW1vczFlRXB2T2JjcjA3cjNzWXhQNEFjMjlTempHU0U0VVBREgQaAggAGtwEEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLgECAAQABgAIAAqJQoDYWlyFXbouEAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEVzuK-QBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyofCgdleHByZXNzFcdXtUAaD2FpcmluZGlhZXhwcmVzcyoWCgZyZWZ1bmQVmCRvQBoHcmVmdW5kczK0AS9nb3RvP3VybD1DQUVTZXdIck96QVZtalc5WHpCUGxvVFVmWl9lZ0M1LTB3YlZqSGdFUmtNUU53QnFHRWNMVVBCcGZmSm5QdF9WMXZXVGY4aHJoVHVHQjg2M2NaTHJyYVlSSGZDZGxOX3FQY3JkbDVhd2VVcmZhNWgzQ3JWRXIwOGtSUDJwRzhkYUdBM3dOQlFtb3MxZUVwdk9iY3IwN3Izc1l4UDRBYzI5U3pqR1NFNFVQUTpRRG9lcyA8Yj5BaXIgSW5kaWEgRXhwcmVzczwvYj4gb2ZmZXIgPGI-cmVmdW5kczwvYj4gZm9yIGNhbmNlbGxlZCBmbGlnaHRzIGZyb20gLi4uQpoBPGI-UmVmdW5kIGlzIG1pbmltYWwsIHVzdWFsbHkgb25seSBhaXJwb3J0IHRheGVzPC9iPiwgd2l0aCByZXNjaGVkdWxpbmcgcmVjb21tZW5kZWQ7IHJlZnVuZCBwcm9jZXNzaW5nIGNhbiB0YWtlIDMtNiBtb250aHMuIFN3YXJvb3AgS3Jpc2huYS4gVGhleSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVm1qVzlYekJQbG9UVWZaX2VnQzUtMHdiVmpIZ0VSa01RTndCcUdFY0xVUEJwZmZKblB0X1YxdldUZjhocmhUdUdCODYzY1pMcnJhWVJIZkNkbE5fcVBjcmRsNWF3ZVVyZmE1aDNDclZFcjA4a1JQMnBHOGRhR0Ezd05CUW1vczFlRXB2T2JjcjA3cjNzWXhQNEFjMjlTempHU0U0VVBREgQaAggAGtwEEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLgECAAQABgAIAAqJQoDYWlyFXbouEAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEVzuK-QBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyofCgdleHByZXNzFcdXtUAaD2FpcmluZGlhZXhwcmVzcyoWCgZyZWZ1bmQVmCRvQBoHcmVmdW5kczK0AS9nb3RvP3VybD1DQUVTZXdIck96QVZtalc5WHpCUGxvVFVmWl9lZ0M1LTB3YlZqSGdFUmtNUU53QnFHRWNMVVBCcGZmSm5QdF9WMXZXVGY4aHJoVHVHQjg2M2NaTHJyYVlSSGZDZGxOX3FQY3JkbDVhd2VVcmZhNWgzQ3JWRXIwOGtSUDJwRzhkYUdBM3dOQlFtb3MxZUVwdk9iY3IwN3Izc1l4UDRBYzI5U3pqR1NFNFVQUTpRRG9lcyA8Yj5BaXIgSW5kaWEgRXhwcmVzczwvYj4gb2ZmZXIgPGI-cmVmdW5kczwvYj4gZm9yIGNhbmNlbGxlZCBmbGlnaHRzIGZyb20gLi4uQpoBPGI-UmVmdW5kIGlzIG1pbmltYWwsIHVzdWFsbHkgb25seSBhaXJwb3J0IHRheGVzPC9iPiwgd2l0aCByZXNjaGVkdWxpbmcgcmVjb21tZW5kZWQ7IHJlZnVuZCBwcm9jZXNzaW5nIGNhbiB0YWtlIDMtNiBtb250aHMuIFN3YXJvb3AgS3Jpc2huYS4gVGhleSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Refund is minimal, usually only airport taxes, with rescheduling recommended; refund processing can take 3-6 months. Swaroop Krishna. They ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+          "source_info_link": "https://www.facebook.com/groups/IndiansInSG/posts/4559170420870407/"
+        }
+      },
+      "displayed_link": "10+ comments · 4 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "link": "https://www.facebook.com/groups/IndiansInSG/posts/4559170420870407/",
+      "position": 6,
+      "read_more_link": "https://www.facebook.com/groups/IndiansInSG/posts/4559170420870407/#:~:text=Refund%20is%20minimal%2C%20usually%20only,the%20ticket%20is%20not%20flexi%2Fpremium",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVmjW9XzBPloTUfZ_egC5-0wbVjHgERkMQNwBqGEcLUPBpffJnPt_V1vWTf8hrhTuGB863cZLrraYRHfCdlN_qPcrdl5aweUrfa5h3CrVEr08kRP2pG8daGA3wNBQmos1eEpvObcr07r3sYxP4Ac29SzjGSE4UPQ&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQFnoECDIQAQ&uoh=1",
+      "snippet": "Refund is minimal, usually only airport taxes, with rescheduling recommended; refund processing can take 3-6 months. Swaroop Krishna. They ...",
+      "snippet_highlighted_words": [
+        "Refund is minimal, usually only airport taxes"
+      ],
+      "source": "Facebook · Indians In Singapore",
+      "title": "Does Air India Express offer refunds for cancelled flights ..."
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZYSjBYbjhSbWZ5Vno1aGdwMkJUc05zeXA3LUEydG1NajRuMGJ5MXA5Y3pPQnFvdXRtcTIzcXE1dGpDTGdiR0F3MDlIN09xSEZjSmVISFBuS0NYZzdsY0hjRi1QLXdTX3F5emFMYWpEMnBmWDlFZWV2ZmltOU9RV010a1RfcnQxZFllckFuS2dmbjNKRFJyeWtlWEl2MWNpbFdqUHFNV2k3RThkN1RBVVo3NU5IRTJ4emZMVWU0cDlvaElsekZSV3ZyZ0hOT3VwQ055WlJBEgQaAggAGqcFEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAgQUIABAAGAAgAColCgNhaXIVJMSvQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyonCgVpbmRpYRXEkcRAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKh8KB2V4cHJlc3MVmBCtQBoPYWlyaW5kaWFleHByZXNzKhYKBnJlZnVuZBV0yCFAGgdyZWZ1bmRzMuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZYSjBYbjhSbWZ5Vno1aGdwMkJUc05zeXA3LUEydG1NajRuMGJ5MXA5Y3pPQnFvdXRtcTIzcXE1dGpDTGdiR0F3MDlIN09xSEZjSmVISFBuS0NYZzdsY0hjRi1QLXdTX3F5emFMYWpEMnBmWDlFZWV2ZmltOU9RV010a1RfcnQxZFllckFuS2dmbjNKRFJyeWtlWEl2MWNpbFdqUHFNV2k3RThkN1RBVVo3NU5IRTJ4emZMVWU0cDlvaElsekZSV3ZyZ0hOT3VwQ055WlJBOjg8Yj5BaXIgSW5kaWEgRXhwcmVzczwvYj4gQ3VzdG9tZXIgQ2FyZSBOby4gMDEyNC00NDMgNTYwMELMAUlWUlMgTWVudTogMDEyNC00NDMgNTYwMCAvIDAxMjQtNjkzIDU2MDAgJm1pZGRvdDsgUHJlc3MgMTogQ2hlY2sgeW91ciBmbGlnaHQgc3RhdHVzICZtaWRkb3Q7IFByZXNzIDI6IENhbmNlbCBib29raW5nIGFuZCBjbGFpbSA8Yj5yZWZ1bmQ8L2I-ICZtaWRkb3Q7IFByZXNzIDM6IENsYWltIDxiPnJlZnVuZDwvYj4gZm9yIGNhbmNlbGxlZCBvciZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZYSjBYbjhSbWZ5Vno1aGdwMkJUc05zeXA3LUEydG1NajRuMGJ5MXA5Y3pPQnFvdXRtcTIzcXE1dGpDTGdiR0F3MDlIN09xSEZjSmVISFBuS0NYZzdsY0hjRi1QLXdTX3F5emFMYWpEMnBmWDlFZWV2ZmltOU9RV010a1RfcnQxZFllckFuS2dmbjNKRFJyeWtlWEl2MWNpbFdqUHFNV2k3RThkN1RBVVo3NU5IRTJ4emZMVWU0cDlvaElsekZSV3ZyZ0hOT3VwQ055WlJBEgQaAggAGqcFEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAgQUIABAAGAAgAColCgNhaXIVJMSvQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyonCgVpbmRpYRXEkcRAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKh8KB2V4cHJlc3MVmBCtQBoPYWlyaW5kaWFleHByZXNzKhYKBnJlZnVuZBV0yCFAGgdyZWZ1bmRzMuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZYSjBYbjhSbWZ5Vno1aGdwMkJUc05zeXA3LUEydG1NajRuMGJ5MXA5Y3pPQnFvdXRtcTIzcXE1dGpDTGdiR0F3MDlIN09xSEZjSmVISFBuS0NYZzdsY0hjRi1QLXdTX3F5emFMYWpEMnBmWDlFZWV2ZmltOU9RV010a1RfcnQxZFllckFuS2dmbjNKRFJyeWtlWEl2MWNpbFdqUHFNV2k3RThkN1RBVVo3NU5IRTJ4emZMVWU0cDlvaElsekZSV3ZyZ0hOT3VwQ055WlJBOjg8Yj5BaXIgSW5kaWEgRXhwcmVzczwvYj4gQ3VzdG9tZXIgQ2FyZSBOby4gMDEyNC00NDMgNTYwMELMAUlWUlMgTWVudTogMDEyNC00NDMgNTYwMCAvIDAxMjQtNjkzIDU2MDAgJm1pZGRvdDsgUHJlc3MgMTogQ2hlY2sgeW91ciBmbGlnaHQgc3RhdHVzICZtaWRkb3Q7IFByZXNzIDI6IENhbmNlbCBib29raW5nIGFuZCBjbGFpbSA8Yj5yZWZ1bmQ8L2I-ICZtaWRkb3Q7IFByZXNzIDM6IENsYWltIDxiPnJlZnVuZDwvYj4gZm9yIGNhbmNlbGxlZCBvciZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "IVRS Menu: 0124-443 5600 / 0124-693 5600 · Press 1: Check your flight status · Press 2: Cancel booking and claim refund · Press 3: Claim refund for cancelled or ...",
+          "icon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAADQBQCdASocABwAPtEutFooIagoGAEAGglsAMHPLBhgmZxf7McLETRfP_PRtSvBFNg4L_xyYgAAAP72B8hX7FAOQi-ckKWa_d5hjYi36GFr0aP-2P9-72yC5kS_eULPdXkcsFCNMflN8dlJ58_FH_wYvpPY6AUklli5Jjr6MC06gmyRYUKTDLn2fmbLAWH_AQ3TRjAP6iW56bE5ItMfzYdYfZohwV9neZ7zyUC4gj9KrD66DbT3nZ8-SicmlXe_HTNjjMWOsBr7Sn1F6TOAAA.webp",
+          "source_info_link": "https://www.indiacustomercare.com/air-india-express-customer-care-contact-helpline-call-center-numbers"
+        }
+      },
+      "displayed_link": "https://www.indiacustomercare.com › air-india-express-...",
+      "favicon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAADQBQCdASocABwAPtEutFooIagoGAEAGglsAMHPLBhgmZxf7McLETRfP_PRtSvBFNg4L_xyYgAAAP72B8hX7FAOQi-ckKWa_d5hjYi36GFr0aP-2P9-72yC5kS_eULPdXkcsFCNMflN8dlJ58_FH_wYvpPY6AUklli5Jjr6MC06gmyRYUKTDLn2fmbLAWH_AQ3TRjAP6iW56bE5ItMfzYdYfZohwV9neZ7zyUC4gj9KrD66DbT3nZ8-SicmlXe_HTNjjMWOsBr7Sn1F6TOAAA.webp",
+      "link": "https://www.indiacustomercare.com/air-india-express-customer-care-contact-helpline-call-center-numbers",
+      "position": 7,
+      "read_more_link": "https://www.indiacustomercare.com/air-india-express-customer-care-contact-helpline-call-center-numbers#:~:text=IVRS%20Menu%3A%200124%2D443%205600%20%2F,0124%2D693%205600&text=Press%201%3A%20Check%20your%20flight,status&text=Press%202%3A%20Cancel%20booking%20and,claim%20refund&text=Press%203%3A%20Claim%20refund%20for,cancelled%20or%20delayed%20flight",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFXJ0Xn8RmfyVz5hgp2BTsNsyp7-A2tmMj4n0by1p9czOBqoutmq23qq5tjCLgbGAw09H7OqHFcJeHHPnKCXg7lcHcF-P-wS_qyzaLajD2pfX9Eeevfim9OQWMtkT_rt1dYerAnKgfn3JDRrykeXIv1cilWjPqMWi7E8d7TAUZ75NHE2xzfLUe4p9ohIlzFRWvrgHNOupCNyZRA&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQFnoECEUQAQ&uoh=1",
+      "snippet": "IVRS Menu: 0124-443 5600 / 0124-693 5600 · Press 1: Check your flight status · Press 2: Cancel booking and claim refund · Press 3: Claim refund for cancelled or ...",
+      "snippet_highlighted_words": [
+        "refund",
+        "refund"
+      ],
+      "source": "India Customer Care",
+      "title": "Air India Express Customer Care No. ..."
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVmE3TkJuZURuTlpFMDltOF9QMG5sM1NxRkxOclcyaHZEUnFGcVI1bEFDUUtXeERpSFF1WkFCYm00VjNyYTVRQmhzRkk3TkdDQVhaZ0RQRlU1OEJZX0MwY2NnWXloektoRnUyQ1dXQWFlaWZXOG1CVHdiNDJUNlFzZEtuSHJPdFpDM1pFc3NiNDRwSWNsWUZBOThvUHF5dDFFcGZfT2RREgQaAggAGt0EEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQLkECAAQABgAIAAqJQoDYWlyFaIDykAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEVPCfNQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyofCgdleHByZXNzFdEhyUAaD2FpcmluZGlhZXhwcmVzcyoWCgZyZWZ1bmQVfNi3QBoHcmVmdW5kczK0AS9nb3RvP3VybD1DQUVTZXdIck96QVZhN05CbmVEbk5aRTA5bThfUDBubDNTcUZMTnJXMmh2RFJxRnFSNWxBQ1FLV3hEaUhRdVpBQmJtNFYzcmE1UUJoc0ZJN05HQ0FYWmdEUEZVNThCWV9DMGNjZ1l5aHpLaEZ1MkNXV0FhZWlmVzhtQlR3YjQyVDZRc2RLbkhyT3RaQzNaRXNzYjQ0cEljbFlGQTk4b1BxeXQxRXBmX09kUTpMPGI-QWlyIEluZGlhIEV4cHJlc3M8L2I-IGZsaWdodCBjYW5jZWxsYXRpb25zIGFuZCBmdWxsIDxiPnJlZnVuZDwvYj4gcHJvY2Vzc0KgAUluIHRoZSBldmVudCBvZiBhIHBhc3NlbmdlciBjYW5jZWxpbmcgaGlzIGZsaWdodCwgYWxsIGFpcmxpbmVzIDxiPnJlZnVuZCB0aGUgdGlja2V0IGFtb3VudCBpbiB0aHJlZSB0byBmaXZlIHdvcmtpbmcgZGF5czwvYj4uLiBBaXIgSW5kaWEgbmVlZHMgMTUgdG8gNDUmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVmE3TkJuZURuTlpFMDltOF9QMG5sM1NxRkxOclcyaHZEUnFGcVI1bEFDUUtXeERpSFF1WkFCYm00VjNyYTVRQmhzRkk3TkdDQVhaZ0RQRlU1OEJZX0MwY2NnWXloektoRnUyQ1dXQWFlaWZXOG1CVHdiNDJUNlFzZEtuSHJPdFpDM1pFc3NiNDRwSWNsWUZBOThvUHF5dDFFcGZfT2RREgQaAggAGt0EEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQLkECAAQABgAIAAqJQoDYWlyFaIDykAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEVPCfNQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyofCgdleHByZXNzFdEhyUAaD2FpcmluZGlhZXhwcmVzcyoWCgZyZWZ1bmQVfNi3QBoHcmVmdW5kczK0AS9nb3RvP3VybD1DQUVTZXdIck96QVZhN05CbmVEbk5aRTA5bThfUDBubDNTcUZMTnJXMmh2RFJxRnFSNWxBQ1FLV3hEaUhRdVpBQmJtNFYzcmE1UUJoc0ZJN05HQ0FYWmdEUEZVNThCWV9DMGNjZ1l5aHpLaEZ1MkNXV0FhZWlmVzhtQlR3YjQyVDZRc2RLbkhyT3RaQzNaRXNzYjQ0cEljbFlGQTk4b1BxeXQxRXBmX09kUTpMPGI-QWlyIEluZGlhIEV4cHJlc3M8L2I-IGZsaWdodCBjYW5jZWxsYXRpb25zIGFuZCBmdWxsIDxiPnJlZnVuZDwvYj4gcHJvY2Vzc0KgAUluIHRoZSBldmVudCBvZiBhIHBhc3NlbmdlciBjYW5jZWxpbmcgaGlzIGZsaWdodCwgYWxsIGFpcmxpbmVzIDxiPnJlZnVuZCB0aGUgdGlja2V0IGFtb3VudCBpbiB0aHJlZSB0byBmaXZlIHdvcmtpbmcgZGF5czwvYj4uLiBBaXIgSW5kaWEgbmVlZHMgMTUgdG8gNDUmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "In the event of a passenger canceling his flight, all airlines refund the ticket amount in three to five working days.. Air India needs 15 to 45 ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+          "source_info_link": "https://www.facebook.com/groups/IndiansInSG/posts/7500483810072372/"
+        }
+      },
+      "displayed_link": "10+ comments · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "link": "https://www.facebook.com/groups/IndiansInSG/posts/7500483810072372/",
+      "position": 8,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVa7NBneDnNZE09m8_P0nl3SqFLNrW2hvDRqFqR5lACQKWxDiHQuZABbm4V3ra5QBhsFI7NGCAXZgDPFU58BY_C0ccgYyhzKhFu2CWWAaeifW8mBTwb42T6QsdKnHrOtZC3ZEssb44pIclYFA98oPqyt1Epf_OdQ&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQFnoECEgQAQ&uoh=1",
+      "snippet": "Any of you affected by Air India express flights’ cancellation? I had booked my tickets via trip dot com and now my onward flight out of Singapore ...",
+      "source": "Facebook · Indians In Singapore",
+      "title": "Air India Express flight cancellations and full refund process"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZkNEg3d1RjR05IWlhKaTNGdFRNNTNqVmsyMlhOWjJ0OW1CZTQyX29BelF6TC1NUUs2Y1E5REg5S2dfYVRqaUt3aFR4ZzRuWE9JQTdSVXFhcjNUWEJ6b05kTWgxSktNaTZGRjlyaXZTNTI2X05LRmtuUnEwM1pDU1RHVEgxX2p3XzhMQVE1aVV1TW1hazNOM2g4VXk2bmtCZ2JOcTAxZm5GY1BBMWpkNjVTalhXRlZad3JYcDU4WHBNcWFRZHpiZ2RRaFFuajhtUXJhWWc3eEZJdkVtSHkwdkVCRzhtZWdDbi1iV01zVnlFTGZEVWZZMkw3THpVLUJwTzc5a3VjdFpvbjB6EgQaAggAGsQFEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKAFCAAQABgAIAAqJQoDYWlyFeZM00AaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEVxV_UQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyofCgdleHByZXNzFYmfxkAaD2FpcmluZGlhZXhwcmVzcyoWCgZyZWZ1bmQVQkxeQBoHcmVmdW5kczKaAi9nb3RvP3VybD1DQUVTeHdFQjZ6c3dGZDRIN3dUY0dOSFpYSmkzRnRUTTUzalZrMjJYTloydDltQmU0Ml9vQXpRekwtTVFLNmNROURIOUtnX2FUamlLd2hUeGc0blhPSUE3UlVxYXIzVFhCem9OZE1oMUpLTWk2RkY5cml2UzUyNl9OS0ZrblJxMDNaQ1NUR1RIMV9qd184TEFRNWlVdU1tYWszTjNoOFV5Nm5rQmdiTnEwMWZuRmNQQTFqZDY1U2pYV0ZWWndyWHA1OFhwTXFhUWR6YmdkUWhRbmo4bVFyYVlnN3hGSXZFbUh5MHZFQkc4bWVnQ24tYldNc1Z5RUxmRFVmWTJMN0x6VS1CcE83OWt1Y3Rab24wejpJSXMgeW91ciA8Yj5BaXIgSW5kaWEgRXhwcmVzczwvYj4gZmxpZ2h0IGNhbmNlbGxlZD8gRm9sbG93IHRoZXNlIHN0ZXBzIC4uLkKkATxiPkFpciBJbmRpYSBFeHByZXNzPC9iPiBzYWlkIHRoZSBwYXNzZW5nZXJzIGNhbiBlaXRoZXIgcmVzY2hlZHVsZSB0aGUgZmxpZ2h0IHdpdGhpbiB0aGUgbmV4dCBzZXZlbiBkYXlzLCBvcHQgZm9yIGEgZnVsbCA8Yj5yZWZ1bmQ8L2I-IG9yIG1ha2luZyBjaGFuZ2VzIHRvJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZkNEg3d1RjR05IWlhKaTNGdFRNNTNqVmsyMlhOWjJ0OW1CZTQyX29BelF6TC1NUUs2Y1E5REg5S2dfYVRqaUt3aFR4ZzRuWE9JQTdSVXFhcjNUWEJ6b05kTWgxSktNaTZGRjlyaXZTNTI2X05LRmtuUnEwM1pDU1RHVEgxX2p3XzhMQVE1aVV1TW1hazNOM2g4VXk2bmtCZ2JOcTAxZm5GY1BBMWpkNjVTalhXRlZad3JYcDU4WHBNcWFRZHpiZ2RRaFFuajhtUXJhWWc3eEZJdkVtSHkwdkVCRzhtZWdDbi1iV01zVnlFTGZEVWZZMkw3THpVLUJwTzc5a3VjdFpvbjB6EgQaAggAGsQFEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKAFCAAQABgAIAAqJQoDYWlyFeZM00AaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEVxV_UQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyofCgdleHByZXNzFYmfxkAaD2FpcmluZGlhZXhwcmVzcyoWCgZyZWZ1bmQVQkxeQBoHcmVmdW5kczKaAi9nb3RvP3VybD1DQUVTeHdFQjZ6c3dGZDRIN3dUY0dOSFpYSmkzRnRUTTUzalZrMjJYTloydDltQmU0Ml9vQXpRekwtTVFLNmNROURIOUtnX2FUamlLd2hUeGc0blhPSUE3UlVxYXIzVFhCem9OZE1oMUpLTWk2RkY5cml2UzUyNl9OS0ZrblJxMDNaQ1NUR1RIMV9qd184TEFRNWlVdU1tYWszTjNoOFV5Nm5rQmdiTnEwMWZuRmNQQTFqZDY1U2pYV0ZWWndyWHA1OFhwTXFhUWR6YmdkUWhRbmo4bVFyYVlnN3hGSXZFbUh5MHZFQkc4bWVnQ24tYldNc1Z5RUxmRFVmWTJMN0x6VS1CcE83OWt1Y3Rab24wejpJSXMgeW91ciA8Yj5BaXIgSW5kaWEgRXhwcmVzczwvYj4gZmxpZ2h0IGNhbmNlbGxlZD8gRm9sbG93IHRoZXNlIHN0ZXBzIC4uLkKkATxiPkFpciBJbmRpYSBFeHByZXNzPC9iPiBzYWlkIHRoZSBwYXNzZW5nZXJzIGNhbiBlaXRoZXIgcmVzY2hlZHVsZSB0aGUgZmxpZ2h0IHdpdGhpbiB0aGUgbmV4dCBzZXZlbiBkYXlzLCBvcHQgZm9yIGEgZnVsbCA8Yj5yZWZ1bmQ8L2I-IG9yIG1ha2luZyBjaGFuZ2VzIHRvJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Air India Express said the passengers can either reschedule the flight within the next seven days, opt for a full refund or making changes to ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+          "source_info_link": "https://www.facebook.com/cnbctv18india/posts/travelwithcnbctv18-is-your-air-india-express-flight-cancelled-follow-these-steps/870313738462726/"
+        }
+      },
+      "displayed_link": "4 reactions · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "link": "https://www.facebook.com/cnbctv18india/posts/travelwithcnbctv18-is-your-air-india-express-flight-cancelled-follow-these-steps/870313738462726/",
+      "position": 9,
+      "read_more_link": "https://www.facebook.com/cnbctv18india/posts/travelwithcnbctv18-is-your-air-india-express-flight-cancelled-follow-these-steps/870313738462726/#:~:text=Air%20India%20Express%20said%20the,booking%20by%20visiting%20its%20chatbot.",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxwEB6zswFd4H7wTcGNHZXJi3FtTM53jVk22XNZ2t9mBe42_oAzQzL-MQK6cQ9DH9Kg_aTjiKwhTxg4nXOIA7RUqar3TXBzoNdMh1JKMi6FF9rivS526_NKFknRq03ZCSTGTH1_jw_8LAQ5iUuMmak3N3h8Uy6nkBgbNq01fnFcPA1jd65SjXWFVZwrXp58XpMqaQdzbgdQhQnj8mQraYg7xFIvEmHy0vEBG8megCn-bWMsVyELfDUfY2L7LzU-BpO79kuctZon0z&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQFnoECEoQAQ&uoh=1",
+      "snippet": "Air India Express said the passengers can either reschedule the flight within the next seven days, opt for a full refund or making changes to ...",
+      "snippet_highlighted_words": [
+        "Air India Express",
+        "refund"
+      ],
+      "source": "Facebook · CNBC-TV18",
+      "title": "Is your Air India Express flight cancelled? Follow these ..."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Air+India+Express+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&ei=kWPDap2rArrf2roPq47zuQ4&start=10&sa=N&sstk=AS6-VmLbT0PsL63kUyyB_ONtR4220QZpAyCHP4COedd2SliN94-_H9EYsjYEUnucRZzzl7C220OKRzkiE56U_Y6Agnn6gnHsB4QlZQ&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ8NMDegQIQRAW",
+    "other_pages": {
+      "10": "https://www.google.com/search?q=Air+India+Express+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&ei=kWPDap2rArrf2roPq47zuQ4&start=90&sa=N&sstk=AS6-VmLbT0PsL63kUyyB_ONtR4220QZpAyCHP4COedd2SliN94-_H9EYsjYEUnucRZzzl7C220OKRzkiE56U_Y6Agnn6gnHsB4QlZQ&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ8tMDegQIQRAU",
+      "2": "https://www.google.com/search?q=Air+India+Express+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&ei=kWPDap2rArrf2roPq47zuQ4&start=10&sa=N&sstk=AS6-VmLbT0PsL63kUyyB_ONtR4220QZpAyCHP4COedd2SliN94-_H9EYsjYEUnucRZzzl7C220OKRzkiE56U_Y6Agnn6gnHsB4QlZQ&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ8tMDegQIQRAE",
+      "3": "https://www.google.com/search?q=Air+India+Express+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&ei=kWPDap2rArrf2roPq47zuQ4&start=20&sa=N&sstk=AS6-VmLbT0PsL63kUyyB_ONtR4220QZpAyCHP4COedd2SliN94-_H9EYsjYEUnucRZzzl7C220OKRzkiE56U_Y6Agnn6gnHsB4QlZQ&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ8tMDegQIQRAG",
+      "4": "https://www.google.com/search?q=Air+India+Express+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&ei=kWPDap2rArrf2roPq47zuQ4&start=30&sa=N&sstk=AS6-VmLbT0PsL63kUyyB_ONtR4220QZpAyCHP4COedd2SliN94-_H9EYsjYEUnucRZzzl7C220OKRzkiE56U_Y6Agnn6gnHsB4QlZQ&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ8tMDegQIQRAI",
+      "5": "https://www.google.com/search?q=Air+India+Express+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&ei=kWPDap2rArrf2roPq47zuQ4&start=40&sa=N&sstk=AS6-VmLbT0PsL63kUyyB_ONtR4220QZpAyCHP4COedd2SliN94-_H9EYsjYEUnucRZzzl7C220OKRzkiE56U_Y6Agnn6gnHsB4QlZQ&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ8tMDegQIQRAK",
+      "6": "https://www.google.com/search?q=Air+India+Express+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&ei=kWPDap2rArrf2roPq47zuQ4&start=50&sa=N&sstk=AS6-VmLbT0PsL63kUyyB_ONtR4220QZpAyCHP4COedd2SliN94-_H9EYsjYEUnucRZzzl7C220OKRzkiE56U_Y6Agnn6gnHsB4QlZQ&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ8tMDegQIQRAM",
+      "7": "https://www.google.com/search?q=Air+India+Express+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&ei=kWPDap2rArrf2roPq47zuQ4&start=60&sa=N&sstk=AS6-VmLbT0PsL63kUyyB_ONtR4220QZpAyCHP4COedd2SliN94-_H9EYsjYEUnucRZzzl7C220OKRzkiE56U_Y6Agnn6gnHsB4QlZQ&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ8tMDegQIQRAO",
+      "8": "https://www.google.com/search?q=Air+India+Express+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&ei=kWPDap2rArrf2roPq47zuQ4&start=70&sa=N&sstk=AS6-VmLbT0PsL63kUyyB_ONtR4220QZpAyCHP4COedd2SliN94-_H9EYsjYEUnucRZzzl7C220OKRzkiE56U_Y6Agnn6gnHsB4QlZQ&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ8tMDegQIQRAQ",
+      "9": "https://www.google.com/search?q=Air+India+Express+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&ei=kWPDap2rArrf2roPq47zuQ4&start=80&sa=N&sstk=AS6-VmLbT0PsL63kUyyB_ONtR4220QZpAyCHP4COedd2SliN94-_H9EYsjYEUnucRZzzl7C220OKRzkiE56U_Y6Agnn6gnHsB4QlZQ&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ8tMDegQIQRAS"
+    }
+  },
+  "related_questions": [
+    {
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XVlFNR0Z6TmpaeFFuWlFXbkJmZDNGdGFEWmFiVWxmYzFweFdtaDBha3Q2YWtkcGFIRkpPUzF5TFZwNlpHTnphVE5RUTNwTFkydEJkVXRmV0RoMFVTMUJjR0pEWVZnMFF6VnBkREpGYVRkd1FtbEZjV05QWjNvelp4SVhhMWRRUkdGd01uSkJjbkptTW5KdlVIRTBOM3AxVVRRYUlrRkVjM0k1WmxSblkwWjNPRFJuT0hNME5XZzNjRVpaVVhreGJIZFZZMGQ0TmxFIiwiZmN2IjoiMyIsImVpIjoia1dQRGFwMnJBcnJmMnJvUHE0N3p1UTQiLCJxYyI6IkNoaGhhWElnYVc1a2FXRWdaWGh3Y21WemN5QnlaV1oxYm1RUUFIMFk0ZjAtIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAyNC1ob3VyIGN1c3RvbWVyIGNhcmUgbnVtYmVyIGZvciBBaXIgSW5kaWEgRXhwcmVzcyBpbiBJbmRpYT8iLCJsayI6ImM1T3lTTXdzVXNqTVM4bE1WRWl0S0NoS0xTNVdTQzR0THNuUFRTMVNTRTRzU2xYSUs4MU5TZ1VwZ2FveU1sSEl5Qzh0S2dZQSIsImJzIjoiYzQyUXZXNENNUkNFUmV1Sy1xb1JKVC1OQlZLVTVwUUNDWjZBSWtyaGNIdllDclpoMXhiSkMtUzU0eHhJY0xvVTZWWTczLTdPclBvZXFjM09tZ1FuU0phZ2x3c2JNMk9mSlVWUHBUQk1DTm1fbDdxTmpCZkgySWJHR2F3X1Qwd2ljT0hhcVBWejlXU0s3RHFaYnZLZm04ck1sZEpMX040VDlhcG1QUjlkRzV5UDFKMzFUb1FhdEVkM3NFbHFQYS1tbDNfajZrM05OX0VDbl9jV3lYbENFMGtlb2lUelFVZ1JURzBPVGEwWDFjd08tWHUyUGwtOHJ4NjlEMV9VTXAwemhWUU1mWlgwSjQ0SE5yN1drd3JEaF9YaDhlZ0giLCJpZCI6ImZjX2tXUERhcDJyQXJyZjJyb1BxNDd6dVE0XzUifQ==",
+      "page_token": "g0g093icHdFNjpswGABQ9TKznASYSTuRoqoQfhIVqA3fB3hTgU1gwGA3YYbArnfpugfqaVp18U7wfv6Sr2P_58Pvdpr0bb_ZzPP82CjVyPqRq2FT3paRb3gpZVXyfr_7uDM-X_jBVbPj3GabgNZ4pNukY0PlFybm6insWCt8ZYapeBKe1LnFOgFnEqctJpbGGtk9PnpFCEaRdPhcIbPLXK41MAd9dipWeckGz6t8D6ATPrhqrV32LZMSo15tC8t-i1bpQifbJNNQjPg1gpOJ0M5RQIcsZxFZba8yqUwdQ9WutvjaEiLPuzp7kRGwUxh4Bt0KFMCf44DdSmR-7EUOh2IhvQiolGccztdEfppY11jQhVNi9QsOhkMt-84M8VYFiMJqDGq2O7G9m8Wgf7ituKJhu0X-ZeG9t_Ch-OeF8JRY9Yg0stUrAbryTg4A_b0O6BECXAF0Knzds6Dta99DMbIw9umJkIcLfz9YD_8fDt8vw7TXV9X8BegdmIs",
+      "question": "What is the 24-hour customer care number for Air India Express in India?",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=g0g093icHdFNjpswGABQ9TKznASYSTuRoqoQfhIVqA3fB3hTgU1gwGA3YYbArnfpugfqaVp18U7wfv6Sr2P_58Pvdpr0bb_ZzPP82CjVyPqRq2FT3paRb3gpZVXyfr_7uDM-X_jBVbPj3GabgNZ4pNukY0PlFybm6insWCt8ZYapeBKe1LnFOgFnEqctJpbGGtk9PnpFCEaRdPhcIbPLXK41MAd9dipWeckGz6t8D6ATPrhqrV32LZMSo15tC8t-i1bpQifbJNNQjPg1gpOJ0M5RQIcsZxFZba8yqUwdQ9WutvjaEiLPuzp7kRGwUxh4Bt0KFMCf44DdSmR-7EUOh2IhvQiolGccztdEfppY11jQhVNi9QsOhkMt-84M8VYFiMJqDGq2O7G9m8Wgf7ituKJhu0X-ZeG9t_Ch-OeF8JRY9Yg0stUrAbryTg4A_b0O6BECXAF0Knzds6Dta99DMbIw9umJkIcLfz9YD_8fDt8vw7TXV9X8BegdmIs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XVlFNR0Z6TmpaeFFuWlFXbkJmZDNGdGFEWmFiVWxmYzFweFdtaDBha3Q2YWtkcGFIRkpPUzF5TFZwNlpHTnphVE5RUTNwTFkydEJkVXRmV0RoMFVTMUJjR0pEWVZnMFF6VnBkREpGYVRkd1FtbEZjV05QWjNvelp4SVhhMWRRUkdGd01uSkJjbkptTW5KdlVIRTBOM3AxVVRRYUlrRkVjM0k1WmxSblkwWjNPRFJuT0hNME5XZzNjRVpaVVhreGJIZFZZMGQ0TmxFIiwiZmN2IjoiMyIsImVpIjoia1dQRGFwMnJBcnJmMnJvUHE0N3p1UTQiLCJxYyI6IkNoaGhhWElnYVc1a2FXRWdaWGh3Y21WemN5QnlaV1oxYm1RUUFIMFk0ZjAtIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAyNC1ob3VyIGN1c3RvbWVyIGNhcmUgbnVtYmVyIGZvciBBaXIgSW5kaWEgRXhwcmVzcyBpbiBJbmRpYT8iLCJsayI6ImM1T3lTTXdzVXNqTVM4bE1WRWl0S0NoS0xTNVdTQzR0THNuUFRTMVNTRTRzU2xYSUs4MU5TZ1VwZ2FveU1sSEl5Qzh0S2dZQSIsImJzIjoiYzQyUXZXNENNUkNFUmV1Sy1xb1JKVC1OQlZLVTVwUUNDWjZBSWtyaGNIdllDclpoMXhiSkMtUzU0eHhJY0xvVTZWWTczLTdPclBvZXFjM09tZ1FuU0phZ2x3c2JNMk9mSlVWUHBUQk1DTm1fbDdxTmpCZkgySWJHR2F3X1Qwd2ljT0hhcVBWejlXU0s3RHFaYnZLZm04ck1sZEpMX040VDlhcG1QUjlkRzV5UDFKMzFUb1FhdEVkM3NFbHFQYS1tbDNfajZrM05OX0VDbl9jV3lYbENFMGtlb2lUelFVZ1JURzBPVGEwWDFjd08tWHUyUGwtOHJ4NjlEMV9VTXAwemhWUU1mWlgwSjQ0SE5yN1drd3JEaF9YaDhlZ0giLCJpZCI6ImZjX2tXUERhcDJyQXJyZjJyb1BxNDd6dVE0XzUifQ%3D%3D",
+      "type": "ai_overview"
+    },
+    {
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XVlFNR0Z6TmpaeFFuWlFXbkJmZDNGdGFEWmFiVWxmYzFweFdtaDBha3Q2YWtkcGFIRkpPUzF5TFZwNlpHTnphVE5RUTNwTFkydEJkVXRmV0RoMFVTMUJjR0pEWVZnMFF6VnBkREpGYVRkd1FtbEZjV05QWjNvelp4SVhhMWRRUkdGd01uSkJjbkptTW5KdlVIRTBOM3AxVVRRYUlrRkVjM0k1WmxSblkwWjNPRFJuT0hNME5XZzNjRVpaVVhreGJIZFZZMGQ0TmxFIiwiZmN2IjoiMyIsImVpIjoia1dQRGFwMnJBcnJmMnJvUHE0N3p1UTQiLCJxYyI6IkNoaGhhWElnYVc1a2FXRWdaWGh3Y21WemN5QnlaV1oxYm1RUUFIMFk0ZjAtIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAyIGhvdXIgcnVsZSBmb3IgbWlzc2VkIGZsaWdodHM/IiwibGsiOiJHaXAzYUdGMElHbHpJSFJvWlNBeUlHaHZkWElnY25Wc1pTQm1iM0lnYldsemMyVmtJR1pzYVdkb2RITSIsImJzIjoiYzQyUXZXNENNUkNFUmV1Sy1xb1JKVC1OQlZLVTVwUUNDWjZBSWtyaGNIdllDclpoMXhiSkMtUzU0eHhJY0xvVTZWWTczLTdPclBvZXFjM09tZ1FuU0phZ2x3c2JNMk9mSlVWUHBUQk1DTm1fbDdxTmpCZkgySWJHR2F3X1Qwd2ljT0hhcVBWejlXU0s3RHFaYnZLZm04ck1sZEpMX040VDlhcG1QUjlkRzV5UDFKMzFUb1FhdEVkM3NFbHFQYS1tbDNfajZrM05OX0VDbl9jV3lYbENFMGtlb2lUelFVZ1JURzBPVGEwWDFjd08tWHUyUGwtOHJ4NjlEMV9VTXAwemhWUU1mWlgwSjQ0SE5yN1drd3JEaF9YaDhlZ0giLCJpZCI6ImZjX2tXUERhcDJyQXJyZjJyb1BxNDd6dVE0XzUifQ==",
+      "page_token": "IuyV43icHdBNbuIwGABQzWVYlvwIKpDQqK4dKCIZ2cRfgjdVsBNM7CSekhKS3dxlTjWnmaqLd4H356-9tubfj7vue3dbz-fDMDxduu5iyyfZNfPiNrZyLgtrz4U06-Xz0v9ZyQ35fEOvv98Q5c4BZt6x5oPYiiEGNEKr7hlWsZySgU98cc7NlBImROMOSSBQEumH2O01y_WnrHUkuHhNQ2C_SIKKrd1xz_TUf5mOgXAnQIEKRH5OGZREiTxgh0O6z2TIWgCHi2iF5UQCnsNVWWRoEDW0Vg--fTRsJ-gZ277MVjXzdCd8lWdgM2V8lBDmSaxvhYF9TNhUtjQ81rAF30GGdUu0-gAfkVP-MkoTjbI5fVlRmdKwbIElqLtSziZZ24ablWCYLorcVTHwUUz7RxKQRRzaSlqBmAdYDLNK3jfh7Ptz8141_dp9dJf_UQeEog",
+      "question": "What is the 2 hour rule for missed flights?",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IuyV43icHdBNbuIwGABQzWVYlvwIKpDQqK4dKCIZ2cRfgjdVsBNM7CSekhKS3dxlTjWnmaqLd4H356-9tubfj7vue3dbz-fDMDxduu5iyyfZNfPiNrZyLgtrz4U06-Xz0v9ZyQ35fEOvv98Q5c4BZt6x5oPYiiEGNEKr7hlWsZySgU98cc7NlBImROMOSSBQEumH2O01y_WnrHUkuHhNQ2C_SIKKrd1xz_TUf5mOgXAnQIEKRH5OGZREiTxgh0O6z2TIWgCHi2iF5UQCnsNVWWRoEDW0Vg--fTRsJ-gZ277MVjXzdCd8lWdgM2V8lBDmSaxvhYF9TNhUtjQ81rAF30GGdUu0-gAfkVP-MkoTjbI5fVlRmdKwbIElqLtSziZZ24ablWCYLorcVTHwUUz7RxKQRRzaSlqBmAdYDLNK3jfh7Ptz8141_dp9dJf_UQeEog",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XVlFNR0Z6TmpaeFFuWlFXbkJmZDNGdGFEWmFiVWxmYzFweFdtaDBha3Q2YWtkcGFIRkpPUzF5TFZwNlpHTnphVE5RUTNwTFkydEJkVXRmV0RoMFVTMUJjR0pEWVZnMFF6VnBkREpGYVRkd1FtbEZjV05QWjNvelp4SVhhMWRRUkdGd01uSkJjbkptTW5KdlVIRTBOM3AxVVRRYUlrRkVjM0k1WmxSblkwWjNPRFJuT0hNME5XZzNjRVpaVVhreGJIZFZZMGQ0TmxFIiwiZmN2IjoiMyIsImVpIjoia1dQRGFwMnJBcnJmMnJvUHE0N3p1UTQiLCJxYyI6IkNoaGhhWElnYVc1a2FXRWdaWGh3Y21WemN5QnlaV1oxYm1RUUFIMFk0ZjAtIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAyIGhvdXIgcnVsZSBmb3IgbWlzc2VkIGZsaWdodHM%2FIiwibGsiOiJHaXAzYUdGMElHbHpJSFJvWlNBeUlHaHZkWElnY25Wc1pTQm1iM0lnYldsemMyVmtJR1pzYVdkb2RITSIsImJzIjoiYzQyUXZXNENNUkNFUmV1Sy1xb1JKVC1OQlZLVTVwUUNDWjZBSWtyaGNIdllDclpoMXhiSkMtUzU0eHhJY0xvVTZWWTczLTdPclBvZXFjM09tZ1FuU0phZ2x3c2JNMk9mSlVWUHBUQk1DTm1fbDdxTmpCZkgySWJHR2F3X1Qwd2ljT0hhcVBWejlXU0s3RHFaYnZLZm04ck1sZEpMX040VDlhcG1QUjlkRzV5UDFKMzFUb1FhdEVkM3NFbHFQYS1tbDNfajZrM05OX0VDbl9jV3lYbENFMGtlb2lUelFVZ1JURzBPVGEwWDFjd08tWHUyUGwtOHJ4NjlEMV9VTXAwemhWUU1mWlgwSjQ0SE5yN1drd3JEaF9YaDhlZ0giLCJpZCI6ImZjX2tXUERhcDJyQXJyZjJyb1BxNDd6dVE0XzUifQ%3D%3D",
+      "type": "ai_overview"
+    },
+    {
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XVlFNR0Z6TmpaeFFuWlFXbkJmZDNGdGFEWmFiVWxmYzFweFdtaDBha3Q2YWtkcGFIRkpPUzF5TFZwNlpHTnphVE5RUTNwTFkydEJkVXRmV0RoMFVTMUJjR0pEWVZnMFF6VnBkREpGYVRkd1FtbEZjV05QWjNvelp4SVhhMWRRUkdGd01uSkJjbkptTW5KdlVIRTBOM3AxVVRRYUlrRkVjM0k1WmxSblkwWjNPRFJuT0hNME5XZzNjRVpaVVhreGJIZFZZMGQ0TmxFIiwiZmN2IjoiMyIsImVpIjoia1dQRGFwMnJBcnJmMnJvUHE0N3p1UTQiLCJxYyI6IkNoaGhhWElnYVc1a2FXRWdaWGh3Y21WemN5QnlaV1oxYm1RUUFIMFk0ZjAtIiwicXVlc3Rpb24iOiJIb3cgbXVjaCB0aW1lIGRvZXMgQWlyIEluZGlhIHRha2UgdG8gcmVmdW5kPyIsImxrIjoiR2l0b2IzY2diWFZqYUNCMGFXMWxJR1J2WlhNZ1lXbHlJR2x1WkdsaElIUmhhMlVnZEc4Z2NtVm1kVzVrIiwiYnMiOiJjNDJRdlc0Q01SQ0VSZXVLLXFvUkpULU5CVktVNXBRQ0NaNkFJa3JoY0h2WUNyWmgxeGJKQy1TNTR4eEljTG9VNlZZNzMtN09yUG9lcWMzT21nUW5TSmFnbHdzYk0yT2ZKVVZQcFRCTUNObV9sN3FOakJmSDJJYkdHYXdfVDB3aWNPSGFxUFZ6OVdTSzdEcVpidktmbThyTWxkSkxfTjRUOWFwbVBSOWRHNXlQMUozMVRvUWF0RWQzc0VscVBhLW1sM19qNmszTk5fRUNuX2NXeVhsQ0Uwa2VvaVR6UVVnUlRHME9UYTBYMWN3Ty1YdTJQbC04cng2OUQxX1VNcDB6aFZRTWZaWDBKNDRITnI3V2t3ckRoX1hoOGVnSCIsImlkIjoiZmNfa1dQRGFwMnJBcnJmMnJvUHE0N3p1UTRfNSJ9",
+      "page_token": "0jubaHicHdDbboIwAADQ7Gd8lBbRZSZmCeOi3agB2sr6skCrgNw6rXJ527_sq_Y1W_Z83s7Xd1221c9DUmitrmvD6Pt-nnddXh_nomuM9Dq2whBpXWepqNarxxV8PomNe-3tl663Q6oUcyIQN-qT15GVmXxLJ6QIjCZGtY-ZPex9vDtSVEatvMTUArHP-hA-IckUJTRYHrfoloJcB9X7kruMhZMsJR0mWqHi4A5bQvCdNMqUvvXnEMaQr4Ip6g5nFpIEk7i1byENNPEEwD5_yyZ3khXQ3LEhBbmVNggkMF8GlWXGCxYE0NM4EbFn6oS6USEcNIYJGvkZjRm0B-zIlWQu8EtkR1s87g-chCY-7cnOzKDXYcraBBR9StHrod2NEhRO5vHF7CTum8Xsf2zzcWr0Wl26_Bc1ZneI",
+      "question": "How much time does Air India take to refund?",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0jubaHicHdDbboIwAADQ7Gd8lBbRZSZmCeOi3agB2sr6skCrgNw6rXJ527_sq_Y1W_Z83s7Xd1221c9DUmitrmvD6Pt-nnddXh_nomuM9Dq2whBpXWepqNarxxV8PomNe-3tl663Q6oUcyIQN-qT15GVmXxLJ6QIjCZGtY-ZPex9vDtSVEatvMTUArHP-hA-IckUJTRYHrfoloJcB9X7kruMhZMsJR0mWqHi4A5bQvCdNMqUvvXnEMaQr4Ip6g5nFpIEk7i1byENNPEEwD5_yyZ3khXQ3LEhBbmVNggkMF8GlWXGCxYE0NM4EbFn6oS6USEcNIYJGvkZjRm0B-zIlWQu8EtkR1s87g-chCY-7cnOzKDXYcraBBR9StHrod2NEhRO5vHF7CTum8Xsf2zzcWr0Wl26_Bc1ZneI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XVlFNR0Z6TmpaeFFuWlFXbkJmZDNGdGFEWmFiVWxmYzFweFdtaDBha3Q2YWtkcGFIRkpPUzF5TFZwNlpHTnphVE5RUTNwTFkydEJkVXRmV0RoMFVTMUJjR0pEWVZnMFF6VnBkREpGYVRkd1FtbEZjV05QWjNvelp4SVhhMWRRUkdGd01uSkJjbkptTW5KdlVIRTBOM3AxVVRRYUlrRkVjM0k1WmxSblkwWjNPRFJuT0hNME5XZzNjRVpaVVhreGJIZFZZMGQ0TmxFIiwiZmN2IjoiMyIsImVpIjoia1dQRGFwMnJBcnJmMnJvUHE0N3p1UTQiLCJxYyI6IkNoaGhhWElnYVc1a2FXRWdaWGh3Y21WemN5QnlaV1oxYm1RUUFIMFk0ZjAtIiwicXVlc3Rpb24iOiJIb3cgbXVjaCB0aW1lIGRvZXMgQWlyIEluZGlhIHRha2UgdG8gcmVmdW5kPyIsImxrIjoiR2l0b2IzY2diWFZqYUNCMGFXMWxJR1J2WlhNZ1lXbHlJR2x1WkdsaElIUmhhMlVnZEc4Z2NtVm1kVzVrIiwiYnMiOiJjNDJRdlc0Q01SQ0VSZXVLLXFvUkpULU5CVktVNXBRQ0NaNkFJa3JoY0h2WUNyWmgxeGJKQy1TNTR4eEljTG9VNlZZNzMtN09yUG9lcWMzT21nUW5TSmFnbHdzYk0yT2ZKVVZQcFRCTUNObV9sN3FOakJmSDJJYkdHYXdfVDB3aWNPSGFxUFZ6OVdTSzdEcVpidktmbThyTWxkSkxfTjRUOWFwbVBSOWRHNXlQMUozMVRvUWF0RWQzc0VscVBhLW1sM19qNmszTk5fRUNuX2NXeVhsQ0Uwa2VvaVR6UVVnUlRHME9UYTBYMWN3Ty1YdTJQbC04cng2OUQxX1VNcDB6aFZRTWZaWDBKNDRITnI3V2t3ckRoX1hoOGVnSCIsImlkIjoiZmNfa1dQRGFwMnJBcnJmMnJvUHE0N3p1UTRfNSJ9",
+      "type": "ai_overview"
+    },
+    {
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XVlFNR0Z6TmpaeFFuWlFXbkJmZDNGdGFEWmFiVWxmYzFweFdtaDBha3Q2YWtkcGFIRkpPUzF5TFZwNlpHTnphVE5RUTNwTFkydEJkVXRmV0RoMFVTMUJjR0pEWVZnMFF6VnBkREpGYVRkd1FtbEZjV05QWjNvelp4SVhhMWRRUkdGd01uSkJjbkptTW5KdlVIRTBOM3AxVVRRYUlrRkVjM0k1WmxSblkwWjNPRFJuT0hNME5XZzNjRVpaVVhreGJIZFZZMGQ0TmxFIiwiZmN2IjoiMyIsImVpIjoia1dQRGFwMnJBcnJmMnJvUHE0N3p1UTQiLCJxYyI6IkNoaGhhWElnYVc1a2FXRWdaWGh3Y21WemN5QnlaV1oxYm1RUUFIMFk0ZjAtIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBBaXIgSW5kaWEgRXhwcmVzcyBmcmVxdWVudCBmbHllciBwcm9ncmFtPyIsImxrIjoiR2lCaGFYSWdhVzVrYVdFZ1pYaHdjbVZ6Y3lCbWNtVnhkV1Z1ZENCbWJIbGxjZyIsImJzIjoiYzQyUXZXNENNUkNFUmV1Sy1xb1JKVC1OQlZLVTVwUUNDWjZBSWtyaGNIdllDclpoMXhiSkMtUzU0eHhJY0xvVTZWWTczLTdPclBvZXFjM09tZ1FuU0phZ2x3c2JNMk9mSlVWUHBUQk1DTm1fbDdxTmpCZkgySWJHR2F3X1Qwd2ljT0hhcVBWejlXU0s3RHFaYnZLZm04ck1sZEpMX040VDlhcG1QUjlkRzV5UDFKMzFUb1FhdEVkM3NFbHFQYS1tbDNfajZrM05OX0VDbl9jV3lYbENFMGtlb2lUelFVZ1JURzBPVGEwWDFjd08tWHUyUGwtOHJ4NjlEMV9VTXAwemhWUU1mWlgwSjQ0SE5yN1drd3JEaF9YaDhlZ0giLCJpZCI6ImZjX2tXUERhcDJyQXJyZjJyb1BxNDd6dVE0XzUifQ==",
+      "page_token": "uyBUP3icHdBdboIwAADg7DI-KgVlwcQsq4KDTFgLLZSXBYrITwuIKMrb7rJT7TRb9vBd4Pv6FmVT_zzdimHoLuvFYhzH-altT-I4561cJJdHwxc8ESJNeL3Wn3XwkvONebXh9mxDRLqO7rDiBzQn0jgHcvCOwohcYelIjfcMZEs0xSqunNE1VzQVEJNwZXGl-8hkrbLw7lHTHX3FqdJGAD8qJN0PlwTglk1Z4EoHHwAOMDFCauGL3xQ90-iUUcPhE_RYbdhEo5QE0GfAHpItyGP1HtIKsqR2SkaKPjZjPVUNL1VWPRIExFphx4G4esQq6VurIqIsQ2pq7g5HnlmcM9JpZpH1FECTRa8PXlsPLtkfA_EAaceGYhe2JSJ44pWQRBQCk87398ONV7H7HmY3byeUA7CkO0E_AtaZoFnObxtt9v-5-czlsO769vQL2xCDIA",
+      "question": "What is the Air India Express frequent flyer program?",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=uyBUP3icHdBdboIwAADg7DI-KgVlwcQsq4KDTFgLLZSXBYrITwuIKMrb7rJT7TRb9vBd4Pv6FmVT_zzdimHoLuvFYhzH-altT-I4561cJJdHwxc8ESJNeL3Wn3XwkvONebXh9mxDRLqO7rDiBzQn0jgHcvCOwohcYelIjfcMZEs0xSqunNE1VzQVEJNwZXGl-8hkrbLw7lHTHX3FqdJGAD8qJN0PlwTglk1Z4EoHHwAOMDFCauGL3xQ90-iUUcPhE_RYbdhEo5QE0GfAHpItyGP1HtIKsqR2SkaKPjZjPVUNL1VWPRIExFphx4G4esQq6VurIqIsQ2pq7g5HnlmcM9JpZpH1FECTRa8PXlsPLtkfA_EAaceGYhe2JSJ44pWQRBQCk87398ONV7H7HmY3byeUA7CkO0E_AtaZoFnObxtt9v-5-czlsO769vQL2xCDIA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XVlFNR0Z6TmpaeFFuWlFXbkJmZDNGdGFEWmFiVWxmYzFweFdtaDBha3Q2YWtkcGFIRkpPUzF5TFZwNlpHTnphVE5RUTNwTFkydEJkVXRmV0RoMFVTMUJjR0pEWVZnMFF6VnBkREpGYVRkd1FtbEZjV05QWjNvelp4SVhhMWRRUkdGd01uSkJjbkptTW5KdlVIRTBOM3AxVVRRYUlrRkVjM0k1WmxSblkwWjNPRFJuT0hNME5XZzNjRVpaVVhreGJIZFZZMGQ0TmxFIiwiZmN2IjoiMyIsImVpIjoia1dQRGFwMnJBcnJmMnJvUHE0N3p1UTQiLCJxYyI6IkNoaGhhWElnYVc1a2FXRWdaWGh3Y21WemN5QnlaV1oxYm1RUUFIMFk0ZjAtIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBBaXIgSW5kaWEgRXhwcmVzcyBmcmVxdWVudCBmbHllciBwcm9ncmFtPyIsImxrIjoiR2lCaGFYSWdhVzVrYVdFZ1pYaHdjbVZ6Y3lCbWNtVnhkV1Z1ZENCbWJIbGxjZyIsImJzIjoiYzQyUXZXNENNUkNFUmV1Sy1xb1JKVC1OQlZLVTVwUUNDWjZBSWtyaGNIdllDclpoMXhiSkMtUzU0eHhJY0xvVTZWWTczLTdPclBvZXFjM09tZ1FuU0phZ2x3c2JNMk9mSlVWUHBUQk1DTm1fbDdxTmpCZkgySWJHR2F3X1Qwd2ljT0hhcVBWejlXU0s3RHFaYnZLZm04ck1sZEpMX040VDlhcG1QUjlkRzV5UDFKMzFUb1FhdEVkM3NFbHFQYS1tbDNfajZrM05OX0VDbl9jV3lYbENFMGtlb2lUelFVZ1JURzBPVGEwWDFjd08tWHUyUGwtOHJ4NjlEMV9VTXAwemhWUU1mWlgwSjQ0SE5yN1drd3JEaF9YaDhlZ0giLCJpZCI6ImZjX2tXUERhcDJyQXJyZjJyb1BxNDd6dVE0XzUifQ%3D%3D",
+      "type": "ai_overview"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&q=Air+india+express+refund+status&sa=X&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ1QJ6BAg8EAE",
+      "query": "Air india express refund status",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+india+express+refund+status"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&q=Air+india+express+refund+policy&sa=X&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ1QJ6BAhCEAE",
+      "query": "Air india express refund policy",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+india+express+refund+policy"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&q=Air+India+Express+customer+care+Number&sa=X&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ1QJ6BAhEEAE",
+      "query": "Air India Express customer care Number",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+customer+care+Number"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&q=Air+india+express+refund+number&sa=X&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ1QJ6BAhDEAE",
+      "query": "Air india express refund number",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+india+express+refund+number"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&q=Air+India+Express+reschedule+Charges&sa=X&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ1QJ6BAhAEAE",
+      "query": "Air India Express reschedule Charges",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+reschedule+Charges"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&q=Air+India+Express+reschedule+flight&sa=X&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ1QJ6BAg_EAE",
+      "query": "Air India Express reschedule flight",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+reschedule+flight"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&q=Air+India+Express+customer+care+WhatsApp+Number&sa=X&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ1QJ6BAg-EAE",
+      "query": "Air India Express customer care WhatsApp Number",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+customer+care+WhatsApp+Number"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnuOqgL3MEtvVTsJiHjLbI3amDvSng:1791189905048&q=Air+India+Express+No+last+name+policy+international&sa=X&ved=2ahUKEwjdt4-wvqKXAxW6r1YBHSvHPOcQ1QJ6BAg9EAE",
+      "query": "Air India Express No last name policy international",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+No+last+name+policy+international"
+    }
+  ],
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "Air India Express refund",
+    "time_taken_displayed": 0.2,
+    "total_results": 140
+  },
+  "search_metadata": {
+    "created_at": "2026-10-05 08:45:04 UTC",
+    "google_url": "https://www.google.com/search?q=Air+India+Express+refund&oq=Air+India+Express+refund&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "id": "6ac3639071a41d88bc44dba4",
+    "json_endpoint": "https://serpapi.com/searches/3K-mC_-DBzjSVK-fhnPCH_LKPImSiG9Rsls-6j8m9ZQ/6ac3639071a41d88bc44dba4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/3K-mC_-DBzjSVK-fhnPCH_LKPImSiG9Rsls-6j8m9ZQ/6ac3639071a41d88bc44dba4.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/3K-mC_-DBzjSVK-fhnPCH_LKPImSiG9Rsls-6j8m9ZQ/6ac3639071a41d88bc44dba4.json_with_pixel_position",
+    "processed_at": "2026-10-05 08:45:04 UTC",
+    "raw_html_file": "https://serpapi.com/searches/3K-mC_-DBzjSVK-fhnPCH_LKPImSiG9Rsls-6j8m9ZQ/6ac3639071a41d88bc44dba4.html",
+    "status": "Success",
+    "total_time_taken": 1.86
+  },
+  "search_parameters": {
+    "device": "desktop",
+    "engine": "google",
+    "gl": "in",
+    "google_domain": "google.com",
+    "hl": "en",
+    "q": "Air India Express refund"
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+refund&start=10",
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+refund&start=10",
+    "other_pages": {
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+refund&start=90",
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+refund&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+refund&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+refund&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+refund&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+refund&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+refund&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+refund&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+refund&start=80"
+    }
+  }
+}

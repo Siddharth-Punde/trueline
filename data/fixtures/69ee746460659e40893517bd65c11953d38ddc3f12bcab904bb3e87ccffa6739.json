@@ -1,0 +1,440 @@
+{
+  "organic_results": [
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZYT0laR2FlTjVuNGlFRGl5TmdGdTlyUjFoQVBxQWJNX0VDdmEtejlCVnUwLXcyaThwVGR5NUI0VHI3Q0wzUmtiM3REOGZXOFJ2SEx3MEFfTXZGQTJqY21QaTN6RGtRbTFEOHM0NFBlNVlEUVg3bXhSaHRubnQ3UDBuUEdBc0NPTWdUMGNJLTNRZTY4UENWdkRKaU9iY19WSDhrRExydWIxMXlTb0VydkVIQzBVSE4xZXFTQnpXUlRIdxIEGgIIABrqBRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWhAIARIMYWlyaW5kaWEuY29tcgB6AIJAtgUIABAAGAAgACoUCgNhaXIVCrAwQRoIYWlyaW5kaWEqOAoFaW5kaWEVaqswQRoIYWlyaW5kaWEaDWluZGlhY3VzdG9tZXIaEWluZGlhY3VzdG9tZXJjYXJlKm0KCGN1c3RvbWVyFd0psj4aCGNvbnN1bWVyGgdjb250YWN0GgRjdXN0GgljdXN0b21lcnMaCGhlbHBsaW5lGg1pbmRpYWN1c3RvbWVyGhFpbmRpYWN1c3RvbWVyY2FyZRoMY3VzdG9tZXJjYXJlKj8KBGNhcmUVU6FdPRoHY29udGFjdBoIaGVscGxpbmUaEWluZGlhY3VzdG9tZXJjYXJlGgxjdXN0b21lcmNhcmUqFgoGbnVtYmVyFQAAAAAaB251bWJlcnMy0AEvZ290bz91cmw9Q0FFU2p3RUI2enN3RlhPSVpHYWVONW40aUVEaXlOZ0Z1OXJSMWhBUHFBYk1fRUN2YS16OUJWdTAtdzJpOHBUZHk1QjRUcjdDTDNSa2IzdEQ4Zlc4UnZITHcwQV9NdkZBMmpjbVBpM3pEa1FtMUQ4czQ0UGU1WURRWDdteFJodG5udDdQMG5QR0FzQ09NZ1QwY0ktM1FlNjhQQ1Z2REppT2JjX1ZIOGtETHJ1YjExeVNvRXJ2RUhDMFVITjFlcVNCeldSVEh3OkdIeWRlcmFiYWQgQWlycG9ydCAoSFlEKSBJbmZvcm1hdGlvbiAmYW1wOyBGYWNpbGl0aWVzIC0gPGI-QWlyIEluZGlhPC9iPkJvRm9yIGJvb2tpbmcsIHlvdSBjYW4gY2FsbCBvbiArOTEgODgyNjY5NzkyMC4gQ2FsbCB0aGVtIGF0IDA0MC02NjYwNjA2NCDigKYgPGI-Y29udGFjdDwvYj4gdGhlIG5lYXJlc3QgaGVscCBkZXNrUgdjb250YWN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZYT0laR2FlTjVuNGlFRGl5TmdGdTlyUjFoQVBxQWJNX0VDdmEtejlCVnUwLXcyaThwVGR5NUI0VHI3Q0wzUmtiM3REOGZXOFJ2SEx3MEFfTXZGQTJqY21QaTN6RGtRbTFEOHM0NFBlNVlEUVg3bXhSaHRubnQ3UDBuUEdBc0NPTWdUMGNJLTNRZTY4UENWdkRKaU9iY19WSDhrRExydWIxMXlTb0VydkVIQzBVSE4xZXFTQnpXUlRIdxIEGgIIABrqBRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWhAIARIMYWlyaW5kaWEuY29tcgB6AIJAtgUIABAAGAAgACoUCgNhaXIVCrAwQRoIYWlyaW5kaWEqOAoFaW5kaWEVaqswQRoIYWlyaW5kaWEaDWluZGlhY3VzdG9tZXIaEWluZGlhY3VzdG9tZXJjYXJlKm0KCGN1c3RvbWVyFd0psj4aCGNvbnN1bWVyGgdjb250YWN0GgRjdXN0GgljdXN0b21lcnMaCGhlbHBsaW5lGg1pbmRpYWN1c3RvbWVyGhFpbmRpYWN1c3RvbWVyY2FyZRoMY3VzdG9tZXJjYXJlKj8KBGNhcmUVU6FdPRoHY29udGFjdBoIaGVscGxpbmUaEWluZGlhY3VzdG9tZXJjYXJlGgxjdXN0b21lcmNhcmUqFgoGbnVtYmVyFQAAAAAaB251bWJlcnMy0AEvZ290bz91cmw9Q0FFU2p3RUI2enN3RlhPSVpHYWVONW40aUVEaXlOZ0Z1OXJSMWhBUHFBYk1fRUN2YS16OUJWdTAtdzJpOHBUZHk1QjRUcjdDTDNSa2IzdEQ4Zlc4UnZITHcwQV9NdkZBMmpjbVBpM3pEa1FtMUQ4czQ0UGU1WURRWDdteFJodG5udDdQMG5QR0FzQ09NZ1QwY0ktM1FlNjhQQ1Z2REppT2JjX1ZIOGtETHJ1YjExeVNvRXJ2RUhDMFVITjFlcVNCeldSVEh3OkdIeWRlcmFiYWQgQWlycG9ydCAoSFlEKSBJbmZvcm1hdGlvbiAmYW1wOyBGYWNpbGl0aWVzIC0gPGI-QWlyIEluZGlhPC9iPkJvRm9yIGJvb2tpbmcsIHlvdSBjYW4gY2FsbCBvbiArOTEgODgyNjY5NzkyMC4gQ2FsbCB0aGVtIGF0IDA0MC02NjYwNjA2NCDigKYgPGI-Y29udGFjdDwvYj4gdGhlIG5lYXJlc3QgaGVscCBkZXNrUgdjb250YWN0IgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "For booking, you can call on +91 8826697920. Call them at 040-66606064 … contact the nearest help desk",
+          "icon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAAAQBQCdASogACAAPrUurVanIacnG_DgFolsALUXwKuA9yat26l6s4eGD1Q8lFaSUZeQAPwz-csAiBqj8Mk_unYzT6eOPwC6to1BkexeLWN8X_29Wm7WTz4Jvs0ibxad_80JDqD--PaLPNf5b8HCpxNtUEXpcaVduAIurzZINhkbwOkRhXAxiLgMYdYg-oaEiqPi6b85PqgK69J7JOGzrGHdzR83npj9e5WTcFU91Sg2CViA5lFO1aeXWnUvAviMT9JYkyrlX8Teraza8m-fmIQ1F794ekkWMAA.webp",
+          "source_info_link": "https://www.airindia.com/in/en/travel-information/airport-information/hyderabad.html"
+        }
+      },
+      "displayed_link": "https://www.airindia.com › ... › Hyderabad Airport",
+      "favicon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAAAQBQCdASogACAAPrUurVanIacnG_DgFolsALUXwKuA9yat26l6s4eGD1Q8lFaSUZeQAPwz-csAiBqj8Mk_unYzT6eOPwC6to1BkexeLWN8X_29Wm7WTz4Jvs0ibxad_80JDqD--PaLPNf5b8HCpxNtUEXpcaVduAIurzZINhkbwOkRhXAxiLgMYdYg-oaEiqPi6b85PqgK69J7JOGzrGHdzR83npj9e5WTcFU91Sg2CViA5lFO1aeXWnUvAviMT9JYkyrlX8Teraza8m-fmIQ1F794ekkWMAA.webp",
+      "link": "https://www.airindia.com/in/en/travel-information/airport-information/hyderabad.html",
+      "position": 1,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFXOIZGaeN5n4iEDiyNgFu9rR1hAPqAbM_ECva-z9BVu0-w2i8pTdy5B4Tr7CL3Rkb3tD8fW8RvHLw0A_MvFA2jcmPi3zDkQm1D8s44Pe5YDQX7mxRhtnnt7P0nPGAsCOMgT0cI-3Qe68PCVvDJiObc_VH8kDLrub11ySoErvEHC0UHN1eqSBzWRTHw&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQFnoECBkQAQ&uoh=1",
+      "snippet": "For booking, you can call on +91 8826697920. Call them at 040-66606064 … contact the nearest help desk",
+      "snippet_highlighted_words": [
+        "contact"
+      ],
+      "source": "Air India",
+      "title": "Hyderabad Airport (HYD) Information & Facilities"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVlJIbzFfblNYMW5iMGhfdGlobEtIWkt3cTZJcVA3LXpPcjIyazZzRGM0REFQbldHVGVLWUxrWnZJaU9WcEFXRS1IOVdrV3VsNGp0dkI0NFgzX1NMMXJyaXVxNlFNS1VLeTR5ek14QnpnQnlzdnhFcGROSUc4bnJGZHpGQnpCdFZnOGhsbEhaTTNVQXYyTWNIRk9GcEc0URIEGgIIABriBRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC-BQgAEAAYACAAKhQKA2FpchUggdxAGghhaXJpbmRpYSo4CgVpbmRpYRV4IeBAGghhaXJpbmRpYRoNaW5kaWFjdXN0b21lchoRaW5kaWFjdXN0b21lcmNhcmUqbQoIY3VzdG9tZXIV2Ja7QBoIY29uc3VtZXIaB2NvbnRhY3QaBGN1c3QaCWN1c3RvbWVycxoIaGVscGxpbmUaDWluZGlhY3VzdG9tZXIaEWluZGlhY3VzdG9tZXJjYXJlGgxjdXN0b21lcmNhcmUqPwoEY2FyZRUAAAAAGgdjb250YWN0GghoZWxwbGluZRoRaW5kaWFjdXN0b21lcmNhcmUaDGN1c3RvbWVyY2FyZSoWCgZudW1iZXIVZU1oQBoHbnVtYmVyczKsAS9nb3RvP3VybD1DQUVTZFFIck96QVZSSG8xX25TWDFuYjBoX3RpaGxLSFpLd3E2SXFQNy16T3IyMms2c0RjNERBUG5XR1RlS1lMa1p2SWlPVnBBV0UtSDlXa1d1bDRqdHZCNDRYM19TTDFycml1cTZRTUtVS3k0eXpNeEJ6Z0J5c3Z4RXBkTklHOG5yRmR6RkJ6QnRWZzhobGxIWk0zVUF2Mk1jSEZPRnBHNFE6SDxiPkFpciBJbmRpYSBDdXN0b21lcjwvYj4gU2VydmljZSBQaG9uZSA8Yj5OdW1iZXI8L2I-IDEtODAwLTIyMy03Nzc2IC4uLkKZAVBob25lIE51bWJlciA8Yj4xLTgwMC0yMjMtNzc3NjwvYj4sIENvbnRhY3QgQWlyIEluZGlhIEN1c3RvbWVyIFNlcnZpY2UgVG9sbC1GcmVlIE51bWJlcjogMS04MDAtMjIzLTc3NzYuIEN1c3RvbWVyIFNlcnZpY2U6IDEtODg4LTYzNC0xNDA3IFVuaXRlZCZuYnNwOy4uLlIHY29udGFjdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVlJIbzFfblNYMW5iMGhfdGlobEtIWkt3cTZJcVA3LXpPcjIyazZzRGM0REFQbldHVGVLWUxrWnZJaU9WcEFXRS1IOVdrV3VsNGp0dkI0NFgzX1NMMXJyaXVxNlFNS1VLeTR5ek14QnpnQnlzdnhFcGROSUc4bnJGZHpGQnpCdFZnOGhsbEhaTTNVQXYyTWNIRk9GcEc0URIEGgIIABriBRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC-BQgAEAAYACAAKhQKA2FpchUggdxAGghhaXJpbmRpYSo4CgVpbmRpYRV4IeBAGghhaXJpbmRpYRoNaW5kaWFjdXN0b21lchoRaW5kaWFjdXN0b21lcmNhcmUqbQoIY3VzdG9tZXIV2Ja7QBoIY29uc3VtZXIaB2NvbnRhY3QaBGN1c3QaCWN1c3RvbWVycxoIaGVscGxpbmUaDWluZGlhY3VzdG9tZXIaEWluZGlhY3VzdG9tZXJjYXJlGgxjdXN0b21lcmNhcmUqPwoEY2FyZRUAAAAAGgdjb250YWN0GghoZWxwbGluZRoRaW5kaWFjdXN0b21lcmNhcmUaDGN1c3RvbWVyY2FyZSoWCgZudW1iZXIVZU1oQBoHbnVtYmVyczKsAS9nb3RvP3VybD1DQUVTZFFIck96QVZSSG8xX25TWDFuYjBoX3RpaGxLSFpLd3E2SXFQNy16T3IyMms2c0RjNERBUG5XR1RlS1lMa1p2SWlPVnBBV0UtSDlXa1d1bDRqdHZCNDRYM19TTDFycml1cTZRTUtVS3k0eXpNeEJ6Z0J5c3Z4RXBkTklHOG5yRmR6RkJ6QnRWZzhobGxIWk0zVUF2Mk1jSEZPRnBHNFE6SDxiPkFpciBJbmRpYSBDdXN0b21lcjwvYj4gU2VydmljZSBQaG9uZSA8Yj5OdW1iZXI8L2I-IDEtODAwLTIyMy03Nzc2IC4uLkKZAVBob25lIE51bWJlciA8Yj4xLTgwMC0yMjMtNzc3NjwvYj4sIENvbnRhY3QgQWlyIEluZGlhIEN1c3RvbWVyIFNlcnZpY2UgVG9sbC1GcmVlIE51bWJlcjogMS04MDAtMjIzLTc3NzYuIEN1c3RvbWVyIFNlcnZpY2U6IDEtODg4LTYzNC0xNDA3IFVuaXRlZCZuYnNwOy4uLlIHY29udGFjdCICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Phone Number 1-800-223-7776, Contact Air India Customer Service Toll-Free Number: 1-800-223-7776. Customer Service: 1-888-634-1407 United ...",
+          "icon": "https://serpapi.com/images/i/UklGRnoBAABXRUJQVlA4IG4BAACQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHZ-geFHpgG8qleCGT-Mr5wPVLTPR_UECnhL5TMvg-h-GoVPu-ywgAAA_tjWd5tA415NG63X0UTG8KD9i1fdBT0TSOjr4Cl0aZudcLcpYiChfNjwZv2NLFjinOsn11TTXcb5AMXjWfI3_7deSqZQSdwFO_57_czW4UpfBBSaEf_-wd_Pm6Vf-aBsGvmr3Kq7JkO_D_eci-bBI_MMvO5q5PJ-yDciFlCOUfpTRs9_Dj8EeJoDQXnZx_L7VYTGey35By0xP3zZ777BqRQeYEIWk8oU5cqFzyG1Tfuie95xtP_CSOeT6RWOJO4kygrcG9ZUMLNIZWx-q8auFgMX3PztQcc8O0eAbWbX-gdMZQmxU4PN7FQsixwGONlX_63vc4b-7jI7BTud1nG7fK8F3axZqUwZ5sC-SK5wMpkacJYmjE5oPvYQRLNTT2ifL6XyvbAAAAA.webp",
+          "source_info_link": "https://air-india.pissedconsumer.com/customer-service.html"
+        }
+      },
+      "date": "25 Sept 2026",
+      "displayed_link": "https://air-india.pissedconsumer.com › customer-service",
+      "favicon": "https://serpapi.com/images/i/UklGRnoBAABXRUJQVlA4IG4BAACQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHZ-geFHpgG8qleCGT-Mr5wPVLTPR_UECnhL5TMvg-h-GoVPu-ywgAAA_tjWd5tA415NG63X0UTG8KD9i1fdBT0TSOjr4Cl0aZudcLcpYiChfNjwZv2NLFjinOsn11TTXcb5AMXjWfI3_7deSqZQSdwFO_57_czW4UpfBBSaEf_-wd_Pm6Vf-aBsGvmr3Kq7JkO_D_eci-bBI_MMvO5q5PJ-yDciFlCOUfpTRs9_Dj8EeJoDQXnZx_L7VYTGey35By0xP3zZ777BqRQeYEIWk8oU5cqFzyG1Tfuie95xtP_CSOeT6RWOJO4kygrcG9ZUMLNIZWx-q8auFgMX3PztQcc8O0eAbWbX-gdMZQmxU4PN7FQsixwGONlX_63vc4b-7jI7BTud1nG7fK8F3axZqUwZ5sC-SK5wMpkacJYmjE5oPvYQRLNTT2ifL6XyvbAAAAA.webp",
+      "link": "https://air-india.pissedconsumer.com/customer-service.html",
+      "position": 2,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVRHo1_nSX1nb0h_tihlKHZKwq6IqP7-zOr22k6sDc4DAPnWGTeKYLkZvIiOVpAWE-H9WkWul4jtvB44X3_SL1rriuq6QMKUKy4yzMxBzgBysvxEpdNIG8nrFdzFBzBtVg8hllHZM3UAv2McHFOFpG4Q&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQFnoECB8QAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.2,
+            "reviews": 5
+          },
+          "extensions": [
+            "4.2(5)"
+          ]
+        }
+      },
+      "snippet": "Phone Number 1-800-223-7776, Contact Air India Customer Service Toll-Free Number: 1-800-223-7776. Customer Service: 1-888-634-1407 United ...",
+      "snippet_highlighted_words": [
+        "1-800-223-7776"
+      ],
+      "source": "PissedConsumer",
+      "title": "Contact Air India Customer Service - PissedConsumer"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVndOcW1KUUIxcllVamY4NU50bUYybzRjMHVyMkNtc29UWWY3UVNOamw2M1ZfcmM0ZTF3MjhBcVkwc2s3ZDB4ckJxdjE0NU1GdFhzRzNwN2Y4NEh6dHptX2JDZVpjM3lLaFo2Nlp0T3lCV0lqYjRNcVdYYnltRzZoYkFZU0ZnNkESBBoCCAAa6gUSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWhAIARIMYWlyaW5kaWEuY29tcgB6AIJAtAUIABAAGAAgACoUCgNhaXIVQf00QRoIYWlyaW5kaWEqOAoFaW5kaWEVdzsxQRoIYWlyaW5kaWEaDWluZGlhY3VzdG9tZXIaEWluZGlhY3VzdG9tZXJjYXJlKm0KCGN1c3RvbWVyFXT4Fj4aCGNvbnN1bWVyGgdjb250YWN0GgRjdXN0GgljdXN0b21lcnMaCGhlbHBsaW5lGg1pbmRpYWN1c3RvbWVyGhFpbmRpYWN1c3RvbWVyY2FyZRoMY3VzdG9tZXJjYXJlKj8KBGNhcmUVtXKePRoHY29udGFjdBoIaGVscGxpbmUaEWluZGlhY3VzdG9tZXJjYXJlGgxjdXN0b21lcmNhcmUqFgoGbnVtYmVyFckoxz0aB251bWJlcnMylQEvZ290bz91cmw9Q0FFU1pBSHJPekFWd05xbUpRQjFyWVVqZjg1TnRtRjJvNGMwdXIyQ21zb1RZZjdRU05qbDYzVl9yYzRlMXcyOEFxWTBzazdkMHhyQnF2MTQ1TUZ0WHNHM3A3Zjg0SHp0em1fYkNlWmMzeUtoWjY2WnRPeUJXSWpiNE1xV1hieW1HNmhiQVlTRmc2QTpGRmxpZ2h0cyBCb29raW5nIC0gU2VhcmNoIEZsaWdodHMgYXQgTG93ZXN0IEFpciBGYXJlIC0gPGI-QWlyIEluZGlhPC9iPkKoAU9ubGluZSBGbGlnaHQgVGlja2V0IEJvb2tpbmcgZnJvbSBJTlIgMiw5OTUuIEJvb2sgYSBkb21lc3RpYyBvciBpbnRlcm5hdGlvbmFsIGZsaWdodCB3aXRoIDxiPkFpciBJbmRpYTwvYj4gYW5kIGNob29zZSBmcm9tIHRoZSBtdWx0aXBsZSBvcHRpb25zIGF2YWlsYWJsZSBmb3IgYSZuYnNwOy4uLlIHY29udGFjdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVndOcW1KUUIxcllVamY4NU50bUYybzRjMHVyMkNtc29UWWY3UVNOamw2M1ZfcmM0ZTF3MjhBcVkwc2s3ZDB4ckJxdjE0NU1GdFhzRzNwN2Y4NEh6dHptX2JDZVpjM3lLaFo2Nlp0T3lCV0lqYjRNcVdYYnltRzZoYkFZU0ZnNkESBBoCCAAa6gUSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWhAIARIMYWlyaW5kaWEuY29tcgB6AIJAtAUIABAAGAAgACoUCgNhaXIVQf00QRoIYWlyaW5kaWEqOAoFaW5kaWEVdzsxQRoIYWlyaW5kaWEaDWluZGlhY3VzdG9tZXIaEWluZGlhY3VzdG9tZXJjYXJlKm0KCGN1c3RvbWVyFXT4Fj4aCGNvbnN1bWVyGgdjb250YWN0GgRjdXN0GgljdXN0b21lcnMaCGhlbHBsaW5lGg1pbmRpYWN1c3RvbWVyGhFpbmRpYWN1c3RvbWVyY2FyZRoMY3VzdG9tZXJjYXJlKj8KBGNhcmUVtXKePRoHY29udGFjdBoIaGVscGxpbmUaEWluZGlhY3VzdG9tZXJjYXJlGgxjdXN0b21lcmNhcmUqFgoGbnVtYmVyFckoxz0aB251bWJlcnMylQEvZ290bz91cmw9Q0FFU1pBSHJPekFWd05xbUpRQjFyWVVqZjg1TnRtRjJvNGMwdXIyQ21zb1RZZjdRU05qbDYzVl9yYzRlMXcyOEFxWTBzazdkMHhyQnF2MTQ1TUZ0WHNHM3A3Zjg0SHp0em1fYkNlWmMzeUtoWjY2WnRPeUJXSWpiNE1xV1hieW1HNmhiQVlTRmc2QTpGRmxpZ2h0cyBCb29raW5nIC0gU2VhcmNoIEZsaWdodHMgYXQgTG93ZXN0IEFpciBGYXJlIC0gPGI-QWlyIEluZGlhPC9iPkKoAU9ubGluZSBGbGlnaHQgVGlja2V0IEJvb2tpbmcgZnJvbSBJTlIgMiw5OTUuIEJvb2sgYSBkb21lc3RpYyBvciBpbnRlcm5hdGlvbmFsIGZsaWdodCB3aXRoIDxiPkFpciBJbmRpYTwvYj4gYW5kIGNob29zZSBmcm9tIHRoZSBtdWx0aXBsZSBvcHRpb25zIGF2YWlsYWJsZSBmb3IgYSZuYnNwOy4uLlIHY29udGFjdCICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Online Flight Ticket Booking from INR 2,995. Book a domestic or international flight with Air India and choose from the multiple options available for a ...",
+          "icon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAAAQBQCdASogACAAPrUurVanIacnG_DgFolsALUXwKuA9yat26l6s4eGD1Q8lFaSUZeQAPwz-csAiBqj8Mk_unYzT6eOPwC6to1BkexeLWN8X_29Wm7WTz4Jvs0ibxad_80JDqD--PaLPNf5b8HCpxNtUEXpcaVduAIurzZINhkbwOkRhXAxiLgMYdYg-oaEiqPi6b85PqgK69J7JOGzrGHdzR83npj9e5WTcFU91Sg2CViA5lFO1aeXWnUvAviMT9JYkyrlX8Teraza8m-fmIQ1F794ekkWMAA.webp",
+          "source_info_link": "https://www.airindia.com/en/book-flights/"
+        }
+      },
+      "displayed_link": "https://www.airindia.com › book-flights",
+      "favicon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAAAQBQCdASogACAAPrUurVanIacnG_DgFolsALUXwKuA9yat26l6s4eGD1Q8lFaSUZeQAPwz-csAiBqj8Mk_unYzT6eOPwC6to1BkexeLWN8X_29Wm7WTz4Jvs0ibxad_80JDqD--PaLPNf5b8HCpxNtUEXpcaVduAIurzZINhkbwOkRhXAxiLgMYdYg-oaEiqPi6b85PqgK69J7JOGzrGHdzR83npj9e5WTcFU91Sg2CViA5lFO1aeXWnUvAviMT9JYkyrlX8Teraza8m-fmIQ1F794ekkWMAA.webp",
+      "link": "https://www.airindia.com/en/book-flights/",
+      "position": 3,
+      "read_more_link": "https://www.airindia.com/en/book-flights/#:~:text=Online%20Flight%20Ticket%20Booking%20from,available%20for%20a%20hassle%2Dfree%20journey.",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVwNqmJQB1rYUjf85NtmF2o4c0ur2CmsoTYf7QSNjl63V_rc4e1w28AqY0sk7d0xrBqv145MFtXsG3p7f84Hztzm_bCeZc3yKhZ66ZtOyBWIjb4MqWXbymG6hbAYSFg6A&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQFnoECCAQAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8,
+            "reviews": 137000
+          },
+          "extensions": [
+            "4.8(1,37,000)",
+            "Free"
+          ]
+        }
+      },
+      "snippet": "Online Flight Ticket Booking from INR 2,995. Book a domestic or international flight with Air India and choose from the multiple options available for a ...",
+      "snippet_highlighted_words": [
+        "Air India"
+      ],
+      "source": "Air India",
+      "title": "Flights Booking - Search Flights at Lowest Air Fare"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVmMwVlZ0WVRTRU8xLTZOb3NnbzhDelAxSC02X2FLcEdXZ25ja0hxd21IVUl0bFI0WnpIUGR5dm9ncFFTMEVBbEVFb29GU0FSM3FUTXQ3bkVTUHNTWkFJS3NGZjE1WlFsNGo4b3M1UXFNZVZQTjRvLURkYVNZNDlEbxIEGgIIABrgAxIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkC8AwgAEAAYACAAKhQKA2FpchUAAAAAGghhaXJpbmRpYSo4CgVpbmRpYRUAAAAAGghhaXJpbmRpYRoNaW5kaWFjdXN0b21lchoRaW5kaWFjdXN0b21lcmNhcmUqbQoIY3VzdG9tZXIVAAAAABoIY29uc3VtZXIaB2NvbnRhY3QaBGN1c3QaCWN1c3RvbWVycxoIaGVscGxpbmUaDWluZGlhY3VzdG9tZXIaEWluZGlhY3VzdG9tZXJjYXJlGgxjdXN0b21lcmNhcmUqPwoEY2FyZRUAAAAAGgdjb250YWN0GghoZWxwbGluZRoRaW5kaWFjdXN0b21lcmNhcmUaDGN1c3RvbWVyY2FyZSoWCgZudW1iZXIVAAAAABoHbnVtYmVyczKOAS9nb3RvP3VybD1DQUVTWHdIck96QVZjMFZWdFlUU0VPMS02Tm9zZ284Q3pQMUgtNl9hS3BHV2duY2tIcXdtSFVJdGxSNFp6SFBkeXZvZ3BRUzBFQWxFRW9vRlNBUjNxVE10N25FU1BzU1pBSUtzRmYxNVpRbDRqOG9zNVFxTWVWUE40by1EZGFTWTQ5RG86AFIHY29udGFjdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVmMwVlZ0WVRTRU8xLTZOb3NnbzhDelAxSC02X2FLcEdXZ25ja0hxd21IVUl0bFI0WnpIUGR5dm9ncFFTMEVBbEVFb29GU0FSM3FUTXQ3bkVTUHNTWkFJS3NGZjE1WlFsNGo4b3M1UXFNZVZQTjRvLURkYVNZNDlEbxIEGgIIABrgAxIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkC8AwgAEAAYACAAKhQKA2FpchUAAAAAGghhaXJpbmRpYSo4CgVpbmRpYRUAAAAAGghhaXJpbmRpYRoNaW5kaWFjdXN0b21lchoRaW5kaWFjdXN0b21lcmNhcmUqbQoIY3VzdG9tZXIVAAAAABoIY29uc3VtZXIaB2NvbnRhY3QaBGN1c3QaCWN1c3RvbWVycxoIaGVscGxpbmUaDWluZGlhY3VzdG9tZXIaEWluZGlhY3VzdG9tZXJjYXJlGgxjdXN0b21lcmNhcmUqPwoEY2FyZRUAAAAAGgdjb250YWN0GghoZWxwbGluZRoRaW5kaWFjdXN0b21lcmNhcmUaDGN1c3RvbWVyY2FyZSoWCgZudW1iZXIVAAAAABoHbnVtYmVyczKOAS9nb3RvP3VybD1DQUVTWHdIck96QVZjMFZWdFlUU0VPMS02Tm9zZ284Q3pQMUgtNl9hS3BHV2duY2tIcXdtSFVJdGxSNFp6SFBkeXZvZ3BRUzBFQWxFRW9vRlNBUjNxVE10N25FU1BzU1pBSUtzRmYxNVpRbDRqOG9zNVFxTWVWUE40by1EZGFTWTQ5RG86AFIHY29udGFjdCICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "icon": "https://serpapi.com/images/i/UklGRhQBAABXRUJQVlA4IAgBAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0vwvkqeAN5mRoIQDV8EK_-yn7XDFVUVizQ55-GKrCCsCoR4AD-9glwmMiSGXWBAD-ErCeDhIBI0BAWZSooj8_CxeLfj6mULn221h72ipXw1IzPfeUUy_wVaJZL8dr5XaETCY7YZZYqyScWKSfx7ImASCeoStzhfjsvnW_jwJtjnIwwh36g99qk7ChbO9xOtVjfq_h4MdIl1q7E1M1-sq9luMl2C7PaOfOLACrqYFbRpUdR7_YkU5N5rBFE78nT26Zi1VAYlYYBTNrMf9BvuPwWb6NExVN05aIlxN8nDd9JF_8T1e5-G45odknKAAA.webp",
+          "source_info_link": "https://delhi.gov.in/page/airlines-0"
+        }
+      },
+      "displayed_link": "https://delhi.gov.in › page › airlines-0",
+      "favicon": "https://serpapi.com/images/i/UklGRhQBAABXRUJQVlA4IAgBAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0vwvkqeAN5mRoIQDV8EK_-yn7XDFVUVizQ55-GKrCCsCoR4AD-9glwmMiSGXWBAD-ErCeDhIBI0BAWZSooj8_CxeLfj6mULn221h72ipXw1IzPfeUUy_wVaJZL8dr5XaETCY7YZZYqyScWKSfx7ImASCeoStzhfjsvnW_jwJtjnIwwh36g99qk7ChbO9xOtVjfq_h4MdIl1q7E1M1-sq9luMl2C7PaOfOLACrqYFbRpUdR7_YkU5N5rBFE78nT26Zi1VAYlYYBTNrMf9BvuPwWb6NExVN05aIlxN8nDd9JF_8T1e5-G45odknKAAA.webp",
+      "link": "https://delhi.gov.in/page/airlines-0",
+      "position": 4,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVc0VVtYTSEO1-6Nosgo8CzP1H-6_aKpGWgnckHqwmHUItlR4ZzHPdyvogpQS0EAlEEooFSAR3qTMt7nESPsSZAIKsFf15ZQl4j8os5QqMeVPN4o-DdaSY49Do&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQFnoECBgQAQ&uoh=1",
+      "source": "Delhi Gov",
+      "title": "https://delhi.gov.in/page/airlines-0"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZXZURERTBwWFg4aVdnRWFpSkZ6T3BpM0MyVFdQTlRZTVpVXzcxWHJtZV9BTG0xLURfdmxNeHdDNnBWdElQQTk1dC0yWHpaLWVRU1dydG9qZUpJX0ZwaDZJalczQ2tOVTB3ZFNLcGZEbWZGNEx6TkxsR2QxU1ZsQzRhY0kyVDhjQzRzSmJMUU5naVExTmN4bTM2Y0daLThJTzltenV3bzNBZzZ4NTV2X2U4SDV1QmtYR08waUpuMWs4QnphS0JNc2tsRXFlWWh5eVl0ekVUYm16T2VFUG56RnNibDQtUV9zMExXM05jdnNWWDl6OXFuUW03eGwxeFdPRFl6ZzFJWmJIQllJNXprEgQaAggAGusGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQMcGCAAQABgAIAAqFAoDYWlyFVLNqkAaCGFpcmluZGlhKjgKBWluZGlhFWpGukAaCGFpcmluZGlhGg1pbmRpYWN1c3RvbWVyGhFpbmRpYWN1c3RvbWVyY2FyZSptCghjdXN0b21lchW8BZ4_Gghjb25zdW1lchoHY29udGFjdBoEY3VzdBoJY3VzdG9tZXJzGghoZWxwbGluZRoNaW5kaWFjdXN0b21lchoRaW5kaWFjdXN0b21lcmNhcmUaDGN1c3RvbWVyY2FyZSo_CgRjYXJlFfXA0j8aB2NvbnRhY3QaCGhlbHBsaW5lGhFpbmRpYWN1c3RvbWVyY2FyZRoMY3VzdG9tZXJjYXJlKhYKBm51bWJlchWMKpM9GgdudW1iZXJzMp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZXZURERTBwWFg4aVdnRWFpSkZ6T3BpM0MyVFdQTlRZTVpVXzcxWHJtZV9BTG0xLURfdmxNeHdDNnBWdElQQTk1dC0yWHpaLWVRU1dydG9qZUpJX0ZwaDZJalczQ2tOVTB3ZFNLcGZEbWZGNEx6TkxsR2QxU1ZsQzRhY0kyVDhjQzRzSmJMUU5naVExTmN4bTM2Y0daLThJTzltenV3bzNBZzZ4NTV2X2U4SDV1QmtYR08waUpuMWs4QnphS0JNc2tsRXFlWWh5eVl0ekVUYm16T2VFUG56RnNibDQtUV9zMExXM05jdnNWWDl6OXFuUW03eGwxeFdPRFl6ZzFJWmJIQllJNXprOkc8Yj5BSVIgSW5kaWE8L2I-IEFpcmxpbmVzIChBaXJwb3J0IE9mZmljZSkgaW4gQWVyb2NpdHksRGVsaGkgLSBKdXN0ZGlhbEKyAUZpbmQgQWRkcmVzcywgQ29udGFjdCBOdW1iZXIsIFJldmlld3MgJmFtcDsgUmF0aW5ncywgUGhvdG9zLCBNYXBzIG9mIDxiPkFJUiBJbmRpYSBBaXJsaW5lcyAoQWlycG9ydCBPZmZpY2UpLCBEZWxoaTwvYj4uIFRoaXMgZXN0YWJsaXNobWVudCBpcyBmdW5jdGlvbmFsIGZyb20gMDA6MDAgLSAyMzombmJzcDsuLi5SB2NvbnRhY3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZXZURERTBwWFg4aVdnRWFpSkZ6T3BpM0MyVFdQTlRZTVpVXzcxWHJtZV9BTG0xLURfdmxNeHdDNnBWdElQQTk1dC0yWHpaLWVRU1dydG9qZUpJX0ZwaDZJalczQ2tOVTB3ZFNLcGZEbWZGNEx6TkxsR2QxU1ZsQzRhY0kyVDhjQzRzSmJMUU5naVExTmN4bTM2Y0daLThJTzltenV3bzNBZzZ4NTV2X2U4SDV1QmtYR08waUpuMWs4QnphS0JNc2tsRXFlWWh5eVl0ekVUYm16T2VFUG56RnNibDQtUV9zMExXM05jdnNWWDl6OXFuUW03eGwxeFdPRFl6ZzFJWmJIQllJNXprEgQaAggAGusGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQMcGCAAQABgAIAAqFAoDYWlyFVLNqkAaCGFpcmluZGlhKjgKBWluZGlhFWpGukAaCGFpcmluZGlhGg1pbmRpYWN1c3RvbWVyGhFpbmRpYWN1c3RvbWVyY2FyZSptCghjdXN0b21lchW8BZ4_Gghjb25zdW1lchoHY29udGFjdBoEY3VzdBoJY3VzdG9tZXJzGghoZWxwbGluZRoNaW5kaWFjdXN0b21lchoRaW5kaWFjdXN0b21lcmNhcmUaDGN1c3RvbWVyY2FyZSo_CgRjYXJlFfXA0j8aB2NvbnRhY3QaCGhlbHBsaW5lGhFpbmRpYWN1c3RvbWVyY2FyZRoMY3VzdG9tZXJjYXJlKhYKBm51bWJlchWMKpM9GgdudW1iZXJzMp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZXZURERTBwWFg4aVdnRWFpSkZ6T3BpM0MyVFdQTlRZTVpVXzcxWHJtZV9BTG0xLURfdmxNeHdDNnBWdElQQTk1dC0yWHpaLWVRU1dydG9qZUpJX0ZwaDZJalczQ2tOVTB3ZFNLcGZEbWZGNEx6TkxsR2QxU1ZsQzRhY0kyVDhjQzRzSmJMUU5naVExTmN4bTM2Y0daLThJTzltenV3bzNBZzZ4NTV2X2U4SDV1QmtYR08waUpuMWs4QnphS0JNc2tsRXFlWWh5eVl0ekVUYm16T2VFUG56RnNibDQtUV9zMExXM05jdnNWWDl6OXFuUW03eGwxeFdPRFl6ZzFJWmJIQllJNXprOkc8Yj5BSVIgSW5kaWE8L2I-IEFpcmxpbmVzIChBaXJwb3J0IE9mZmljZSkgaW4gQWVyb2NpdHksRGVsaGkgLSBKdXN0ZGlhbEKyAUZpbmQgQWRkcmVzcywgQ29udGFjdCBOdW1iZXIsIFJldmlld3MgJmFtcDsgUmF0aW5ncywgUGhvdG9zLCBNYXBzIG9mIDxiPkFJUiBJbmRpYSBBaXJsaW5lcyAoQWlycG9ydCBPZmZpY2UpLCBEZWxoaTwvYj4uIFRoaXMgZXN0YWJsaXNobWVudCBpcyBmdW5jdGlvbmFsIGZyb20gMDA6MDAgLSAyMzombmJzcDsuLi5SB2NvbnRhY3QiAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Find Address, Contact Number, Reviews & Ratings, Photos, Maps of AIR India Airlines (Airport Office), Delhi. This establishment is functional from 00:00 - 23: ...",
+          "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+          "source_info_link": "https://www.justdial.com/Delhi/AIR-India-Airlines-Airport-Office-Near-Delhi-Airport-Terminal-3-Aerocity/011PXX11-XX11-001216310217-J8P2_BZDET"
+        }
+      },
+      "displayed_link": "https://www.justdial.com › ... › Airlines in Aerocity",
+      "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+      "link": "https://www.justdial.com/Delhi/AIR-India-Airlines-Airport-Office-Near-Delhi-Airport-Terminal-3-Aerocity/011PXX11-XX11-001216310217-J8P2_BZDET",
+      "position": 5,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyQEB6zswFWeDDE0pXX8iWgEaiJFzOpi3C2TWPNTYMZU_71Xrme_ALm1-D_vlMxwC6pVtIPA95t-2XzZ-eQSWrtojeJI_Fph6IjW3CkNU0wdSKpfDmfF4LzNLlGd1SVlC4acI2T8cC4sJbLQNgiQ1Ncxm36cGZ-8IO9mzuwo3Ag6x55v_e8H5uBkXGO0iJn1k8BzaKBMsklEqeYhyyYtzETbmzOeEPnzFsbl4-Q_s0LW3NcvsVX9z9qnQm7xl1xWODYzg1IZbHBYI5zk&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQFnoECB0QAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.9,
+            "reviews": 6141
+          },
+          "extensions": [
+            "3.9(6,141)"
+          ]
+        }
+      },
+      "snippet": "Find Address, Contact Number, Reviews & Ratings, Photos, Maps of AIR India Airlines (Airport Office), Delhi. This establishment is functional from 00:00 - 23: ...",
+      "snippet_highlighted_words": [
+        "AIR India Airlines (Airport Office), Delhi"
+      ],
+      "source": "Justdial",
+      "title": "AIR India Airlines (Airport Office) in Aerocity,Delhi"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0Zjd1FoWDNiMEVjajlBT1pDbnZvM0U2c0Vwczg4SXJVZWxxcnBhQ24tUTNnMkJILUxTM0pxMWU0dGtkX0UyMnFudW1NejFqQnh6dVRNUW9HUFBRR05aVE13ZUhDLWRKdUxNa1MwNFVTOGYxa2hvbEh4WG85aGNwNkFuRFZfdFgwLWZNd3FVT3lMOFhoYnUxZThQS1o4NXpQb2VzcThnMzdyNkxkWnMzTGpsdGpyQ0NpQTVWcUcxbXlfTllqbzlFEgQaAggAGqgGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQIQGCAAQABgAIAAqFAoDYWlyFZjos0AaCGFpcmluZGlhKjgKBWluZGlhFT5QwUAaCGFpcmluZGlhGg1pbmRpYWN1c3RvbWVyGhFpbmRpYWN1c3RvbWVyY2FyZSptCghjdXN0b21lchVPYJ0_Gghjb25zdW1lchoHY29udGFjdBoEY3VzdBoJY3VzdG9tZXJzGghoZWxwbGluZRoNaW5kaWFjdXN0b21lchoRaW5kaWFjdXN0b21lcmNhcmUaDGN1c3RvbWVyY2FyZSo_CgRjYXJlFXQa1D8aB2NvbnRhY3QaCGhlbHBsaW5lGhFpbmRpYWN1c3RvbWVyY2FyZRoMY3VzdG9tZXJjYXJlKhYKBm51bWJlchWSj1A_GgdudW1iZXJzMtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0Zjd1FoWDNiMEVjajlBT1pDbnZvM0U2c0Vwczg4SXJVZWxxcnBhQ24tUTNnMkJILUxTM0pxMWU0dGtkX0UyMnFudW1NejFqQnh6dVRNUW9HUFBRR05aVE13ZUhDLWRKdUxNa1MwNFVTOGYxa2hvbEh4WG85aGNwNkFuRFZfdFgwLWZNd3FVT3lMOFhoYnUxZThQS1o4NXpQb2VzcThnMzdyNkxkWnMzTGpsdGpyQ0NpQTVWcUcxbXlfTllqbzlFOk08Yj5BaXIgSW5kaWE8L2I-IGluIEphbmFrcHVyaSxEZWxoaSAtIEJlc3QgQWlybGluZXMgbmVhciBtZSBpbiAuLi4gLSBKdXN0ZGlhbEKxAS0gMTA6MDAgQW0gLSA1OjAwIFBtLiBGaW5kIEFkZHJlc3MsIENvbnRhY3QgTnVtYmVyLCBSZXZpZXdzICZhbXA7IFJhdGluZ3MsIFBob3RvcywgTWFwcyBvZiA8Yj5BaXIgSW5kaWEsIERlbGhpPC9iPi4gVGhpcyBlc3RhYmxpc2htZW50IGlzIGZ1bmN0aW9uYWwgZnJvbSAxMDowMCAtIDE3OjAwLiZuYnNwOy4uLlIHY29udGFjdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0Zjd1FoWDNiMEVjajlBT1pDbnZvM0U2c0Vwczg4SXJVZWxxcnBhQ24tUTNnMkJILUxTM0pxMWU0dGtkX0UyMnFudW1NejFqQnh6dVRNUW9HUFBRR05aVE13ZUhDLWRKdUxNa1MwNFVTOGYxa2hvbEh4WG85aGNwNkFuRFZfdFgwLWZNd3FVT3lMOFhoYnUxZThQS1o4NXpQb2VzcThnMzdyNkxkWnMzTGpsdGpyQ0NpQTVWcUcxbXlfTllqbzlFEgQaAggAGqgGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQIQGCAAQABgAIAAqFAoDYWlyFZjos0AaCGFpcmluZGlhKjgKBWluZGlhFT5QwUAaCGFpcmluZGlhGg1pbmRpYWN1c3RvbWVyGhFpbmRpYWN1c3RvbWVyY2FyZSptCghjdXN0b21lchVPYJ0_Gghjb25zdW1lchoHY29udGFjdBoEY3VzdBoJY3VzdG9tZXJzGghoZWxwbGluZRoNaW5kaWFjdXN0b21lchoRaW5kaWFjdXN0b21lcmNhcmUaDGN1c3RvbWVyY2FyZSo_CgRjYXJlFXQa1D8aB2NvbnRhY3QaCGhlbHBsaW5lGhFpbmRpYWN1c3RvbWVyY2FyZRoMY3VzdG9tZXJjYXJlKhYKBm51bWJlchWSj1A_GgdudW1iZXJzMtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0Zjd1FoWDNiMEVjajlBT1pDbnZvM0U2c0Vwczg4SXJVZWxxcnBhQ24tUTNnMkJILUxTM0pxMWU0dGtkX0UyMnFudW1NejFqQnh6dVRNUW9HUFBRR05aVE13ZUhDLWRKdUxNa1MwNFVTOGYxa2hvbEh4WG85aGNwNkFuRFZfdFgwLWZNd3FVT3lMOFhoYnUxZThQS1o4NXpQb2VzcThnMzdyNkxkWnMzTGpsdGpyQ0NpQTVWcUcxbXlfTllqbzlFOk08Yj5BaXIgSW5kaWE8L2I-IGluIEphbmFrcHVyaSxEZWxoaSAtIEJlc3QgQWlybGluZXMgbmVhciBtZSBpbiAuLi4gLSBKdXN0ZGlhbEKxAS0gMTA6MDAgQW0gLSA1OjAwIFBtLiBGaW5kIEFkZHJlc3MsIENvbnRhY3QgTnVtYmVyLCBSZXZpZXdzICZhbXA7IFJhdGluZ3MsIFBob3RvcywgTWFwcyBvZiA8Yj5BaXIgSW5kaWEsIERlbGhpPC9iPi4gVGhpcyBlc3RhYmxpc2htZW50IGlzIGZ1bmN0aW9uYWwgZnJvbSAxMDowMCAtIDE3OjAwLiZuYnNwOy4uLlIHY29udGFjdCICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "- 10:00 Am - 5:00 Pm. Find Address, Contact Number, Reviews & Ratings, Photos, Maps of Air India, Delhi. This establishment is functional from 10:00 - 17:00. ...",
+          "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+          "source_info_link": "https://www.justdial.com/Delhi/Air-India-Janakpuri/011PXX11-XX11-190109143303-C4D5_BZDET"
+        }
+      },
+      "displayed_link": "https://www.justdial.com › ... › Airlines in Janakpuri",
+      "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+      "link": "https://www.justdial.com/Delhi/Air-India-Janakpuri/011PXX11-XX11-190109143303-C4D5_BZDET",
+      "position": 6,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFcwQhX3b0Ecj9AOZCnvo3E6sEps88IrUelqrpaCn-Q3g2BH-LS3Jq1e4tkd_E22qnumMz1jBxzuTMQoGPPQGNZTMweHC-dJuLMkS04US8f1kholHxXo9hcp6AnDV_tX0-fMwqUOyL8Xhbu1e8PKZ85zPoesq8g37r6LdZs3LjltjrCCiA5VqG1my_NYjo9E&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQFnoECBoQAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 0.5,
+            "reviews": 1
+          },
+          "extensions": [
+            "0.5(1)"
+          ]
+        }
+      },
+      "snippet": "- 10:00 Am - 5:00 Pm. Find Address, Contact Number, Reviews & Ratings, Photos, Maps of Air India, Delhi. This establishment is functional from 10:00 - 17:00. ...",
+      "snippet_highlighted_words": [
+        "Air India, Delhi"
+      ],
+      "source": "Justdial",
+      "title": "Air India in Janakpuri,Delhi - Best Airlines near me in Delhi"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjhVTFo4UnhlYjhrcURTeF90dUtnVWdhdTVITEk1OFg0YlpXaTd2Sk56WFFjbWZvZkllVk5PVmF2VHlrTFUxU2NabHRueEtGMENoQ0ZvMXJmVzY3VC1QVWtHRXlYaUdJWmpyaUdGVWRnWWpKdVhpZGNUb2FYc095ODFlNEV3ZxIEGgIIABrgBRICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaEAgBEgxhaXJpbmRpYS5jb21yAHoAgkCqBQgAEAAYACAAKhQKA2FpchXSfDRBGghhaXJpbmRpYSo4CgVpbmRpYRXZNDRBGghhaXJpbmRpYRoNaW5kaWFjdXN0b21lchoRaW5kaWFjdXN0b21lcmNhcmUqbQoIY3VzdG9tZXIVMRaQPhoIY29uc3VtZXIaB2NvbnRhY3QaBGN1c3QaCWN1c3RvbWVycxoIaGVscGxpbmUaDWluZGlhY3VzdG9tZXIaEWluZGlhY3VzdG9tZXJjYXJlGgxjdXN0b21lcmNhcmUqPwoEY2FyZRWCXzY9Ggdjb250YWN0GghoZWxwbGluZRoRaW5kaWFjdXN0b21lcmNhcmUaDGN1c3RvbWVyY2FyZSoWCgZudW1iZXIVAAAAABoHbnVtYmVyczKUAS9nb3RvP3VybD1DQUVTWXdIck96QVY4VUxaOFJ4ZWI4a3FEU3hfdHVLZ1VnYXU1SExJNThYNGJaV2k3dkpOelhRY21mb2ZJZVZOT1ZhdlR5a0xVMVNjWmx0bnhLRjBDaENGbzFyZlc2N1QtUFVrR0V5WGlHSVpqcmlHRlVkZ1lqSnVYaWRjVG9hWHNPeTgxZTRFd2c6OkJvb2sgSW50ZXJuYXRpb25hbCBhbmQgRG9tZXN0aWMgRmxpZ2h0cyBPbmxpbmUgLSBBaXIgSW5kaWFCqwFIYXZpbmcgdHJvdWJsZT8gPGI-Q29udGFjdCBDdXN0b21lciBTdXBwb3J0PC9iPiBOb3QgYSBNYWhhcmFqYSBDbHViIE1lbWJlcj8gYmUgeW91ciB0cmF2ZWwgY29tcGFuaW9uLiBDb250YWN0IEZyZXF1ZW50bHkgQXNrZWQgUXVlc3Rpb25zIEN5YmVyc2VjdXJpdHkgJmFtcDsgRnJhdWQmbmJzcDsuLi5SB2NvbnRhY3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjhVTFo4UnhlYjhrcURTeF90dUtnVWdhdTVITEk1OFg0YlpXaTd2Sk56WFFjbWZvZkllVk5PVmF2VHlrTFUxU2NabHRueEtGMENoQ0ZvMXJmVzY3VC1QVWtHRXlYaUdJWmpyaUdGVWRnWWpKdVhpZGNUb2FYc095ODFlNEV3ZxIEGgIIABrgBRICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaEAgBEgxhaXJpbmRpYS5jb21yAHoAgkCqBQgAEAAYACAAKhQKA2FpchXSfDRBGghhaXJpbmRpYSo4CgVpbmRpYRXZNDRBGghhaXJpbmRpYRoNaW5kaWFjdXN0b21lchoRaW5kaWFjdXN0b21lcmNhcmUqbQoIY3VzdG9tZXIVMRaQPhoIY29uc3VtZXIaB2NvbnRhY3QaBGN1c3QaCWN1c3RvbWVycxoIaGVscGxpbmUaDWluZGlhY3VzdG9tZXIaEWluZGlhY3VzdG9tZXJjYXJlGgxjdXN0b21lcmNhcmUqPwoEY2FyZRWCXzY9Ggdjb250YWN0GghoZWxwbGluZRoRaW5kaWFjdXN0b21lcmNhcmUaDGN1c3RvbWVyY2FyZSoWCgZudW1iZXIVAAAAABoHbnVtYmVyczKUAS9nb3RvP3VybD1DQUVTWXdIck96QVY4VUxaOFJ4ZWI4a3FEU3hfdHVLZ1VnYXU1SExJNThYNGJaV2k3dkpOelhRY21mb2ZJZVZOT1ZhdlR5a0xVMVNjWmx0bnhLRjBDaENGbzFyZlc2N1QtUFVrR0V5WGlHSVpqcmlHRlVkZ1lqSnVYaWRjVG9hWHNPeTgxZTRFd2c6OkJvb2sgSW50ZXJuYXRpb25hbCBhbmQgRG9tZXN0aWMgRmxpZ2h0cyBPbmxpbmUgLSBBaXIgSW5kaWFCqwFIYXZpbmcgdHJvdWJsZT8gPGI-Q29udGFjdCBDdXN0b21lciBTdXBwb3J0PC9iPiBOb3QgYSBNYWhhcmFqYSBDbHViIE1lbWJlcj8gYmUgeW91ciB0cmF2ZWwgY29tcGFuaW9uLiBDb250YWN0IEZyZXF1ZW50bHkgQXNrZWQgUXVlc3Rpb25zIEN5YmVyc2VjdXJpdHkgJmFtcDsgRnJhdWQmbmJzcDsuLi5SB2NvbnRhY3QiAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Having trouble? Contact Customer Support Not a Maharaja Club Member? be your travel companion. Contact Frequently Asked Questions Cybersecurity & Fraud ...",
+          "icon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAAAQBQCdASogACAAPrUurVanIacnG_DgFolsALUXwKuA9yat26l6s4eGD1Q8lFaSUZeQAPwz-csAiBqj8Mk_unYzT6eOPwC6to1BkexeLWN8X_29Wm7WTz4Jvs0ibxad_80JDqD--PaLPNf5b8HCpxNtUEXpcaVduAIurzZINhkbwOkRhXAxiLgMYdYg-oaEiqPi6b85PqgK69J7JOGzrGHdzR83npj9e5WTcFU91Sg2CViA5lFO1aeXWnUvAviMT9JYkyrlX8Teraza8m-fmIQ1F794ekkWMAA.webp",
+          "source_info_link": "https://www.airindia.com/in/en/book.html"
+        }
+      },
+      "displayed_link": "https://www.airindia.com › Book",
+      "favicon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAAAQBQCdASogACAAPrUurVanIacnG_DgFolsALUXwKuA9yat26l6s4eGD1Q8lFaSUZeQAPwz-csAiBqj8Mk_unYzT6eOPwC6to1BkexeLWN8X_29Wm7WTz4Jvs0ibxad_80JDqD--PaLPNf5b8HCpxNtUEXpcaVduAIurzZINhkbwOkRhXAxiLgMYdYg-oaEiqPi6b85PqgK69J7JOGzrGHdzR83npj9e5WTcFU91Sg2CViA5lFO1aeXWnUvAviMT9JYkyrlX8Teraza8m-fmIQ1F794ekkWMAA.webp",
+      "link": "https://www.airindia.com/in/en/book.html",
+      "position": 7,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV8ULZ8Rxeb8kqDSx_tuKgUgau5HLI58X4bZWi7vJNzXQcmfofIeVNOVavTykLU1ScZltnxKF0ChCFo1rfW67T-PUkGEyXiGIZjriGFUdgYjJuXidcToaXsOy81e4Ewg&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQFnoECBwQAQ&uoh=1",
+      "snippet": "Having trouble? Contact Customer Support Not a Maharaja Club Member? be your travel companion. Contact Frequently Asked Questions Cybersecurity & Fraud ...",
+      "snippet_highlighted_words": [
+        "Contact Customer Support"
+      ],
+      "source": "Air India",
+      "title": "Book International and Domestic Flights Online"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0CL2dvdG8_dXJsPUNBRVN2UUVCNnpzd0ZReTBuMGVYemM1QUJwdUdSMFloeGRveUdzMUIzWU96RHhYVE5zLWxzYUZlVE9UalhoeEk1Q2VaR21pTkFPUnE3cGtQdU5CWWF4OVp3MU5zTEdhNFBZTFhmb2tSbXFSMGpBTVJGTkdUWTNPOHRRSTVJX3ZuaFhsRkJjZWhnY0NDX0I2UmM2NFNrSWtiSEtlSk5CSlZTcHAycWxRV1ZFbkx3Q29pZGNqbmRvc1dFWDI5Z010dnJMRWlTVmlUM1U0ZUFWOHAtUy1FUHVVSGtiLV9pR25iVTdIRndWR1RKbkJVRnBiNWg2WFBIUTJqN3V6ZXVyYWVaeDQSBBoCCAAa4AYSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAvAYIABAAGAAgACoUCgNhaXIVpamqQBoIYWlyaW5kaWEqOAoFaW5kaWEVd7a2QBoIYWlyaW5kaWEaDWluZGlhY3VzdG9tZXIaEWluZGlhY3VzdG9tZXJjYXJlKm0KCGN1c3RvbWVyFb0-2D8aCGNvbnN1bWVyGgdjb250YWN0GgRjdXN0GgljdXN0b21lcnMaCGhlbHBsaW5lGg1pbmRpYWN1c3RvbWVyGhFpbmRpYWN1c3RvbWVyY2FyZRoMY3VzdG9tZXJjYXJlKj8KBGNhcmUV9vq1PxoHY29udGFjdBoIaGVscGxpbmUaEWluZGlhY3VzdG9tZXJjYXJlGgxjdXN0b21lcmNhcmUqFgoGbnVtYmVyFaVDrj0aB251bWJlcnMyjQIvZ290bz91cmw9Q0FFU3ZRRUI2enN3RlF5MG4wZVh6YzVBQnB1R1IwWWh4ZG95R3MxQjNZT3pEeFhUTnMtbHNhRmVUT1RqWGh4STVDZVpHbWlOQU9ScTdwa1B1TkJZYXg5WncxTnNMR2E0UFlMWGZva1JtcVIwakFNUkZOR1RZM084dFFJNUlfdm5oWGxGQmNlaGdjQ0NfQjZSYzY0U2tJa2JIS2VKTkJKVlNwcDJxbFFXVkVuTHdDb2lkY2puZG9zV0VYMjlnTXR2ckxFaVNWaVQzVTRlQVY4cC1TLUVQdVVIa2ItX2lHbmJVN0hGd1ZHVEpuQlVGcGI1aDZYUEhRMmo3dXpldXJhZVp4NDpCPGI-QUlSIEluZGlhPC9iPiBMdGQgKEhlYWQgT2ZmaWNlKSBpbiBQYXRlbCBDaG93ayxEZWxoaSAtIEp1c3RkaWFsQrwBVHVlc2RheTotIDEwOjAwIEFtIC0gNjozMCBQbSDigKYgbSBTYXR1cmRheTotIENsb3NlZCBTdW5kYXk6LSBGaW5kIEFkZHJlc3MsIDxiPkNvbnRhY3QgTnVtYmVyPC9iPiwgUmV2aWV3cyAmYW1wOyBSYXRpbmdzLCBQaG90b3MsIE1hcHMgb2YgPGI-QUlSIEluZGlhPC9iPiBMdGQgKEhlYWQgT2ZmaWNlKSwgRGVsaGkmbmJzcDsuLi5SB2NvbnRhY3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0CL2dvdG8_dXJsPUNBRVN2UUVCNnpzd0ZReTBuMGVYemM1QUJwdUdSMFloeGRveUdzMUIzWU96RHhYVE5zLWxzYUZlVE9UalhoeEk1Q2VaR21pTkFPUnE3cGtQdU5CWWF4OVp3MU5zTEdhNFBZTFhmb2tSbXFSMGpBTVJGTkdUWTNPOHRRSTVJX3ZuaFhsRkJjZWhnY0NDX0I2UmM2NFNrSWtiSEtlSk5CSlZTcHAycWxRV1ZFbkx3Q29pZGNqbmRvc1dFWDI5Z010dnJMRWlTVmlUM1U0ZUFWOHAtUy1FUHVVSGtiLV9pR25iVTdIRndWR1RKbkJVRnBiNWg2WFBIUTJqN3V6ZXVyYWVaeDQSBBoCCAAa4AYSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAvAYIABAAGAAgACoUCgNhaXIVpamqQBoIYWlyaW5kaWEqOAoFaW5kaWEVd7a2QBoIYWlyaW5kaWEaDWluZGlhY3VzdG9tZXIaEWluZGlhY3VzdG9tZXJjYXJlKm0KCGN1c3RvbWVyFb0-2D8aCGNvbnN1bWVyGgdjb250YWN0GgRjdXN0GgljdXN0b21lcnMaCGhlbHBsaW5lGg1pbmRpYWN1c3RvbWVyGhFpbmRpYWN1c3RvbWVyY2FyZRoMY3VzdG9tZXJjYXJlKj8KBGNhcmUV9vq1PxoHY29udGFjdBoIaGVscGxpbmUaEWluZGlhY3VzdG9tZXJjYXJlGgxjdXN0b21lcmNhcmUqFgoGbnVtYmVyFaVDrj0aB251bWJlcnMyjQIvZ290bz91cmw9Q0FFU3ZRRUI2enN3RlF5MG4wZVh6YzVBQnB1R1IwWWh4ZG95R3MxQjNZT3pEeFhUTnMtbHNhRmVUT1RqWGh4STVDZVpHbWlOQU9ScTdwa1B1TkJZYXg5WncxTnNMR2E0UFlMWGZva1JtcVIwakFNUkZOR1RZM084dFFJNUlfdm5oWGxGQmNlaGdjQ0NfQjZSYzY0U2tJa2JIS2VKTkJKVlNwcDJxbFFXVkVuTHdDb2lkY2puZG9zV0VYMjlnTXR2ckxFaVNWaVQzVTRlQVY4cC1TLUVQdVVIa2ItX2lHbmJVN0hGd1ZHVEpuQlVGcGI1aDZYUEhRMmo3dXpldXJhZVp4NDpCPGI-QUlSIEluZGlhPC9iPiBMdGQgKEhlYWQgT2ZmaWNlKSBpbiBQYXRlbCBDaG93ayxEZWxoaSAtIEp1c3RkaWFsQrwBVHVlc2RheTotIDEwOjAwIEFtIC0gNjozMCBQbSDigKYgbSBTYXR1cmRheTotIENsb3NlZCBTdW5kYXk6LSBGaW5kIEFkZHJlc3MsIDxiPkNvbnRhY3QgTnVtYmVyPC9iPiwgUmV2aWV3cyAmYW1wOyBSYXRpbmdzLCBQaG90b3MsIE1hcHMgb2YgPGI-QUlSIEluZGlhPC9iPiBMdGQgKEhlYWQgT2ZmaWNlKSwgRGVsaGkmbmJzcDsuLi5SB2NvbnRhY3QiAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Tuesday:- 10:00 Am - 6:30 Pm … m Saturday:- Closed Sunday:- Find Address, Contact Number, Reviews & Ratings, Photos, Maps of AIR India Ltd (Head Office), Delhi ...",
+          "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+          "source_info_link": "https://www.justdial.com/Delhi/AIR-India-Ltd-Head-Office-Behind-All-India-Radio-Patel-Chowk/011PXX11-XX11-000125415043-D3B4_BZDET"
+        }
+      },
+      "displayed_link": "https://www.justdial.com › ... › Airlines in Patel Chowk",
+      "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+      "link": "https://www.justdial.com/Delhi/AIR-India-Ltd-Head-Office-Behind-All-India-Radio-Patel-Chowk/011PXX11-XX11-000125415043-D3B4_BZDET",
+      "position": 8,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvQEB6zswFQy0n0eXzc5ABpuGR0YhxdoyGs1B3YOzDxXTNs-lsaFeTOTjXhxI5CeZGmiNAORq7pkPuNBYax9Zw1NsLGa4PYLXfokRmqR0jAMRFNGTY3O8tQI5I_vnhXlFBcehgcCC_B6Rc64SkIkbHKeJNBJVSpp2qlQWVEnLwCoidcjndosWEX29gMtvrLEiSViT3U4eAV8p-S-EPuUHkb-_iGnbU7HFwVGTJnBUFpb5h6XPHQ2j7uzeuraeZx4&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQFnoECEEQAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.9,
+            "reviews": 1271
+          },
+          "extensions": [
+            "3.9(1,271)"
+          ]
+        }
+      },
+      "snippet": "Tuesday:- 10:00 Am - 6:30 Pm … m Saturday:- Closed Sunday:- Find Address, Contact Number, Reviews & Ratings, Photos, Maps of AIR India Ltd (Head Office), Delhi ...",
+      "snippet_highlighted_words": [
+        "Contact Number",
+        "AIR India"
+      ],
+      "source": "Justdial",
+      "title": "AIR India Ltd (Head Office) in Patel Chowk,Delhi"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZZLUF4MlRVMUNzVFFSNEdPN0RoQXBSd1Q5Q2VjWDcyNUdRNWZXUjBXckw2WE1LOE5hX0Y1RU5Yc2ttVHY2YjhXSmJndFFtNmFHMi1IRjNuNWhpUVhtVXVKM1dPRVN5dW9ra01VOGNWTXNtaVJGS0c5b0pQSGJHbkNkQ19IaGZxZ2piUVo1WG5ISkJsZTdmT1BlSmh1UUFtLVpqYkQwRGVLNHlacjJnUXZNSW44VkhyVnVscW8tOTdYX2VMa1BQb0xtOFVHeGUtEgQaAggAGpUGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPEFCAAQABgAIAAqFAoDYWlyFZ7CrUAaCGFpcmluZGlhKjgKBWluZGlhFVDHs0AaCGFpcmluZGlhGg1pbmRpYWN1c3RvbWVyGhFpbmRpYWN1c3RvbWVyY2FyZSptCghjdXN0b21lchUbJ6s_Gghjb25zdW1lchoHY29udGFjdBoEY3VzdBoJY3VzdG9tZXJzGghoZWxwbGluZRoNaW5kaWFjdXN0b21lchoRaW5kaWFjdXN0b21lcmNhcmUaDGN1c3RvbWVyY2FyZSo_CgRjYXJlFZjo3T8aB2NvbnRhY3QaCGhlbHBsaW5lGhFpbmRpYWN1c3RvbWVyY2FyZRoMY3VzdG9tZXJjYXJlKhYKBm51bWJlchW_qjQ-GgdudW1iZXJzMt4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZZLUF4MlRVMUNzVFFSNEdPN0RoQXBSd1Q5Q2VjWDcyNUdRNWZXUjBXckw2WE1LOE5hX0Y1RU5Yc2ttVHY2YjhXSmJndFFtNmFHMi1IRjNuNWhpUVhtVXVKM1dPRVN5dW9ra01VOGNWTXNtaVJGS0c5b0pQSGJHbkNkQ19IaGZxZ2piUVo1WG5ISkJsZTdmT1BlSmh1UUFtLVpqYkQwRGVLNHlacjJnUXZNSW44VkhyVnVscW8tOTdYX2VMa1BQb0xtOFVHeGUtOjo8Yj5BaXIgSW5kaWE8L2I-IGluIEdhbmRoaSBOYWdhcixCYW5nYWxvcmUgLSBKdXN0ZGlhbCAoSmQpQqgBQWRkcmVzcyBDdW52ZXJ5IFRvd2VyLCBCZW5nYWx1cnUsIEsgRyBSb2FkLCBHYW5kaGkgTmFnYXIsIEJhbmdhbG9yZS01NjAwMDksIFdoZXRoZXIgeW91IG5lZWQgYXNzaXN0YW5jZSB3aXRoIGJvb2tpbmcgb3IgdHJhdmVsIHBsYW5zLCA8Yj5BaXIgSW5kaWE8L2I-IHByb3ZpZGVzJm5ic3A7Li4uUgdjb250YWN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZZLUF4MlRVMUNzVFFSNEdPN0RoQXBSd1Q5Q2VjWDcyNUdRNWZXUjBXckw2WE1LOE5hX0Y1RU5Yc2ttVHY2YjhXSmJndFFtNmFHMi1IRjNuNWhpUVhtVXVKM1dPRVN5dW9ra01VOGNWTXNtaVJGS0c5b0pQSGJHbkNkQ19IaGZxZ2piUVo1WG5ISkJsZTdmT1BlSmh1UUFtLVpqYkQwRGVLNHlacjJnUXZNSW44VkhyVnVscW8tOTdYX2VMa1BQb0xtOFVHeGUtEgQaAggAGpUGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPEFCAAQABgAIAAqFAoDYWlyFZ7CrUAaCGFpcmluZGlhKjgKBWluZGlhFVDHs0AaCGFpcmluZGlhGg1pbmRpYWN1c3RvbWVyGhFpbmRpYWN1c3RvbWVyY2FyZSptCghjdXN0b21lchUbJ6s_Gghjb25zdW1lchoHY29udGFjdBoEY3VzdBoJY3VzdG9tZXJzGghoZWxwbGluZRoNaW5kaWFjdXN0b21lchoRaW5kaWFjdXN0b21lcmNhcmUaDGN1c3RvbWVyY2FyZSo_CgRjYXJlFZjo3T8aB2NvbnRhY3QaCGhlbHBsaW5lGhFpbmRpYWN1c3RvbWVyY2FyZRoMY3VzdG9tZXJjYXJlKhYKBm51bWJlchW_qjQ-GgdudW1iZXJzMt4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZZLUF4MlRVMUNzVFFSNEdPN0RoQXBSd1Q5Q2VjWDcyNUdRNWZXUjBXckw2WE1LOE5hX0Y1RU5Yc2ttVHY2YjhXSmJndFFtNmFHMi1IRjNuNWhpUVhtVXVKM1dPRVN5dW9ra01VOGNWTXNtaVJGS0c5b0pQSGJHbkNkQ19IaGZxZ2piUVo1WG5ISkJsZTdmT1BlSmh1UUFtLVpqYkQwRGVLNHlacjJnUXZNSW44VkhyVnVscW8tOTdYX2VMa1BQb0xtOFVHeGUtOjo8Yj5BaXIgSW5kaWE8L2I-IGluIEdhbmRoaSBOYWdhcixCYW5nYWxvcmUgLSBKdXN0ZGlhbCAoSmQpQqgBQWRkcmVzcyBDdW52ZXJ5IFRvd2VyLCBCZW5nYWx1cnUsIEsgRyBSb2FkLCBHYW5kaGkgTmFnYXIsIEJhbmdhbG9yZS01NjAwMDksIFdoZXRoZXIgeW91IG5lZWQgYXNzaXN0YW5jZSB3aXRoIGJvb2tpbmcgb3IgdHJhdmVsIHBsYW5zLCA8Yj5BaXIgSW5kaWE8L2I-IHByb3ZpZGVzJm5ic3A7Li4uUgdjb250YWN0IgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Address Cunvery Tower, Bengaluru, K G Road, Gandhi Nagar, Bangalore-560009, Whether you need assistance with booking or travel plans, Air India provides ...",
+          "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+          "source_info_link": "https://www.justdial.com/Bangalore/Air-India-Gandhi-Nagar/080PXX80-XX80-170901120349-J4K8_BZDET"
+        }
+      },
+      "displayed_link": "https://www.justdial.com › ... › Airlines in Gandhi Nagar",
+      "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+      "link": "https://www.justdial.com/Bangalore/Air-India-Gandhi-Nagar/080PXX80-XX80-170901120349-J4K8_BZDET",
+      "position": 9,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmgEB6zswFY-Ax2TU1CsTQR4GO7DhApRwT9CecX725GQ5fWR0WrL6XMK8Na_F5ENXskmTv6b8WJbgtQm6aG2-HF3n5hiQXmUuJ3WOESyuokkMU8cVMsmiRFKG9oJPHbGnCdC_HhfqgjbQZ5XnHJBle7fOPeJhuQAm-ZjbD0DeK4yZr2gQvMIn8VHrVulqo-97X_eLkPPoLm8UGxe-&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQFnoECEQQAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.8,
+            "reviews": 10
+          },
+          "extensions": [
+            "3.8(10)"
+          ]
+        }
+      },
+      "snippet": "Address Cunvery Tower, Bengaluru, K G Road, Gandhi Nagar, Bangalore-560009, Whether you need assistance with booking or travel plans, Air India provides ...",
+      "snippet_highlighted_words": [
+        "Air India"
+      ],
+      "source": "Justdial",
+      "title": "Air India in Gandhi Nagar,Bangalore"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVjNhNG42cE9FZXd0TU5sRjJ5TlhyeXk2Ql9XUElxb1k5UjlFQmFxOUN2ZVJIMU1Oc1dpcEFPVTFyNThEZWY5Tnh5TWVBMVN1T1F3MGlLWVdDbWRjX0xkeUJoM3hKcFBNOGNzUkZiSUJ6am1wZ2JwcjRkOHVOZ3E4Y1FuTDRtYmhXMEQtVlJ5WVlaSFhSdWxQcFh6Y0pKT00SBBoCCAAaugUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAlgUIABAAGAAgACoUCgNhaXIVAAAAABoIYWlyaW5kaWEqOAoFaW5kaWEVAAAAABoIYWlyaW5kaWEaDWluZGlhY3VzdG9tZXIaEWluZGlhY3VzdG9tZXJjYXJlKm0KCGN1c3RvbWVyFQAAAAAaCGNvbnN1bWVyGgdjb250YWN0GgRjdXN0GgljdXN0b21lcnMaCGhlbHBsaW5lGg1pbmRpYWN1c3RvbWVyGhFpbmRpYWN1c3RvbWVyY2FyZRoMY3VzdG9tZXJjYXJlKj8KBGNhcmUVAAAAABoHY29udGFjdBoIaGVscGxpbmUaEWluZGlhY3VzdG9tZXJjYXJlGgxjdXN0b21lcmNhcmUqFgoGbnVtYmVyFQAAAAAaB251bWJlcnMyrQEvZ290bz91cmw9Q0FFU2RnSHJPekFWM2E0bjZwT0Vld3RNTmxGMnlOWHJ5eTZCX1dQSXFvWTlSOUVCYXE5Q3ZlUkgxTU5zV2lwQU9VMXI1OERlZjlOeHlNZUExU3VPUXcwaUtZV0NtZGNfTGR5QmgzeEpwUE04Y3NSRmJJQnpqbXBnYnByNGQ4dU5ncThjUW5MNG1iaFcwRC1WUnlZWVpIWFJ1bFBwWHpjSkpPTToaQ2hlY2sgSGVyZSAtIERlbGhpIEFpcnBvcnRCngFGaW5kIGFpcmxpbmUgY29udGFjdCBpbmZvcm1hdGlvbiBmb3IgYWxsIGFpcmxpbmVzIG9wZXJhdGluZyBvdXQgb2YgRGVsaGkgQWlycG9ydCAoREVMKS4gR2V0IHRlcm1pbmFsIGRldGFpbHMgZm9yIDxiPkFpciBJbmRpYTwvYj4sIEluZGlHbywgU3BpY2VKZXQsIGFuZCBtb3JlLlIHY29udGFjdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVjNhNG42cE9FZXd0TU5sRjJ5TlhyeXk2Ql9XUElxb1k5UjlFQmFxOUN2ZVJIMU1Oc1dpcEFPVTFyNThEZWY5Tnh5TWVBMVN1T1F3MGlLWVdDbWRjX0xkeUJoM3hKcFBNOGNzUkZiSUJ6am1wZ2JwcjRkOHVOZ3E4Y1FuTDRtYmhXMEQtVlJ5WVlaSFhSdWxQcFh6Y0pKT00SBBoCCAAaugUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAlgUIABAAGAAgACoUCgNhaXIVAAAAABoIYWlyaW5kaWEqOAoFaW5kaWEVAAAAABoIYWlyaW5kaWEaDWluZGlhY3VzdG9tZXIaEWluZGlhY3VzdG9tZXJjYXJlKm0KCGN1c3RvbWVyFQAAAAAaCGNvbnN1bWVyGgdjb250YWN0GgRjdXN0GgljdXN0b21lcnMaCGhlbHBsaW5lGg1pbmRpYWN1c3RvbWVyGhFpbmRpYWN1c3RvbWVyY2FyZRoMY3VzdG9tZXJjYXJlKj8KBGNhcmUVAAAAABoHY29udGFjdBoIaGVscGxpbmUaEWluZGlhY3VzdG9tZXJjYXJlGgxjdXN0b21lcmNhcmUqFgoGbnVtYmVyFQAAAAAaB251bWJlcnMyrQEvZ290bz91cmw9Q0FFU2RnSHJPekFWM2E0bjZwT0Vld3RNTmxGMnlOWHJ5eTZCX1dQSXFvWTlSOUVCYXE5Q3ZlUkgxTU5zV2lwQU9VMXI1OERlZjlOeHlNZUExU3VPUXcwaUtZV0NtZGNfTGR5QmgzeEpwUE04Y3NSRmJJQnpqbXBnYnByNGQ4dU5ncThjUW5MNG1iaFcwRC1WUnlZWVpIWFJ1bFBwWHpjSkpPTToaQ2hlY2sgSGVyZSAtIERlbGhpIEFpcnBvcnRCngFGaW5kIGFpcmxpbmUgY29udGFjdCBpbmZvcm1hdGlvbiBmb3IgYWxsIGFpcmxpbmVzIG9wZXJhdGluZyBvdXQgb2YgRGVsaGkgQWlycG9ydCAoREVMKS4gR2V0IHRlcm1pbmFsIGRldGFpbHMgZm9yIDxiPkFpciBJbmRpYTwvYj4sIEluZGlHbywgU3BpY2VKZXQsIGFuZCBtb3JlLlIHY29udGFjdCICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Find airline contact information for all airlines operating out of Delhi Airport (DEL). Get terminal details for Air India, IndiGo, SpiceJet, and more.",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBgCdASocABwAPtEutFooIagoGAEAGglsALEbUiQUYDbAXYBvGZETJN1oBFt_dyn6BXyAZ7XnbyxUDypgAAD-_sKgJjx8PsnD_HJlcs-srjHGkqRHdjM6P9ofLmH__1nnKGnvXZTQtRrBCuMpXQZlC1G_7H6HtJVsU7L-z_yrogYXvZ3VfX2Ta-a_fc--xmF9_SVTT4UDSzZ_AXBfntJRTiwtX6tTY_83lhh5EtAsOU6P-1K05ciPYPBdF3w86zZg1FHglLoXrXuvsUlL8wLSy-8N2sSJDwUyxYPhepZPcqDAd2vIaoPlkdBzawRT8fUo9vblqxj2oLJljSCZG6E2oclvxh0s-XwQzMj_6PqA_l9-f01TEV_kASa1uKv4kAA.webp",
+          "source_info_link": "https://www.newdelhiairport.in/airline-contact-information/"
+        }
+      },
+      "displayed_link": "https://www.newdelhiairport.in › airline-contact-inform...",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBgCdASocABwAPtEutFooIagoGAEAGglsALEbUiQUYDbAXYBvGZETJN1oBFt_dyn6BXyAZ7XnbyxUDypgAAD-_sKgJjx8PsnD_HJlcs-srjHGkqRHdjM6P9ofLmH__1nnKGnvXZTQtRrBCuMpXQZlC1G_7H6HtJVsU7L-z_yrogYXvZ3VfX2Ta-a_fc--xmF9_SVTT4UDSzZ_AXBfntJRTiwtX6tTY_83lhh5EtAsOU6P-1K05ciPYPBdF3w86zZg1FHglLoXrXuvsUlL8wLSy-8N2sSJDwUyxYPhepZPcqDAd2vIaoPlkdBzawRT8fUo9vblqxj2oLJljSCZG6E2oclvxh0s-XwQzMj_6PqA_l9-f01TEV_kASa1uKv4kAA.webp",
+      "link": "https://www.newdelhiairport.in/airline-contact-information/",
+      "position": 10,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAV3a4n6pOEewtMNlF2yNXryy6B_WPIqoY9R9EBaq9CveRH1MNsWipAOU1r58Def9NxyMeA1SuOQw0iKYWCmdc_LdyBh3xJpPM8csRFbIBzjmpgbpr4d8uNgq8cQnL4mbhW0D-VRyYYZHXRulPpXzcJJOM&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQFnoECEIQAQ&uoh=1",
+      "snippet": "Find airline contact information for all airlines operating out of Delhi Airport (DEL). Get terminal details for Air India, IndiGo, SpiceJet, and more.",
+      "snippet_highlighted_words": [
+        "Air India"
+      ],
+      "source": "Delhi Airport",
+      "title": "Check Here"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Air+India+customer+care+number&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnsZ4LZKcIHOWf-NCEMF5g1Rj88RXQ:1791189895630&ei=h2PDaq2IJr3_1e8Pu9Sa4A4&start=10&sa=N&sstk=AS6-VmJ4ZVdPtODMvxkQpTuYpWpt1WhjQKSCcKc3HPjJ0B5ToYWfAqriK-3p61AGirzQdC8fQIQg4fzX6hfsyO9hR1xl9QI0mVhzWw&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQ8NMDegQIORAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Air+India+customer+care+number&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnsZ4LZKcIHOWf-NCEMF5g1Rj88RXQ:1791189895630&ei=h2PDaq2IJr3_1e8Pu9Sa4A4&start=10&sa=N&sstk=AS6-VmJ4ZVdPtODMvxkQpTuYpWpt1WhjQKSCcKc3HPjJ0B5ToYWfAqriK-3p61AGirzQdC8fQIQg4fzX6hfsyO9hR1xl9QI0mVhzWw&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQ8tMDegQIORAE"
+    }
+  },
+  "related_searches": [
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnsZ4LZKcIHOWf-NCEMF5g1Rj88RXQ:1791189895630&q=Air+India+Customer+Care+toll+free+number+24+hours&sa=X&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQ1QJ6BAg_EAE",
+      "query": "Air India Customer Care toll free number 24 hours",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Customer+Care+toll+free+number+24+hours"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnsZ4LZKcIHOWf-NCEMF5g1Rj88RXQ:1791189895630&q=Air+India+customer+care+Toll+free+number+Delhi+24x7&sa=X&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQ1QJ6BAhNEAE",
+      "query": "Air India customer care Toll free number Delhi 24x7",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+customer+care+Toll+free+number+Delhi+24x7"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnsZ4LZKcIHOWf-NCEMF5g1Rj88RXQ:1791189895630&q=Air+India+customer+Care+WhatsApp+number+24+hours&sa=X&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQ1QJ6BAhIEAE",
+      "query": "Air India customer Care WhatsApp number 24 hours",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+customer+Care+WhatsApp+number+24+hours"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnsZ4LZKcIHOWf-NCEMF5g1Rj88RXQ:1791189895630&q=Air+india+customer+care+number+hyderabad+24x7&sa=X&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQ1QJ6BAhHEAE",
+      "query": "Air india customer care number hyderabad 24x7",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+india+customer+care+number+hyderabad+24x7"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnsZ4LZKcIHOWf-NCEMF5g1Rj88RXQ:1791189895630&q=Hyderabad+Air+India+customer+care+number&sa=X&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQ1QJ6BAhGEAE",
+      "query": "Hyderabad Air India customer care number",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Hyderabad+Air+India+customer+care+number"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnsZ4LZKcIHOWf-NCEMF5g1Rj88RXQ:1791189895630&q=Air+India+Customer+Care+number+Domestic&sa=X&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQ1QJ6BAhFEAE",
+      "query": "Air India Customer Care number Domestic",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Customer+Care+number+Domestic"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnsZ4LZKcIHOWf-NCEMF5g1Rj88RXQ:1791189895630&q=Air+india+customer+care+number+near+secunderabad+telangana&sa=X&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQ1QJ6BAhDEAE",
+      "query": "Air india customer care number near secunderabad telangana",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+india+customer+care+number+near+secunderabad+telangana"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnsZ4LZKcIHOWf-NCEMF5g1Rj88RXQ:1791189895630&q=Air+India+Customer+Care+International&sa=X&ved=2ahUKEwjt59CrvqKXAxW9f_UHHTuqBuwQ1QJ6BAhAEAE",
+      "query": "Air India Customer Care International",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Customer+Care+International"
+    }
+  ],
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "Air India customer care number",
+    "time_taken_displayed": 0.27,
+    "total_results": 35
+  },
+  "search_metadata": {
+    "created_at": "2026-10-05 08:44:41 UTC",
+    "google_url": "https://www.google.com/search?q=Air+India+customer+care+number&oq=Air+India+customer+care+number&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "id": "6ac363797d6e70e1859334ed",
+    "json_endpoint": "https://serpapi.com/searches/shT8KKPjTgq4zG-bIgTz0ujWfSxr2ulfyX1qoR89wAQ/6ac363797d6e70e1859334ed.json",
+    "markdown_endpoint": "https://serpapi.com/searches/shT8KKPjTgq4zG-bIgTz0ujWfSxr2ulfyX1qoR89wAQ/6ac363797d6e70e1859334ed.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/shT8KKPjTgq4zG-bIgTz0ujWfSxr2ulfyX1qoR89wAQ/6ac363797d6e70e1859334ed.json_with_pixel_position",
+    "processed_at": "2026-10-05 08:44:41 UTC",
+    "raw_html_file": "https://serpapi.com/searches/shT8KKPjTgq4zG-bIgTz0ujWfSxr2ulfyX1qoR89wAQ/6ac363797d6e70e1859334ed.html",
+    "status": "Success",
+    "total_time_taken": 14.79
+  },
+  "search_parameters": {
+    "device": "desktop",
+    "engine": "google",
+    "gl": "in",
+    "google_domain": "google.com",
+    "hl": "en",
+    "q": "Air India customer care number"
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+customer+care+number&start=10",
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+customer+care+number&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+customer+care+number&start=10"
+    }
+  }
+}

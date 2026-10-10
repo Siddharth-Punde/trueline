@@ -1,0 +1,412 @@
+{
+  "organic_results": [
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CogBL2dvdG8_dXJsPUNBRVNXZ0hyT3pBVnhjaENWY01mcjBmOVBYSDdjeVJYMnV2VW1HMWhFeEFCTjFVQWxNbXhTY0N6T3B6X2hfTHVvMnp4enF1RGtvdzJCcmY1M0JVMTkxeFFTMmNlM1ZCM2pacFNNNHNxS0JvMC0yZGhER2I2OGs3N1NnUDduURIEGgIIABqmAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQIADCAAQABgAIAAqJQoDYWlyFaeD10AaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MyiAEvZ290bz91cmw9Q0FFU1dnSHJPekFWeGNoQ1ZjTWZyMGY5UFhIN2N5UlgydXZVbUcxaEV4QUJOMVVBbE1teFNjQ3pPcHpfaF9MdW8yenh6cXVEa293MkJyZjUzQlUxOTF4UVMyY2UzVkIzalpwU000c3FLQm8wLTJkaERHYjY4azc3U2dQN25ROiI8Yj5DQVJFPC9iPiBDYXNlIFJlcG9ydCBHdWlkZWxpbmVzQpYBVGhlIDxiPkNBUkU8L2I-IGd1aWRlbGluZXMgd2VyZSBkZXZlbG9wZWQgYnkgYW4gaW50ZXJuYXRpb25hbCBncm91cCBvZiBleHBlcnRzIHRvIGluY3JlYXNlIHRoZSBhY2N1cmFjeSwgdHJhbnNwYXJlbmN5LCBhbmQgdXNlZnVsbmVzcyBvZiBjYXNlIHJlcG9ydHMuUgdjb250YWN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CogBL2dvdG8_dXJsPUNBRVNXZ0hyT3pBVnhjaENWY01mcjBmOVBYSDdjeVJYMnV2VW1HMWhFeEFCTjFVQWxNbXhTY0N6T3B6X2hfTHVvMnp4enF1RGtvdzJCcmY1M0JVMTkxeFFTMmNlM1ZCM2pacFNNNHNxS0JvMC0yZGhER2I2OGs3N1NnUDduURIEGgIIABqmAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQIADCAAQABgAIAAqJQoDYWlyFaeD10AaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MyiAEvZ290bz91cmw9Q0FFU1dnSHJPekFWeGNoQ1ZjTWZyMGY5UFhIN2N5UlgydXZVbUcxaEV4QUJOMVVBbE1teFNjQ3pPcHpfaF9MdW8yenh6cXVEa293MkJyZjUzQlUxOTF4UVMyY2UzVkIzalpwU000c3FLQm8wLTJkaERHYjY4azc3U2dQN25ROiI8Yj5DQVJFPC9iPiBDYXNlIFJlcG9ydCBHdWlkZWxpbmVzQpYBVGhlIDxiPkNBUkU8L2I-IGd1aWRlbGluZXMgd2VyZSBkZXZlbG9wZWQgYnkgYW4gaW50ZXJuYXRpb25hbCBncm91cCBvZiBleHBlcnRzIHRvIGluY3JlYXNlIHRoZSBhY2N1cmFjeSwgdHJhbnNwYXJlbmN5LCBhbmQgdXNlZnVsbmVzcyBvZiBjYXNlIHJlcG9ydHMuUgdjb250YWN0IgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "The CARE guidelines were developed by an international group of experts to increase the accuracy, transparency, and usefulness of case reports.",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAAAOElEQVR4AWOYz4CCGDC4JwsKkNGw0EAyeHX8ODICiux0dYUjNAvnD0YNZABMA04WFsIRuoLhoQEAAL3X2yMKljIAAAAASUVORK5CYII.png",
+          "source_info_link": "https://www.care-statement.org/"
+        }
+      },
+      "displayed_link": "https://www.care-statement.org",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAAAOElEQVR4AWOYz4CCGDC4JwsKkNGw0EAyeHX8ODICiux0dYUjNAvnD0YNZABMA04WFsIRuoLhoQEAAL3X2yMKljIAAAAASUVORK5CYII.png",
+      "link": "https://www.care-statement.org/",
+      "position": 1,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVxchCVcMfr0f9PXH7cyRX2uvUmG1hExABN1UAlMmxScCzOpz_h_Luo2zxzquDkow2Brf53BU191xQS2ce3VB3jZpSM4sqKBo0-2dhDGb68k77SgP7nQ&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQFnoECA0QAQ&uoh=1",
+      "snippet": "The CARE guidelines were developed by an international group of experts to increase the accuracy, transparency, and usefulness of case reports.",
+      "snippet_highlighted_words": [
+        "CARE"
+      ],
+      "source": "CARE Case Report Guidelines",
+      "title": "CARE Case Report Guidelines"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoQBL2dvdG8_dXJsPUNBRVNWd0hyT3pBVk5jVVIyYTZYRWsxZ3NfWTBsbnJHTUxJUXlDM0NnaFJSRmlwcFcwV1JSTnMzWENuUkY0MjJfMTdwSklUc2JTWGp1MV9lNlB0cFkxVUJ0X2hGZE9pU3IzRFZCa196Ml9OMXBJTmRBTGdZWHl1ejNBEgQaAggAGqUDEgIIARoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA_wIIABAAGAAgAColCgNhaXIVg5kVPxoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzczKEAS9nb3RvP3VybD1DQUVTVndIck96QVZOY1VSMmE2WEVrMWdzX1kwbG5yR01MSVF5QzNDZ2hSUkZpcHBXMFdSUk5zM1hDblJGNDIyXzE3cEpJVHNiU1hqdTFfZTZQdHBZMVVCdF9oRmRPaVNyM0RWQmtfejJfTjFwSU5kQUxnWVh5dXozQToTPGI-Q0FSRTwvYj4gUmF0aW5nc0KoAUxpbmUgZ3JhcGggc2hvd2luZyB0aGUgQ0FSRUVER0UgRGVidCBRdWFsaXR5IEluZGV4IGZyb20gSmFudWFyeSB0byBTZXB0ZW1iZXIgMjAyNS4gVGhlIGluZGV4IHN0YXJ0cyBhdCBhIG1vZGVyYXRlIGxldmVsIGluIEphbnVhcnksIGdyYWR1YWxseSBpbmNyZWFzZXMgdGhyb3VnaCZuYnNwOy4uLlIHY29udGFjdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoQBL2dvdG8_dXJsPUNBRVNWd0hyT3pBVk5jVVIyYTZYRWsxZ3NfWTBsbnJHTUxJUXlDM0NnaFJSRmlwcFcwV1JSTnMzWENuUkY0MjJfMTdwSklUc2JTWGp1MV9lNlB0cFkxVUJ0X2hGZE9pU3IzRFZCa196Ml9OMXBJTmRBTGdZWHl1ejNBEgQaAggAGqUDEgIIARoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA_wIIABAAGAAgAColCgNhaXIVg5kVPxoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzczKEAS9nb3RvP3VybD1DQUVTVndIck96QVZOY1VSMmE2WEVrMWdzX1kwbG5yR01MSVF5QzNDZ2hSUkZpcHBXMFdSUk5zM1hDblJGNDIyXzE3cEpJVHNiU1hqdTFfZTZQdHBZMVVCdF9oRmRPaVNyM0RWQmtfejJfTjFwSU5kQUxnWVh5dXozQToTPGI-Q0FSRTwvYj4gUmF0aW5nc0KoAUxpbmUgZ3JhcGggc2hvd2luZyB0aGUgQ0FSRUVER0UgRGVidCBRdWFsaXR5IEluZGV4IGZyb20gSmFudWFyeSB0byBTZXB0ZW1iZXIgMjAyNS4gVGhlIGluZGV4IHN0YXJ0cyBhdCBhIG1vZGVyYXRlIGxldmVsIGluIEphbnVhcnksIGdyYWR1YWxseSBpbmNyZWFzZXMgdGhyb3VnaCZuYnNwOy4uLlIHY29udGFjdCICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Line graph showing the CAREEDGE Debt Quality Index from January to September 2025. The index starts at a moderate level in January, gradually increases through ...",
+          "icon": "https://serpapi.com/images/i/UklGRs4AAABXRUJQVlA4IMIAAABwBQCdASocABwAPr0ur1enIacnG_DgF4lsAJ0y1T4QYBvIYJLSEK_928J4rsaf36-ukAgAAPbUG6gVkgebOcitLZyWGR2ZFfwi-1vjyclqp_5-Z526GfTBo_51Jvi1UQ-ZTYjAPH4KL-eWU09DcdXyR2B_DlInh7Ekn8GVZzHMcsv9LrXEAs5ORU4IteA4hLmCjv8TxRO4JYmvFwfx_x7n16fRR_VP9nJn8Ad_-9z8RC7ym6x-Yiwj4tA3FweYuK0AAA.webp",
+          "source_info_link": "https://www.careratings.com/"
+        }
+      },
+      "displayed_link": "https://www.careratings.com",
+      "favicon": "https://serpapi.com/images/i/UklGRs4AAABXRUJQVlA4IMIAAABwBQCdASocABwAPr0ur1enIacnG_DgF4lsAJ0y1T4QYBvIYJLSEK_928J4rsaf36-ukAgAAPbUG6gVkgebOcitLZyWGR2ZFfwi-1vjyclqp_5-Z526GfTBo_51Jvi1UQ-ZTYjAPH4KL-eWU09DcdXyR2B_DlInh7Ekn8GVZzHMcsv9LrXEAs5ORU4IteA4hLmCjv8TxRO4JYmvFwfx_x7n16fRR_VP9nJn8Ad_-9z8RC7ym6x-Yiwj4tA3FweYuK0AAA.webp",
+      "link": "https://www.careratings.com/",
+      "position": 2,
+      "read_more_link": "https://www.careratings.com/#:~:text=CareEdge%20Credit%20Quality%20Assessment",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVwHrOzAVNcUR2a6XEk1gs_Y0lnrGMLIQyC3CghRRFippW0WRRNs3XCnRF422_17pJITsbSXju1_e6PtpY1UBt_hFdOiSr3DVBk_z2_N1pINdALgYXyuz3A&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQFnoECBYQAQ&uoh=1",
+      "snippet": "Line graph showing the CAREEDGE Debt Quality Index from January to September 2025. The index starts at a moderate level in January, gradually increases through ...",
+      "source": "CareEdge | Ratings",
+      "title": "CARE Ratings"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmxqdWFXS3ZuT0V3N1U4UHhXRnNrakUzblJldF8zZDlnWnN0QzBGSXZINU9BeU1sQlZqR0h4RWZQSXg0aGZjOHlZY2tGS1hrN0pPcktEYld3SW95eTNzOGRIMU9xZXUyOURuNmNlYW1ObUxtT0djN1ZBTE5PcUhYUTNREgQaAggAGrsDEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAlQMIABAAGAAgAColCgNhaXIV5JG4QBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzczKQAS9nb3RvP3VybD1DQUVTWUFIck96QVZsanVhV0t2bk9FdzdVOFB4V0Zza2pFM25SZXRfM2Q5Z1pzdEMwRkl2SDVPQXlNbEJWakdIeEVmUEl4NGhmYzh5WWNrRktYazdKT3JLRGJXd0lveXkzczhkSDFPcWV1MjlEbjZjZWFtTm1MbU9HYzdWQUxOT3FIWFEzUToWPGI-Q0FSRTwvYj4gLSBMaW5rZWRJbkKvATxiPkNBUkU8L2I-IGlzIGEgbGVhZGluZyBodW1hbml0YXJpYW4gZ2xvYmFsIG9yZ2FuaXphdGlvbi4gV2UgZGVsaXZlciBsYXN0aW5nIGNoYW5nZSB0byBzb21lIG9mIHRoZSB3b3JsZCYjMzk7cyBwb29yZXN0IGNvbW11bml0aWVzIGFuZCBwbGFjZSBzcGVjaWFsIGZvY3VzIG9uIHdvcmtpbmcmbmJzcDsuLi5SB2NvbnRhY3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmxqdWFXS3ZuT0V3N1U4UHhXRnNrakUzblJldF8zZDlnWnN0QzBGSXZINU9BeU1sQlZqR0h4RWZQSXg0aGZjOHlZY2tGS1hrN0pPcktEYld3SW95eTNzOGRIMU9xZXUyOURuNmNlYW1ObUxtT0djN1ZBTE5PcUhYUTNREgQaAggAGrsDEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAlQMIABAAGAAgAColCgNhaXIV5JG4QBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzczKQAS9nb3RvP3VybD1DQUVTWUFIck96QVZsanVhV0t2bk9FdzdVOFB4V0Zza2pFM25SZXRfM2Q5Z1pzdEMwRkl2SDVPQXlNbEJWakdIeEVmUEl4NGhmYzh5WWNrRktYazdKT3JLRGJXd0lveXkzczhkSDFPcWV1MjlEbjZjZWFtTm1MbU9HYzdWQUxOT3FIWFEzUToWPGI-Q0FSRTwvYj4gLSBMaW5rZWRJbkKvATxiPkNBUkU8L2I-IGlzIGEgbGVhZGluZyBodW1hbml0YXJpYW4gZ2xvYmFsIG9yZ2FuaXphdGlvbi4gV2UgZGVsaXZlciBsYXN0aW5nIGNoYW5nZSB0byBzb21lIG9mIHRoZSB3b3JsZCYjMzk7cyBwb29yZXN0IGNvbW11bml0aWVzIGFuZCBwbGFjZSBzcGVjaWFsIGZvY3VzIG9uIHdvcmtpbmcmbmJzcDsuLi5SB2NvbnRhY3QiAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "CARE is a leading humanitarian global organization. We deliver lasting change to some of the world's poorest communities and place special focus on working ...",
+          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+          "source_info_link": "https://www.linkedin.com/company/care"
+        }
+      },
+      "displayed_link": "10.2L+ followers",
+      "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "link": "https://www.linkedin.com/company/care",
+      "position": 3,
+      "read_more_link": "https://www.linkedin.com/company/care#:~:text=CARE%20is%20a%20leading%20humanitarian,place%20special%20focus%20on%20working",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVljuaWKvnOEw7U8PxWFskjE3nRet_3d9gZstC0FIvH5OAyMlBVjGHxEfPIx4hfc8yYckFKXk7JOrKDbWwIoyy3s8dH1Oqeu29Dn6ceamNmLmOGc7VALNOqHXQ3Q&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQFnoECCEQAQ&uoh=1",
+      "snippet": "CARE is a leading humanitarian global organization. We deliver lasting change to some of the world's poorest communities and place special focus on working ...",
+      "snippet_highlighted_words": [
+        "CARE"
+      ],
+      "source": "LinkedIn · CARE",
+      "title": "CARE"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVmw5Wlo2cWttcE1iMy0xNXljRG1XR0pFS04wdjRucEVRaklOdXF0VTlFM1BMeFF5aHhZaHNVSnRXUUZfR2poS2V2MGI0c0lqTmhROWZVbmJCNTh3bGhXSDA1OHFqd0dhejd2eTRCdHE4bGNlUzhnb08SBBoCCAAa3AMSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC2AwgAEAAYACAAKiUKA2FpchXv9ZlAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzMoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVmw5Wlo2cWttcE1iMy0xNXljRG1XR0pFS04wdjRucEVRaklOdXF0VTlFM1BMeFF5aHhZaHNVSnRXUUZfR2poS2V2MGI0c0lqTmhROWZVbmJCNTh3bGhXSDA1OHFqd0dhejd2eTRCdHE4bGNlUzhnb086RDxiPkNhcmU8L2I-IEluc3VyYW5jZSAtIEF3YXJkZWQgYXMgQmVzdCBDbGFpbSBTZXR0bGVtZW50IENvbXBhbnkgLi4uQqwBRm9yIGFueSBjbGFyaWZpY2F0aW9uLCBwbGVhc2UgZmVlbCBmcmVlIHRvIGNoYXQgd2l0aCBvdXIgY3VzdG9tZXIgc2VydmljZSBvbiBXaGF0c0FwcCBhdCA8Yj44ODYwNDAyNDUyPC9iPi4gMjIxMDArIEhlYWx0aGNhcmUgcHJvdmlkZXJzIG9mZmVyaW5nIGNhc2hsZXNzIHRyZWF0bWVudCZuYnNwOy4uLlIHY29udGFjdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVmw5Wlo2cWttcE1iMy0xNXljRG1XR0pFS04wdjRucEVRaklOdXF0VTlFM1BMeFF5aHhZaHNVSnRXUUZfR2poS2V2MGI0c0lqTmhROWZVbmJCNTh3bGhXSDA1OHFqd0dhejd2eTRCdHE4bGNlUzhnb08SBBoCCAAa3AMSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC2AwgAEAAYACAAKiUKA2FpchXv9ZlAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzMoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVmw5Wlo2cWttcE1iMy0xNXljRG1XR0pFS04wdjRucEVRaklOdXF0VTlFM1BMeFF5aHhZaHNVSnRXUUZfR2poS2V2MGI0c0lqTmhROWZVbmJCNTh3bGhXSDA1OHFqd0dhejd2eTRCdHE4bGNlUzhnb086RDxiPkNhcmU8L2I-IEluc3VyYW5jZSAtIEF3YXJkZWQgYXMgQmVzdCBDbGFpbSBTZXR0bGVtZW50IENvbXBhbnkgLi4uQqwBRm9yIGFueSBjbGFyaWZpY2F0aW9uLCBwbGVhc2UgZmVlbCBmcmVlIHRvIGNoYXQgd2l0aCBvdXIgY3VzdG9tZXIgc2VydmljZSBvbiBXaGF0c0FwcCBhdCA8Yj44ODYwNDAyNDUyPC9iPi4gMjIxMDArIEhlYWx0aGNhcmUgcHJvdmlkZXJzIG9mZmVyaW5nIGNhc2hsZXNzIHRyZWF0bWVudCZuYnNwOy4uLlIHY29udGFjdCICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "For any clarification, please feel free to chat with our customer service on WhatsApp at 8860402452. 22100+ Healthcare providers offering cashless treatment ...",
+          "icon": "https://serpapi.com/images/i/UklGRroAAABXRUJQVlA4IK4AAADwBACdASocABwAPtE-tFooIigoFAEAGglsAJ0zHHz2EzAZCDpdGAiAqokluBsL3AAA_ucGDrArUQBBg40I6RJ6NcWW0P_5-Z_PZoQR_-d4K3z_L9zYavyFwhIE4R_d1ssUe2UW3y5X9D20i-ZrzMWq7XLiTvSE38uxoi4U8Qzquv6okIDTb9x_z_7_j4pHlbhc7kJNJX8helQ8BYhx5PNkFZnNhJvjulawZ1cAAAA.webp",
+          "source_info_link": "https://www.careinsurance.com/"
+        }
+      },
+      "displayed_link": "https://www.careinsurance.com",
+      "favicon": "https://serpapi.com/images/i/UklGRroAAABXRUJQVlA4IK4AAADwBACdASocABwAPtE-tFooIigoFAEAGglsAJ0zHHz2EzAZCDpdGAiAqokluBsL3AAA_ucGDrArUQBBg40I6RJ6NcWW0P_5-Z_PZoQR_-d4K3z_L9zYavyFwhIE4R_d1ssUe2UW3y5X9D20i-ZrzMWq7XLiTvSE38uxoi4U8Qzquv6okIDTb9x_z_7_j4pHlbhc7kJNJX8helQ8BYhx5PNkFZnNhJvjulawZ1cAAAA.webp",
+      "link": "https://www.careinsurance.com/",
+      "position": 4,
+      "read_more_link": "https://www.careinsurance.com/#:~:text=22100%2B%20Healthcare%20providers%20offering%20cashless,treatment%20across%20the%20country",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVl9ZZ6qkmpMb3-15ycDmWGJEKN0v4npEQjINuqtU9E3PLxQyhxYhsUJtWQF_GjhKev0b4sIjNhQ9fUnbB58wlhWH058qjwGaz7vy4Btq8lceS8goO&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQFnoECBEQAQ&uoh=1",
+      "snippet": "For any clarification, please feel free to chat with our customer service on WhatsApp at 8860402452. 22100+ Healthcare providers offering cashless treatment ...",
+      "snippet_highlighted_words": [
+        "8860402452"
+      ],
+      "source": "Care Health Insurance",
+      "title": "Care Insurance - Awarded as Best Claim Settlement Company ..."
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVjZaSWYyc3ptb3dXbndubVpRSGNGTi1NckJqUlBtb0ZkVFVOQnphcjJBODNJMHQydU8xblBydF9uMzhkc1pGbHRxT2NMQzRRQVJCMmpxa3ZsRWpsRFp3c3N2aUVhYU05OFdsYkFwYlgxU3NGRlZiQk5TbnkyV1ZSa091ZmpDQ3JoT3RxSUEteWswU3NzZzE3RDJadxIEGgIIABrKAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKQDCAAQABgAIAAqJQoDYWlyFdDHwkAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MyqQEvZ290bz91cmw9Q0FFU2N3SHJPekFWNlpJZjJzem1vd1dud25tWlFIY0ZOLU1yQmpSUG1vRmRUVU5CemFyMkE4M0kwdDJ1TzFuUHJ0X24zOGRzWkZsdHFPY0xDNFFBUkIyanFrdmxFamxEWndzc3ZpRWFhTTk4V2xiQXBiWDFTc0ZGVmJCTlNueTJXVlJrT3VmakNDcmhPdHFJQS15azBTc3NnMTdEMlp3OjQ8Yj5DQVJFPC9iPiB8IEVuZ2xpc2ggbWVhbmluZyAtIENhbWJyaWRnZSBEaWN0aW9uYXJ5QocBPGI-Q0FSRTwvYj4gZGVmaW5pdGlvbjogMS4gdGhlIHByb2Nlc3Mgb2YgcHJvdGVjdGluZyBzb21lb25lIG9yIHNvbWV0aGluZyBhbmQgcHJvdmlkaW5nIHdoYXQgdGhhdCBwZXJzb24gb3IgdGhpbmcgbmVlZHPigKYuIExlYXJuIG1vcmUuUgdjb250YWN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVjZaSWYyc3ptb3dXbndubVpRSGNGTi1NckJqUlBtb0ZkVFVOQnphcjJBODNJMHQydU8xblBydF9uMzhkc1pGbHRxT2NMQzRRQVJCMmpxa3ZsRWpsRFp3c3N2aUVhYU05OFdsYkFwYlgxU3NGRlZiQk5TbnkyV1ZSa091ZmpDQ3JoT3RxSUEteWswU3NzZzE3RDJadxIEGgIIABrKAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKQDCAAQABgAIAAqJQoDYWlyFdDHwkAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MyqQEvZ290bz91cmw9Q0FFU2N3SHJPekFWNlpJZjJzem1vd1dud25tWlFIY0ZOLU1yQmpSUG1vRmRUVU5CemFyMkE4M0kwdDJ1TzFuUHJ0X24zOGRzWkZsdHFPY0xDNFFBUkIyanFrdmxFamxEWndzc3ZpRWFhTTk4V2xiQXBiWDFTc0ZGVmJCTlNueTJXVlJrT3VmakNDcmhPdHFJQS15azBTc3NnMTdEMlp3OjQ8Yj5DQVJFPC9iPiB8IEVuZ2xpc2ggbWVhbmluZyAtIENhbWJyaWRnZSBEaWN0aW9uYXJ5QocBPGI-Q0FSRTwvYj4gZGVmaW5pdGlvbjogMS4gdGhlIHByb2Nlc3Mgb2YgcHJvdGVjdGluZyBzb21lb25lIG9yIHNvbWV0aGluZyBhbmQgcHJvdmlkaW5nIHdoYXQgdGhhdCBwZXJzb24gb3IgdGhpbmcgbmVlZHPigKYuIExlYXJuIG1vcmUuUgdjb250YWN0IgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "CARE definition: 1. the process of protecting someone or something and providing what that person or thing needs…. Learn more.",
+          "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAACwBQCdASocABwAPtE-tFooIigoFAEAGgloAJ0zItYBvHREVHkXpPXDWGzTc4H3jF3iXaBhwAAA_vtpBwG61WLVtQXys1U_1yASv-Ef5w8c_CIUsn_wwgNjxQLvmk__sVjppdBYJMRtfxFNHEvkHx0f8-zNn6-JxYcceg26U8_wkm578Wlf2dPLXfU1pT-jxXGgSRjEtx-MVBwZ1m-ZW29GO6_fiqTKagOeTHnoT7LP7zjZIEoPrFtg-KRlPy_KLDpMwG2UbDwBjhU35xXw_zuIY5rrk_GJPIAonnUuAb-TS7WasKzQ17jGOjczOidPI4W5WMfZ-IU4KAAA.webp",
+          "source_info_link": "https://dictionary.cambridge.org/dictionary/english/care"
+        }
+      },
+      "displayed_link": "https://dictionary.cambridge.org › dictionary › care",
+      "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAACwBQCdASocABwAPtE-tFooIigoFAEAGgloAJ0zItYBvHREVHkXpPXDWGzTc4H3jF3iXaBhwAAA_vtpBwG61WLVtQXys1U_1yASv-Ef5w8c_CIUsn_wwgNjxQLvmk__sVjppdBYJMRtfxFNHEvkHx0f8-zNn6-JxYcceg26U8_wkm578Wlf2dPLXfU1pT-jxXGgSRjEtx-MVBwZ1m-ZW29GO6_fiqTKagOeTHnoT7LP7zjZIEoPrFtg-KRlPy_KLDpMwG2UbDwBjhU35xXw_zuIY5rrk_GJPIAonnUuAb-TS7WasKzQ17jGOjczOidPI4W5WMfZ-IU4KAAA.webp",
+      "link": "https://dictionary.cambridge.org/dictionary/english/care",
+      "position": 5,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAV6ZIf2szmowWnwnmZQHcFN-MrBjRPmoFdTUNBzar2A83I0t2uO1nPrt_n38dsZFltqOcLC4QARB2jqkvlEjlDZwssviEaaM98WlbApbX1SsFFVbBNSny2WVRkOufjCCrhOtqIA-yk0Sssg17D2Zw&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQFnoECAwQAQ&uoh=1",
+      "snippet": "CARE definition: 1. the process of protecting someone or something and providing what that person or thing needs…. Learn more.",
+      "snippet_highlighted_words": [
+        "CARE"
+      ],
+      "source": "Cambridge Dictionary",
+      "title": "CARE | English meaning - Cambridge Dictionary"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVjBfbVAzMl9FSXkydEZCclhrYjBmaExWMEt5UVNRU1RMb0hRdlAzcUNqMVhQbTlLMnlHTjJlRmZmWm1IMnA4UjQ5OXFzNDRrckNoRWloeG1RbzN6RUxTcXRTb0xwMVNNWVZqMUM2NkRrbnNPYmFvTTQSBBoCCAAaqwMSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCFAwgAEAAYACAAKiUKA2FpchU8GdNAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzMoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVjBfbVAzMl9FSXkydEZCclhrYjBmaExWMEt5UVNRU1RMb0hRdlAzcUNqMVhQbTlLMnlHTjJlRmZmWm1IMnA4UjQ5OXFzNDRrckNoRWloeG1RbzN6RUxTcXRTb0xwMVNNWVZqMUM2NkRrbnNPYmFvTTQ6GjxiPkNBUkU8L2I-IENsaW1hdGUgQ2hhbmdlQqUBPGI-Q0FSRSYjMzk7czwvYj4gb3ZlcmFyY2hpbmcgb2JqZWN0aXZlIGlzIHRvIGVtcG93ZXIgcG9vciBhbmQgbWFyZ2luYWxpemVkIHBlb3BsZSwgcGFydGljdWxhcmx5IHdvbWVuIGFuZCBnaXJscywgdG8gdGFrZSBhY3Rpb24gb24gdGhlIGNsaW1hdGUgY3Jpc2lzIGF0IGFsbCBsZXZlbHMuUgdjb250YWN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVjBfbVAzMl9FSXkydEZCclhrYjBmaExWMEt5UVNRU1RMb0hRdlAzcUNqMVhQbTlLMnlHTjJlRmZmWm1IMnA4UjQ5OXFzNDRrckNoRWloeG1RbzN6RUxTcXRTb0xwMVNNWVZqMUM2NkRrbnNPYmFvTTQSBBoCCAAaqwMSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCFAwgAEAAYACAAKiUKA2FpchU8GdNAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzMoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVjBfbVAzMl9FSXkydEZCclhrYjBmaExWMEt5UVNRU1RMb0hRdlAzcUNqMVhQbTlLMnlHTjJlRmZmWm1IMnA4UjQ5OXFzNDRrckNoRWloeG1RbzN6RUxTcXRTb0xwMVNNWVZqMUM2NkRrbnNPYmFvTTQ6GjxiPkNBUkU8L2I-IENsaW1hdGUgQ2hhbmdlQqUBPGI-Q0FSRSYjMzk7czwvYj4gb3ZlcmFyY2hpbmcgb2JqZWN0aXZlIGlzIHRvIGVtcG93ZXIgcG9vciBhbmQgbWFyZ2luYWxpemVkIHBlb3BsZSwgcGFydGljdWxhcmx5IHdvbWVuIGFuZCBnaXJscywgdG8gdGFrZSBhY3Rpb24gb24gdGhlIGNsaW1hdGUgY3Jpc2lzIGF0IGFsbCBsZXZlbHMuUgdjb250YWN0IgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "CARE's overarching objective is to empower poor and marginalized people, particularly women and girls, to take action on the climate crisis at all levels.",
+          "icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3unDwvAPQA6Vj_lI8EIBq0EwAZXZ1PONMPem5COC3GKafVY7AANSh65T8vzHpEgkSTHaPCic_YRfkMmA34xa9WtB6hOgbhSP7mO65OSRLNGMphTHW7zQ_hslIt1HIChmF_KogbBOqchdaWe9y5Ed-u1IofUngJ3DkIqHGCsNOVadw8u9yHk16e3DqoLm-Kq5SugZm1jIP9F4wrb2nekfWoimCV83SdB94M1jCBMBYE1wg-RJPZxXKr2zK9jbc6G2tNnDBd-nwEoOJmiRCgZ8cFq3lDUe5U5wyha88QRWew7dsSf1qXkS0ccgaz7kHFefTKt5VFD8aUuwL-AT66_3nuYnV3j89as35cljIDdLsz5Mwtio_Lh1DFxA55ux1lQJ_4Q0sNeRt_KdqW-MyVkAA.webp",
+          "source_info_link": "https://careclimatechange.org/"
+        }
+      },
+      "displayed_link": "https://careclimatechange.org",
+      "favicon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3unDwvAPQA6Vj_lI8EIBq0EwAZXZ1PONMPem5COC3GKafVY7AANSh65T8vzHpEgkSTHaPCic_YRfkMmA34xa9WtB6hOgbhSP7mO65OSRLNGMphTHW7zQ_hslIt1HIChmF_KogbBOqchdaWe9y5Ed-u1IofUngJ3DkIqHGCsNOVadw8u9yHk16e3DqoLm-Kq5SugZm1jIP9F4wrb2nekfWoimCV83SdB94M1jCBMBYE1wg-RJPZxXKr2zK9jbc6G2tNnDBd-nwEoOJmiRCgZ8cFq3lDUe5U5wyha88QRWew7dsSf1qXkS0ccgaz7kHFefTKt5VFD8aUuwL-AT66_3nuYnV3j89as35cljIDdLsz5Mwtio_Lh1DFxA55ux1lQJ_4Q0sNeRt_KdqW-MyVkAA.webp",
+      "link": "https://careclimatechange.org/",
+      "position": 6,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAV0_mP32_EIy2tFBrXkb0fhLV0KyQSQSTLoHQvP3qCj1XPm9K2yGN2eFffZmH2p8R499qs44krChEihxmQo3zELSqtSoLp1SMYVj1C66DknsObaoM4&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQFnoECBIQAQ&uoh=1",
+      "snippet": "CARE's overarching objective is to empower poor and marginalized people, particularly women and girls, to take action on the climate crisis at all levels.",
+      "snippet_highlighted_words": [
+        "CARE's"
+      ],
+      "source": "CARE Climate Change",
+      "title": "CARE Climate Change"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVm84bk9DSEEzQU40MzJhNWtmSndpQTkxekhXLUV5YU4zSUZaSHlKX1RMWmFEeTVJTmJFN1F4ZE1HdmxxTGh2OUw1azJsYUtIeTRRQ0JYV1lqeExyVm84ZDVqT05xZkdpb1pFeW9FYnBjaHVTWUFwZGtCdkotTk1XTHVONnFTNFpSY0VwRUUtUzZ3Nk53aWtuVXVya29FdxIEGgIIABrcAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLYDCAAQABgAIAAqJQoDYWlyFbjUvUAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MyrAEvZ290bz91cmw9Q0FFU2RRSHJPekFWbzhuT0NIQTNBTjQzMmE1a2ZKd2lBOTF6SFctRXlhTjNJRlpIeUpfVExaYUR5NUlOYkU3UXhkTUd2bHFMaHY5TDVrMmxhS0h5NFFDQlhXWWp4THJWbzhkNWpPTnFmR2lvWkV5b0VicGNodVNZQXBka0J2Si1OTVdMdU42cVM0WlJjRXBFRS1TNnc2Tndpa25VdXJrb0V3OjVDb25zZW5zdXMtYmFzZWQgQ2xpbmljYWwgQ2FzZSBSZXBvcnRpbmcgR3VpZGVsaW5lIC4uLkKVAVRoZSA8Yj5DQVJFPC9iPiBHdWlkZWxpbmVzOiBDb25zZW5zdXMtYmFzZWQgQ2xpbmljYWwgQ2FzZSBSZXBvcnRpbmcgR3VpZGVsaW5lIERldmVsb3BtZW50LiBUaGlzIGd1aWRlbGluZSB3YXMgcHVibGlzaGVkIHNpbXVsdGFuZW91c2x5IGluIDcgam91cm5hbHMuUgdjb250YWN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVm84bk9DSEEzQU40MzJhNWtmSndpQTkxekhXLUV5YU4zSUZaSHlKX1RMWmFEeTVJTmJFN1F4ZE1HdmxxTGh2OUw1azJsYUtIeTRRQ0JYV1lqeExyVm84ZDVqT05xZkdpb1pFeW9FYnBjaHVTWUFwZGtCdkotTk1XTHVONnFTNFpSY0VwRUUtUzZ3Nk53aWtuVXVya29FdxIEGgIIABrcAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLYDCAAQABgAIAAqJQoDYWlyFbjUvUAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MyrAEvZ290bz91cmw9Q0FFU2RRSHJPekFWbzhuT0NIQTNBTjQzMmE1a2ZKd2lBOTF6SFctRXlhTjNJRlpIeUpfVExaYUR5NUlOYkU3UXhkTUd2bHFMaHY5TDVrMmxhS0h5NFFDQlhXWWp4THJWbzhkNWpPTnFmR2lvWkV5b0VicGNodVNZQXBka0J2Si1OTVdMdU42cVM0WlJjRXBFRS1TNnc2Tndpa25VdXJrb0V3OjVDb25zZW5zdXMtYmFzZWQgQ2xpbmljYWwgQ2FzZSBSZXBvcnRpbmcgR3VpZGVsaW5lIC4uLkKVAVRoZSA8Yj5DQVJFPC9iPiBHdWlkZWxpbmVzOiBDb25zZW5zdXMtYmFzZWQgQ2xpbmljYWwgQ2FzZSBSZXBvcnRpbmcgR3VpZGVsaW5lIERldmVsb3BtZW50LiBUaGlzIGd1aWRlbGluZSB3YXMgcHVibGlzaGVkIHNpbXVsdGFuZW91c2x5IGluIDcgam91cm5hbHMuUgdjb250YWN0IgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "The CARE Guidelines: Consensus-based Clinical Case Reporting Guideline Development. This guideline was published simultaneously in 7 journals.",
+          "source_info_link": "https://www.equator-network.org/reporting-guidelines/care/"
+        }
+      },
+      "date": "16 Feb 2026",
+      "displayed_link": "https://www.equator-network.org › care",
+      "link": "https://www.equator-network.org/reporting-guidelines/care/",
+      "position": 7,
+      "read_more_link": "https://www.equator-network.org/reporting-guidelines/care/#:~:text=The%20CARE%20Guidelines%3A%20Consensus%2Dbased%20Clinical,published%20simultaneously%20in%207%20journals.",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVo8nOCHA3AN432a5kfJwiA91zHW-EyaN3IFZHyJ_TLZaDy5INbE7QxdMGvlqLhv9L5k2laKHy4QCBXWYjxLrVo8d5jONqfGioZEyoEbpchuSYApdkBvJ-NMWLuN6qS4ZRcEpEE-S6w6NwiknUurkoEw&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQFnoECBgQAQ&uoh=1",
+      "snippet": "The CARE Guidelines: Consensus-based Clinical Case Reporting Guideline Development. This guideline was published simultaneously in 7 journals.",
+      "snippet_highlighted_words": [
+        "CARE"
+      ],
+      "source": "EQUATOR Network",
+      "title": "Consensus-based Clinical Case Reporting Guideline ..."
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZRMGhuejV5dkZOOXk1cl9MYm1KOHg4aF81M3Y3aHdlSDBOeGhoaVgyY3pXUFVMcWthUW1EMTR2cUZlZGhrbDIzTmJCVzN2djVCYjg5RWJVNlA2cHhxM1lVZ2ZCVTRfOFVHY0h2ejBuNVFRVUd1Rm85Wmg4SGx3Skg5Nkh1MTluQkI3azdpSWhKWm5XOUdpazFWS2oxZ3lBWjN0ZDRvUnV4ZTZ5ZF9lY3ZvenJqRXYzSk1GTjU4OGg0Tkp3MXFFLWpETXU2NWMSBBoCCAAahgQSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDgAwgAEAAYACAAKiUKA2FpchVgi9dAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzMt0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZRMGhuejV5dkZOOXk1cl9MYm1KOHg4aF81M3Y3aHdlSDBOeGhoaVgyY3pXUFVMcWthUW1EMTR2cUZlZGhrbDIzTmJCVzN2djVCYjg5RWJVNlA2cHhxM1lVZ2ZCVTRfOFVHY0h2ejBuNVFRVUd1Rm85Wmg4SGx3Skg5Nkh1MTluQkI3azdpSWhKWm5XOUdpazFWS2oxZ3lBWjN0ZDRvUnV4ZTZ5ZF9lY3ZvenJqRXYzSk1GTjU4OGg0Tkp3MXFFLWpETXU2NWM6QzxiPkNhcmU8L2I-IHdvcmsgYW5kIDxiPmNhcmU8L2I-IGpvYnMgZm9yIHRoZSBmdXR1cmUgb2YgZGVjZW50IHdvcmtCgAFUaGlzIHJlcG9ydCB0YWtlcyBhIGNvbXByZWhlbnNpdmUgbG9vayBhdCB1bnBhaWQgYW5kIHBhaWQgPGI-Y2FyZTwvYj4gd29yayBhbmQgaXRzIHJlbGF0aW9uc2hpcCB3aXRoIHRoZSBjaGFuZ2luZyB3b3JsZCBvZiB3b3JrLlIHY29udGFjdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZRMGhuejV5dkZOOXk1cl9MYm1KOHg4aF81M3Y3aHdlSDBOeGhoaVgyY3pXUFVMcWthUW1EMTR2cUZlZGhrbDIzTmJCVzN2djVCYjg5RWJVNlA2cHhxM1lVZ2ZCVTRfOFVHY0h2ejBuNVFRVUd1Rm85Wmg4SGx3Skg5Nkh1MTluQkI3azdpSWhKWm5XOUdpazFWS2oxZ3lBWjN0ZDRvUnV4ZTZ5ZF9lY3ZvenJqRXYzSk1GTjU4OGg0Tkp3MXFFLWpETXU2NWMSBBoCCAAahgQSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDgAwgAEAAYACAAKiUKA2FpchVgi9dAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzMt0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZRMGhuejV5dkZOOXk1cl9MYm1KOHg4aF81M3Y3aHdlSDBOeGhoaVgyY3pXUFVMcWthUW1EMTR2cUZlZGhrbDIzTmJCVzN2djVCYjg5RWJVNlA2cHhxM1lVZ2ZCVTRfOFVHY0h2ejBuNVFRVUd1Rm85Wmg4SGx3Skg5Nkh1MTluQkI3azdpSWhKWm5XOUdpazFWS2oxZ3lBWjN0ZDRvUnV4ZTZ5ZF9lY3ZvenJqRXYzSk1GTjU4OGg0Tkp3MXFFLWpETXU2NWM6QzxiPkNhcmU8L2I-IHdvcmsgYW5kIDxiPmNhcmU8L2I-IGpvYnMgZm9yIHRoZSBmdXR1cmUgb2YgZGVjZW50IHdvcmtCgAFUaGlzIHJlcG9ydCB0YWtlcyBhIGNvbXByZWhlbnNpdmUgbG9vayBhdCB1bnBhaWQgYW5kIHBhaWQgPGI-Y2FyZTwvYj4gd29yayBhbmQgaXRzIHJlbGF0aW9uc2hpcCB3aXRoIHRoZSBjaGFuZ2luZyB3b3JsZCBvZiB3b3JrLlIHY29udGFjdCICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "This report takes a comprehensive look at unpaid and paid care work and its relationship with the changing world of work.",
+          "icon": "https://serpapi.com/images/i/UklGRroBAABXRUJQVlA4IK4BAACwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhIZeE2K8E6z51v5s81PzL-svwAfqP_ud4rDs0_7XMwAqc7-d49FueP9DYtqniM9GxgAA_ui53zA4Y_OzDoQ-RDnxfwpVTXDlp9KVqdeP72O_433G4zDtKiXKsnlDrtJHwzqONY3W4s6I0ldHBWMV0Z1K1__SBPcMJxZjK3EMxzbjVWLUz3_AwceKbywfByFvCLm5o-y2DForkvXaeJpn4Zgu_rVbQ3zd9fSQU65CYNn-2tcwJA-XntcCN3mF_7Ooz2UkBtu_BXkmOrnQjv92ViDNQn8VOmv_ufkGu_H8hP-MOSaiixu82MjALh8hKs9zn85Q7iQFJow6d7eJxBEX7FVydUXZYFIuC_dFomhmP34rtKjnnY_-zur5ihpb-C3qjsJry8IwBTtHf4OLWUrjMG3o-ufw8Yy_6q7E6gPAcqdBlrUXgcbSwASjjnJgwSBT_gCO_2uad86KNOsABVm8Xps6u--Lgytbvu1ON7dkCKU6INiQ4VUEcFF8PwVuU0fFPZ4tXItS-Zv7KQ0t5CTTIDAA.webp",
+          "source_info_link": "https://www.ilo.org/publications/major-publications/care-work-and-care-jobs-future-decent-work"
+        }
+      },
+      "date": "28 Jun 2018",
+      "displayed_link": "https://www.ilo.org › publications › major-publications",
+      "favicon": "https://serpapi.com/images/i/UklGRroBAABXRUJQVlA4IK4BAACwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhIZeE2K8E6z51v5s81PzL-svwAfqP_ud4rDs0_7XMwAqc7-d49FueP9DYtqniM9GxgAA_ui53zA4Y_OzDoQ-RDnxfwpVTXDlp9KVqdeP72O_433G4zDtKiXKsnlDrtJHwzqONY3W4s6I0ldHBWMV0Z1K1__SBPcMJxZjK3EMxzbjVWLUz3_AwceKbywfByFvCLm5o-y2DForkvXaeJpn4Zgu_rVbQ3zd9fSQU65CYNn-2tcwJA-XntcCN3mF_7Ooz2UkBtu_BXkmOrnQjv92ViDNQn8VOmv_ufkGu_H8hP-MOSaiixu82MjALh8hKs9zn85Q7iQFJow6d7eJxBEX7FVydUXZYFIuC_dFomhmP34rtKjnnY_-zur5ihpb-C3qjsJry8IwBTtHf4OLWUrjMG3o-ufw8Yy_6q7E6gPAcqdBlrUXgcbSwASjjnJgwSBT_gCO_2uad86KNOsABVm8Xps6u--Lgytbvu1ON7dkCKU6INiQ4VUEcFF8PwVuU0fFPZ4tXItS-Zv7KQ0t5CTTIDAA.webp",
+      "link": "https://www.ilo.org/publications/major-publications/care-work-and-care-jobs-future-decent-work",
+      "position": 8,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFQ0hnz5yvFN9y5r_LbmJ8x8h_53v7hweH0NxhhiX2czWPULqkaQmD14vqFedhkl23NbBW3vv5Bb89EbU6P6pxq3YUgfBU4_8UGcHvz0n5QQUGuFo9Zh8HlwJH96Hu19nBB7k7iIhJZnW9Gik1VKj1gyAZ3td4oRuxe6yd_ecvozrjEv3JMFN588h4NJw1qE-jDMu65c&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQFnoECBkQAQ&uoh=1",
+      "snippet": "This report takes a comprehensive look at unpaid and paid care work and its relationship with the changing world of work.",
+      "snippet_highlighted_words": [
+        "care"
+      ],
+      "source": "International Labour Organization",
+      "title": "Care work and care jobs for the future of decent work"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnZqSklrdlhQYTZkcEJacnFBdjlkakxHUzlreGplWWprdmxhcEZ5dVNBU1RERFFXa2dZRmI5SExncGkzV0RDbkxaeEJwclpMYkhrOHJuN0pkb3NZQmlxQXVFUE5rYVlhV1B2dHU3T0N2TGdjRUIzV0RudWY3dGszRFZfZDZFQRIEGgIIABrZAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLMDCAAQABgAIAAqJQoDYWlyFUBzsEAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWdmpKSWt2WFBhNmRwQlpycUF2OWRqTEdTOWt4amVZamt2bGFwRnl1U0FTVEREUVdrZ1lGYjlITGdwaTNXRENuTFp4QnByWkxiSGs4cm43SmRvc1lCaXFBdUVQTmthWWFXUHZ0dTdPQ3ZMZ2NFQjNXRG51Zjd0azNEVl9kNkVBOjw8Yj5DQVJFPC9iPiBDaGVja2xpc3Qg4oCUIDxiPkNBUkU8L2I-IENhc2UgUmVwb3J0IEd1aWRlbGluZXNCowEuLi4gV2VkIDlhbSAtIDVwbS4gVGh1IDlhbSAtIDVwbS4gRnJpIDlhbSAtIDVwbS4gU2F0IDlhbSAtIDVwbS4gU3VuIENsb3NlZC4gUHJpdmFjeVNlcnZpY2UgVGVybXNDb3B5cmlnaHRFbmRvcnNlbWVudHNSZXNvdXJjZXNDQVJFIEdyb3VwVHJhbnNsYXRpb25zPGI-Q29udGFjdDwvYj4uUgdjb250YWN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnZqSklrdlhQYTZkcEJacnFBdjlkakxHUzlreGplWWprdmxhcEZ5dVNBU1RERFFXa2dZRmI5SExncGkzV0RDbkxaeEJwclpMYkhrOHJuN0pkb3NZQmlxQXVFUE5rYVlhV1B2dHU3T0N2TGdjRUIzV0RudWY3dGszRFZfZDZFQRIEGgIIABrZAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLMDCAAQABgAIAAqJQoDYWlyFUBzsEAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWdmpKSWt2WFBhNmRwQlpycUF2OWRqTEdTOWt4amVZamt2bGFwRnl1U0FTVEREUVdrZ1lGYjlITGdwaTNXRENuTFp4QnByWkxiSGs4cm43SmRvc1lCaXFBdUVQTmthWWFXUHZ0dTdPQ3ZMZ2NFQjNXRG51Zjd0azNEVl9kNkVBOjw8Yj5DQVJFPC9iPiBDaGVja2xpc3Qg4oCUIDxiPkNBUkU8L2I-IENhc2UgUmVwb3J0IEd1aWRlbGluZXNCowEuLi4gV2VkIDlhbSAtIDVwbS4gVGh1IDlhbSAtIDVwbS4gRnJpIDlhbSAtIDVwbS4gU2F0IDlhbSAtIDVwbS4gU3VuIENsb3NlZC4gUHJpdmFjeVNlcnZpY2UgVGVybXNDb3B5cmlnaHRFbmRvcnNlbWVudHNSZXNvdXJjZXNDQVJFIEdyb3VwVHJhbnNsYXRpb25zPGI-Q29udGFjdDwvYj4uUgdjb250YWN0IgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "... Wed 9am - 5pm. Thu 9am - 5pm. Fri 9am - 5pm. Sat 9am - 5pm. Sun Closed. PrivacyService TermsCopyrightEndorsementsResourcesCARE GroupTranslations\nContact.",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAAAOElEQVR4AWOYz4CCGDC4JwsKkNGw0EAyeHX8ODICiux0dYUjNAvnD0YNZABMA04WFsIRuoLhoQEAAL3X2yMKljIAAAAASUVORK5CYII.png",
+          "source_info_link": "https://www.care-statement.org/checklist"
+        }
+      },
+      "displayed_link": "https://www.care-statement.org › checklist",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAAAOElEQVR4AWOYz4CCGDC4JwsKkNGw0EAyeHX8ODICiux0dYUjNAvnD0YNZABMA04WFsIRuoLhoQEAAL3X2yMKljIAAAAASUVORK5CYII.png",
+      "link": "https://www.care-statement.org/checklist",
+      "position": 9,
+      "read_more_link": "https://www.care-statement.org/checklist#:~:text=PrivacyService%20TermsCopyrightEndorsementsResourcesCARE%20GroupTranslationsContact",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVvjJIkvXPa6dpBZrqAv9djLGS9kxjeYjkvlapFyuSASTDDQWkgYFb9HLgpi3WDCnLZxBprZLbHk8rn7JdosYBiqAuEPNkaYaWPvtu7OCvLgcEB3WDnuf7tk3DV_d6EA&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQFnoECBMQAQ&uoh=1",
+      "snippet": "... Wed 9am - 5pm. Thu 9am - 5pm. Fri 9am - 5pm. Sat 9am - 5pm. Sun Closed. PrivacyService TermsCopyrightEndorsementsResourcesCARE GroupTranslationsContact.",
+      "snippet_highlighted_words": [
+        "Contact"
+      ],
+      "source": "CARE Case Report Guidelines",
+      "title": "CARE Checklist — CARE Case Report Guidelines"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVmtTQTBYYkttRVhqWHYyb2wtdVl5ZVA3cE5LTmxEZmREQzVFQVRjRG5aYklQX1Z1cEVtUFFMV1RuVHFJNW91R1dKWFo3ZFJnYkJqNmh1LXlsU1AwcGlmbWtqUW8xSnZ5SXpKejZKMEJjNUFWQVdvcVlFSUlvMzltYktoYXkSBBoCCAAaiwQSAggBGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDlAwgAEAAYACAAKiUKA2FpchVaA8dAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzMpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVmtTQTBYYkttRVhqWHYyb2wtdVl5ZVA3cE5LTmxEZmREQzVFQVRjRG5aYklQX1Z1cEVtUFFMV1RuVHFJNW91R1dKWFo3ZFJnYkJqNmh1LXlsU1AwcGlmbWtqUW8xSnZ5SXpKejZKMEJjNUFWQVdvcVlFSUlvMzltYktoYXk6SDxiPkNBUkU8L2I-IEludGVybmF0aW9uYWwgfCA8Yj5DQVJFPC9iPiB3b3JrcyB0byBoZWxwIHNhdmUgbGl2ZXMgYW5kIC4uLkLLAUNBUkUgd29ya3MgdG8gaGVscCBzYXZlIGxpdmVzIGFuZCBkZWZlYXQgcG92ZXJ0eSBhY3Jvc3MgdGhlIGdsb2JlLiBXZSBmb2N1cyBvbiAuLi4gPGI-Q29udGFjdDwvYj4gdXMgJm1pZGRvdDsgTWVkaWEgY29udGFjdHMgJm1pZGRvdDsgUHJpdmFjeSBwb2xpY3kgJm1pZGRvdDsgQ29va2llIHBvbGljeSAmbWlkZG90OyBBY2Nlc3NpYmlsaXR5Jm5ic3A7Li4uUgdjb250YWN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVmtTQTBYYkttRVhqWHYyb2wtdVl5ZVA3cE5LTmxEZmREQzVFQVRjRG5aYklQX1Z1cEVtUFFMV1RuVHFJNW91R1dKWFo3ZFJnYkJqNmh1LXlsU1AwcGlmbWtqUW8xSnZ5SXpKejZKMEJjNUFWQVdvcVlFSUlvMzltYktoYXkSBBoCCAAaiwQSAggBGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDlAwgAEAAYACAAKiUKA2FpchVaA8dAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzMpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVmtTQTBYYkttRVhqWHYyb2wtdVl5ZVA3cE5LTmxEZmREQzVFQVRjRG5aYklQX1Z1cEVtUFFMV1RuVHFJNW91R1dKWFo3ZFJnYkJqNmh1LXlsU1AwcGlmbWtqUW8xSnZ5SXpKejZKMEJjNUFWQVdvcVlFSUlvMzltYktoYXk6SDxiPkNBUkU8L2I-IEludGVybmF0aW9uYWwgfCA8Yj5DQVJFPC9iPiB3b3JrcyB0byBoZWxwIHNhdmUgbGl2ZXMgYW5kIC4uLkLLAUNBUkUgd29ya3MgdG8gaGVscCBzYXZlIGxpdmVzIGFuZCBkZWZlYXQgcG92ZXJ0eSBhY3Jvc3MgdGhlIGdsb2JlLiBXZSBmb2N1cyBvbiAuLi4gPGI-Q29udGFjdDwvYj4gdXMgJm1pZGRvdDsgTWVkaWEgY29udGFjdHMgJm1pZGRvdDsgUHJpdmFjeSBwb2xpY3kgJm1pZGRvdDsgQ29va2llIHBvbGljeSAmbWlkZG90OyBBY2Nlc3NpYmlsaXR5Jm5ic3A7Li4uUgdjb250YWN0IgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "CARE works to help save lives and defeat poverty across the globe. We focus on ... Contact us · Media contacts · Privacy policy · Cookie policy · Accessibility ...",
+          "icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASocABwAPtEwtFooIigoGAEAGglsALElQQoEwgFeCGQ-LxBv80d6JM7SM82dS25dv3doPcC2QAAA_vYCW2S6zGAvQaetJZ1R9v_UHjEamH0UoMMUgQAIK4RqaZLrKFMO7tJQBdHHe7o_CzA8MArlpzIyTWrpi2pxLFCfgZAGDzi4r_U9K4Ss_vlQJcyPBmbDvvcFVGCuj6iQ2-I3K9gqsn-lkDGPaCNAdx5xj9PtN6EWv8iOMMyc00cR7LNHRlzeHlEbjxBuePigUS32nWUI-tSMf6f_w_h51Bp_3SULtodW8_Dtqzm_P3r6Gfa50CH5h8DBvjgDZ0bh23lE3PcVXto7f3HkWzDPTEpQsJ78nutLgAAA.webp",
+          "source_info_link": "https://www.care-international.org/home"
+        }
+      },
+      "displayed_link": "https://www.care-international.org › ...",
+      "favicon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASocABwAPtEwtFooIigoGAEAGglsALElQQoEwgFeCGQ-LxBv80d6JM7SM82dS25dv3doPcC2QAAA_vYCW2S6zGAvQaetJZ1R9v_UHjEamH0UoMMUgQAIK4RqaZLrKFMO7tJQBdHHe7o_CzA8MArlpzIyTWrpi2pxLFCfgZAGDzi4r_U9K4Ss_vlQJcyPBmbDvvcFVGCuj6iQ2-I3K9gqsn-lkDGPaCNAdx5xj9PtN6EWv8iOMMyc00cR7LNHRlzeHlEbjxBuePigUS32nWUI-tSMf6f_w_h51Bp_3SULtodW8_Dtqzm_P3r6Gfa50CH5h8DBvjgDZ0bh23lE3PcVXto7f3HkWzDPTEpQsJ78nutLgAAA.webp",
+      "link": "https://www.care-international.org/home",
+      "position": 10,
+      "read_more_link": "https://www.care-international.org/home#:~:text=CARE%20works%20to%20help%20save,unique%20potential%20to%20transform%20lives.&text=Contact%20us,Accessibility%20statement",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAVkSA0XbKmEXjXv2ol-uYyeP7pNKNlDfdDC5EATcDnZbIP_VupEmPQLWTnTqI5ouGWJXZ7dRgbBj6hu-ylSP0pifmkjQo1JvyIzJz6J0Bc5AVAWoqYEIIo39mbKhay&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQFnoECFEQAQ&uoh=1",
+      "snippet": "CARE works to help save lives and defeat poverty across the globe. We focus on ... Contact us · Media contacts · Privacy policy · Cookie policy · Accessibility ...",
+      "snippet_highlighted_words": [
+        "Contact"
+      ],
+      "source": "CARE International",
+      "title": "CARE International | CARE works to help save lives and ..."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Air+India+Express+customer+care+number&sca_esv=7f9c4df3eb7148c2&hl=en&gl=in&sxsrf=APpeQnuCosqAUbaTia14k0JeDss3MP9o4g:1791189902777&ei=jmPDasSBL7Ws1QHHp93JBA&start=10&sa=N&sstk=AS6-VmI7ak_MQXcyVRGNDao9umu2RAPhTQRQfALfN6h8a-Pu4YF0cAfy90tkoOqzS_rM2bwzu7tEAPbtlK9vZPB8keSNQs510tJpCA&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQ8NMDegQIRRAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Air+India+Express+customer+care+number&sca_esv=7f9c4df3eb7148c2&hl=en&gl=in&sxsrf=APpeQnuCosqAUbaTia14k0JeDss3MP9o4g:1791189902777&ei=jmPDasSBL7Ws1QHHp93JBA&start=10&sa=N&sstk=AS6-VmI7ak_MQXcyVRGNDao9umu2RAPhTQRQfALfN6h8a-Pu4YF0cAfy90tkoOqzS_rM2bwzu7tEAPbtlK9vZPB8keSNQs510tJpCA&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQ8tMDegQIRRAE"
+    }
+  },
+  "related_questions": [
+    {
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlRIWnphRkpOUjIxNU1tNWljRlpQTmtWa1dVNDRMWEJ5U25Fek4wcDJaSFpxU21jMWRsWjVObTAwUTNOTU4yRlFXRUZDY25CTU1WRnllV2xpTUdkR1dEWlNibU5zZFhkT1FubGFWbGw2VG1SWWVtdE5ka1p3VFVsWlVSSVdhbTFRUkdGelUwSk1OMWR6TVZGSVNIQTVNMHBDUVJvaVFVUnpjamxtVW5vNGNrZFZkRGN3YW0xamEyc3dNMXBJZVZKVFFVcEZhbmRhZHciLCJmY3YiOiIzIiwiZWkiOiJqbVBEYXNTQkw3V3MxUUhIcDkzSkJBIiwicWMiOiJDaVpoYVhJZ2FXNWthV0VnWlhod2NtVnpjeUJqZFhOMGIyMWxjaUJqWVhKbElHNTFiV0psY2hBQWZaRC1RRDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDI0LWhvdXIgY3VzdG9tZXIgY2FyZSBudW1iZXIgZm9yIEFpciBJbmRpYSBFeHByZXNzIG9mZmljZT8iLCJsayI6IkdqWmhhWElnYVc1a2FXRWdaWGh3Y21WemN5QnZabVpwWTJVZ01qUWdhRzkxY25NZ1kzVnpkRzl0WlhJZ1kyRnlaU0J1ZFcxaVpYSSIsImJzIjoiYzNXUFB3dkNNQkRGY2Mza0pKckY4d080QkZHM0ltckJSY1RGT2JhWDlzQW1KVW1wczVfY05JSl9vRzUzOS03OTdoMTdERmg2S2FVSGN1QkxCTEdZbDZheGtEWE9td3BESVMyQ2JxcHJxSld4c0NFTEI1MlRoUDI5dHVnY0dLVW93MFNzLVZJR2thS0lQMkxBUW9kMXZWeTJZcE9Zb1J2RmVkRlFqamZTNkJMQi1iajlJN0lqRTI5amxfNGp4YXl0SlUtNkFCbU1Ec0ZpYmF4UHhKaVB2dnB2WHM2U1M0bnhrSVlEcVBCTDVHNDM1ejMwZThLX2NOcWwzYjFLQnZpTVQ3TlgxTjd0T2xmRHdSTSIsImlkIjoiZmNfam1QRGFzU0JMN1dzMVFISHA5M0pCQV81In0=",
+      "page_token": "g00tYXicHdFdbpswAABg7TJ9bACXbokUTTIEEho7MtgG_DJhkwQCBDdY5edtd9njTrTTrOoRPn2__7T1vfn37W9ljB42q9U4js_Xvr-252fVd6timO9qpYq2lYVqNq_fX-2fF7Xd9YPnDSMkTGvux1ZywwPriKGtfiTpj0nagiArhpRFGWqCwzHLAe3MW5mu8_MNRqkvBAetTTKsGaseklV7Gla6DCcbMT0TGlc8w6CksFcNLpLU-GjH-4ThoQTYKRZkySB6E8x9x34Vchq8nFLTnJmpGT3McRNXEsBWUTUWaeDEAQcnhrW8tz7tomOSuozc0Av2bK_spigO9QdxBMUZ9hInqrljiEgNlHsxH9kwZvYaidlyc4ZFZlUh2-tUtkFNlquLnAMQrKTl0ti7SrxLDnd5hilpRsABmj59B-U3S9JEMKwjGO_xfEoFiwHMBYcadW6RhMOknPWD1NbMlmqmPlqkXYKni_rYgqevhe2vS2c2-tFf_wOXdJWi",
+      "question": "What is the 24-hour customer care number for Air India Express office?",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=g00tYXicHdFdbpswAABg7TJ9bACXbokUTTIEEho7MtgG_DJhkwQCBDdY5edtd9njTrTTrOoRPn2__7T1vfn37W9ljB42q9U4js_Xvr-252fVd6timO9qpYq2lYVqNq_fX-2fF7Xd9YPnDSMkTGvux1ZywwPriKGtfiTpj0nagiArhpRFGWqCwzHLAe3MW5mu8_MNRqkvBAetTTKsGaseklV7Gla6DCcbMT0TGlc8w6CksFcNLpLU-GjH-4ThoQTYKRZkySB6E8x9x34Vchq8nFLTnJmpGT3McRNXEsBWUTUWaeDEAQcnhrW8tz7tomOSuozc0Av2bK_spigO9QdxBMUZ9hInqrljiEgNlHsxH9kwZvYaidlyc4ZFZlUh2-tUtkFNlquLnAMQrKTl0ti7SrxLDnd5hilpRsABmj59B-U3S9JEMKwjGO_xfEoFiwHMBYcadW6RhMOknPWD1NbMlmqmPlqkXYKni_rYgqevhe2vS2c2-tFf_wOXdJWi",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlRIWnphRkpOUjIxNU1tNWljRlpQTmtWa1dVNDRMWEJ5U25Fek4wcDJaSFpxU21jMWRsWjVObTAwUTNOTU4yRlFXRUZDY25CTU1WRnllV2xpTUdkR1dEWlNibU5zZFhkT1FubGFWbGw2VG1SWWVtdE5ka1p3VFVsWlVSSVdhbTFRUkdGelUwSk1OMWR6TVZGSVNIQTVNMHBDUVJvaVFVUnpjamxtVW5vNGNrZFZkRGN3YW0xamEyc3dNMXBJZVZKVFFVcEZhbmRhZHciLCJmY3YiOiIzIiwiZWkiOiJqbVBEYXNTQkw3V3MxUUhIcDkzSkJBIiwicWMiOiJDaVpoYVhJZ2FXNWthV0VnWlhod2NtVnpjeUJqZFhOMGIyMWxjaUJqWVhKbElHNTFiV0psY2hBQWZaRC1RRDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDI0LWhvdXIgY3VzdG9tZXIgY2FyZSBudW1iZXIgZm9yIEFpciBJbmRpYSBFeHByZXNzIG9mZmljZT8iLCJsayI6IkdqWmhhWElnYVc1a2FXRWdaWGh3Y21WemN5QnZabVpwWTJVZ01qUWdhRzkxY25NZ1kzVnpkRzl0WlhJZ1kyRnlaU0J1ZFcxaVpYSSIsImJzIjoiYzNXUFB3dkNNQkRGY2Mza0pKckY4d080QkZHM0ltckJSY1RGT2JhWDlzQW1KVW1wczVfY05JSl9vRzUzOS03OTdoMTdERmg2S2FVSGN1QkxCTEdZbDZheGtEWE9td3BESVMyQ2JxcHJxSld4c0NFTEI1MlRoUDI5dHVnY0dLVW93MFNzLVZJR2thS0lQMkxBUW9kMXZWeTJZcE9Zb1J2RmVkRlFqamZTNkJMQi1iajlJN0lqRTI5amxfNGp4YXl0SlUtNkFCbU1Ec0ZpYmF4UHhKaVB2dnB2WHM2U1M0bnhrSVlEcVBCTDVHNDM1ejMwZThLX2NOcWwzYjFLQnZpTVQ3TlgxTjd0T2xmRHdSTSIsImlkIjoiZmNfam1QRGFzU0JMN1dzMVFISHA5M0pCQV81In0%3D",
+      "type": "ai_overview"
+    },
+    {
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlRIWnphRkpOUjIxNU1tNWljRlpQTmtWa1dVNDRMWEJ5U25Fek4wcDJaSFpxU21jMWRsWjVObTAwUTNOTU4yRlFXRUZDY25CTU1WRnllV2xpTUdkR1dEWlNibU5zZFhkT1FubGFWbGw2VG1SWWVtdE5ka1p3VFVsWlVSSVdhbTFRUkdGelUwSk1OMWR6TVZGSVNIQTVNMHBDUVJvaVFVUnpjamxtVW5vNGNrZFZkRGN3YW0xamEyc3dNMXBJZVZKVFFVcEZhbmRhZHciLCJmY3YiOiIzIiwiZWkiOiJqbVBEYXNTQkw3V3MxUUhIcDkzSkJBIiwicWMiOiJDaVpoYVhJZ2FXNWthV0VnWlhod2NtVnpjeUJqZFhOMGIyMWxjaUJqWVhKbElHNTFiV0psY2hBQWZaRC1RRDgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIGNhcmUgZ3VpZGVsaW5lcz8iLCJsayI6ImM1T1NLTTlJTEZGSUxFcFZTQVlSNmFXWkthazVtWG1weFFBIiwiYnMiOiJjM1dQUHd2Q01CREZjYzNrSkpyRjh3TzRCRkczSW1yQlJjVEZPYmFYOXNBbUpVbXBzNV9jTklKX29HNTM5LTc5N2gxN0RGaDZLYVVIY3VCTEJMR1lsNmF4a0RYT213cERJUzJDYnFwcnFKV3hzQ0VMQjUyVGhQMjl0dWdjR0tVb3cwU3MtVklHa2FLSVAyTEFRb2QxdlZ5MllwT1lvUnZGZWRGUWpqZlM2QkxCLWJqOUk3SWpFMjlqbF80anhheXRKVS02QUJtTURzRmliYXhQeEppUHZ2cHZYczZTUzRueGtJWURxUEJMNUc0MzV6MzBlOEtfY05xbDNiMUtCdmlNVDdOWDFON3RPbGZEd1JNIiwiaWQiOiJmY19qbVBEYXNTQkw3V3MxUUhIcDkzSkJBXzUifQ==",
+      "page_token": "VLHk8nicHdDPboIwAIDx7GU8Coi4aGKWIa3azTJKW7CXpRalS8ufCRnqbe-yp9rTzOz45Xf7vn_sR21-HzLd9223cJxhGMZl05T2OFZN5cjuWitHSWsPUpnF7HHmPZ3UEnRduGqGMGFtyyPi0g1GZINW1M4bbskMQ9PvmUUS6Kliuwv30CsxuqMZcQnka2mmfmqUr6Ly3oXgLnHFpB32E80Zn184m7PC6rOgHOYemB4hxEUlxA70yd1SWYdXmes3HKGIGiTirAx2DGvmBp-JRTWuiYkBN6mxobgRN4OcSA9J5uJOuGKbT1QKq7ZngGjl4RWNilzdIEmBHmKKXxID5NZAoPxtICza0HWRpaCPD_4uiKHeKp_AYybwMX-eEBZ0NFejk_pa-qP_Ycv3U9Uv2nNT_gHYfHZs",
+      "question": "What are care guidelines?",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VLHk8nicHdDPboIwAIDx7GU8Coi4aGKWIa3azTJKW7CXpRalS8ufCRnqbe-yp9rTzOz45Xf7vn_sR21-HzLd9223cJxhGMZl05T2OFZN5cjuWitHSWsPUpnF7HHmPZ3UEnRduGqGMGFtyyPi0g1GZINW1M4bbskMQ9PvmUUS6Kliuwv30CsxuqMZcQnka2mmfmqUr6Ly3oXgLnHFpB32E80Zn184m7PC6rOgHOYemB4hxEUlxA70yd1SWYdXmes3HKGIGiTirAx2DGvmBp-JRTWuiYkBN6mxobgRN4OcSA9J5uJOuGKbT1QKq7ZngGjl4RWNilzdIEmBHmKKXxID5NZAoPxtICza0HWRpaCPD_4uiKHeKp_AYybwMX-eEBZ0NFejk_pa-qP_Ycv3U9Uv2nNT_gHYfHZs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlRIWnphRkpOUjIxNU1tNWljRlpQTmtWa1dVNDRMWEJ5U25Fek4wcDJaSFpxU21jMWRsWjVObTAwUTNOTU4yRlFXRUZDY25CTU1WRnllV2xpTUdkR1dEWlNibU5zZFhkT1FubGFWbGw2VG1SWWVtdE5ka1p3VFVsWlVSSVdhbTFRUkdGelUwSk1OMWR6TVZGSVNIQTVNMHBDUVJvaVFVUnpjamxtVW5vNGNrZFZkRGN3YW0xamEyc3dNMXBJZVZKVFFVcEZhbmRhZHciLCJmY3YiOiIzIiwiZWkiOiJqbVBEYXNTQkw3V3MxUUhIcDkzSkJBIiwicWMiOiJDaVpoYVhJZ2FXNWthV0VnWlhod2NtVnpjeUJqZFhOMGIyMWxjaUJqWVhKbElHNTFiV0psY2hBQWZaRC1RRDgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIGNhcmUgZ3VpZGVsaW5lcz8iLCJsayI6ImM1T1NLTTlJTEZGSUxFcFZTQVlSNmFXWkthazVtWG1weFFBIiwiYnMiOiJjM1dQUHd2Q01CREZjYzNrSkpyRjh3TzRCRkczSW1yQlJjVEZPYmFYOXNBbUpVbXBzNV9jTklKX29HNTM5LTc5N2gxN0RGaDZLYVVIY3VCTEJMR1lsNmF4a0RYT213cERJUzJDYnFwcnFKV3hzQ0VMQjUyVGhQMjl0dWdjR0tVb3cwU3MtVklHa2FLSVAyTEFRb2QxdlZ5MllwT1lvUnZGZWRGUWpqZlM2QkxCLWJqOUk3SWpFMjlqbF80anhheXRKVS02QUJtTURzRmliYXhQeEppUHZ2cHZYczZTUzRueGtJWURxUEJMNUc0MzV6MzBlOEtfY05xbDNiMUtCdmlNVDdOWDFON3RPbGZEd1JNIiwiaWQiOiJmY19qbVBEYXNTQkw3V3MxUUhIcDkzSkJBXzUifQ%3D%3D",
+      "type": "ai_overview"
+    },
+    {
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlRIWnphRkpOUjIxNU1tNWljRlpQTmtWa1dVNDRMWEJ5U25Fek4wcDJaSFpxU21jMWRsWjVObTAwUTNOTU4yRlFXRUZDY25CTU1WRnllV2xpTUdkR1dEWlNibU5zZFhkT1FubGFWbGw2VG1SWWVtdE5ka1p3VFVsWlVSSVdhbTFRUkdGelUwSk1OMWR6TVZGSVNIQTVNMHBDUVJvaVFVUnpjamxtVW5vNGNrZFZkRGN3YW0xamEyc3dNMXBJZVZKVFFVcEZhbmRhZHciLCJmY3YiOiIzIiwiZWkiOiJqbVBEYXNTQkw3V3MxUUhIcDkzSkJBIiwicWMiOiJDaVpoYVhJZ2FXNWthV0VnWlhod2NtVnpjeUJqZFhOMGIyMWxjaUJqWVhKbElHNTFiV0psY2hBQWZaRC1RRDgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBndWlkZWxpbmVzIGZvciB3cml0aW5nIGEgY2FzZSByZXBvcnQ/IiwibGsiOiJHaFpqWVhObElISmxjRzl5ZENCbmRXbGtaV3hwYm1WeiIsImJzIjoiYzNXUFB3dkNNQkRGY2Mza0pKckY4d080QkZHM0ltckJSY1RGT2JhWDlzQW1KVW1wczVfY05JSl9vRzUzOS03OTdoMTdERmg2S2FVSGN1QkxCTEdZbDZheGtEWE9td3BESVMyQ2JxcHJxSld4c0NFTEI1MlRoUDI5dHVnY0dLVW93MFNzLVZJR2thS0lQMkxBUW9kMXZWeTJZcE9Zb1J2RmVkRlFqamZTNkJMQi1iajlJN0lqRTI5amxfNGp4YXl0SlUtNkFCbU1Ec0ZpYmF4UHhKaVB2dnB2WHM2U1M0bnhrSVlEcVBCTDVHNDM1ejMwZThLX2NOcWwzYjFLQnZpTVQ3TlgxTjd0T2xmRHdSTSIsImlkIjoiZmNfam1QRGFzU0JMN1dzMVFISHA5M0pCQV81In0=",
+      "page_token": "qn6mMnicHdBdbqMwFEBhzWb62PAzk6qRolHdACktVHa4GPMyCoaEYDs4wVMwb7ODLqKr6mpazQaO9J1_H_J0Fp8_3ltj9LBaLMZxvD32_VE2t7xXi_1gz3zB91JWey5Wy7ul-_vA18EbQ49XjjBonW-IsxMTTnLZYpFeklD75dxqDMGcUO40isQ8JDOousvUJGkwuKljaNMxmxW1uwt-nUHUThkwgymxr9SMdQYzLlKXO_dXquK4pOSUOWHI58BjxYNX-flcR-a5ilJRUdlDl76AmhhX7CeIcpltwTQidpMCOdgzUTnLA90gy0APbJYYJMJNjr5b7YULne63sWBdYBNBEC20DyqkTIEPuYbKJQP3jjaNyGvpyTJoy0uVo4AVaYbF6Od-MgG0T3wj5p2IUXSKEdmm346SNCfXkuzBabonC07-F_xQY3H_uFOTzUJmX3J0vjnwt7V_8__0-s9BmZW-9scvnpaOsA",
+      "question": "What are the guidelines for writing a case report?",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qn6mMnicHdBdbqMwFEBhzWb62PAzk6qRolHdACktVHa4GPMyCoaEYDs4wVMwb7ODLqKr6mpazQaO9J1_H_J0Fp8_3ltj9LBaLMZxvD32_VE2t7xXi_1gz3zB91JWey5Wy7ul-_vA18EbQ49XjjBonW-IsxMTTnLZYpFeklD75dxqDMGcUO40isQ8JDOousvUJGkwuKljaNMxmxW1uwt-nUHUThkwgymxr9SMdQYzLlKXO_dXquK4pOSUOWHI58BjxYNX-flcR-a5ilJRUdlDl76AmhhX7CeIcpltwTQidpMCOdgzUTnLA90gy0APbJYYJMJNjr5b7YULne63sWBdYBNBEC20DyqkTIEPuYbKJQP3jjaNyGvpyTJoy0uVo4AVaYbF6Od-MgG0T3wj5p2IUXSKEdmm346SNCfXkuzBabonC07-F_xQY3H_uFOTzUJmX3J0vjnwt7V_8__0-s9BmZW-9scvnpaOsA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlRIWnphRkpOUjIxNU1tNWljRlpQTmtWa1dVNDRMWEJ5U25Fek4wcDJaSFpxU21jMWRsWjVObTAwUTNOTU4yRlFXRUZDY25CTU1WRnllV2xpTUdkR1dEWlNibU5zZFhkT1FubGFWbGw2VG1SWWVtdE5ka1p3VFVsWlVSSVdhbTFRUkdGelUwSk1OMWR6TVZGSVNIQTVNMHBDUVJvaVFVUnpjamxtVW5vNGNrZFZkRGN3YW0xamEyc3dNMXBJZVZKVFFVcEZhbmRhZHciLCJmY3YiOiIzIiwiZWkiOiJqbVBEYXNTQkw3V3MxUUhIcDkzSkJBIiwicWMiOiJDaVpoYVhJZ2FXNWthV0VnWlhod2NtVnpjeUJqZFhOMGIyMWxjaUJqWVhKbElHNTFiV0psY2hBQWZaRC1RRDgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBndWlkZWxpbmVzIGZvciB3cml0aW5nIGEgY2FzZSByZXBvcnQ%2FIiwibGsiOiJHaFpqWVhObElISmxjRzl5ZENCbmRXbGtaV3hwYm1WeiIsImJzIjoiYzNXUFB3dkNNQkRGY2Mza0pKckY4d080QkZHM0ltckJSY1RGT2JhWDlzQW1KVW1wczVfY05JSl9vRzUzOS03OTdoMTdERmg2S2FVSGN1QkxCTEdZbDZheGtEWE9td3BESVMyQ2JxcHJxSld4c0NFTEI1MlRoUDI5dHVnY0dLVW93MFNzLVZJR2thS0lQMkxBUW9kMXZWeTJZcE9Zb1J2RmVkRlFqamZTNkJMQi1iajlJN0lqRTI5amxfNGp4YXl0SlUtNkFCbU1Ec0ZpYmF4UHhKaVB2dnB2WHM2U1M0bnhrSVlEcVBCTDVHNDM1ejMwZThLX2NOcWwzYjFLQnZpTVQ3TlgxTjd0T2xmRHdSTSIsImlkIjoiZmNfam1QRGFzU0JMN1dzMVFISHA5M0pCQV81In0%3D",
+      "type": "ai_overview"
+    },
+    {
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlRIWnphRkpOUjIxNU1tNWljRlpQTmtWa1dVNDRMWEJ5U25Fek4wcDJaSFpxU21jMWRsWjVObTAwUTNOTU4yRlFXRUZDY25CTU1WRnllV2xpTUdkR1dEWlNibU5zZFhkT1FubGFWbGw2VG1SWWVtdE5ka1p3VFVsWlVSSVdhbTFRUkdGelUwSk1OMWR6TVZGSVNIQTVNMHBDUVJvaVFVUnpjamxtVW5vNGNrZFZkRGN3YW0xamEyc3dNMXBJZVZKVFFVcEZhbmRhZHciLCJmY3YiOiIzIiwiZWkiOiJqbVBEYXNTQkw3V3MxUUhIcDkzSkJBIiwicWMiOiJDaVpoYVhJZ2FXNWthV0VnWlhod2NtVnpjeUJqZFhOMGIyMWxjaUJqWVhKbElHNTFiV0psY2hBQWZaRC1RRDgiLCJxdWVzdGlvbiI6IldoZXJlIGNhbiBJIGZpbmQgdGhlIENBUkUgY2FzZSByZXBvcnQgZ3VpZGVsaW5lcyBpbiBQREYgZm9ybWF0PyIsImxrIjoiR2g5allYSmxJR05oYzJVZ2NtVndiM0owSUdkMWFXUmxiR2x1WlhNZ2NHUm0iLCJicyI6ImMzV1BQd3ZDTUJERmNjM2tKSnJGOHdPNEJGRzNJbXJCUmNURk9iYVg5c0FtSlVtcHM1X2NOSUpfb0c1MzktNzk3aDE3REZoNkthVUhjdUJMQkxHWWw2YXhrRFhPbXdwRElTMkNicXBycUpXeHNDRUxCNTJUaFAyOXR1Z2NHS1VvdzBTcy1WSUdrYUtJUDJMQVFvZDF2VnkyWXBPWW9SdkZlZEZRampmUzZCTEItYmo5STdJakUyOWpsXzRqeGF5dEpVLTZBQm1NRHNGaWJheFB4SmlQdnZwdlhzNlNTNG54a0lZRHFQQkw1RzQzNXozMGU4S19jTnFsM2IxS0J2aU1UN05YMU43dE9sZkR3Uk0iLCJpZCI6ImZjX2ptUERhc1NCTDdXczFRSEhwOTNKQkFfNSJ9",
+      "page_token": "ObWNp3icHdBLcoIwAIDh6WVcKjFqizNOR0qCUg3lkRDZdEIAkfBSUdRd79JT9TTtdPdvvs3_9V0eavXz1OVd157no1Hf98N90-zLdCibaiTO91qOpCjLWEg1nz3PwGsmF-iCjLfj2nBp2zLT03y17kMLnIXCVI6xkgp3kRl15GH4ogJXj7taPNYNGniuW5L3GLzcxIOCBOWm5LkIEVgJk2G3Tk60iIrduAslnVoERJNE6Ze00iANiC9qoyDjP0Nthz8i5KzwZMOXgKywRSpiMcUYC4nvMznhkOCoxm2qtnef5irGSyg4_qDcy9KKzRK4nhKcH4KyzbwygbJilCH9SgoGUR4dY2agHSeBq3rI4PZGab6Wpnr4yjasg214K3J3wogGWn4PQtKxSk5pUG5CbHsOAjXlifXXwYbp9SCT1wUc_N9cfGZVN29Pzf4XQeuBAA",
+      "question": "Where can I find the CARE case report guidelines in PDF format?",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ObWNp3icHdBLcoIwAIDh6WVcKjFqizNOR0qCUg3lkRDZdEIAkfBSUdRd79JT9TTtdPdvvs3_9V0eavXz1OVd157no1Hf98N90-zLdCibaiTO91qOpCjLWEg1nz3PwGsmF-iCjLfj2nBp2zLT03y17kMLnIXCVI6xkgp3kRl15GH4ogJXj7taPNYNGniuW5L3GLzcxIOCBOWm5LkIEVgJk2G3Tk60iIrduAslnVoERJNE6Ze00iANiC9qoyDjP0Nthz8i5KzwZMOXgKywRSpiMcUYC4nvMznhkOCoxm2qtnef5irGSyg4_qDcy9KKzRK4nhKcH4KyzbwygbJilCH9SgoGUR4dY2agHSeBq3rI4PZGab6Wpnr4yjasg214K3J3wogGWn4PQtKxSk5pUG5CbHsOAjXlifXXwYbp9SCT1wUc_N9cfGZVN29Pzf4XQeuBAA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlRIWnphRkpOUjIxNU1tNWljRlpQTmtWa1dVNDRMWEJ5U25Fek4wcDJaSFpxU21jMWRsWjVObTAwUTNOTU4yRlFXRUZDY25CTU1WRnllV2xpTUdkR1dEWlNibU5zZFhkT1FubGFWbGw2VG1SWWVtdE5ka1p3VFVsWlVSSVdhbTFRUkdGelUwSk1OMWR6TVZGSVNIQTVNMHBDUVJvaVFVUnpjamxtVW5vNGNrZFZkRGN3YW0xamEyc3dNMXBJZVZKVFFVcEZhbmRhZHciLCJmY3YiOiIzIiwiZWkiOiJqbVBEYXNTQkw3V3MxUUhIcDkzSkJBIiwicWMiOiJDaVpoYVhJZ2FXNWthV0VnWlhod2NtVnpjeUJqZFhOMGIyMWxjaUJqWVhKbElHNTFiV0psY2hBQWZaRC1RRDgiLCJxdWVzdGlvbiI6IldoZXJlIGNhbiBJIGZpbmQgdGhlIENBUkUgY2FzZSByZXBvcnQgZ3VpZGVsaW5lcyBpbiBQREYgZm9ybWF0PyIsImxrIjoiR2g5allYSmxJR05oYzJVZ2NtVndiM0owSUdkMWFXUmxiR2x1WlhNZ2NHUm0iLCJicyI6ImMzV1BQd3ZDTUJERmNjM2tKSnJGOHdPNEJGRzNJbXJCUmNURk9iYVg5c0FtSlVtcHM1X2NOSUpfb0c1MzktNzk3aDE3REZoNkthVUhjdUJMQkxHWWw2YXhrRFhPbXdwRElTMkNicXBycUpXeHNDRUxCNTJUaFAyOXR1Z2NHS1VvdzBTcy1WSUdrYUtJUDJMQVFvZDF2VnkyWXBPWW9SdkZlZEZRampmUzZCTEItYmo5STdJakUyOWpsXzRqeGF5dEpVLTZBQm1NRHNGaWJheFB4SmlQdnZwdlhzNlNTNG54a0lZRHFQQkw1RzQzNXozMGU4S19jTnFsM2IxS0J2aU1UN05YMU43dE9sZkR3Uk0iLCJpZCI6ImZjX2ptUERhc1NCTDdXczFRSEhwOTNKQkFfNSJ9",
+      "type": "ai_overview"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&hl=en&gl=in&sxsrf=APpeQnuCosqAUbaTia14k0JeDss3MP9o4g:1791189902777&q=air+india+express+customer+care+number+near+london&sa=X&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQ1QJ6BAhJEAE",
+      "query": "air india express customer care number near london",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=air+india+express+customer+care+number+near+london"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&hl=en&gl=in&sxsrf=APpeQnuCosqAUbaTia14k0JeDss3MP9o4g:1791189902777&q=air+india+express+customer+care+number+near+manchester&sa=X&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQ1QJ6BAhQEAE",
+      "query": "air india express customer care number near manchester",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=air+india+express+customer+care+number+near+manchester"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&hl=en&gl=in&sxsrf=APpeQnuCosqAUbaTia14k0JeDss3MP9o4g:1791189902777&q=Care+Health+Insurance+Login+with+policy+Number&sa=X&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQ1QJ6BAhKEAE",
+      "query": "Care Health Insurance Login with policy Number",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Care+Health+Insurance+Login+with+policy+Number"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&hl=en&gl=in&sxsrf=APpeQnuCosqAUbaTia14k0JeDss3MP9o4g:1791189902777&q=CARE+checklist+latest&sa=X&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQ1QJ6BAhPEAE",
+      "query": "CARE checklist latest",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=CARE+checklist+latest"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&hl=en&gl=in&sxsrf=APpeQnuCosqAUbaTia14k0JeDss3MP9o4g:1791189902777&q=Care+customer+Care+number&sa=X&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQ1QJ6BAhLEAE",
+      "query": "Care customer Care number",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Care+customer+Care+number"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&hl=en&gl=in&sxsrf=APpeQnuCosqAUbaTia14k0JeDss3MP9o4g:1791189902777&q=CARE+Checklist+word+document&sa=X&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQ1QJ6BAhMEAE",
+      "query": "CARE Checklist word document",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=CARE+Checklist+word+document"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&hl=en&gl=in&sxsrf=APpeQnuCosqAUbaTia14k0JeDss3MP9o4g:1791189902777&q=CARE+Rating&sa=X&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQ1QJ6BAhNEAE",
+      "query": "CARE Rating",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=CARE+Rating"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&hl=en&gl=in&sxsrf=APpeQnuCosqAUbaTia14k0JeDss3MP9o4g:1791189902777&q=Care+Health+Insurance+customer+Care+Email+ID&sa=X&ved=2ahUKEwjEgIWvvqKXAxU1VjUKHcdTN0kQ1QJ6BAhOEAE",
+      "query": "Care Health Insurance customer Care Email ID",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Care+Health+Insurance+customer+Care+Email+ID"
+    }
+  ],
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "Air India Express customer care number",
+    "time_taken_displayed": 0.26,
+    "total_results": 25270000000
+  },
+  "search_metadata": {
+    "created_at": "2026-10-05 08:45:02 UTC",
+    "google_url": "https://www.google.com/search?q=Air+India+Express+customer+care+number&oq=Air+India+Express+customer+care+number&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "id": "6ac3638e9701216fa50c0ff1",
+    "json_endpoint": "https://serpapi.com/searches/8KE8FnP1Z-cZgCz4DJxtelLiyD54uEQCCx5knPKaUT0/6ac3638e9701216fa50c0ff1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/8KE8FnP1Z-cZgCz4DJxtelLiyD54uEQCCx5knPKaUT0/6ac3638e9701216fa50c0ff1.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/8KE8FnP1Z-cZgCz4DJxtelLiyD54uEQCCx5knPKaUT0/6ac3638e9701216fa50c0ff1.json_with_pixel_position",
+    "processed_at": "2026-10-05 08:45:02 UTC",
+    "raw_html_file": "https://serpapi.com/searches/8KE8FnP1Z-cZgCz4DJxtelLiyD54uEQCCx5knPKaUT0/6ac3638e9701216fa50c0ff1.html",
+    "status": "Success",
+    "total_time_taken": 0.4
+  },
+  "search_parameters": {
+    "device": "desktop",
+    "engine": "google",
+    "gl": "in",
+    "google_domain": "google.com",
+    "hl": "en",
+    "q": "Air India Express customer care number"
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+customer+care+number&start=10",
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+customer+care+number&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+customer+care+number&start=10"
+    }
+  }
+}

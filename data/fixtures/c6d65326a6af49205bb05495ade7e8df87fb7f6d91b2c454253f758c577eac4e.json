@@ -1,0 +1,22 @@
+{
+  "error": "Google Ads Transparency Center hasn't returned any results for this search.",
+  "search_information": {
+    "results_state": "Fully empty"
+  },
+  "search_metadata": {
+    "created_at": "2026-10-05 08:45:08 UTC",
+    "google_ads_transparency_center_url": "https://adstransparency.google.com/advertiser/airindia.com?region=anywhere",
+    "id": "6ac36394302394147f4a9ccc",
+    "json_endpoint": "https://serpapi.com/searches/vf0g5kNY04xyHxvRTxx2GTz3RqecKZMnAQeWA33UrGU/6ac36394302394147f4a9ccc.json",
+    "markdown_endpoint": "https://serpapi.com/searches/vf0g5kNY04xyHxvRTxx2GTz3RqecKZMnAQeWA33UrGU/6ac36394302394147f4a9ccc.md",
+    "prettify_html_file": "https://serpapi.com/searches/vf0g5kNY04xyHxvRTxx2GTz3RqecKZMnAQeWA33UrGU/6ac36394302394147f4a9ccc.prettify",
+    "processed_at": "2026-10-05 08:45:08 UTC",
+    "raw_html_file": "https://serpapi.com/searches/vf0g5kNY04xyHxvRTxx2GTz3RqecKZMnAQeWA33UrGU/6ac36394302394147f4a9ccc.html",
+    "status": "Success",
+    "total_time_taken": 0.57
+  },
+  "search_parameters": {
+    "advertiser_id": "airindia.com",
+    "engine": "google_ads_transparency_center"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "local_map": {
+    "gps_coordinates": {
+      "latitude": 23.795397597978745,
+      "longitude": 76.453857421875
+    }
+  },
+  "local_results": [
+    {
+      "address": "CRRW+F49, Shani Nagar, Ambegaon Budruk, Pune, Maharashtra 411046",
+      "description": "\"You get answer to all your airindia related issue here\"",
+      "gps_coordinates": {
+        "latitude": 18.441152,
+        "longitude": 73.845357
+      },
+      "hours": "Open 24 hours",
+      "links": {
+        "phone": "tel:0124 264 1407",
+        "website": "https://www.airindia.in/"
+      },
+      "phone": "0124 264 1407",
+      "place_id": "4104813670488302488",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=in&google_domain=google.com&hl=en&location=India&ludocid=4104813670488302488&q=Air+India+customer+care",
+      "position": 1,
+      "provider_id": "/g/11fl0snvvk",
+      "rating": 2.4,
+      "reviews": 89,
+      "title": "Air india customer care",
+      "type": "Travel agency"
+    },
+    {
+      "address": "Safdarjung Airport, Sri Aurobindo Marg, New Delhi, Delhi, 110003",
+      "description": "On-site services",
+      "gps_coordinates": {
+        "latitude": 28.585665,
+        "longitude": 77.211929
+      },
+      "hours": "Open · Closes 6 pm",
+      "links": {
+        "phone": "tel:1860 233 1407",
+        "website": "http://www.airindia.in/"
+      },
+      "phone": "1860 233 1407",
+      "place_id": "17635921622439835863",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=in&google_domain=google.com&hl=en&location=India&ludocid=17635921622439835863&q=Air+India+customer+care",
+      "position": 2,
+      "provider_id": "/g/11c2q_p3kh",
+      "rating": 3.8,
+      "reviews": 1612,
+      "title": "Air India Reservation Office",
+      "type": "Airline ticket agency"
+    },
+    {
+      "address": "Airlines House, 113, Gurudwara Rakabganj Road, Sansad Marg Area, New Delhi, Delhi 110001",
+      "description": "\"Glad to be a part of airindia\"",
+      "gps_coordinates": {
+        "latitude": 28.622982,
+        "longitude": 77.210924
+      },
+      "hours": "Open · Closes 6:30 pm",
+      "place_id": "8700500272462532868",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=in&google_domain=google.com&hl=en&location=India&ludocid=8700500272462532868&q=Air+India+customer+care",
+      "position": 3,
+      "provider_id": "/g/11c3_9n615",
+      "rating": 3.9,
+      "reviews": 572,
+      "title": "Air India Limited (Airlines House)",
+      "type": "Airline"
+    },
+    {
+      "address": "Terminal-2, GST Building, IGI Airport, Delhi, 110037",
+      "description": "On-site services",
+      "gps_coordinates": {
+        "latitude": 28.556162,
+        "longitude": 77.099958
+      },
+      "hours": "Open · Closes 9 pm",
+      "links": {
+        "website": "http://www.airindia.com/"
+      },
+      "place_id": "15121650833915620046",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=in&google_domain=google.com&hl=en&location=India&ludocid=15121650833915620046&q=Air+India+customer+care",
+      "position": 4,
+      "provider_id": "/g/1tctc_4x",
+      "rating": 2.6,
+      "reviews": 293,
+      "title": "Air India",
+      "type": "Airline"
+    },
+    {
+      "address": "BLOCK-4, Vatika One On One, NH-48, Industrial Estate, Sector 16, Gurugram, Haryana 122007",
+      "description": "On-site services",
+      "gps_coordinates": {
+        "latitude": 28.46621,
+        "longitude": 77.050195
+      },
+      "hours": "Open · Closes 6:30 pm",
+      "links": {
+        "phone": "tel:011 6932 9333",
+        "website": "https://www.airindia.com/"
+      },
+      "phone": "011 6932 9333",
+      "place_id": "3494966967209975473",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=in&google_domain=google.com&hl=en&location=India&ludocid=3494966967209975473&q=Air+India+customer+care",
+      "position": 5,
+      "provider_id": "/g/11sb88rwqh",
+      "rating": 3.5,
+      "reviews": 301,
+      "title": "Air India Headquarters",
+      "type": "Corporate office"
+    },
+    {
+      "address": "H34J+249, Indira Gandhi International Airport, New Delhi, Delhi 110037",
+      "description": "\"Maintenance control centre for Airindia\"",
+      "gps_coordinates": {
+        "latitude": 28.555046,
+        "longitude": 77.080348
+      },
+      "hours": "Open 24 hours",
+      "links": {
+        "website": "http://www.airindia.in/"
+      },
+      "place_id": "5684872497043904421",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=in&google_domain=google.com&hl=en&location=India&ludocid=5684872497043904421&q=Air+India+customer+care",
+      "position": 6,
+      "provider_id": "/g/11c1nydjgb",
+      "rating": 3.8,
+      "reviews": 125,
+      "title": "CMHC, AIR INDIA LTD",
+      "type": "Airline"
+    },
+    {
+      "address": "33R4+62C, Sonegaon, Nagpur, Maharashtra 440005",
+      "gps_coordinates": {
+        "latitude": 21.090563,
+        "longitude": 79.055027
+      },
+      "hours": "Open 24 hours",
+      "links": {
+        "phone": "tel:091462 96373",
+        "website": "http://www.airindia.in/"
+      },
+      "phone": "091462 96373",
+      "place_id": "646155703661765476",
+      "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=in&google_domain=google.com&hl=en&location=India&ludocid=646155703661765476&q=Air+India+customer+care",
+      "position": 7,
+      "provider_id": "/g/11cspys7dv",
+      "rating": 3.2,
+      "reviews": 31,
+      "title": "Air India Ltd.",
+      "type": "Airline"
+    }
+  ],
+  "search_metadata": {
+    "created_at": "2026-10-05 08:45:10 UTC",
+    "google_local_url": "https://www.google.com/search?q=Air+India+customer+care&uule=j+WzIsMzIsbnVsbCwiSW5kaWEiLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbF0=&hl=en&gl=in&udm=1",
+    "id": "6ac36396c20348cdad859d73",
+    "json_endpoint": "https://serpapi.com/searches/lwYrQ8xIqhrJawQ9RoHyHr1AE0WPptLhxcRmtcf5l4Y/6ac36396c20348cdad859d73.json",
+    "markdown_endpoint": "https://serpapi.com/searches/lwYrQ8xIqhrJawQ9RoHyHr1AE0WPptLhxcRmtcf5l4Y/6ac36396c20348cdad859d73.md",
+    "processed_at": "2026-10-05 08:45:10 UTC",
+    "raw_html_file": "https://serpapi.com/searches/lwYrQ8xIqhrJawQ9RoHyHr1AE0WPptLhxcRmtcf5l4Y/6ac36396c20348cdad859d73.html",
+    "status": "Success",
+    "total_time_taken": 10.83
+  },
+  "search_parameters": {
+    "device": "desktop",
+    "engine": "google_local",
+    "gl": "in",
+    "google_domain": "google.com",
+    "hl": "en",
+    "location_requested": "India",
+    "location_used": "India",
+    "q": "Air India customer care"
+  }
+}

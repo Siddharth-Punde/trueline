@@ -1,0 +1,448 @@
+{
+  "organic_results": [
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZXRHVmanRTVEs1aThKTU16Q2lxVkhNbkNEZEZjM2xsNUh6c1RZakxyOC00Y0VUYks4eFZ1YVlvSjZEVThEVi1PNG1ZRDVBSmI5RGFGQXBFb3psT2N4aXFTQ2lWNHcwNmttVnF1X1RqSFlJQkg1cFcxc3FNcXZDNkc5TjU2STRPV2UyZ3RnU3phRmZ1UF80dWVyRUJvR1UxMzZJYUx2WUR1YVFld1N1RXRQUEJ6LVVyTFBWdnRqTlAxQWlCN0t5LXlzNnFEVWpscE1rEgQaAggAGsAFEgAaACICCAEqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAmgUIABAAGAAgAColCgNhaXIVA6GDQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyonCgVpbmRpYRXeVGJAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKisKB2V4cHJlc3MV3itXQBoKZXhwcmVzc2luZxoPYWlyaW5kaWFleHByZXNzKncKCWNvbXBsYWludBUAAAAAGghjb21wbGFpbhoKY29tcGxhaW50cxoJY29ycG9yYXRlGg1jdXN0b21lciBjYXJlGhBjdXN0b21lciBzZXJ2aWNlGghoZWxwbGluZRoJdGVsZXBob25lGg5pdjtwO2NvbXBsYWludCocCgZudW1iZXIVIA_ZPRoEbGluZRoHbnVtYmVyczLhAS9nb3RvP3VybD1DQUVTbkFFQjZ6c3dGV0R1Zmp0U1RLNWk4Sk1NekNpcVZITW5DRGRGYzNsbDVIenNUWWpMcjgtNGNFVGJLOHhWdWFZb0o2RFU4RFYtTzRtWUQ1QUpiOURhRkFwRW96bE9jeGlxU0NpVjR3MDZrbVZxdV9UakhZSUJINXBXMXNxTXF2QzZHOU41Nkk0T1dlMmd0Z1N6YUZmdVBfNHVlckVCb0dVMTM2SWFMdllEdWFRZXdTdUV0UFBCei1VckxQVnZ0ak5QMUFpQjdLeS15czZxRFVqbHBNazpESHlkZXJhYmFkIHRvIFNlYXR0bGUgRmxpZ2h0cyAtIDxiPkFpciBJbmRpYSBFeHByZXNzPC9iPiAtIE1ha2VNeVRyaXBCUlRlbDogKzxiPjEtMjA2LTc4Ny0zMDAwPC9iPi4gQ29tcGxhaW50cyBDb250YWN0IFVzIFBheW1lbnQgU2VjdXJpdHkgUHJpdmFjeSBQb2xpY3kiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZXRHVmanRTVEs1aThKTU16Q2lxVkhNbkNEZEZjM2xsNUh6c1RZakxyOC00Y0VUYks4eFZ1YVlvSjZEVThEVi1PNG1ZRDVBSmI5RGFGQXBFb3psT2N4aXFTQ2lWNHcwNmttVnF1X1RqSFlJQkg1cFcxc3FNcXZDNkc5TjU2STRPV2UyZ3RnU3phRmZ1UF80dWVyRUJvR1UxMzZJYUx2WUR1YVFld1N1RXRQUEJ6LVVyTFBWdnRqTlAxQWlCN0t5LXlzNnFEVWpscE1rEgQaAggAGsAFEgAaACICCAEqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAmgUIABAAGAAgAColCgNhaXIVA6GDQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyonCgVpbmRpYRXeVGJAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKisKB2V4cHJlc3MV3itXQBoKZXhwcmVzc2luZxoPYWlyaW5kaWFleHByZXNzKncKCWNvbXBsYWludBUAAAAAGghjb21wbGFpbhoKY29tcGxhaW50cxoJY29ycG9yYXRlGg1jdXN0b21lciBjYXJlGhBjdXN0b21lciBzZXJ2aWNlGghoZWxwbGluZRoJdGVsZXBob25lGg5pdjtwO2NvbXBsYWludCocCgZudW1iZXIVIA_ZPRoEbGluZRoHbnVtYmVyczLhAS9nb3RvP3VybD1DQUVTbkFFQjZ6c3dGV0R1Zmp0U1RLNWk4Sk1NekNpcVZITW5DRGRGYzNsbDVIenNUWWpMcjgtNGNFVGJLOHhWdWFZb0o2RFU4RFYtTzRtWUQ1QUpiOURhRkFwRW96bE9jeGlxU0NpVjR3MDZrbVZxdV9UakhZSUJINXBXMXNxTXF2QzZHOU41Nkk0T1dlMmd0Z1N6YUZmdVBfNHVlckVCb0dVMTM2SWFMdllEdWFRZXdTdUV0UFBCei1VckxQVnZ0ak5QMUFpQjdLeS15czZxRFVqbHBNazpESHlkZXJhYmFkIHRvIFNlYXR0bGUgRmxpZ2h0cyAtIDxiPkFpciBJbmRpYSBFeHByZXNzPC9iPiAtIE1ha2VNeVRyaXBCUlRlbDogKzxiPjEtMjA2LTc4Ny0zMDAwPC9iPi4gQ29tcGxhaW50cyBDb250YWN0IFVzIFBheW1lbnQgU2VjdXJpdHkgUHJpdmFjeSBQb2xpY3kiAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Tel: +1-206-787-3000. Complaints Contact Us Payment Security Privacy Policy",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEz__v7__________________v795ufzi4z83N36ysv3sLHqAALvVVjuRknsLDDrERfrHiPwZmjxd3n5wMD71NT_9_f1m5212MRkAAAAB3RSTlMAa8f0_y7-ivxCIAAAASRJREFUeAGF0we2gyAQBVDLC_UFGGz73-kHk8NvBsc-XqUPNcZpxr-Yp3F4xUPhQ6hH730TCuiIUj66MQ5TH0zD3AfzgJt4AW3seWlp538BSz4BBBamFaA0eabNG8QkBZia9SfNXM4P3AusNMlgY8qw9QRN6pqutoItaHpQuEKEHsipvoq0b1CxzkmIpZw0LKvyzGjA0FDkuTFGAlG4Q5G6gZJKXHlE1nIPSgAMMxrYa_krU8o7jWZI-axnA8qxpI4kSVmaQEvxsWQagEncsSRuKJQOFArtD_CkBwIPFEADHEwS8ANsBwBXTzDnGZ7-J8C_WSXcG7iKjQFdYHj0QaBrYL4CpG1TbroE7Q_T9bSPNG3aXy4cvbi2cIYH-kvvfvHeLP8vw38YiFTVzyMAAAAASUVORK5CYII.png",
+          "source_info_link": "https://www.makemytrip.com/international-flights/hyderabad-seattle-air_india_express-tickets.html"
+        }
+      },
+      "date": "2 days ago",
+      "displayed_link": "https://www.makemytrip.com › ... › Air India Express",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEz__v7__________________v795ufzi4z83N36ysv3sLHqAALvVVjuRknsLDDrERfrHiPwZmjxd3n5wMD71NT_9_f1m5212MRkAAAAB3RSTlMAa8f0_y7-ivxCIAAAASRJREFUeAGF0we2gyAQBVDLC_UFGGz73-kHk8NvBsc-XqUPNcZpxr-Yp3F4xUPhQ6hH730TCuiIUj66MQ5TH0zD3AfzgJt4AW3seWlp538BSz4BBBamFaA0eabNG8QkBZia9SfNXM4P3AusNMlgY8qw9QRN6pqutoItaHpQuEKEHsipvoq0b1CxzkmIpZw0LKvyzGjA0FDkuTFGAlG4Q5G6gZJKXHlE1nIPSgAMMxrYa_krU8o7jWZI-axnA8qxpI4kSVmaQEvxsWQagEncsSRuKJQOFArtD_CkBwIPFEADHEwS8ANsBwBXTzDnGZ7-J8C_WSXcG7iKjQFdYHj0QaBrYL4CpG1TbroE7Q_T9bSPNG3aXy4cvbi2cIYH-kvvfvHeLP8vw38YiFTVzyMAAAAASUVORK5CYII.png",
+      "link": "https://www.makemytrip.com/international-flights/hyderabad-seattle-air_india_express-tickets.html",
+      "position": 1,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFWDufjtSTK5i8JMMzCiqVHMnCDdFc3ll5HzsTYjLr8-4cETbK8xVuaYoJ6DU8DV-O4mYD5AJb9DaFApEozlOcxiqSCiV4w06kmVqu_TjHYIBH5pW1sqMqvC6G9N56I4OWe2gtgSzaFfuP_4uerEBoGU136IaLvYDuaQewSuEtPPBz-UrLPVvtjNP1AiB7Ky-ys6qDUjlpMk&ved=2ahUKEwj_3e-wvqKXAxWDCnkGHft3GpUQFnoECCUQAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "currency": "₹",
+            "price": 56290.0,
+            "rating": 4.9,
+            "reviews": 426008
+          },
+          "extensions": [
+            "4.9(4,26,008)",
+            "Starting from ₹56,290.00"
+          ]
+        }
+      },
+      "snippet": "Tel: +1-206-787-3000. Complaints Contact Us Payment Security Privacy Policy",
+      "snippet_highlighted_words": [
+        "1-206-787-3000"
+      ],
+      "source": "MakeMyTrip",
+      "title": "Hyderabad to Seattle Flights - Air India Express"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZTSmxkUjh5ZkExbnRDcW9HbnZUa3BoV0l4R3lsTXJ5Vkg2Qm1SSGRZbENOZ2hUSmVvRlUzdHJEYW85VFlHZDBORUVyWWFuS04zaVJkY1cxTFRIVHg2aEdfakZmRXRXNkJmT0xaeDlrOFBvT1RXVWZJcW1qb3ZqMVNXLUZ6SC0tMXlvNDhRUTVxVWhIMzYtV2p5eGpTZ3BjMHAzMTRrU3NKYmFsTHdvWVFGc1pQQ3AxUnluRExQNnB3empGazZYaBIEGgIIABqCBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDeBQgAEAAYACAAKiUKA2FpchU5KYpAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKicKBWluZGlhFXqfiUAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqKwoHZXhwcmVzcxWUa4dAGgpleHByZXNzaW5nGg9haXJpbmRpYWV4cHJlc3MqdwoJY29tcGxhaW50FQAAAAAaCGNvbXBsYWluGgpjb21wbGFpbnRzGgljb3Jwb3JhdGUaDWN1c3RvbWVyIGNhcmUaEGN1c3RvbWVyIHNlcnZpY2UaCGhlbHBsaW5lGgl0ZWxlcGhvbmUaDml2O3A7Y29tcGxhaW50KhwKBm51bWJlchWFMUw9GgRsaW5lGgdudW1iZXJzMtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZTSmxkUjh5ZkExbnRDcW9HbnZUa3BoV0l4R3lsTXJ5Vkg2Qm1SSGRZbENOZ2hUSmVvRlUzdHJEYW85VFlHZDBORUVyWWFuS04zaVJkY1cxTFRIVHg2aEdfakZmRXRXNkJmT0xaeDlrOFBvT1RXVWZJcW1qb3ZqMVNXLUZ6SC0tMXlvNDhRUTVxVWhIMzYtV2p5eGpTZ3BjMHAzMTRrU3NKYmFsTHdvWVFGc1pQQ3AxUnluRExQNnB3empGazZYaDpCPGI-QWlyIEluZGlhIEV4cHJlc3M8L2I-IFNyaW5hZ2FyIHRvIEtvbGthdGEgRmxpZ2h0cyAtIEJvb2sgT25saW5lQqIBV2l0aCAyNC83IHJlbGlhYmxlIHN1cHBvcnQsIGxvd2VyIGZhcmVzLCBhaXJwb3J0IHBpY2stdXAgc2VydmljZXMgYW5kIGZpcnN0LWNsYXNzIGN1c3RvbWVyIHNlcnZpY2VzLCBFYXNlTXlUcmlwIGlzIGRlZmluaXRlbHkgdGhlIGdvLXRvIHBsYXRmb3JtIGZvciB5b3VyJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZTSmxkUjh5ZkExbnRDcW9HbnZUa3BoV0l4R3lsTXJ5Vkg2Qm1SSGRZbENOZ2hUSmVvRlUzdHJEYW85VFlHZDBORUVyWWFuS04zaVJkY1cxTFRIVHg2aEdfakZmRXRXNkJmT0xaeDlrOFBvT1RXVWZJcW1qb3ZqMVNXLUZ6SC0tMXlvNDhRUTVxVWhIMzYtV2p5eGpTZ3BjMHAzMTRrU3NKYmFsTHdvWVFGc1pQQ3AxUnluRExQNnB3empGazZYaBIEGgIIABqCBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDeBQgAEAAYACAAKiUKA2FpchU5KYpAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKicKBWluZGlhFXqfiUAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqKwoHZXhwcmVzcxWUa4dAGgpleHByZXNzaW5nGg9haXJpbmRpYWV4cHJlc3MqdwoJY29tcGxhaW50FQAAAAAaCGNvbXBsYWluGgpjb21wbGFpbnRzGgljb3Jwb3JhdGUaDWN1c3RvbWVyIGNhcmUaEGN1c3RvbWVyIHNlcnZpY2UaCGhlbHBsaW5lGgl0ZWxlcGhvbmUaDml2O3A7Y29tcGxhaW50KhwKBm51bWJlchWFMUw9GgRsaW5lGgdudW1iZXJzMtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZTSmxkUjh5ZkExbnRDcW9HbnZUa3BoV0l4R3lsTXJ5Vkg2Qm1SSGRZbENOZ2hUSmVvRlUzdHJEYW85VFlHZDBORUVyWWFuS04zaVJkY1cxTFRIVHg2aEdfakZmRXRXNkJmT0xaeDlrOFBvT1RXVWZJcW1qb3ZqMVNXLUZ6SC0tMXlvNDhRUTVxVWhIMzYtV2p5eGpTZ3BjMHAzMTRrU3NKYmFsTHdvWVFGc1pQQ3AxUnluRExQNnB3empGazZYaDpCPGI-QWlyIEluZGlhIEV4cHJlc3M8L2I-IFNyaW5hZ2FyIHRvIEtvbGthdGEgRmxpZ2h0cyAtIEJvb2sgT25saW5lQqIBV2l0aCAyNC83IHJlbGlhYmxlIHN1cHBvcnQsIGxvd2VyIGZhcmVzLCBhaXJwb3J0IHBpY2stdXAgc2VydmljZXMgYW5kIGZpcnN0LWNsYXNzIGN1c3RvbWVyIHNlcnZpY2VzLCBFYXNlTXlUcmlwIGlzIGRlZmluaXRlbHkgdGhlIGdvLXRvIHBsYXRmb3JtIGZvciB5b3VyJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "With 24/7 reliable support, lower fares, airport pick-up services and first-class customer services, EaseMyTrip is definitely the go-to platform for your ...",
+          "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAAAwBgCdASofABEAPtEutFooIagoGAEAGglsAJ0zM4QzZGSA5gD0_9QAHorQbmb4L_3_RCNL6tmgLlXYAP7KgBMkvzmC_NcTqPfgYbsinsFoJzEF4H4WULc1_OsK_Q02VvxnRTXNNkz2s5Ln9ambF7BBBPEbQJ_S3fjz8do1ntCsR_UvpgDzwh_2w29EcY0gkX6X6925Nh5NuAUrcMaU9Nyjvt8LJZKlLehx_e4IVLPpQVtyrwVfuySU0zJAVXmzAMESqNuBOe3bSdQgVCtk-Qbp_18U_Axg5sf07uqqMMc_8BB0OH6f-Df9kw4-ChS9LLzyO-fCFSQAAAAA.webp",
+          "source_info_link": "https://www.easemytrip.com/flights/air-india-express-tickets-srinagar-sxr-to-kolkata-ccu/"
+        }
+      },
+      "displayed_link": "https://www.easemytrip.com › Flights",
+      "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAAAwBgCdASofABEAPtEutFooIagoGAEAGglsAJ0zM4QzZGSA5gD0_9QAHorQbmb4L_3_RCNL6tmgLlXYAP7KgBMkvzmC_NcTqPfgYbsinsFoJzEF4H4WULc1_OsK_Q02VvxnRTXNNkz2s5Ln9ambF7BBBPEbQJ_S3fjz8do1ntCsR_UvpgDzwh_2w29EcY0gkX6X6925Nh5NuAUrcMaU9Nyjvt8LJZKlLehx_e4IVLPpQVtyrwVfuySU0zJAVXmzAMESqNuBOe3bSdQgVCtk-Qbp_18U_Axg5sf07uqqMMc_8BB0OH6f-Df9kw4-ChS9LLzyO-fCFSQAAAAA.webp",
+      "link": "https://www.easemytrip.com/flights/air-india-express-tickets-srinagar-sxr-to-kolkata-ccu/",
+      "position": 2,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAEB6zswFSJldR8yfA1ntCqoGnvTkphWIxGylMryVH6BmRHdYlCNghTJeoFU3trDao9TYGd0NEErYanKN3iRdcW1LTHTx6hG_jFfEtW6BfOLZx9k8PoOTWUfIqmjovj1SW-FzH--1yo48QQ5qUhH36-WjyxjSgpc0p314kSsJbalLwoYQFsZPCp1RynDLP6pwzjFk6Xh&ved=2ahUKEwj_3e-wvqKXAxWDCnkGHft3GpUQFnoECB8QAQ&uoh=1",
+      "snippet": "With 24/7 reliable support, lower fares, airport pick-up services and first-class customer services, EaseMyTrip is definitely the go-to platform for your ...",
+      "source": "EaseMyTrip",
+      "title": "Air India Express Srinagar to Kolkata Flights - Book Online"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZjU2F3M0taMXlFWXI3LTQyc1h2TTRNc2pEX0pwZVlFemc5azhVUWN3RDBnM2VwY1p2Z3diMTBYRjh3VTRSc2psZ0kta3I4YWJoN09XQ3dQeG5Mc0FKOWhWRmN3RmI4N2JLRy1rUDA2ZnV6TUZKYlpWeGRJNzYyTWRVN2pFNF93Uzd1am9VQVhqUFQwMHA1cnpNSml3OU9mMnRUazhrWmhQRFVRMVVSc25YRzExSlZ6U3EtMk4tWkJZN3ZRa3lENFFoTDlONGs3SUx6bjJBEgQaAggAGoIGEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQN4FCAAQABgAIAAqJQoDYWlyFYL7n0AaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEVpHeeQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyorCgdleHByZXNzFQ5hmUAaCmV4cHJlc3NpbmcaD2FpcmluZGlhZXhwcmVzcyp3Cgljb21wbGFpbnQVAAAAABoIY29tcGxhaW4aCmNvbXBsYWludHMaCWNvcnBvcmF0ZRoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoIaGVscGxpbmUaCXRlbGVwaG9uZRoOaXY7cDtjb21wbGFpbnQqHAoGbnVtYmVyFTFqzj4aBGxpbmUaB251bWJlcnMy5AEvZ290bz91cmw9Q0FFU25nRUI2enN3RmNTYXczS1oxeUVZcjctNDJzWHZNNE1zakRfSnBlWUV6ZzlrOFVRY3dEMGczZXBjWnZnd2IxMFhGOHdVNFJzamxnSS1rcjhhYmg3T1dDd1B4bkxzQUo5aFZGY3dGYjg3YktHLWtQMDZmdXpNRkpiWlZ4ZEk3NjJNZFU3akU0X3dTN3Vqb1VBWGpQVDAwcDVyek1KaXc5T2YydFRrOGtaaFBEVVExVVJzblhHMTFKVnpTcS0yTi1aQlk3dlFreUQ0UWhMOU40azdJTHpuMkE6RlNoYXJqYWggdG8gTXVtYmFpIDxiPkFpciBJbmRpYSBFeHByZXNzPC9iPiBGbGlnaHQsIENoZWFwIC4uLiAtIEdvaWJpYm9CkAFJZiB5b3UgaGFwcGVuIHRvIGZhY2UgYW55IHByb2JsZW0sIHlvdSBjb3VsZCBhbHdheXMgY2FsbCB0aGVpciA8Yj4yNFg3IGN1c3RvbWVyIGNhcmUgbnVtYmVyPC9iPiBhbmQgdGhleSB3b3VsZCBiZSBtb3JlIHRoYW4gaGFwcHkgdG8gYXNzaXN0IHlvdS4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZjU2F3M0taMXlFWXI3LTQyc1h2TTRNc2pEX0pwZVlFemc5azhVUWN3RDBnM2VwY1p2Z3diMTBYRjh3VTRSc2psZ0kta3I4YWJoN09XQ3dQeG5Mc0FKOWhWRmN3RmI4N2JLRy1rUDA2ZnV6TUZKYlpWeGRJNzYyTWRVN2pFNF93Uzd1am9VQVhqUFQwMHA1cnpNSml3OU9mMnRUazhrWmhQRFVRMVVSc25YRzExSlZ6U3EtMk4tWkJZN3ZRa3lENFFoTDlONGs3SUx6bjJBEgQaAggAGoIGEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQN4FCAAQABgAIAAqJQoDYWlyFYL7n0AaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEVpHeeQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyorCgdleHByZXNzFQ5hmUAaCmV4cHJlc3NpbmcaD2FpcmluZGlhZXhwcmVzcyp3Cgljb21wbGFpbnQVAAAAABoIY29tcGxhaW4aCmNvbXBsYWludHMaCWNvcnBvcmF0ZRoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoIaGVscGxpbmUaCXRlbGVwaG9uZRoOaXY7cDtjb21wbGFpbnQqHAoGbnVtYmVyFTFqzj4aBGxpbmUaB251bWJlcnMy5AEvZ290bz91cmw9Q0FFU25nRUI2enN3RmNTYXczS1oxeUVZcjctNDJzWHZNNE1zakRfSnBlWUV6ZzlrOFVRY3dEMGczZXBjWnZnd2IxMFhGOHdVNFJzamxnSS1rcjhhYmg3T1dDd1B4bkxzQUo5aFZGY3dGYjg3YktHLWtQMDZmdXpNRkpiWlZ4ZEk3NjJNZFU3akU0X3dTN3Vqb1VBWGpQVDAwcDVyek1KaXc5T2YydFRrOGtaaFBEVVExVVJzblhHMTFKVnpTcS0yTi1aQlk3dlFreUQ0UWhMOU40azdJTHpuMkE6RlNoYXJqYWggdG8gTXVtYmFpIDxiPkFpciBJbmRpYSBFeHByZXNzPC9iPiBGbGlnaHQsIENoZWFwIC4uLiAtIEdvaWJpYm9CkAFJZiB5b3UgaGFwcGVuIHRvIGZhY2UgYW55IHByb2JsZW0sIHlvdSBjb3VsZCBhbHdheXMgY2FsbCB0aGVpciA8Yj4yNFg3IGN1c3RvbWVyIGNhcmUgbnVtYmVyPC9iPiBhbmQgdGhleSB3b3VsZCBiZSBtb3JlIHRoYW4gaGFwcHkgdG8gYXNzaXN0IHlvdS4iAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "If you happen to face any problem, you could always call their 24X7 customer care number and they would be more than happy to assist you.",
+          "icon": "https://serpapi.com/images/i/UklGRmgBAABXRUJQVlA4IFwBAACQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3u1MBwANsB4rvpIagx6DvS4_7Al1vijemo2NOxEG_UJmckFDfo8h2v-MjjA5K0AD--QkQb1qh-uY5EZ4EKGSr1ZreVmjsXnpyEkOn9kZRlHmFwefsCbdpCsVVn9DcWrgpdlflHyMbfXaK_-lUUIs-QWENgEuhC_5-r_Bv_-O1bYt5cz53m8V3NW_3qGNoc_qRXQw16aI62ZHOTO3N9AaAro4ZzttjTBbszb-PxJRZ_2FVn88dKsGRdz8HdIZg_pdNOf4gFhcvtltTdOEFQEfhBZh_cmYDbep7sRyI0IpiupVz1dypz2pjFkE94Vi7xESugXgYEWULPmue3H9BDStSZM89hTUDSbJtHGNpKqUFy9zjiW0sNtdfxWSViCwHOG3KEF8Cl2CPD_7deksXcCwSjwcIKe_M78cqEnjtQAA.webp",
+          "source_info_link": "https://www.goibibo.com/international-flights/sharjah-to-mumbai-air-india-express-airline-schedule/"
+        }
+      },
+      "displayed_link": "https://www.goibibo.com › international-flights › sharja...",
+      "favicon": "https://serpapi.com/images/i/UklGRmgBAABXRUJQVlA4IFwBAACQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3u1MBwANsB4rvpIagx6DvS4_7Al1vijemo2NOxEG_UJmckFDfo8h2v-MjjA5K0AD--QkQb1qh-uY5EZ4EKGSr1ZreVmjsXnpyEkOn9kZRlHmFwefsCbdpCsVVn9DcWrgpdlflHyMbfXaK_-lUUIs-QWENgEuhC_5-r_Bv_-O1bYt5cz53m8V3NW_3qGNoc_qRXQw16aI62ZHOTO3N9AaAro4ZzttjTBbszb-PxJRZ_2FVn88dKsGRdz8HdIZg_pdNOf4gFhcvtltTdOEFQEfhBZh_cmYDbep7sRyI0IpiupVz1dypz2pjFkE94Vi7xESugXgYEWULPmue3H9BDStSZM89hTUDSbJtHGNpKqUFy9zjiW0sNtdfxWSViCwHOG3KEF8Cl2CPD_7deksXcCwSjwcIKe_M78cqEnjtQAA.webp",
+      "link": "https://www.goibibo.com/international-flights/sharjah-to-mumbai-air-india-express-airline-schedule/",
+      "position": 3,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFcSaw3KZ1yEYr7-42sXvM4MsjD_JpeYEzg9k8UQcwD0g3epcZvgwb10XF8wU4RsjlgI-kr8abh7OWCwPxnLsAJ9hVFcwFb87bKG-kP06fuzMFJbZVxdI762MdU7jE4_wS7ujoUAXjPT00p5rzMJiw9Of2tTk8kZhPDUQ1URsnXG11JVzSq-2N-ZBY7vQkyD4QhL9N4k7ILzn2A&ved=2ahUKEwj_3e-wvqKXAxWDCnkGHft3GpUQFnoECCAQAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "currency": "₹",
+            "price": 7089.0,
+            "rating": 4.8,
+            "reviews": 191089
+          },
+          "extensions": [
+            "4.8(1,91,089)",
+            "Starting from ₹7,089.00"
+          ]
+        }
+      },
+      "snippet": "If you happen to face any problem, you could always call their 24X7 customer care number and they would be more than happy to assist you.",
+      "snippet_highlighted_words": [
+        "24X7 customer care number"
+      ],
+      "source": "Goibibo",
+      "title": "Sharjah to Mumbai Air India Express Flight ..."
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZTNDJDSVhjTzhsWXY5RDl2alZmMkRVQ3U0cU5NVmFCZWF3VmFNU2lFM095bUx1LURaX0pmS3pBVmRKQVY1YjR2cU02RkJlSURjWHF3OHFuR3B1bDI1UlN4U29Ea1l0ZkkwODRaZWJudTljcTFRVzEwd3VoRF9ERXh6ZThFdEF6TFg3Z2dxRmwzd3ktTXJHZnhPLVRhLWlIWXR2UGFxU2p1Rnp6UHJVdmhjcjRHclZGODAwEgQaAggAGvwFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNgFCAAQABgAIAAqJQoDYWlyFST7i0AaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEVBbaJQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyorCgdleHByZXNzFeSwfUAaCmV4cHJlc3NpbmcaD2FpcmluZGlhZXhwcmVzcyp3Cgljb21wbGFpbnQVAAAAABoIY29tcGxhaW4aCmNvbXBsYWludHMaCWNvcnBvcmF0ZRoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoIaGVscGxpbmUaCXRlbGVwaG9uZRoOaXY7cDtjb21wbGFpbnQqHAoGbnVtYmVyFQyEyz0aBGxpbmUaB251bWJlcnMyyQEvZ290bz91cmw9Q0FFU2lnRUI2enN3RlM0MkNJWGNPOGxZdjlEOXZqVmYyRFVDdTRxTk1WYUJlYXdWYU1TaUUzT3ltTHUtRFpfSmZLekFWZEpBVjViNHZxTTZGQmVJRGNYcXc4cW5HcHVsMjVSU3hTb0RrWXRmSTA4NFplYm51OWNxMVFXMTB3dWhEX0RFeHplOEV0QXpMWDdnZ3FGbDN3eS1NckdmeE8tVGEtaUhZdHZQYXFTanVGenpQclV2aGNyNEdyVkY4MDA6QzxiPkFpciBJbmRpYSBFeHByZXNzPC9iPiBLb2xrYXRhIHRvIEphbW11IEZsaWdodCBCb29raW5nIEAg4oK5MTA0NDBCqAE8Yj5BaXIgSW5kaWEgRXhwcmVzczwvYj4gS29sa2F0YSB0byBKYW1tdSBGbGlnaHRzIEAg4oK5MTA0NDAuIENoZWNrIEtvbGthdGEgdG8gSmFtbXUgPGI-QWlyIEluZGlhIEV4cHJlc3M8L2I-IGZsaWdodCBzY2hlZHVsZXMsIGZsaWdodCBzdGF0dXMsIGFuZCBmbGlnaHQgPGI-bnVtYmVyPC9iPi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZTNDJDSVhjTzhsWXY5RDl2alZmMkRVQ3U0cU5NVmFCZWF3VmFNU2lFM095bUx1LURaX0pmS3pBVmRKQVY1YjR2cU02RkJlSURjWHF3OHFuR3B1bDI1UlN4U29Ea1l0ZkkwODRaZWJudTljcTFRVzEwd3VoRF9ERXh6ZThFdEF6TFg3Z2dxRmwzd3ktTXJHZnhPLVRhLWlIWXR2UGFxU2p1Rnp6UHJVdmhjcjRHclZGODAwEgQaAggAGvwFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNgFCAAQABgAIAAqJQoDYWlyFST7i0AaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEVBbaJQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyorCgdleHByZXNzFeSwfUAaCmV4cHJlc3NpbmcaD2FpcmluZGlhZXhwcmVzcyp3Cgljb21wbGFpbnQVAAAAABoIY29tcGxhaW4aCmNvbXBsYWludHMaCWNvcnBvcmF0ZRoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoIaGVscGxpbmUaCXRlbGVwaG9uZRoOaXY7cDtjb21wbGFpbnQqHAoGbnVtYmVyFQyEyz0aBGxpbmUaB251bWJlcnMyyQEvZ290bz91cmw9Q0FFU2lnRUI2enN3RlM0MkNJWGNPOGxZdjlEOXZqVmYyRFVDdTRxTk1WYUJlYXdWYU1TaUUzT3ltTHUtRFpfSmZLekFWZEpBVjViNHZxTTZGQmVJRGNYcXc4cW5HcHVsMjVSU3hTb0RrWXRmSTA4NFplYm51OWNxMVFXMTB3dWhEX0RFeHplOEV0QXpMWDdnZ3FGbDN3eS1NckdmeE8tVGEtaUhZdHZQYXFTanVGenpQclV2aGNyNEdyVkY4MDA6QzxiPkFpciBJbmRpYSBFeHByZXNzPC9iPiBLb2xrYXRhIHRvIEphbW11IEZsaWdodCBCb29raW5nIEAg4oK5MTA0NDBCqAE8Yj5BaXIgSW5kaWEgRXhwcmVzczwvYj4gS29sa2F0YSB0byBKYW1tdSBGbGlnaHRzIEAg4oK5MTA0NDAuIENoZWNrIEtvbGthdGEgdG8gSmFtbXUgPGI-QWlyIEluZGlhIEV4cHJlc3M8L2I-IGZsaWdodCBzY2hlZHVsZXMsIGZsaWdodCBzdGF0dXMsIGFuZCBmbGlnaHQgPGI-bnVtYmVyPC9iPi4iAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Air India Express Kolkata to Jammu Flights @ ₹10440. Check Kolkata to Jammu Air India Express flight schedules, flight status, and flight number.",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEz__v7__________________v795ufzi4z83N36ysv3sLHqAALvVVjuRknsLDDrERfrHiPwZmjxd3n5wMD71NT_9_f1m5212MRkAAAAB3RSTlMAa8f0_y7-ivxCIAAAASRJREFUeAGF0we2gyAQBVDLC_UFGGz73-kHk8NvBsc-XqUPNcZpxr-Yp3F4xUPhQ6hH730TCuiIUj66MQ5TH0zD3AfzgJt4AW3seWlp538BSz4BBBamFaA0eabNG8QkBZia9SfNXM4P3AusNMlgY8qw9QRN6pqutoItaHpQuEKEHsipvoq0b1CxzkmIpZw0LKvyzGjA0FDkuTFGAlG4Q5G6gZJKXHlE1nIPSgAMMxrYa_krU8o7jWZI-axnA8qxpI4kSVmaQEvxsWQagEncsSRuKJQOFArtD_CkBwIPFEADHEwS8ANsBwBXTzDnGZ7-J8C_WSXcG7iKjQFdYHj0QaBrYL4CpG1TbroE7Q_T9bSPNG3aXy4cvbi2cIYH-kvvfvHeLP8vw38YiFTVzyMAAAAASUVORK5CYII.png",
+          "source_info_link": "https://www.makemytrip.com/flights/kolkata-jammu-air_india_express-tickets.html"
+        }
+      },
+      "displayed_link": "https://www.makemytrip.com › flights › kolkata-jammu-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEz__v7__________________v795ufzi4z83N36ysv3sLHqAALvVVjuRknsLDDrERfrHiPwZmjxd3n5wMD71NT_9_f1m5212MRkAAAAB3RSTlMAa8f0_y7-ivxCIAAAASRJREFUeAGF0we2gyAQBVDLC_UFGGz73-kHk8NvBsc-XqUPNcZpxr-Yp3F4xUPhQ6hH730TCuiIUj66MQ5TH0zD3AfzgJt4AW3seWlp538BSz4BBBamFaA0eabNG8QkBZia9SfNXM4P3AusNMlgY8qw9QRN6pqutoItaHpQuEKEHsipvoq0b1CxzkmIpZw0LKvyzGjA0FDkuTFGAlG4Q5G6gZJKXHlE1nIPSgAMMxrYa_krU8o7jWZI-axnA8qxpI4kSVmaQEvxsWQagEncsSRuKJQOFArtD_CkBwIPFEADHEwS8ANsBwBXTzDnGZ7-J8C_WSXcG7iKjQFdYHj0QaBrYL4CpG1TbroE7Q_T9bSPNG3aXy4cvbi2cIYH-kvvfvHeLP8vw38YiFTVzyMAAAAASUVORK5CYII.png",
+      "link": "https://www.makemytrip.com/flights/kolkata-jammu-air_india_express-tickets.html",
+      "position": 4,
+      "read_more_link": "https://www.makemytrip.com/flights/kolkata-jammu-air_india_express-tickets.html#:~:text=Air%20India%20Express%20Kolkata%20to,Jammu%20with%20Air%20India%20Express.",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFS42CIXcO8lYv9D9vjVf2DUCu4qNMVaBeawVaMSiE3OymLu-DZ_JfKzAVdJAV5b4vqM6FBeIDcXqw8qnGpul25RSxSoDkYtfI084Zebnu9cq1QW10wuhD_DExze8EtAzLX7ggqFl3wy-MrGfxO-Ta-iHYtvPaqSjuFzzPrUvhcr4GrVF800&ved=2ahUKEwj_3e-wvqKXAxWDCnkGHft3GpUQFnoECBwQAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "reviews": 426008
+          },
+          "extensions": [
+            "4.9(4,26,008)"
+          ]
+        }
+      },
+      "snippet": "Air India Express Kolkata to Jammu Flights @ ₹10440. Check Kolkata to Jammu Air India Express flight schedules, flight status, and flight number.",
+      "snippet_highlighted_words": [
+        "Air India Express",
+        "Air India Express",
+        "number"
+      ],
+      "source": "MakeMyTrip",
+      "title": "Air India Express Kolkata to Jammu Flight Booking ..."
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZmMjJma1NTUE8zMUJtWjNhdVJ3YXZPcUlocjZhcWlmTUdCSzMtaE9XaFExSGJDTi1sUUk1ZlFFeC15RjVrMVZzeFV6QmtuR0tndThNXzhYYmJSSTBEX0tXYnR0Tks5cG15ejhZMjVTd2syc0toeUZ2VWxrS0w4ME9FTS02R21RT0pTMHZINzJuWGgxN1JSY0FSM1N1dWpzYnNUdUV4MFEzQlJaVC1vSkRoZVNHOE9pUWQ1N0J6TRIEGgIIABr0BRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDQBQgAEAAYACAAKiUKA2FpchU3eqVAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKicKBWluZGlhFWhtpkAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqKwoHZXhwcmVzcxUZTptAGgpleHByZXNzaW5nGg9haXJpbmRpYWV4cHJlc3MqdwoJY29tcGxhaW50FQAAAAAaCGNvbXBsYWluGgpjb21wbGFpbnRzGgljb3Jwb3JhdGUaDWN1c3RvbWVyIGNhcmUaEGN1c3RvbWVyIHNlcnZpY2UaCGhlbHBsaW5lGgl0ZWxlcGhvbmUaDml2O3A7Y29tcGxhaW50KhwKBm51bWJlchUt_L8-GgRsaW5lGgdudW1iZXJzMs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZmMjJma1NTUE8zMUJtWjNhdVJ3YXZPcUlocjZhcWlmTUdCSzMtaE9XaFExSGJDTi1sUUk1ZlFFeC15RjVrMVZzeFV6QmtuR0tndThNXzhYYmJSSTBEX0tXYnR0Tks5cG15ejhZMjVTd2syc0toeUZ2VWxrS0w4ME9FTS02R21RT0pTMHZINzJuWGgxN1JSY0FSM1N1dWpzYnNUdUV4MFEzQlJaVC1vSkRoZVNHOE9pUWQ1N0J6TTo_PGI-QWlyIEluZGlhIEV4cHJlc3M8L2I-IFZhZG9kYXJhIHRvIERpbWFwdXIgRmxpZ2h0cyBAIOKCuTEyMzE0QqABPGI-QWlyIEluZGlhIEV4cHJlc3MgVmFkb2RhcmEgdG8gRGltYXB1ciBGbGlnaHRzIEAg4oK5MTIzMTQ8L2I-LiBDaGVjayBWYWRvZGFyYSB0byBEaW1hcHVyIEFpciBJbmRpYSBFeHByZXNzIGZsaWdodCBzY2hlZHVsZXMsIGZsaWdodCBzdGF0dXMsIGFuZCBmbGlnaHQgbnVtYmVyLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZmMjJma1NTUE8zMUJtWjNhdVJ3YXZPcUlocjZhcWlmTUdCSzMtaE9XaFExSGJDTi1sUUk1ZlFFeC15RjVrMVZzeFV6QmtuR0tndThNXzhYYmJSSTBEX0tXYnR0Tks5cG15ejhZMjVTd2syc0toeUZ2VWxrS0w4ME9FTS02R21RT0pTMHZINzJuWGgxN1JSY0FSM1N1dWpzYnNUdUV4MFEzQlJaVC1vSkRoZVNHOE9pUWQ1N0J6TRIEGgIIABr0BRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDQBQgAEAAYACAAKiUKA2FpchU3eqVAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKicKBWluZGlhFWhtpkAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqKwoHZXhwcmVzcxUZTptAGgpleHByZXNzaW5nGg9haXJpbmRpYWV4cHJlc3MqdwoJY29tcGxhaW50FQAAAAAaCGNvbXBsYWluGgpjb21wbGFpbnRzGgljb3Jwb3JhdGUaDWN1c3RvbWVyIGNhcmUaEGN1c3RvbWVyIHNlcnZpY2UaCGhlbHBsaW5lGgl0ZWxlcGhvbmUaDml2O3A7Y29tcGxhaW50KhwKBm51bWJlchUt_L8-GgRsaW5lGgdudW1iZXJzMs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZmMjJma1NTUE8zMUJtWjNhdVJ3YXZPcUlocjZhcWlmTUdCSzMtaE9XaFExSGJDTi1sUUk1ZlFFeC15RjVrMVZzeFV6QmtuR0tndThNXzhYYmJSSTBEX0tXYnR0Tks5cG15ejhZMjVTd2syc0toeUZ2VWxrS0w4ME9FTS02R21RT0pTMHZINzJuWGgxN1JSY0FSM1N1dWpzYnNUdUV4MFEzQlJaVC1vSkRoZVNHOE9pUWQ1N0J6TTo_PGI-QWlyIEluZGlhIEV4cHJlc3M8L2I-IFZhZG9kYXJhIHRvIERpbWFwdXIgRmxpZ2h0cyBAIOKCuTEyMzE0QqABPGI-QWlyIEluZGlhIEV4cHJlc3MgVmFkb2RhcmEgdG8gRGltYXB1ciBGbGlnaHRzIEAg4oK5MTIzMTQ8L2I-LiBDaGVjayBWYWRvZGFyYSB0byBEaW1hcHVyIEFpciBJbmRpYSBFeHByZXNzIGZsaWdodCBzY2hlZHVsZXMsIGZsaWdodCBzdGF0dXMsIGFuZCBmbGlnaHQgbnVtYmVyLiICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Air India Express Vadodara to Dimapur Flights @ ₹12314. Check Vadodara to Dimapur Air India Express flight schedules, flight status, and flight number.",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEz__v7__________________v795ufzi4z83N36ysv3sLHqAALvVVjuRknsLDDrERfrHiPwZmjxd3n5wMD71NT_9_f1m5212MRkAAAAB3RSTlMAa8f0_y7-ivxCIAAAASRJREFUeAGF0we2gyAQBVDLC_UFGGz73-kHk8NvBsc-XqUPNcZpxr-Yp3F4xUPhQ6hH730TCuiIUj66MQ5TH0zD3AfzgJt4AW3seWlp538BSz4BBBamFaA0eabNG8QkBZia9SfNXM4P3AusNMlgY8qw9QRN6pqutoItaHpQuEKEHsipvoq0b1CxzkmIpZw0LKvyzGjA0FDkuTFGAlG4Q5G6gZJKXHlE1nIPSgAMMxrYa_krU8o7jWZI-axnA8qxpI4kSVmaQEvxsWQagEncsSRuKJQOFArtD_CkBwIPFEADHEwS8ANsBwBXTzDnGZ7-J8C_WSXcG7iKjQFdYHj0QaBrYL4CpG1TbroE7Q_T9bSPNG3aXy4cvbi2cIYH-kvvfvHeLP8vw38YiFTVzyMAAAAASUVORK5CYII.png",
+          "source_info_link": "https://www.makemytrip.com/flights/vadodara-dimapur-air_india_express-tickets.html"
+        }
+      },
+      "displayed_link": "https://www.makemytrip.com › flights › vadodara-dimap...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEz__v7__________________v795ufzi4z83N36ysv3sLHqAALvVVjuRknsLDDrERfrHiPwZmjxd3n5wMD71NT_9_f1m5212MRkAAAAB3RSTlMAa8f0_y7-ivxCIAAAASRJREFUeAGF0we2gyAQBVDLC_UFGGz73-kHk8NvBsc-XqUPNcZpxr-Yp3F4xUPhQ6hH730TCuiIUj66MQ5TH0zD3AfzgJt4AW3seWlp538BSz4BBBamFaA0eabNG8QkBZia9SfNXM4P3AusNMlgY8qw9QRN6pqutoItaHpQuEKEHsipvoq0b1CxzkmIpZw0LKvyzGjA0FDkuTFGAlG4Q5G6gZJKXHlE1nIPSgAMMxrYa_krU8o7jWZI-axnA8qxpI4kSVmaQEvxsWQagEncsSRuKJQOFArtD_CkBwIPFEADHEwS8ANsBwBXTzDnGZ7-J8C_WSXcG7iKjQFdYHj0QaBrYL4CpG1TbroE7Q_T9bSPNG3aXy4cvbi2cIYH-kvvfvHeLP8vw38YiFTVzyMAAAAASUVORK5CYII.png",
+      "link": "https://www.makemytrip.com/flights/vadodara-dimapur-air_india_express-tickets.html",
+      "position": 5,
+      "read_more_link": "https://www.makemytrip.com/flights/vadodara-dimapur-air_india_express-tickets.html#:~:text=Air%20India%20Express%20Vadodara%20to,Dimapur%20with%20Air%20India%20Express.",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEB6zswFf22fkSSPO31BmZ3auRwavOqIhr6aqifMGBK3-hOWhQ1HbCN-lQI5fQEx-yF5k1VsxUzBknGKgu8M_8XbbRI0D_KWbttNK9pmyz8Y25Swk2sKhyFvUlkKL80OEM-6GmQOJS0vH72nXh17RRcAR3SuujsbsTuEx0Q3BRZT-oJDheSG8OiQd57BzM&ved=2ahUKEwj_3e-wvqKXAxWDCnkGHft3GpUQFnoECB0QAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "reviews": 426008
+          },
+          "extensions": [
+            "4.9(4,26,008)"
+          ]
+        }
+      },
+      "snippet": "Air India Express Vadodara to Dimapur Flights @ ₹12314. Check Vadodara to Dimapur Air India Express flight schedules, flight status, and flight number.",
+      "snippet_highlighted_words": [
+        "Air India Express Vadodara to Dimapur Flights @ ₹12314"
+      ],
+      "source": "MakeMyTrip",
+      "title": "Air India Express Vadodara to Dimapur Flight Booking ..."
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZjcnRleWlmSXVESmw5Z2d3UWd0YVpSeXRfbFJTS3VBLTZjU195OFhBMFRyeGdBZjB2cnhXd1JnUEU4MmxOeFN4RFIzeFZiTUpzeHJ3THdMdVJWVTh3ZU5WSVBKVXRKLWZRQ1RXQWJLMFFXVHVPU09ONHJmNVRTeWJYcGxpeEJMczd1YnQ5Q3JNbUNDdDhaN3dXRzJTV0RzbHJVV0tfOXRteElGSFZjSko4MUVOWlJSV0hLWkVqV3g4MnRmdjVrEgQaAggAGv8FEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNsFCAAQABgAIAAqJQoDYWlyFUGni0AaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEVKPyKQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyorCgdleHByZXNzFcCKiUAaCmV4cHJlc3NpbmcaD2FpcmluZGlhZXhwcmVzcyp3Cgljb21wbGFpbnQVAAAAABoIY29tcGxhaW4aCmNvbXBsYWludHMaCWNvcnBvcmF0ZRoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoIaGVscGxpbmUaCXRlbGVwaG9uZRoOaXY7cDtjb21wbGFpbnQqHAoGbnVtYmVyFfpMDD0aBGxpbmUaB251bWJlcnMy1QEvZ290bz91cmw9Q0FFU2t3RUI2enN3RmNydGV5aWZJdURKbDlnZ3dRZ3RhWlJ5dF9sUlNLdUEtNmNTX3k4WEEwVHJ4Z0FmMHZyeFd3UmdQRTgybE54U3hEUjN4VmJNSnN4cndMd0x1UlZVOHdlTlZJUEpVdEotZlFDVFdBYkswUVdUdU9TT040cmY1VFN5YlhwbGl4QkxzN3VidDlDck1tQ0N0OFo3d1dHMlNXRHNsclVXS185dG14SUZIVmNKSjgxRU5aUlJXSEtaRWpXeDgydGZ2NWs6QERlbGhpIFRvIEJhbmdhbG9yZSA8Yj5BaXIgSW5kaWEgRXhwcmVzczwvYj4gRmxpZ2h0cyAtIEVhc2VNeVRyaXBCogFXaXRoIDI0LzcgcmVsaWFibGUgc3VwcG9ydCwgbG93ZXIgZmFyZXMsIGFpcnBvcnQgcGljay11cCBzZXJ2aWNlcyBhbmQgZmlyc3QtY2xhc3MgY3VzdG9tZXIgc2VydmljZXMsIEVhc2VNeVRyaXAgaXMgZGVmaW5pdGVseSB0aGUgZ28tdG8gcGxhdGZvcm0gZm9yIHlvdXImbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZjcnRleWlmSXVESmw5Z2d3UWd0YVpSeXRfbFJTS3VBLTZjU195OFhBMFRyeGdBZjB2cnhXd1JnUEU4MmxOeFN4RFIzeFZiTUpzeHJ3THdMdVJWVTh3ZU5WSVBKVXRKLWZRQ1RXQWJLMFFXVHVPU09ONHJmNVRTeWJYcGxpeEJMczd1YnQ5Q3JNbUNDdDhaN3dXRzJTV0RzbHJVV0tfOXRteElGSFZjSko4MUVOWlJSV0hLWkVqV3g4MnRmdjVrEgQaAggAGv8FEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNsFCAAQABgAIAAqJQoDYWlyFUGni0AaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEVKPyKQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyorCgdleHByZXNzFcCKiUAaCmV4cHJlc3NpbmcaD2FpcmluZGlhZXhwcmVzcyp3Cgljb21wbGFpbnQVAAAAABoIY29tcGxhaW4aCmNvbXBsYWludHMaCWNvcnBvcmF0ZRoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoIaGVscGxpbmUaCXRlbGVwaG9uZRoOaXY7cDtjb21wbGFpbnQqHAoGbnVtYmVyFfpMDD0aBGxpbmUaB251bWJlcnMy1QEvZ290bz91cmw9Q0FFU2t3RUI2enN3RmNydGV5aWZJdURKbDlnZ3dRZ3RhWlJ5dF9sUlNLdUEtNmNTX3k4WEEwVHJ4Z0FmMHZyeFd3UmdQRTgybE54U3hEUjN4VmJNSnN4cndMd0x1UlZVOHdlTlZJUEpVdEotZlFDVFdBYkswUVdUdU9TT040cmY1VFN5YlhwbGl4QkxzN3VidDlDck1tQ0N0OFo3d1dHMlNXRHNsclVXS185dG14SUZIVmNKSjgxRU5aUlJXSEtaRWpXeDgydGZ2NWs6QERlbGhpIFRvIEJhbmdhbG9yZSA8Yj5BaXIgSW5kaWEgRXhwcmVzczwvYj4gRmxpZ2h0cyAtIEVhc2VNeVRyaXBCogFXaXRoIDI0LzcgcmVsaWFibGUgc3VwcG9ydCwgbG93ZXIgZmFyZXMsIGFpcnBvcnQgcGljay11cCBzZXJ2aWNlcyBhbmQgZmlyc3QtY2xhc3MgY3VzdG9tZXIgc2VydmljZXMsIEVhc2VNeVRyaXAgaXMgZGVmaW5pdGVseSB0aGUgZ28tdG8gcGxhdGZvcm0gZm9yIHlvdXImbmJzcDsuLi4iAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "With 24/7 reliable support, lower fares, airport pick-up services and first-class customer services, EaseMyTrip is definitely the go-to platform for your ...",
+          "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAAAwBgCdASofABEAPtEutFooIagoGAEAGglsAJ0zM4QzZGSA5gD0_9QAHorQbmb4L_3_RCNL6tmgLlXYAP7KgBMkvzmC_NcTqPfgYbsinsFoJzEF4H4WULc1_OsK_Q02VvxnRTXNNkz2s5Ln9ambF7BBBPEbQJ_S3fjz8do1ntCsR_UvpgDzwh_2w29EcY0gkX6X6925Nh5NuAUrcMaU9Nyjvt8LJZKlLehx_e4IVLPpQVtyrwVfuySU0zJAVXmzAMESqNuBOe3bSdQgVCtk-Qbp_18U_Axg5sf07uqqMMc_8BB0OH6f-Df9kw4-ChS9LLzyO-fCFSQAAAAA.webp",
+          "source_info_link": "https://www.easemytrip.com/flights/air-india-express-tickets-delhi-del-to-bangalore-blr/"
+        }
+      },
+      "displayed_link": "https://www.easemytrip.com › Flights",
+      "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAAAwBgCdASofABEAPtEutFooIagoGAEAGglsAJ0zM4QzZGSA5gD0_9QAHorQbmb4L_3_RCNL6tmgLlXYAP7KgBMkvzmC_NcTqPfgYbsinsFoJzEF4H4WULc1_OsK_Q02VvxnRTXNNkz2s5Ln9ambF7BBBPEbQJ_S3fjz8do1ntCsR_UvpgDzwh_2w29EcY0gkX6X6925Nh5NuAUrcMaU9Nyjvt8LJZKlLehx_e4IVLPpQVtyrwVfuySU0zJAVXmzAMESqNuBOe3bSdQgVCtk-Qbp_18U_Axg5sf07uqqMMc_8BB0OH6f-Df9kw4-ChS9LLzyO-fCFSQAAAAA.webp",
+      "link": "https://www.easemytrip.com/flights/air-india-express-tickets-delhi-del-to-bangalore-blr/",
+      "position": 6,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFcrteyifIuDJl9ggwQgtaZRyt_lRSKuA-6cS_y8XA0TrxgAf0vrxWwRgPE82lNxSxDR3xVbMJsxrwLwLuRVU8weNVIPJUtJ-fQCTWAbK0QWTuOSON4rf5TSybXplixBLs7ubt9CrMmCCt8Z7wWG2SWDslrUWK_9tmxIFHVcJJ81ENZRRWHKZEjWx82tfv5k&ved=2ahUKEwj_3e-wvqKXAxWDCnkGHft3GpUQFnoECC0QAQ&uoh=1",
+      "snippet": "With 24/7 reliable support, lower fares, airport pick-up services and first-class customer services, EaseMyTrip is definitely the go-to platform for your ...",
+      "source": "EaseMyTrip",
+      "title": "Air India Express Delhi to Bangalore Flights - Book Online"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZWb0ppRmxLNTFBUEx4NzBjWGlxTmN4U1dEVlBaTmtZOWFyQkpJZm5WZHM0ZW01UE91UFVkcnUxN3pqMHEwdGhnM25VSzhiWk5VTHBMR2dEZDZkeXFLTHdkMlpWcWF2RGVNQ0N1emxBdEJFLUVFVlZpWGkyTGxNWHlNaWc0WHRlUFNpcUVLaHgtS29QNGxiSTl3b09nQnlucGxYbldkcmU5YXM3aWZkVGxuTTUxRHdtWkJaT3RocUVDbXJtVHFyM1dUajRIaVhBVmZzEgQaAggAGukFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQMUFCAAQABgAIAAqJQoDYWlyFQ4zkEAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEVbB6BQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyorCgdleHByZXNzFarqc0AaCmV4cHJlc3NpbmcaD2FpcmluZGlhZXhwcmVzcyp3Cgljb21wbGFpbnQVAAAAABoIY29tcGxhaW4aCmNvbXBsYWludHMaCWNvcnBvcmF0ZRoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoIaGVscGxpbmUaCXRlbGVwaG9uZRoOaXY7cDtjb21wbGFpbnQqHAoGbnVtYmVyFVr09D0aBGxpbmUaB251bWJlcnMy4QEvZ290bz91cmw9Q0FFU25BRUI2enN3RlZvSmlGbEs1MUFQTHg3MGNYaXFOY3hTV0RWUFpOa1k5YXJCSklmblZkczRlbTVQT3VQVWRydTE3emowcTB0aGczblVLOGJaTlVMcExHZ0RkNmR5cUtMd2QyWlZxYXZEZU1DQ3V6bEF0QkUtRUVWVmlYaTJMbE1YeU1pZzRYdGVQU2lxRUtoeC1Lb1A0bGJJOXdvT2dCeW5wbFhuV2RyZTlhczdpZmRUbG5NNTFEd21aQlpPdGhxRUNtcm1UcXIzV1RqNEhpWEFWZnM6RFRyaXZhbmRydW0gdG8gRGFtbWFtIEZsaWdodHMgLSA8Yj5BaXIgSW5kaWEgRXhwcmVzczwvYj4gLSBNYWtlTXlUcmlwQn1PLiBCb3ggMzQ3NywgRGFtbWFtIDMxNDcsIFNhdWRpIEFyYWJpYSBUZWw6IDxiPjAzIDg4MyA1MTUxPC9iPiB8IDAzIDg4MyA1MTUxfCBGYXg6IDAzIDg4MyA1MDAwLiBDb21wbGFpbnRzIENvbnRhY3QgVXMgUGF5bWVudCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZWb0ppRmxLNTFBUEx4NzBjWGlxTmN4U1dEVlBaTmtZOWFyQkpJZm5WZHM0ZW01UE91UFVkcnUxN3pqMHEwdGhnM25VSzhiWk5VTHBMR2dEZDZkeXFLTHdkMlpWcWF2RGVNQ0N1emxBdEJFLUVFVlZpWGkyTGxNWHlNaWc0WHRlUFNpcUVLaHgtS29QNGxiSTl3b09nQnlucGxYbldkcmU5YXM3aWZkVGxuTTUxRHdtWkJaT3RocUVDbXJtVHFyM1dUajRIaVhBVmZzEgQaAggAGukFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQMUFCAAQABgAIAAqJQoDYWlyFQ4zkEAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEVbB6BQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyorCgdleHByZXNzFarqc0AaCmV4cHJlc3NpbmcaD2FpcmluZGlhZXhwcmVzcyp3Cgljb21wbGFpbnQVAAAAABoIY29tcGxhaW4aCmNvbXBsYWludHMaCWNvcnBvcmF0ZRoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoIaGVscGxpbmUaCXRlbGVwaG9uZRoOaXY7cDtjb21wbGFpbnQqHAoGbnVtYmVyFVr09D0aBGxpbmUaB251bWJlcnMy4QEvZ290bz91cmw9Q0FFU25BRUI2enN3RlZvSmlGbEs1MUFQTHg3MGNYaXFOY3hTV0RWUFpOa1k5YXJCSklmblZkczRlbTVQT3VQVWRydTE3emowcTB0aGczblVLOGJaTlVMcExHZ0RkNmR5cUtMd2QyWlZxYXZEZU1DQ3V6bEF0QkUtRUVWVmlYaTJMbE1YeU1pZzRYdGVQU2lxRUtoeC1Lb1A0bGJJOXdvT2dCeW5wbFhuV2RyZTlhczdpZmRUbG5NNTFEd21aQlpPdGhxRUNtcm1UcXIzV1RqNEhpWEFWZnM6RFRyaXZhbmRydW0gdG8gRGFtbWFtIEZsaWdodHMgLSA8Yj5BaXIgSW5kaWEgRXhwcmVzczwvYj4gLSBNYWtlTXlUcmlwQn1PLiBCb3ggMzQ3NywgRGFtbWFtIDMxNDcsIFNhdWRpIEFyYWJpYSBUZWw6IDxiPjAzIDg4MyA1MTUxPC9iPiB8IDAzIDg4MyA1MTUxfCBGYXg6IDAzIDg4MyA1MDAwLiBDb21wbGFpbnRzIENvbnRhY3QgVXMgUGF5bWVudCICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "O. Box 3477, Dammam 3147, Saudi Arabia Tel: 03 883 5151 | 03 883 5151| Fax: 03 883 5000. Complaints Contact Us Payment",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEz__v7__________________v795ufzi4z83N36ysv3sLHqAALvVVjuRknsLDDrERfrHiPwZmjxd3n5wMD71NT_9_f1m5212MRkAAAAB3RSTlMAa8f0_y7-ivxCIAAAASRJREFUeAGF0we2gyAQBVDLC_UFGGz73-kHk8NvBsc-XqUPNcZpxr-Yp3F4xUPhQ6hH730TCuiIUj66MQ5TH0zD3AfzgJt4AW3seWlp538BSz4BBBamFaA0eabNG8QkBZia9SfNXM4P3AusNMlgY8qw9QRN6pqutoItaHpQuEKEHsipvoq0b1CxzkmIpZw0LKvyzGjA0FDkuTFGAlG4Q5G6gZJKXHlE1nIPSgAMMxrYa_krU8o7jWZI-axnA8qxpI4kSVmaQEvxsWQagEncsSRuKJQOFArtD_CkBwIPFEADHEwS8ANsBwBXTzDnGZ7-J8C_WSXcG7iKjQFdYHj0QaBrYL4CpG1TbroE7Q_T9bSPNG3aXy4cvbi2cIYH-kvvfvHeLP8vw38YiFTVzyMAAAAASUVORK5CYII.png",
+          "source_info_link": "https://www.makemytrip.com/international-flights/trivandrum-dammam-air_india_express-tickets.html"
+        }
+      },
+      "displayed_link": "https://www.makemytrip.com › ... › Air India Express",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEz__v7__________________v795ufzi4z83N36ysv3sLHqAALvVVjuRknsLDDrERfrHiPwZmjxd3n5wMD71NT_9_f1m5212MRkAAAAB3RSTlMAa8f0_y7-ivxCIAAAASRJREFUeAGF0we2gyAQBVDLC_UFGGz73-kHk8NvBsc-XqUPNcZpxr-Yp3F4xUPhQ6hH730TCuiIUj66MQ5TH0zD3AfzgJt4AW3seWlp538BSz4BBBamFaA0eabNG8QkBZia9SfNXM4P3AusNMlgY8qw9QRN6pqutoItaHpQuEKEHsipvoq0b1CxzkmIpZw0LKvyzGjA0FDkuTFGAlG4Q5G6gZJKXHlE1nIPSgAMMxrYa_krU8o7jWZI-axnA8qxpI4kSVmaQEvxsWQagEncsSRuKJQOFArtD_CkBwIPFEADHEwS8ANsBwBXTzDnGZ7-J8C_WSXcG7iKjQFdYHj0QaBrYL4CpG1TbroE7Q_T9bSPNG3aXy4cvbi2cIYH-kvvfvHeLP8vw38YiFTVzyMAAAAASUVORK5CYII.png",
+      "link": "https://www.makemytrip.com/international-flights/trivandrum-dammam-air_india_express-tickets.html",
+      "position": 7,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFVoJiFlK51APLx70cXiqNcxSWDVPZNkY9arBJIfnVds4em5POuPUdru17zj0q0thg3nUK8bZNULpLGgDd6dyqKLwd2ZVqavDeMCCuzlAtBE-EEVViXi2LlMXyMig4XtePSiqEKhx-KoP4lbI9woOgBynplXnWdre9as7ifdTlnM51DwmZBZOthqECmrmTqr3WTj4HiXAVfs&ved=2ahUKEwj_3e-wvqKXAxWDCnkGHft3GpUQFnoECB4QAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "currency": "₹",
+            "price": 17653.0,
+            "rating": 4.9,
+            "reviews": 426008
+          },
+          "extensions": [
+            "4.9(4,26,008)",
+            "Starting from ₹17,653.00"
+          ]
+        }
+      },
+      "snippet": "O. Box 3477, Dammam 3147, Saudi Arabia Tel: 03 883 5151 | 03 883 5151| Fax: 03 883 5000. Complaints Contact Us Payment",
+      "snippet_highlighted_words": [
+        "03 883 5151"
+      ],
+      "source": "MakeMyTrip",
+      "title": "Trivandrum to Dammam Flights - Air India Express"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZlZ291TmlwZWw1V2xLQnEyUS11YzAyOURUaUJaTUJvREY0TUhiN2lPSXZlWHJEeFFqTnVPaS1sMVo5QlNDOU9PUlM5aldMeVdpUG1VaVotelVqeU43d2hOQTVKcDE2dWNxdnlnS0FJMVh2VkxjRDlCVm51Q2VtcEsyS2JNSzZyUVlCTG9fSFhOVVhuLWtUUUd5aWtvbVR1U21HU25OeGdoS09PcEhJOG9fWkRtMVo2SXU1MVA2YVAtanBHckVnbBIEGgIIABqCBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDeBQgAEAAYACAAKiUKA2FpchVOWI1AGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKicKBWluZGlhFZwWjEAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqKwoHZXhwcmVzcxVyMYpAGgpleHByZXNzaW5nGg9haXJpbmRpYWV4cHJlc3MqdwoJY29tcGxhaW50FQAAAAAaCGNvbXBsYWluGgpjb21wbGFpbnRzGgljb3Jwb3JhdGUaDWN1c3RvbWVyIGNhcmUaEGN1c3RvbWVyIHNlcnZpY2UaCGhlbHBsaW5lGgl0ZWxlcGhvbmUaDml2O3A7Y29tcGxhaW50KhwKBm51bWJlchUb-1o9GgRsaW5lGgdudW1iZXJzMtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZlZ291TmlwZWw1V2xLQnEyUS11YzAyOURUaUJaTUJvREY0TUhiN2lPSXZlWHJEeFFqTnVPaS1sMVo5QlNDOU9PUlM5aldMeVdpUG1VaVotelVqeU43d2hOQTVKcDE2dWNxdnlnS0FJMVh2VkxjRDlCVm51Q2VtcEsyS2JNSzZyUVlCTG9fSFhOVVhuLWtUUUd5aWtvbVR1U21HU25OeGdoS09PcEhJOG9fWkRtMVo2SXU1MVA2YVAtanBHckVnbDpCPGI-QWlyIEluZGlhIEV4cHJlc3M8L2I-IEtvemhpa29kZSB0byBSaXlhZGggRmxpZ2h0cyAtIEJvb2sgT25saW5lQqIBV2l0aCAyNC83IHJlbGlhYmxlIHN1cHBvcnQsIGxvd2VyIGZhcmVzLCBhaXJwb3J0IHBpY2stdXAgc2VydmljZXMgYW5kIGZpcnN0LWNsYXNzIGN1c3RvbWVyIHNlcnZpY2VzLCBFYXNlTXlUcmlwIGlzIGRlZmluaXRlbHkgdGhlIGdvLXRvIHBsYXRmb3JtIGZvciB5b3VyJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZlZ291TmlwZWw1V2xLQnEyUS11YzAyOURUaUJaTUJvREY0TUhiN2lPSXZlWHJEeFFqTnVPaS1sMVo5QlNDOU9PUlM5aldMeVdpUG1VaVotelVqeU43d2hOQTVKcDE2dWNxdnlnS0FJMVh2VkxjRDlCVm51Q2VtcEsyS2JNSzZyUVlCTG9fSFhOVVhuLWtUUUd5aWtvbVR1U21HU25OeGdoS09PcEhJOG9fWkRtMVo2SXU1MVA2YVAtanBHckVnbBIEGgIIABqCBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDeBQgAEAAYACAAKiUKA2FpchVOWI1AGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKicKBWluZGlhFZwWjEAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqKwoHZXhwcmVzcxVyMYpAGgpleHByZXNzaW5nGg9haXJpbmRpYWV4cHJlc3MqdwoJY29tcGxhaW50FQAAAAAaCGNvbXBsYWluGgpjb21wbGFpbnRzGgljb3Jwb3JhdGUaDWN1c3RvbWVyIGNhcmUaEGN1c3RvbWVyIHNlcnZpY2UaCGhlbHBsaW5lGgl0ZWxlcGhvbmUaDml2O3A7Y29tcGxhaW50KhwKBm51bWJlchUb-1o9GgRsaW5lGgdudW1iZXJzMtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZlZ291TmlwZWw1V2xLQnEyUS11YzAyOURUaUJaTUJvREY0TUhiN2lPSXZlWHJEeFFqTnVPaS1sMVo5QlNDOU9PUlM5aldMeVdpUG1VaVotelVqeU43d2hOQTVKcDE2dWNxdnlnS0FJMVh2VkxjRDlCVm51Q2VtcEsyS2JNSzZyUVlCTG9fSFhOVVhuLWtUUUd5aWtvbVR1U21HU25OeGdoS09PcEhJOG9fWkRtMVo2SXU1MVA2YVAtanBHckVnbDpCPGI-QWlyIEluZGlhIEV4cHJlc3M8L2I-IEtvemhpa29kZSB0byBSaXlhZGggRmxpZ2h0cyAtIEJvb2sgT25saW5lQqIBV2l0aCAyNC83IHJlbGlhYmxlIHN1cHBvcnQsIGxvd2VyIGZhcmVzLCBhaXJwb3J0IHBpY2stdXAgc2VydmljZXMgYW5kIGZpcnN0LWNsYXNzIGN1c3RvbWVyIHNlcnZpY2VzLCBFYXNlTXlUcmlwIGlzIGRlZmluaXRlbHkgdGhlIGdvLXRvIHBsYXRmb3JtIGZvciB5b3VyJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "With 24/7 reliable support, lower fares, airport pick-up services and first-class customer services, EaseMyTrip is definitely the go-to platform for your ...",
+          "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAAAwBgCdASofABEAPtEutFooIagoGAEAGglsAJ0zM4QzZGSA5gD0_9QAHorQbmb4L_3_RCNL6tmgLlXYAP7KgBMkvzmC_NcTqPfgYbsinsFoJzEF4H4WULc1_OsK_Q02VvxnRTXNNkz2s5Ln9ambF7BBBPEbQJ_S3fjz8do1ntCsR_UvpgDzwh_2w29EcY0gkX6X6925Nh5NuAUrcMaU9Nyjvt8LJZKlLehx_e4IVLPpQVtyrwVfuySU0zJAVXmzAMESqNuBOe3bSdQgVCtk-Qbp_18U_Axg5sf07uqqMMc_8BB0OH6f-Df9kw4-ChS9LLzyO-fCFSQAAAAA.webp",
+          "source_info_link": "https://www.easemytrip.com/flights/air-india-express-tickets-kozhikode-ccj-to-riyadh-ruh/"
+        }
+      },
+      "displayed_link": "https://www.easemytrip.com › Flights",
+      "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAAAwBgCdASofABEAPtEutFooIagoGAEAGglsAJ0zM4QzZGSA5gD0_9QAHorQbmb4L_3_RCNL6tmgLlXYAP7KgBMkvzmC_NcTqPfgYbsinsFoJzEF4H4WULc1_OsK_Q02VvxnRTXNNkz2s5Ln9ambF7BBBPEbQJ_S3fjz8do1ntCsR_UvpgDzwh_2w29EcY0gkX6X6925Nh5NuAUrcMaU9Nyjvt8LJZKlLehx_e4IVLPpQVtyrwVfuySU0zJAVXmzAMESqNuBOe3bSdQgVCtk-Qbp_18U_Axg5sf07uqqMMc_8BB0OH6f-Df9kw4-ChS9LLzyO-fCFSQAAAAA.webp",
+      "link": "https://www.easemytrip.com/flights/air-india-express-tickets-kozhikode-ccj-to-riyadh-ruh/",
+      "position": 8,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAEB6zswFegouNipel5WlKBq2Q-uc029DTiBZMBoDF4MHb7iOIveXrDxQjNuOi-l1Z9BSC9OORS9jWLyWiPmUiZ-zUjyN7whNA5Jp16ucqvygKAI1XvVLcD9BVnuCempK2KbMK6rQYBLo_HXNUXn-kTQGyikomTuSmGSnNxghKOOpHI8o_ZDm1Z6Iu51P6aP-jpGrEgl&ved=2ahUKEwj_3e-wvqKXAxWDCnkGHft3GpUQFnoECEsQAQ&uoh=1",
+      "snippet": "With 24/7 reliable support, lower fares, airport pick-up services and first-class customer services, EaseMyTrip is definitely the go-to platform for your ...",
+      "source": "EaseMyTrip",
+      "title": "Air India Express Kozhikode to Riyadh Flights - Book Online"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZjUDVta0NxMDlPUUpCckl6X0FOTWItWUdSVmRaQ0gxNVJmX09DU3NDdElKZTZGd2stUDlMLTBrMFBNVXVES3dHUG9MMUhwdXBnWXlTMkxKYzZNZHJXLTlKd3piSG1SUzN1MWMzLWJ5UFJ3bHhDRlZkWURjMDFUMmprZVhEMVZaemxsWW1ISEJGbHVrWXZyOUI2UUhLdXEza1N4REdOcGl4cUc3OXgtNWY4NTBpcU1fV2xxbUlmdnhmVTdJQldwS2EzZHQ0UE0SBBoCCAAa6QYSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAxQYIABAAGAAgAColCgNhaXIVfaeDQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyonCgVpbmRpYRXw73pAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKisKB2V4cHJlc3MV4o11QBoKZXhwcmVzc2luZxoPYWlyaW5kaWFleHByZXNzKncKCWNvbXBsYWludBUAAAAAGghjb21wbGFpbhoKY29tcGxhaW50cxoJY29ycG9yYXRlGg1jdXN0b21lciBjYXJlGhBjdXN0b21lciBzZXJ2aWNlGghoZWxwbGluZRoJdGVsZXBob25lGg5pdjtwO2NvbXBsYWludCocCgZudW1iZXIVIfK1PRoEbGluZRoHbnVtYmVyczLdAS9nb3RvP3VybD1DQUVTbVFFQjZ6c3dGY1A1bWtDcTA5T1FKQnJJel9BTk1iLVlHUlZkWkNIMTVSZl9PQ1NzQ3RJSmU2RndrLVA5TC0wazBQTVV1REt3R1BvTDFIcHVwZ1l5UzJMSmM2TWRyVy05Snd6YkhtUlMzdTFjMy1ieVBSd2x4Q0ZWZFlEYzAxVDJqa2VYRDFWWnpsbFltSEhCRmx1a1l2cjlCNlFIS3VxM2tTeERHTnBpeHFHNzl4LTVmODUwaXFNX1dscW1JZnZ4ZlU3SUJXcEthM2R0NFBNOkFCYWdkb2dyYSB0byBEdWJhaSBGbGlnaHRzIC0gPGI-QWlyIEluZGlhIEV4cHJlc3M8L2I-IC0gTWFrZU15VHJpcEKDAi4uLiA8Yj5Db3Jwb3JhdGU8L2I-IFRyYXZlbCAmbWlkZG90OyBUcmF2ZWwgR3VpZGUgJm1pZGRvdDsgRXhwbG9yZSA8Yj5JbmRpYTwvYj4gJm1pZGRvdDsgTWFrZU15VHJpcCBDb3Vwb25zICZtaWRkb3Q7IEZBUXMgJm1pZGRvdDsgU2l0ZSBNYXAgJm1pZGRvdDsgPGI-Q29tcGxhaW50czwvYj4gJm1pZGRvdDsgQ29udGFjdCBVcyAmbWlkZG90OyBQYXltZW50IFNlY3VyaXR5ICZtaWRkb3Q7IFByaXZhY3kgUG9saWN5ICZtaWRkb3Q7IFZpc2EmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZjUDVta0NxMDlPUUpCckl6X0FOTWItWUdSVmRaQ0gxNVJmX09DU3NDdElKZTZGd2stUDlMLTBrMFBNVXVES3dHUG9MMUhwdXBnWXlTMkxKYzZNZHJXLTlKd3piSG1SUzN1MWMzLWJ5UFJ3bHhDRlZkWURjMDFUMmprZVhEMVZaemxsWW1ISEJGbHVrWXZyOUI2UUhLdXEza1N4REdOcGl4cUc3OXgtNWY4NTBpcU1fV2xxbUlmdnhmVTdJQldwS2EzZHQ0UE0SBBoCCAAa6QYSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAxQYIABAAGAAgAColCgNhaXIVfaeDQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyonCgVpbmRpYRXw73pAGghhaXJpbmRpYRoPYWlyaW5kaWFleHByZXNzKisKB2V4cHJlc3MV4o11QBoKZXhwcmVzc2luZxoPYWlyaW5kaWFleHByZXNzKncKCWNvbXBsYWludBUAAAAAGghjb21wbGFpbhoKY29tcGxhaW50cxoJY29ycG9yYXRlGg1jdXN0b21lciBjYXJlGhBjdXN0b21lciBzZXJ2aWNlGghoZWxwbGluZRoJdGVsZXBob25lGg5pdjtwO2NvbXBsYWludCocCgZudW1iZXIVIfK1PRoEbGluZRoHbnVtYmVyczLdAS9nb3RvP3VybD1DQUVTbVFFQjZ6c3dGY1A1bWtDcTA5T1FKQnJJel9BTk1iLVlHUlZkWkNIMTVSZl9PQ1NzQ3RJSmU2RndrLVA5TC0wazBQTVV1REt3R1BvTDFIcHVwZ1l5UzJMSmM2TWRyVy05Snd6YkhtUlMzdTFjMy1ieVBSd2x4Q0ZWZFlEYzAxVDJqa2VYRDFWWnpsbFltSEhCRmx1a1l2cjlCNlFIS3VxM2tTeERHTnBpeHFHNzl4LTVmODUwaXFNX1dscW1JZnZ4ZlU3SUJXcEthM2R0NFBNOkFCYWdkb2dyYSB0byBEdWJhaSBGbGlnaHRzIC0gPGI-QWlyIEluZGlhIEV4cHJlc3M8L2I-IC0gTWFrZU15VHJpcEKDAi4uLiA8Yj5Db3Jwb3JhdGU8L2I-IFRyYXZlbCAmbWlkZG90OyBUcmF2ZWwgR3VpZGUgJm1pZGRvdDsgRXhwbG9yZSA8Yj5JbmRpYTwvYj4gJm1pZGRvdDsgTWFrZU15VHJpcCBDb3Vwb25zICZtaWRkb3Q7IEZBUXMgJm1pZGRvdDsgU2l0ZSBNYXAgJm1pZGRvdDsgPGI-Q29tcGxhaW50czwvYj4gJm1pZGRvdDsgQ29udGFjdCBVcyAmbWlkZG90OyBQYXltZW50IFNlY3VyaXR5ICZtaWRkb3Q7IFByaXZhY3kgUG9saWN5ICZtaWRkb3Q7IFZpc2EmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "... Corporate Travel · Travel Guide · Explore India · MakeMyTrip Coupons · FAQs · Site Map · Complaints · Contact Us · Payment Security · Privacy Policy · Visa ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEz__v7__________________v795ufzi4z83N36ysv3sLHqAALvVVjuRknsLDDrERfrHiPwZmjxd3n5wMD71NT_9_f1m5212MRkAAAAB3RSTlMAa8f0_y7-ivxCIAAAASRJREFUeAGF0we2gyAQBVDLC_UFGGz73-kHk8NvBsc-XqUPNcZpxr-Yp3F4xUPhQ6hH730TCuiIUj66MQ5TH0zD3AfzgJt4AW3seWlp538BSz4BBBamFaA0eabNG8QkBZia9SfNXM4P3AusNMlgY8qw9QRN6pqutoItaHpQuEKEHsipvoq0b1CxzkmIpZw0LKvyzGjA0FDkuTFGAlG4Q5G6gZJKXHlE1nIPSgAMMxrYa_krU8o7jWZI-axnA8qxpI4kSVmaQEvxsWQagEncsSRuKJQOFArtD_CkBwIPFEADHEwS8ANsBwBXTzDnGZ7-J8C_WSXcG7iKjQFdYHj0QaBrYL4CpG1TbroE7Q_T9bSPNG3aXy4cvbi2cIYH-kvvfvHeLP8vw38YiFTVzyMAAAAASUVORK5CYII.png",
+          "source_info_link": "https://www.makemytrip.com/international-flights/bagdogra-dubai-air_india_express-tickets.html"
+        }
+      },
+      "displayed_link": "https://www.makemytrip.com › ... › Air India Express",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEz__v7__________________v795ufzi4z83N36ysv3sLHqAALvVVjuRknsLDDrERfrHiPwZmjxd3n5wMD71NT_9_f1m5212MRkAAAAB3RSTlMAa8f0_y7-ivxCIAAAASRJREFUeAGF0we2gyAQBVDLC_UFGGz73-kHk8NvBsc-XqUPNcZpxr-Yp3F4xUPhQ6hH730TCuiIUj66MQ5TH0zD3AfzgJt4AW3seWlp538BSz4BBBamFaA0eabNG8QkBZia9SfNXM4P3AusNMlgY8qw9QRN6pqutoItaHpQuEKEHsipvoq0b1CxzkmIpZw0LKvyzGjA0FDkuTFGAlG4Q5G6gZJKXHlE1nIPSgAMMxrYa_krU8o7jWZI-axnA8qxpI4kSVmaQEvxsWQagEncsSRuKJQOFArtD_CkBwIPFEADHEwS8ANsBwBXTzDnGZ7-J8C_WSXcG7iKjQFdYHj0QaBrYL4CpG1TbroE7Q_T9bSPNG3aXy4cvbi2cIYH-kvvfvHeLP8vw38YiFTVzyMAAAAASUVORK5CYII.png",
+      "link": "https://www.makemytrip.com/international-flights/bagdogra-dubai-air_india_express-tickets.html",
+      "position": 9,
+      "read_more_link": "https://www.makemytrip.com/international-flights/bagdogra-dubai-air_india_express-tickets.html#:~:text=International%20Routes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFcP5mkCq09OQJBrIz_ANMb-YGRVdZCH15Rf_OCSsCtIJe6Fwk-P9L-0k0PMUuDKwGPoL1HpupgYyS2LJc6MdrW-9JwzbHmRS3u1c3-byPRwlxCFVdYDc01T2jkeXD1VZzllYmHHBFlukYvr9B6QHKuq3kSxDGNpixqG79x-5f850iqM_WlqmIfvxfU7IBWpKa3dt4PM&ved=2ahUKEwj_3e-wvqKXAxWDCnkGHft3GpUQFnoECEwQAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "currency": "₹",
+            "price": 13995.0,
+            "rating": 4.9,
+            "reviews": 426008
+          },
+          "extensions": [
+            "4.9(4,26,008)",
+            "Starting from ₹13,995.00"
+          ]
+        }
+      },
+      "snippet": "... Corporate Travel · Travel Guide · Explore India · MakeMyTrip Coupons · FAQs · Site Map · Complaints · Contact Us · Payment Security · Privacy Policy · Visa ...",
+      "snippet_highlighted_words": [
+        "Corporate",
+        "India",
+        "Complaints"
+      ],
+      "source": "MakeMyTrip",
+      "title": "Bagdogra to Dubai Flights - Air India Express"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZaQXFteWY3alduTXBHMkZ6N2xEaWV5Mmt0MkRqb3huX1VvYXlwd2NrVlF6QmRUakpaZUdyWURjSkpXQU5mdzVjQlNSQXNUbVZXUHlvN2pSU0lVWUJOMGVUQi1EaTZNZVJtN3M1dmNlSTI5RUZpZ0plTldIWGxDNTZUdUhEUENSSllnUHdMNEFMWkMwaGZYSFplcUExY2REaThVUUQwaVBaZWo3MjVtOWVNeEF5MnJRT2doOUVnEgQaAggAGvcFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNMFCAAQABgAIAAqJQoDYWlyFXeDtEAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEVrqOzQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyorCgdleHByZXNzFUlYqUAaCmV4cHJlc3NpbmcaD2FpcmluZGlhZXhwcmVzcyp3Cgljb21wbGFpbnQVAAAAABoIY29tcGxhaW4aCmNvbXBsYWludHMaCWNvcnBvcmF0ZRoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoIaGVscGxpbmUaCXRlbGVwaG9uZRoOaXY7cDtjb21wbGFpbnQqHAoGbnVtYmVyFX5-5T4aBGxpbmUaB251bWJlcnMyzAEvZ290bz91cmw9Q0FFU2pBRUI2enN3RlpBcW15ZjdqV25NcEcyRno3bERpZXkya3QyRGpveG5fVW9heXB3Y2tWUXpCZFRqSlplR3JZRGNKSldBTmZ3NWNCU1JBc1RtVldQeW83alJTSVVZQk4wZVRCLURpNk1lUm03czV2Y2VJMjlFRmlnSmVOV0hYbEM1NlR1SERQQ1JKWWdQd0w0QUxaQzBoZlhIWmVxQTFjZERpOFVRRDBpUFplajcyNW05ZU14QXkyclFPZ2g5RWc6RTxiPkFpciBJbmRpYSBFeHByZXNzPC9iPiBTcmluYWdhciB0byBTaGlyZGkgRmxpZ2h0IEJvb2tpbmcgQCDigrkxMDc1OUKeATxiPkFpciBJbmRpYSBFeHByZXNzIFNyaW5hZ2FyIHRvIFNoaXJkaSBGbGlnaHRzIEAg4oK5MTA3NTk8L2I-LiBDaGVjayBTcmluYWdhciB0byBTaGlyZGkgQWlyIEluZGlhIEV4cHJlc3MgZmxpZ2h0IHNjaGVkdWxlcywgZmxpZ2h0IHN0YXR1cywgYW5kIGZsaWdodCBudW1iZXIuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZaQXFteWY3alduTXBHMkZ6N2xEaWV5Mmt0MkRqb3huX1VvYXlwd2NrVlF6QmRUakpaZUdyWURjSkpXQU5mdzVjQlNSQXNUbVZXUHlvN2pSU0lVWUJOMGVUQi1EaTZNZVJtN3M1dmNlSTI5RUZpZ0plTldIWGxDNTZUdUhEUENSSllnUHdMNEFMWkMwaGZYSFplcUExY2REaThVUUQwaVBaZWo3MjVtOWVNeEF5MnJRT2doOUVnEgQaAggAGvcFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNMFCAAQABgAIAAqJQoDYWlyFXeDtEAaCGFpcmluZGlhGg9haXJpbmRpYWV4cHJlc3MqJwoFaW5kaWEVrqOzQBoIYWlyaW5kaWEaD2FpcmluZGlhZXhwcmVzcyorCgdleHByZXNzFUlYqUAaCmV4cHJlc3NpbmcaD2FpcmluZGlhZXhwcmVzcyp3Cgljb21wbGFpbnQVAAAAABoIY29tcGxhaW4aCmNvbXBsYWludHMaCWNvcnBvcmF0ZRoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoIaGVscGxpbmUaCXRlbGVwaG9uZRoOaXY7cDtjb21wbGFpbnQqHAoGbnVtYmVyFX5-5T4aBGxpbmUaB251bWJlcnMyzAEvZ290bz91cmw9Q0FFU2pBRUI2enN3RlpBcW15ZjdqV25NcEcyRno3bERpZXkya3QyRGpveG5fVW9heXB3Y2tWUXpCZFRqSlplR3JZRGNKSldBTmZ3NWNCU1JBc1RtVldQeW83alJTSVVZQk4wZVRCLURpNk1lUm03czV2Y2VJMjlFRmlnSmVOV0hYbEM1NlR1SERQQ1JKWWdQd0w0QUxaQzBoZlhIWmVxQTFjZERpOFVRRDBpUFplajcyNW05ZU14QXkyclFPZ2g5RWc6RTxiPkFpciBJbmRpYSBFeHByZXNzPC9iPiBTcmluYWdhciB0byBTaGlyZGkgRmxpZ2h0IEJvb2tpbmcgQCDigrkxMDc1OUKeATxiPkFpciBJbmRpYSBFeHByZXNzIFNyaW5hZ2FyIHRvIFNoaXJkaSBGbGlnaHRzIEAg4oK5MTA3NTk8L2I-LiBDaGVjayBTcmluYWdhciB0byBTaGlyZGkgQWlyIEluZGlhIEV4cHJlc3MgZmxpZ2h0IHNjaGVkdWxlcywgZmxpZ2h0IHN0YXR1cywgYW5kIGZsaWdodCBudW1iZXIuIgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Air India Express Srinagar to Shirdi Flights @ ₹10759. Check Srinagar to Shirdi Air India Express flight schedules, flight status, and flight number.",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEz__v7__________________v795ufzi4z83N36ysv3sLHqAALvVVjuRknsLDDrERfrHiPwZmjxd3n5wMD71NT_9_f1m5212MRkAAAAB3RSTlMAa8f0_y7-ivxCIAAAASRJREFUeAGF0we2gyAQBVDLC_UFGGz73-kHk8NvBsc-XqUPNcZpxr-Yp3F4xUPhQ6hH730TCuiIUj66MQ5TH0zD3AfzgJt4AW3seWlp538BSz4BBBamFaA0eabNG8QkBZia9SfNXM4P3AusNMlgY8qw9QRN6pqutoItaHpQuEKEHsipvoq0b1CxzkmIpZw0LKvyzGjA0FDkuTFGAlG4Q5G6gZJKXHlE1nIPSgAMMxrYa_krU8o7jWZI-axnA8qxpI4kSVmaQEvxsWQagEncsSRuKJQOFArtD_CkBwIPFEADHEwS8ANsBwBXTzDnGZ7-J8C_WSXcG7iKjQFdYHj0QaBrYL4CpG1TbroE7Q_T9bSPNG3aXy4cvbi2cIYH-kvvfvHeLP8vw38YiFTVzyMAAAAASUVORK5CYII.png",
+          "source_info_link": "https://www.makemytrip.com/flights/srinagar-shirdi-air_india_express-tickets.html"
+        }
+      },
+      "displayed_link": "https://www.makemytrip.com › flights › srinagar-shirdi-a...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEz__v7__________________v795ufzi4z83N36ysv3sLHqAALvVVjuRknsLDDrERfrHiPwZmjxd3n5wMD71NT_9_f1m5212MRkAAAAB3RSTlMAa8f0_y7-ivxCIAAAASRJREFUeAGF0we2gyAQBVDLC_UFGGz73-kHk8NvBsc-XqUPNcZpxr-Yp3F4xUPhQ6hH730TCuiIUj66MQ5TH0zD3AfzgJt4AW3seWlp538BSz4BBBamFaA0eabNG8QkBZia9SfNXM4P3AusNMlgY8qw9QRN6pqutoItaHpQuEKEHsipvoq0b1CxzkmIpZw0LKvyzGjA0FDkuTFGAlG4Q5G6gZJKXHlE1nIPSgAMMxrYa_krU8o7jWZI-axnA8qxpI4kSVmaQEvxsWQagEncsSRuKJQOFArtD_CkBwIPFEADHEwS8ANsBwBXTzDnGZ7-J8C_WSXcG7iKjQFdYHj0QaBrYL4CpG1TbroE7Q_T9bSPNG3aXy4cvbi2cIYH-kvvfvHeLP8vw38YiFTVzyMAAAAASUVORK5CYII.png",
+      "link": "https://www.makemytrip.com/flights/srinagar-shirdi-air_india_express-tickets.html",
+      "position": 10,
+      "read_more_link": "https://www.makemytrip.com/flights/srinagar-shirdi-air_india_express-tickets.html#:~:text=Air%20India%20Express%20Srinagar%20to,Shirdi%20with%20Air%20India%20Express.",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFZAqmyf7jWnMpG2Fz7lDiey2kt2Djoxn_UoaypwckVQzBdTjJZeGrYDcJJWANfw5cBSRAsTmVWPyo7jRSIUYBN0eTB-Di6MeRm7s5vceI29EFigJeNWHXlC56TuHDPCRJYgPwL4ALZC0hfXHZeqA1cdDi8UQD0iPZej725m9eMxAy2rQOgh9Eg&ved=2ahUKEwj_3e-wvqKXAxWDCnkGHft3GpUQFnoECEkQAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "reviews": 426008
+          },
+          "extensions": [
+            "4.9(4,26,008)"
+          ]
+        }
+      },
+      "snippet": "Air India Express Srinagar to Shirdi Flights @ ₹10759. Check Srinagar to Shirdi Air India Express flight schedules, flight status, and flight number.",
+      "snippet_highlighted_words": [
+        "Air India Express Srinagar to Shirdi Flights @ ₹10759"
+      ],
+      "source": "MakeMyTrip",
+      "title": "Air India Express Srinagar to Shirdi Flight Booking ..."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Air+India+Express+complaint+number&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQntldliOl6TkLLbkvpOcxDyaRJTTbA:1791189906622&ei=kmPDav_MJYOV5OMP--_pqAk&start=10&sa=N&sstk=AS6-VmIyc9lvr8nWm417o8sLp_Tf9CRVeJsR-dLFlGPAPq57e5nvsmydUIzdgcLZ3u_TXK_WXCThel05J-9xE-ZeYb9LWL2NtrdyQQ&ved=2ahUKEwj_3e-wvqKXAxWDCnkGHft3GpUQ8NMDegQIQxAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Air+India+Express+complaint+number&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQntldliOl6TkLLbkvpOcxDyaRJTTbA:1791189906622&ei=kmPDav_MJYOV5OMP--_pqAk&start=10&sa=N&sstk=AS6-VmIyc9lvr8nWm417o8sLp_Tf9CRVeJsR-dLFlGPAPq57e5nvsmydUIzdgcLZ3u_TXK_WXCThel05J-9xE-ZeYb9LWL2NtrdyQQ&ved=2ahUKEwj_3e-wvqKXAxWDCnkGHft3GpUQ8tMDegQIQxAE"
+    }
+  },
+  "related_questions": [
+    {
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05tMHRibEpRUkhKRk1GbGpRbVpIV1VoblpWOWtSVWh3UmxGTVZGUlRkak14YWxGTlRHeFNkSGRXYUdzd1VIQjBaalp5YTFNNFJFTkNUVkZhUm1WQmMyUXdXbTFGYldSSGREQkpPVzgxVEhaeWRHNXZWbFoyZWxGdWR4SVhhMjFRUkdGMlgwMUtXVTlXTlU5TlVDMHRYM0J4UVdzYUlrRkVjM0k1WmxSd2FtUnRNREpGVEUxblMwbHNja3RXV0hsNlpsQmpXRGRqUlhjIiwiZmN2IjoiMyIsImVpIjoia21QRGF2X01KWU9WNU9NUC0tX3BxQWsiLCJxYyI6IkNpSmhhWElnYVc1a2FXRWdaWGh3Y21WemN5QmpiMjF3YkdGcGJuUWdiblZ0WW1WeUVBQjlHRXM2UHciLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBmaWxlIGEgY29tcGxhaW50IHdpdGggQWlyIEluZGlhIEV4cHJlc3M/IiwibGsiOiJHaHhqYjIxd2JHRnBiblJ6SUdGcGNpQnBibVJwWVNCbGVIQnlaWE56IiwiYnMiOiJjNFdRejBzRE1SQ0Y2VFVuejB1UkI5S0RMWG9JUmJ3dFBTajJMaFNQWXpwcGdrMW1TYkxVczMtNTZROWFaQXVlWm1BLXZuazg5YTcwbS14Z0tHSUo2N2NNZ3BIUWJjbkhncDB2RGd1ZnNJeHJUM2o1N2hMbjNPcmJabnlHTXFnQ19nRHdFVkFmYXJxM0ZrR2dyNzlLMnRTUnk4WGE2bGx6N182aHp5X1V6MGk5cmh3Vi1JemlHSHItNEtSUE1IMHVFcmd1bEJpeEQ1OTF0NUtHOFNIV2VzT3RmbTZlQnRGUHg2ckZYcHV2ZXRWS1BWNWEyM0ROaDhTMmoydllKT0ZhWTVQbTdrUjBTY3p4MGJDNG05RXYiLCJpZCI6ImZjX2ttUERhdl9NSllPVjVPTVAtLV9wcUFrXzUifQ==",
+      "page_token": "gl1cRnicHdBfbpswAIBx9TJ9bOykdGqkaBIJBtLgKv4b_DIZOyQkBlxAJeWtV9gZdqqdpt0u8P2k7_OPq5rr37vf52Hw_XI2G8fx4dS2J3d8MG090_1HY2ZGO1doc10-_XiCP0uzit5NuO5MuOfeiw0BlEMtEKlMgyO6OSOS-FhD5Vn9_KIuaqsataYwXdC53eHJJho4zOI-ECgdJCdvZP4Y6MTuJMPOxNvbUVisIsJINOiCjyDb4FYyEwiIdQ5UTKVlBboG-EI6nYiGJ-14RHirgagtcHFWe1BAMvEDamkknEIopXMhXyWuScOBrmAoGlfJGPU6ca96HvjDdL0JFu6-vUcrVZ8JkmSN65hLR5x4YZ3KNdt20dl2hQij_KBKxr1iMIcMwP2OwtIkKNS3ttpzMpmLq_lFsaPgtwzidf6vHY8LKdWmQF5rdPqgi3Ti-_vSvK8W9_9fr36V9bD0XXv6AqtXjLs",
+      "question": "How can I file a complaint with Air India Express?",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gl1cRnicHdBfbpswAIBx9TJ9bOykdGqkaBIJBtLgKv4b_DIZOyQkBlxAJeWtV9gZdqqdpt0u8P2k7_OPq5rr37vf52Hw_XI2G8fx4dS2J3d8MG090_1HY2ZGO1doc10-_XiCP0uzit5NuO5MuOfeiw0BlEMtEKlMgyO6OSOS-FhD5Vn9_KIuaqsataYwXdC53eHJJho4zOI-ECgdJCdvZP4Y6MTuJMPOxNvbUVisIsJINOiCjyDb4FYyEwiIdQ5UTKVlBboG-EI6nYiGJ-14RHirgagtcHFWe1BAMvEDamkknEIopXMhXyWuScOBrmAoGlfJGPU6ca96HvjDdL0JFu6-vUcrVZ8JkmSN65hLR5x4YZ3KNdt20dl2hQij_KBKxr1iMIcMwP2OwtIkKNS3ttpzMpmLq_lFsaPgtwzidf6vHY8LKdWmQF5rdPqgi3Ti-_vSvK8W9_9fr36V9bD0XXv6AqtXjLs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05tMHRibEpRUkhKRk1GbGpRbVpIV1VoblpWOWtSVWh3UmxGTVZGUlRkak14YWxGTlRHeFNkSGRXYUdzd1VIQjBaalp5YTFNNFJFTkNUVkZhUm1WQmMyUXdXbTFGYldSSGREQkpPVzgxVEhaeWRHNXZWbFoyZWxGdWR4SVhhMjFRUkdGMlgwMUtXVTlXTlU5TlVDMHRYM0J4UVdzYUlrRkVjM0k1WmxSd2FtUnRNREpGVEUxblMwbHNja3RXV0hsNlpsQmpXRGRqUlhjIiwiZmN2IjoiMyIsImVpIjoia21QRGF2X01KWU9WNU9NUC0tX3BxQWsiLCJxYyI6IkNpSmhhWElnYVc1a2FXRWdaWGh3Y21WemN5QmpiMjF3YkdGcGJuUWdiblZ0WW1WeUVBQjlHRXM2UHciLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBmaWxlIGEgY29tcGxhaW50IHdpdGggQWlyIEluZGlhIEV4cHJlc3M%2FIiwibGsiOiJHaHhqYjIxd2JHRnBiblJ6SUdGcGNpQnBibVJwWVNCbGVIQnlaWE56IiwiYnMiOiJjNFdRejBzRE1SQ0Y2VFVuejB1UkI5S0RMWG9JUmJ3dFBTajJMaFNQWXpwcGdrMW1TYkxVczMtNTZROWFaQXVlWm1BLXZuazg5YTcwbS14Z0tHSUo2N2NNZ3BIUWJjbkhncDB2RGd1ZnNJeHJUM2o1N2hMbjNPcmJabnlHTXFnQ19nRHdFVkFmYXJxM0ZrR2dyNzlLMnRTUnk4WGE2bGx6N182aHp5X1V6MGk5cmh3Vi1JemlHSHItNEtSUE1IMHVFcmd1bEJpeEQ1OTF0NUtHOFNIV2VzT3RmbTZlQnRGUHg2ckZYcHV2ZXRWS1BWNWEyM0ROaDhTMmoydllKT0ZhWTVQbTdrUjBTY3p4MGJDNG05RXYiLCJpZCI6ImZjX2ttUERhdl9NSllPVjVPTVAtLV9wcUFrXzUifQ%3D%3D",
+      "type": "ai_overview"
+    },
+    {
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05tMHRibEpRUkhKRk1GbGpRbVpIV1VoblpWOWtSVWh3UmxGTVZGUlRkak14YWxGTlRHeFNkSGRXYUdzd1VIQjBaalp5YTFNNFJFTkNUVkZhUm1WQmMyUXdXbTFGYldSSGREQkpPVzgxVEhaeWRHNXZWbFoyZWxGdWR4SVhhMjFRUkdGMlgwMUtXVTlXTlU5TlVDMHRYM0J4UVdzYUlrRkVjM0k1WmxSd2FtUnRNREpGVEUxblMwbHNja3RXV0hsNlpsQmpXRGRqUlhjIiwiZmN2IjoiMyIsImVpIjoia21QRGF2X01KWU9WNU9NUC0tX3BxQWsiLCJxYyI6IkNpSmhhWElnYVc1a2FXRWdaWGh3Y21WemN5QmpiMjF3YkdGcGJuUWdiblZ0WW1WeUVBQjlHRXM2UHciLCJxdWVzdGlvbiI6IkhvdyB0byBtYWtlIGEgY29tcGxhaW50IGFnYWluc3QgQWlyIEluZGlhPyIsImxrIjoiYzVQU3pNZ3ZWeWpKVjhoTnpFNVZTRlJJenM4dHlFbk16Q3RSU0V3SFVzVkFPck5JSVRNdkpUTVJBQSIsImJzIjoiYzRXUXowc0RNUkNGNlRVbnowdVJCOUtETFhvSVJid3RQU2oyTGhTUFl6cHBnazFtU2JMVXMzLTU2UTlhWkF1ZVptQS12bms4OWE3MG0teGdLR0lKNjdjTWdwSFFiY25IZ3AwdkRndWZzSXhyVDNqNTdoTG4zT3JiWm55R01xZ0NfZ0R3RVZBZmFycTNGa0dncjc5SzJ0U1J5OFhhNmxsejdfNmh6eV9VejBpOXJod1YtSXppR0hyLTRLUlBNSDB1RXJndWxCaXhENTkxdDVLRzhTSFdlc090Zm02ZUJ0RlB4NnJGWHB1dmV0VktQVjVhMjNETmg4UzJqMnZZSk9GYVk1UG03a1IwU2N6eDBiQzRtOUV2IiwiaWQiOiJmY19rbVBEYXZfTUpZT1Y1T01QLS1fcHFBa181In0=",
+      "page_token": "azEtHHicHdDBToMwAIDh-DIeHWVO3ZLFpBtM2KgCbaG9GCgwtrZQHRuMm-_iU_k0Gu9_8iX_17c6NPLn5lJ3nTktJpO-7-_2bbtX5Z1o9SQ7XRsxEZlSeSbk4uHxATxXYumcPbj68GBIjKHryIoVvdJRDsKmuxAjnYOwY2NhQmmN2dodItltixF5xFUxsQaJ9IzsMM-ChtfxBlwzOWyTDYVM8Zra8xmTzGKNOSPsK5TSGNl-nVPl5UlrletIhcAPCocHSUq3bPSuceoSmu7v-Qrgksj7P88OyEwmid-WGljlxkA8pTqcGs2PEGLa9rl0O6GQwzDavibgja-sPk6eOkzmjVMXnzmFDkt5hYnhGDCALRDuYlCJFxdmQ3sISTSKo9KkgVxQrv7aOrUNYTqy2RgdBfaPyOGnwB7qor-txGU5vf3_uXyvdLcwn-3-F1llhJQ",
+      "question": "How to make a complaint against Air India?",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=azEtHHicHdDBToMwAIDh-DIeHWVO3ZLFpBtM2KgCbaG9GCgwtrZQHRuMm-_iU_k0Gu9_8iX_17c6NPLn5lJ3nTktJpO-7-_2bbtX5Z1o9SQ7XRsxEZlSeSbk4uHxATxXYumcPbj68GBIjKHryIoVvdJRDsKmuxAjnYOwY2NhQmmN2dodItltixF5xFUxsQaJ9IzsMM-ChtfxBlwzOWyTDYVM8Zra8xmTzGKNOSPsK5TSGNl-nVPl5UlrletIhcAPCocHSUq3bPSuceoSmu7v-Qrgksj7P88OyEwmid-WGljlxkA8pTqcGs2PEGLa9rl0O6GQwzDavibgja-sPk6eOkzmjVMXnzmFDkt5hYnhGDCALRDuYlCJFxdmQ3sISTSKo9KkgVxQrv7aOrUNYTqy2RgdBfaPyOGnwB7qor-txGU5vf3_uXyvdLcwn-3-F1llhJQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05tMHRibEpRUkhKRk1GbGpRbVpIV1VoblpWOWtSVWh3UmxGTVZGUlRkak14YWxGTlRHeFNkSGRXYUdzd1VIQjBaalp5YTFNNFJFTkNUVkZhUm1WQmMyUXdXbTFGYldSSGREQkpPVzgxVEhaeWRHNXZWbFoyZWxGdWR4SVhhMjFRUkdGMlgwMUtXVTlXTlU5TlVDMHRYM0J4UVdzYUlrRkVjM0k1WmxSd2FtUnRNREpGVEUxblMwbHNja3RXV0hsNlpsQmpXRGRqUlhjIiwiZmN2IjoiMyIsImVpIjoia21QRGF2X01KWU9WNU9NUC0tX3BxQWsiLCJxYyI6IkNpSmhhWElnYVc1a2FXRWdaWGh3Y21WemN5QmpiMjF3YkdGcGJuUWdiblZ0WW1WeUVBQjlHRXM2UHciLCJxdWVzdGlvbiI6IkhvdyB0byBtYWtlIGEgY29tcGxhaW50IGFnYWluc3QgQWlyIEluZGlhPyIsImxrIjoiYzVQU3pNZ3ZWeWpKVjhoTnpFNVZTRlJJenM4dHlFbk16Q3RSU0V3SFVzVkFPck5JSVRNdkpUTVJBQSIsImJzIjoiYzRXUXowc0RNUkNGNlRVbnowdVJCOUtETFhvSVJid3RQU2oyTGhTUFl6cHBnazFtU2JMVXMzLTU2UTlhWkF1ZVptQS12bms4OWE3MG0teGdLR0lKNjdjTWdwSFFiY25IZ3AwdkRndWZzSXhyVDNqNTdoTG4zT3JiWm55R01xZ0NfZ0R3RVZBZmFycTNGa0dncjc5SzJ0U1J5OFhhNmxsejdfNmh6eV9VejBpOXJod1YtSXppR0hyLTRLUlBNSDB1RXJndWxCaXhENTkxdDVLRzhTSFdlc090Zm02ZUJ0RlB4NnJGWHB1dmV0VktQVjVhMjNETmg4UzJqMnZZSk9GYVk1UG03a1IwU2N6eDBiQzRtOUV2IiwiaWQiOiJmY19rbVBEYXZfTUpZT1Y1T01QLS1fcHFBa181In0%3D",
+      "type": "ai_overview"
+    },
+    {
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05tMHRibEpRUkhKRk1GbGpRbVpIV1VoblpWOWtSVWh3UmxGTVZGUlRkak14YWxGTlRHeFNkSGRXYUdzd1VIQjBaalp5YTFNNFJFTkNUVkZhUm1WQmMyUXdXbTFGYldSSGREQkpPVzgxVEhaeWRHNXZWbFoyZWxGdWR4SVhhMjFRUkdGMlgwMUtXVTlXTlU5TlVDMHRYM0J4UVdzYUlrRkVjM0k1WmxSd2FtUnRNREpGVEUxblMwbHNja3RXV0hsNlpsQmpXRGRqUlhjIiwiZmN2IjoiMyIsImVpIjoia21QRGF2X01KWU9WNU9NUC0tX3BxQWsiLCJxYyI6IkNpSmhhWElnYVc1a2FXRWdaWGh3Y21WemN5QmpiMjF3YkdGcGJuUWdiblZ0WW1WeUVBQjlHRXM2UHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDI0LWhvdXIgY3VzdG9tZXIgY2FyZSBudW1iZXIgZm9yIEFpciBJbmRpYSBFeHByZXNzIG9mZmljZT8iLCJsayI6IkdqWmhhWElnYVc1a2FXRWdaWGh3Y21WemN5QnZabVpwWTJVZ01qUWdhRzkxY25NZ1kzVnpkRzl0WlhJZ1kyRnlaU0J1ZFcxaVpYSSIsImJzIjoiYzRXUXowc0RNUkNGNlRVbnowdVJCOUtETFhvSVJid3RQU2oyTGhTUFl6cHBnazFtU2JMVXMzLTU2UTlhWkF1ZVptQS12bms4OWE3MG0teGdLR0lKNjdjTWdwSFFiY25IZ3AwdkRndWZzSXhyVDNqNTdoTG4zT3JiWm55R01xZ0NfZ0R3RVZBZmFycTNGa0dncjc5SzJ0U1J5OFhhNmxsejdfNmh6eV9VejBpOXJod1YtSXppR0hyLTRLUlBNSDB1RXJndWxCaXhENTkxdDVLRzhTSFdlc090Zm02ZUJ0RlB4NnJGWHB1dmV0VktQVjVhMjNETmg4UzJqMnZZSk9GYVk1UG03a1IwU2N6eDBiQzRtOUV2IiwiaWQiOiJmY19rbVBEYXZfTUpZT1Y1T01QLS1fcHFBa181In0=",
+      "page_token": "wZXh6XicHdFdbpswAABg7TJ9bLCzdGqkaBJgE5zgDrAN-GUyJvwUE0gT1YS33WXPO1BP02pH-PT9-Wu6c__x7V97u03X7WplrX1sxrExp0c9Dit1vZ_1SitjSqX77dOPJ_Cz1js0Ws-7Wjfm0yT8xEkX6kaAXk4IfGdgCsqlKnTwjEpOBuqQme6F4jAJ-doo7WMgB3xI8hZJv5ljZrrEbxy24FCt3U7DmSrhhtx3SQ7kewE3x4iTVkIzcBDZtJeOzMDCYGhLVLVp_2w5rK5yT1LaEygCySKfJoXBSGZkkJAcMg_cy9x40VDVWUA27JWMijd3zQUSiE4vAucUYcwHcOGZOMg9RlWwCdk58agRgDN-F-cYnnq7VrAdjhmxit_mE59QKVr3KJK8gPiC2uqtFC4qclkzPkkGCsAcEB9TUOs9dtU8djFPFv36Zenxy5fXqlygSIg0BfgXZeYWZXRhaOq0nxwr-1Dr99364f_D7nc93LbT29h8Al4SlKU",
+      "question": "What is the 24-hour customer care number for Air India Express office?",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wZXh6XicHdFdbpswAABg7TJ9bLCzdGqkaBJgE5zgDrAN-GUyJvwUE0gT1YS33WXPO1BP02pH-PT9-Wu6c__x7V97u03X7WplrX1sxrExp0c9Dit1vZ_1SitjSqX77dOPJ_Cz1js0Ws-7Wjfm0yT8xEkX6kaAXk4IfGdgCsqlKnTwjEpOBuqQme6F4jAJ-doo7WMgB3xI8hZJv5ljZrrEbxy24FCt3U7DmSrhhtx3SQ7kewE3x4iTVkIzcBDZtJeOzMDCYGhLVLVp_2w5rK5yT1LaEygCySKfJoXBSGZkkJAcMg_cy9x40VDVWUA27JWMijd3zQUSiE4vAucUYcwHcOGZOMg9RlWwCdk58agRgDN-F-cYnnq7VrAdjhmxit_mE59QKVr3KJK8gPiC2uqtFC4qclkzPkkGCsAcEB9TUOs9dtU8djFPFv36Zenxy5fXqlygSIg0BfgXZeYWZXRhaOq0nxwr-1Dr99364f_D7nc93LbT29h8Al4SlKU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05tMHRibEpRUkhKRk1GbGpRbVpIV1VoblpWOWtSVWh3UmxGTVZGUlRkak14YWxGTlRHeFNkSGRXYUdzd1VIQjBaalp5YTFNNFJFTkNUVkZhUm1WQmMyUXdXbTFGYldSSGREQkpPVzgxVEhaeWRHNXZWbFoyZWxGdWR4SVhhMjFRUkdGMlgwMUtXVTlXTlU5TlVDMHRYM0J4UVdzYUlrRkVjM0k1WmxSd2FtUnRNREpGVEUxblMwbHNja3RXV0hsNlpsQmpXRGRqUlhjIiwiZmN2IjoiMyIsImVpIjoia21QRGF2X01KWU9WNU9NUC0tX3BxQWsiLCJxYyI6IkNpSmhhWElnYVc1a2FXRWdaWGh3Y21WemN5QmpiMjF3YkdGcGJuUWdiblZ0WW1WeUVBQjlHRXM2UHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDI0LWhvdXIgY3VzdG9tZXIgY2FyZSBudW1iZXIgZm9yIEFpciBJbmRpYSBFeHByZXNzIG9mZmljZT8iLCJsayI6IkdqWmhhWElnYVc1a2FXRWdaWGh3Y21WemN5QnZabVpwWTJVZ01qUWdhRzkxY25NZ1kzVnpkRzl0WlhJZ1kyRnlaU0J1ZFcxaVpYSSIsImJzIjoiYzRXUXowc0RNUkNGNlRVbnowdVJCOUtETFhvSVJid3RQU2oyTGhTUFl6cHBnazFtU2JMVXMzLTU2UTlhWkF1ZVptQS12bms4OWE3MG0teGdLR0lKNjdjTWdwSFFiY25IZ3AwdkRndWZzSXhyVDNqNTdoTG4zT3JiWm55R01xZ0NfZ0R3RVZBZmFycTNGa0dncjc5SzJ0U1J5OFhhNmxsejdfNmh6eV9VejBpOXJod1YtSXppR0hyLTRLUlBNSDB1RXJndWxCaXhENTkxdDVLRzhTSFdlc090Zm02ZUJ0RlB4NnJGWHB1dmV0VktQVjVhMjNETmg4UzJqMnZZSk9GYVk1UG03a1IwU2N6eDBiQzRtOUV2IiwiaWQiOiJmY19rbVBEYXZfTUpZT1Y1T01QLS1fcHFBa181In0%3D",
+      "type": "ai_overview"
+    },
+    {
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05tMHRibEpRUkhKRk1GbGpRbVpIV1VoblpWOWtSVWh3UmxGTVZGUlRkak14YWxGTlRHeFNkSGRXYUdzd1VIQjBaalp5YTFNNFJFTkNUVkZhUm1WQmMyUXdXbTFGYldSSGREQkpPVzgxVEhaeWRHNXZWbFoyZWxGdWR4SVhhMjFRUkdGMlgwMUtXVTlXTlU5TlVDMHRYM0J4UVdzYUlrRkVjM0k1WmxSd2FtUnRNREpGVEUxblMwbHNja3RXV0hsNlpsQmpXRGRqUlhjIiwiZmN2IjoiMyIsImVpIjoia21QRGF2X01KWU9WNU9NUC0tX3BxQWsiLCJxYyI6IkNpSmhhWElnYVc1a2FXRWdaWGh3Y21WemN5QmpiMjF3YkdGcGJuUWdiblZ0WW1WeUVBQjlHRXM2UHciLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBnZXQgYSByZWZ1bmQgZnJvbSBBaXIgSW5kaWEgRXhwcmVzcz8iLCJsayI6IkdpTnlaV1oxYm1RZ2NISnZZMlZ6Y3lCdlppQmhhWElnYVc1a2FXRWdaWGh3Y21WemN3IiwiYnMiOiJjNFdRejBzRE1SQ0Y2VFVuejB1UkI5S0RMWG9JUmJ3dFBTajJMaFNQWXpwcGdrMW1TYkxVczMtNTZROWFaQXVlWm1BLXZuazg5YTcwbS14Z0tHSUo2N2NNZ3BIUWJjbkhncDB2RGd1ZnNJeHJUM2o1N2hMbjNPcmJabnlHTXFnQ19nRHdFVkFmYXJxM0ZrR2dyNzlLMnRTUnk4WGE2bGx6N182aHp5X1V6MGk5cmh3Vi1JemlHSHItNEtSUE1IMHVFcmd1bEJpeEQ1OTF0NUtHOFNIV2VzT3RmbTZlQnRGUHg2ckZYcHV2ZXRWS1BWNWEyM0ROaDhTMmoydllKT0ZhWTVQbTdrUjBTY3p4MGJDNG05RXYiLCJpZCI6ImZjX2ttUERhdl9NSllPVjVPTVAtLV9wcUFrXzUifQ==",
+      "page_token": "BGinZXicHdBRbtowHIBx7TJ9LJi0TEVCk1ISUkbM7Nh_Y79MiU1IiIOtECUlb7vCzrBT7TRDO8FP3_frj62vzd8vv6u-97fVbDaO4_PZubM9PWvXzvLb_apnOre2yHWzWn5dom-lXkeDDt87HRLuPWzonG3sQAEveeIdDRxSAhZpu9tlEQ_oJqbHxRgUSbzlE8Ywd3cpcC-uVDEEFzhiTK1xnMVD3iJXWDjwJu4Y--iJ8AdomunA6XexgeQE9FO2iGEWS9juXmXboEzolzz2GVxUK-9oSDmtzbZyysbUBPjHKZH9wxlSQUZjw2MaoS6fU6TZbkoXVJgIvxjwoIR_T5keH2ZPgqqWTEWnuHpNrdqz7VutIpPtBUBUma6AMJJHVTLuHw0SsTki-wyVOonD_NPVhNNJX2wLkbnhyXC1oLlq3z6wxYfiWgGzEMoJK8IsIeSp1MM6ePr_ev2zbPuV79z5H4pkjXk",
+      "question": "How can I get a refund from Air India Express?",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BGinZXicHdBRbtowHIBx7TJ9LJi0TEVCk1ISUkbM7Nh_Y79MiU1IiIOtECUlb7vCzrBT7TRDO8FP3_frj62vzd8vv6u-97fVbDaO4_PZubM9PWvXzvLb_apnOre2yHWzWn5dom-lXkeDDt87HRLuPWzonG3sQAEveeIdDRxSAhZpu9tlEQ_oJqbHxRgUSbzlE8Ywd3cpcC-uVDEEFzhiTK1xnMVD3iJXWDjwJu4Y--iJ8AdomunA6XexgeQE9FO2iGEWS9juXmXboEzolzz2GVxUK-9oSDmtzbZyysbUBPjHKZH9wxlSQUZjw2MaoS6fU6TZbkoXVJgIvxjwoIR_T5keH2ZPgqqWTEWnuHpNrdqz7VutIpPtBUBUma6AMJJHVTLuHw0SsTki-wyVOonD_NPVhNNJX2wLkbnhyXC1oLlq3z6wxYfiWgGzEMoJK8IsIeSp1MM6ePr_ev2zbPuV79z5H4pkjXk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05tMHRibEpRUkhKRk1GbGpRbVpIV1VoblpWOWtSVWh3UmxGTVZGUlRkak14YWxGTlRHeFNkSGRXYUdzd1VIQjBaalp5YTFNNFJFTkNUVkZhUm1WQmMyUXdXbTFGYldSSGREQkpPVzgxVEhaeWRHNXZWbFoyZWxGdWR4SVhhMjFRUkdGMlgwMUtXVTlXTlU5TlVDMHRYM0J4UVdzYUlrRkVjM0k1WmxSd2FtUnRNREpGVEUxblMwbHNja3RXV0hsNlpsQmpXRGRqUlhjIiwiZmN2IjoiMyIsImVpIjoia21QRGF2X01KWU9WNU9NUC0tX3BxQWsiLCJxYyI6IkNpSmhhWElnYVc1a2FXRWdaWGh3Y21WemN5QmpiMjF3YkdGcGJuUWdiblZ0WW1WeUVBQjlHRXM2UHciLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBnZXQgYSByZWZ1bmQgZnJvbSBBaXIgSW5kaWEgRXhwcmVzcz8iLCJsayI6IkdpTnlaV1oxYm1RZ2NISnZZMlZ6Y3lCdlppQmhhWElnYVc1a2FXRWdaWGh3Y21WemN3IiwiYnMiOiJjNFdRejBzRE1SQ0Y2VFVuejB1UkI5S0RMWG9JUmJ3dFBTajJMaFNQWXpwcGdrMW1TYkxVczMtNTZROWFaQXVlWm1BLXZuazg5YTcwbS14Z0tHSUo2N2NNZ3BIUWJjbkhncDB2RGd1ZnNJeHJUM2o1N2hMbjNPcmJabnlHTXFnQ19nRHdFVkFmYXJxM0ZrR2dyNzlLMnRTUnk4WGE2bGx6N182aHp5X1V6MGk5cmh3Vi1JemlHSHItNEtSUE1IMHVFcmd1bEJpeEQ1OTF0NUtHOFNIV2VzT3RmbTZlQnRGUHg2ckZYcHV2ZXRWS1BWNWEyM0ROaDhTMmoydllKT0ZhWTVQbTdrUjBTY3p4MGJDNG05RXYiLCJpZCI6ImZjX2ttUERhdl9NSllPVjVPTVAtLV9wcUFrXzUifQ%3D%3D",
+      "type": "ai_overview"
+    }
+  ],
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "Air India Express complaint number",
+    "time_taken_displayed": 0.26,
+    "total_results": 83400
+  },
+  "search_metadata": {
+    "created_at": "2026-10-05 08:45:06 UTC",
+    "google_url": "https://www.google.com/search?q=Air+India+Express+complaint+number&oq=Air+India+Express+complaint+number&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "id": "6ac36392a26f560b91b82244",
+    "json_endpoint": "https://serpapi.com/searches/NcoEG_VgH5ups5Zbnjs4w6yKIG04-XQSdvXcUuWlQ28/6ac36392a26f560b91b82244.json",
+    "markdown_endpoint": "https://serpapi.com/searches/NcoEG_VgH5ups5Zbnjs4w6yKIG04-XQSdvXcUuWlQ28/6ac36392a26f560b91b82244.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/NcoEG_VgH5ups5Zbnjs4w6yKIG04-XQSdvXcUuWlQ28/6ac36392a26f560b91b82244.json_with_pixel_position",
+    "processed_at": "2026-10-05 08:45:06 UTC",
+    "raw_html_file": "https://serpapi.com/searches/NcoEG_VgH5ups5Zbnjs4w6yKIG04-XQSdvXcUuWlQ28/6ac36392a26f560b91b82244.html",
+    "status": "Success",
+    "total_time_taken": 0.44
+  },
+  "search_parameters": {
+    "device": "desktop",
+    "engine": "google",
+    "gl": "in",
+    "google_domain": "google.com",
+    "hl": "en",
+    "q": "Air India Express complaint number"
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+complaint+number&start=10",
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+complaint+number&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+Express+complaint+number&start=10"
+    }
+  }
+}

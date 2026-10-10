@@ -1,0 +1,406 @@
+{
+  "organic_results": [
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoUCL2dvdG8_dXJsPUNBRVN0d0VCNnpzd0ZTVmVmSmVVRzA3UUVkRWxVclZjMlpDaVZ2WGg3bFJWSjA0VUZaYzVfQ3BzbFYwT2c3X3FhZ0JWbGo2UE11Und6bnROSk4yc25pWWFWaEdvcHkyMkJfSGVUc3F6UnJqYnIyOUJTVVVuRFFEWGVPajVVZmdobl9XM0hQNEtELW5XMHc4bVVBM1FhUGxSQVRHbFVCdkRubVFQRGxyVi1VM2Q0UkFFUXNSbGpFaHlzalYxNkQwRFdxSF9xNFBvZlg0RW93RjRRdDQ2Zk94dnNtbjNPOXMtQW12SWZUT1c5dmg4RElhWnFZdFdDdHNPNW5FEgQaAggAGv0FEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNkFCAAQABgAIAAqFAoDYWlyFZ_pikAaCGFpcmluZGlhKhYKBWluZGlhFYSvkEAaCGFpcmluZGlhKosBCgljb21wbGFpbnQVAAAAABoIY29tcGxhaW4aCmNvbXBsYWludHMaDWN1c3RvbWVyIGNhcmUaEGN1c3RvbWVyIHNlcnZpY2UaCWdyaWV2YW5jZRoKZ3JpZXZhbmNlcxoIaGVscGxpbmUaB2hvdGxpbmUaCHRvbGxmcmVlGg5pdjtwO2NvbXBsYWludCocCgZudW1iZXIVQstDPRoEbGluZRoHbnVtYmVyczKFAi9nb3RvP3VybD1DQUVTdHdFQjZ6c3dGU1ZlZkplVUcwN1FFZEVsVXJWYzJaQ2lWdlhoN2xSVkowNFVGWmM1X0Nwc2xWME9nN19xYWdCVmxqNlBNdVJ3em50TkpOMnNuaVlhVmhHb3B5MjJCX0hlVHNxelJyamJyMjlCU1VVbkRRRFhlT2o1VWZnaG5fVzNIUDRLRC1uVzB3OG1VQTNRYVBsUkFUR2xVQnZEbm1RUERsclYtVTNkNFJBRVFzUmxqRWh5c2pWMTZEMERXcUhfcTRQb2ZYNEVvd0Y0UXQ0NmZPeHZzbW4zTzlzLUFtdklmVE9XOXZoOERJYVpxWXRXQ3RzTzVuRTpCPGI-QWlyIEluZGlhPC9iPiBBaXJwb3J0IEVucXVpcnkgaW4gU2hha3RpIE5hZ2FyLFVkYWlwdXItcmFqYXN0aGFuQqgBLi4uIHdpdGggNiBQaG90b3MuIFZpc2l0IEp1c3RkaWFsIGZvciBBZGRyZXNzLCBDb250YWN0IE51bWJlciwgUmV2aWV3cyAmYW1wOyBSYXRpbmdzLCBQaG90b3MsIE1hcHMgb2YgPGI-QWlyIEluZGlhIEFpcnBvcnQgRW5xdWlyeTwvYj4sIFNoYWt0aSBOYWdhciwgVWRhaXB1ci1yYWphc3RoYW4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoUCL2dvdG8_dXJsPUNBRVN0d0VCNnpzd0ZTVmVmSmVVRzA3UUVkRWxVclZjMlpDaVZ2WGg3bFJWSjA0VUZaYzVfQ3BzbFYwT2c3X3FhZ0JWbGo2UE11Und6bnROSk4yc25pWWFWaEdvcHkyMkJfSGVUc3F6UnJqYnIyOUJTVVVuRFFEWGVPajVVZmdobl9XM0hQNEtELW5XMHc4bVVBM1FhUGxSQVRHbFVCdkRubVFQRGxyVi1VM2Q0UkFFUXNSbGpFaHlzalYxNkQwRFdxSF9xNFBvZlg0RW93RjRRdDQ2Zk94dnNtbjNPOXMtQW12SWZUT1c5dmg4RElhWnFZdFdDdHNPNW5FEgQaAggAGv0FEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNkFCAAQABgAIAAqFAoDYWlyFZ_pikAaCGFpcmluZGlhKhYKBWluZGlhFYSvkEAaCGFpcmluZGlhKosBCgljb21wbGFpbnQVAAAAABoIY29tcGxhaW4aCmNvbXBsYWludHMaDWN1c3RvbWVyIGNhcmUaEGN1c3RvbWVyIHNlcnZpY2UaCWdyaWV2YW5jZRoKZ3JpZXZhbmNlcxoIaGVscGxpbmUaB2hvdGxpbmUaCHRvbGxmcmVlGg5pdjtwO2NvbXBsYWludCocCgZudW1iZXIVQstDPRoEbGluZRoHbnVtYmVyczKFAi9nb3RvP3VybD1DQUVTdHdFQjZ6c3dGU1ZlZkplVUcwN1FFZEVsVXJWYzJaQ2lWdlhoN2xSVkowNFVGWmM1X0Nwc2xWME9nN19xYWdCVmxqNlBNdVJ3em50TkpOMnNuaVlhVmhHb3B5MjJCX0hlVHNxelJyamJyMjlCU1VVbkRRRFhlT2o1VWZnaG5fVzNIUDRLRC1uVzB3OG1VQTNRYVBsUkFUR2xVQnZEbm1RUERsclYtVTNkNFJBRVFzUmxqRWh5c2pWMTZEMERXcUhfcTRQb2ZYNEVvd0Y0UXQ0NmZPeHZzbW4zTzlzLUFtdklmVE9XOXZoOERJYVpxWXRXQ3RzTzVuRTpCPGI-QWlyIEluZGlhPC9iPiBBaXJwb3J0IEVucXVpcnkgaW4gU2hha3RpIE5hZ2FyLFVkYWlwdXItcmFqYXN0aGFuQqgBLi4uIHdpdGggNiBQaG90b3MuIFZpc2l0IEp1c3RkaWFsIGZvciBBZGRyZXNzLCBDb250YWN0IE51bWJlciwgUmV2aWV3cyAmYW1wOyBSYXRpbmdzLCBQaG90b3MsIE1hcHMgb2YgPGI-QWlyIEluZGlhIEFpcnBvcnQgRW5xdWlyeTwvYj4sIFNoYWt0aSBOYWdhciwgVWRhaXB1ci1yYWphc3RoYW4uIgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "... with 6 Photos. Visit Justdial for Address, Contact Number, Reviews & Ratings, Photos, Maps of Air India Airport Enquiry, Shakti Nagar, Udaipur-rajasthan.",
+          "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+          "source_info_link": "https://www.justdial.com/Udaipur-Rajasthan/Air-India-Airport-Enquiry-Nh-76-Dabok-Udaipur-Surajpole/9999PMULDELSTD15199_BZDET"
+        }
+      },
+      "displayed_link": "https://www.justdial.com › ... › Air India Airport Enquiry",
+      "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+      "link": "https://www.justdial.com/Udaipur-Rajasthan/Air-India-Airport-Enquiry-Nh-76-Dabok-Udaipur-Surajpole/9999PMULDELSTD15199_BZDET",
+      "position": 1,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStwEB6zswFSVefJeUG07QEdElUrVc2ZCiVvXh7lRVJ04UFZc5_CpslV0Og7_qagBVlj6PMuRwzntNJN2sniYaVhGopy22B_HeTsqzRrjbr29BSUUnDQDXeOj5Ufghn_W3HP4KD-nW0w8mUA3QaPlRATGlUBvDnmQPDlrV-U3d4RAEQsRljEhysjV16D0DWqH_q4PofX4EowF4Qt46fOxvsmn3O9s-AmvIfTOW9vh8DIaZqYtWCtsO5nE&ved=2ahUKEwjtzo2tvqKXAxWsNYYAHWjtPHYQFnoECA8QAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.8,
+            "reviews": 16
+          },
+          "extensions": [
+            "3.8(16)"
+          ]
+        }
+      },
+      "snippet": "... with 6 Photos. Visit Justdial for Address, Contact Number, Reviews & Ratings, Photos, Maps of Air India Airport Enquiry, Shakti Nagar, Udaipur-rajasthan.",
+      "snippet_highlighted_words": [
+        "Air India Airport Enquiry"
+      ],
+      "source": "Justdial",
+      "title": "Air India Airport Enquiry in Shakti Nagar,Udaipur-rajasthan"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVlFheW9xVy1BNXpPVWtaUWxyYTVMdW1VdGEwSzJMcWw2X2ptXzYtMDlRQXRHamhva2xHV08wLTA2Tk1EZ3R1NzRNNE1jSC1hSnVkeVh1QVBPc2djc2xDcmpPYWRnQjdveUl4bnc1cW5DckpnRXZNUlhzM25IZTJLTUJXR1Q4Tm1KNjNrYjcxei04SEpmZEF2MWhqMDhKVXY3dlQ0ZBIEGgIIABqhBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkD9BAgAEAAYACAAKhQKA2FpchU3h-5AGghhaXJpbmRpYSoWCgVpbmRpYRVLNuNAGghhaXJpbmRpYSqLAQoJY29tcGxhaW50FQAAAAAaCGNvbXBsYWluGgpjb21wbGFpbnRzGg1jdXN0b21lciBjYXJlGhBjdXN0b21lciBzZXJ2aWNlGglncmlldmFuY2UaCmdyaWV2YW5jZXMaCGhlbHBsaW5lGgdob3RsaW5lGgh0b2xsZnJlZRoOaXY7cDtjb21wbGFpbnQqHAoGbnVtYmVyFbhFAEEaBGxpbmUaB251bWJlcnMysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWUWF5b3FXLUE1ek9Va1pRbHJhNUx1bVV0YTBLMkxxbDZfam1fNi0wOVFBdEdqaG9rbEdXTzAtMDZOTURndHU3NE00TWNILWFKdWR5WHVBUE9zZ2NzbENyak9hZGdCN295SXhudzVxbkNySmdFdk1SWHMzbkhlMktNQldHVDhObUo2M2tiNzF6LThISmZkQXYxaGowOEpVdjd2VDRkOjo8Yj5BaXIgSW5kaWEgQ3VzdG9tZXIgQ2FyZSBOdW1iZXI8L2I-IGluIE1vZ2EgLSBHcm90YWwuY29tQqcBSGVhZGluZzogPGI-QWlyIEluZGlhIEN1c3RvbWVyIENhcmUgTnVtYmVyPC9iPiwgQ2l0eTogTW9nYSwgUmVzdWx0czogQWlyIEluZGlhIEN1c3RvbWVyIENhcmUgTnVtYmVyIENvdXJ0IFJvYWQsIEludm9sdmVtZW50czogRW5xdWlyeSBJbmRpYW4gQWlybGluZXMgSGVscGxpbmUmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVlFheW9xVy1BNXpPVWtaUWxyYTVMdW1VdGEwSzJMcWw2X2ptXzYtMDlRQXRHamhva2xHV08wLTA2Tk1EZ3R1NzRNNE1jSC1hSnVkeVh1QVBPc2djc2xDcmpPYWRnQjdveUl4bnc1cW5DckpnRXZNUlhzM25IZTJLTUJXR1Q4Tm1KNjNrYjcxei04SEpmZEF2MWhqMDhKVXY3dlQ0ZBIEGgIIABqhBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkD9BAgAEAAYACAAKhQKA2FpchU3h-5AGghhaXJpbmRpYSoWCgVpbmRpYRVLNuNAGghhaXJpbmRpYSqLAQoJY29tcGxhaW50FQAAAAAaCGNvbXBsYWluGgpjb21wbGFpbnRzGg1jdXN0b21lciBjYXJlGhBjdXN0b21lciBzZXJ2aWNlGglncmlldmFuY2UaCmdyaWV2YW5jZXMaCGhlbHBsaW5lGgdob3RsaW5lGgh0b2xsZnJlZRoOaXY7cDtjb21wbGFpbnQqHAoGbnVtYmVyFbhFAEEaBGxpbmUaB251bWJlcnMysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWUWF5b3FXLUE1ek9Va1pRbHJhNUx1bVV0YTBLMkxxbDZfam1fNi0wOVFBdEdqaG9rbEdXTzAtMDZOTURndHU3NE00TWNILWFKdWR5WHVBUE9zZ2NzbENyak9hZGdCN295SXhudzVxbkNySmdFdk1SWHMzbkhlMktNQldHVDhObUo2M2tiNzF6LThISmZkQXYxaGowOEpVdjd2VDRkOjo8Yj5BaXIgSW5kaWEgQ3VzdG9tZXIgQ2FyZSBOdW1iZXI8L2I-IGluIE1vZ2EgLSBHcm90YWwuY29tQqcBSGVhZGluZzogPGI-QWlyIEluZGlhIEN1c3RvbWVyIENhcmUgTnVtYmVyPC9iPiwgQ2l0eTogTW9nYSwgUmVzdWx0czogQWlyIEluZGlhIEN1c3RvbWVyIENhcmUgTnVtYmVyIENvdXJ0IFJvYWQsIEludm9sdmVtZW50czogRW5xdWlyeSBJbmRpYW4gQWlybGluZXMgSGVscGxpbmUmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Heading: Air India Customer Care Number, City: Moga, Results: Air India Customer Care Number Court Road, Involvements: Enquiry Indian Airlines Helpline ...",
+          "icon": "https://serpapi.com/images/i/UklGRrYAAABXRUJQVlA4IKoAAACwAgCdASoQABAAAsBMJbACdLoAfg8RDZGX1bj_AuQA_W_V9p91vsFtlP-BEz4BYOJQt7UCSXLew_CiIXH6e68CZQbQ4tUFrFM6uU_4njlTdUR_JjvnoeQHPTKGeNfi6ji0Aw81yOxCGPnKWZNU3tAs0JyHB_J4_tAF6PezUbv_7Tq2LBPxbSTuES3wFCO_A3_8z3zSLMfH8yxGNs395zVoH6H3YuIgukK-AA.webp",
+          "source_info_link": "https://www.grotal.com/Moga/Air-India-Customer-Care-Number-C34/"
+        }
+      },
+      "displayed_link": "https://www.grotal.com › Moga › Air-India-Customer-Ca...",
+      "favicon": "https://serpapi.com/images/i/UklGRrYAAABXRUJQVlA4IKoAAACwAgCdASoQABAAAsBMJbACdLoAfg8RDZGX1bj_AuQA_W_V9p91vsFtlP-BEz4BYOJQt7UCSXLew_CiIXH6e68CZQbQ4tUFrFM6uU_4njlTdUR_JjvnoeQHPTKGeNfi6ji0Aw81yOxCGPnKWZNU3tAs0JyHB_J4_tAF6PezUbv_7Tq2LBPxbSTuES3wFCO_A3_8z3zSLMfH8yxGNs395zVoH6H3YuIgukK-AA.webp",
+      "link": "https://www.grotal.com/Moga/Air-India-Customer-Care-Number-C34/",
+      "position": 2,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVQayoqW-A5zOUkZQlra5LumUta0K2Lql6_jm_6-09QAtGjhoklGWO0-06NMDgtu74M4McH-aJudyXuAPOsgcslCrjOadgB7oyIxnw5qnCrJgEvMRXs3nHe2KMBWGT8NmJ63kb71z-8HJfdAv1hj08JUv7vT4d&ved=2ahUKEwjtzo2tvqKXAxWsNYYAHWjtPHYQFnoECC0QAQ&uoh=1",
+      "snippet": "Heading: Air India Customer Care Number, City: Moga, Results: Air India Customer Care Number Court Road, Involvements: Enquiry Indian Airlines Helpline ...",
+      "snippet_highlighted_words": [
+        "Air India Customer Care Number"
+      ],
+      "source": "Grotal.com",
+      "title": "Air India Customer Care Number in Moga"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZTWjVZeUtHVGF0UlN1d2pRQUFaS1ZNeTVuTmZXV2NnaTBnekxfWVg3WTR0ZzVMdE4wRFhhdGh5NGhYZnRoUTExenNYYjl6eVVEbmQ5Smw0R0I1THhlVkpqT0hYSUpzN1pKeW9lU1d4WTVlQ3kxdnpPT1dneFRIMEZVZ3RiVHhnOC1LNGdHYUsxRmFvZDBmaEE0b3ZjcHU2b2tQZDJjRG16bi05cjRCbFdSamtqV3lGMHg2aFoxeENtemcSBBoCCAAa3gUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAugUIABAAGAAgACoUCgNhaXIVVpGpQBoIYWlyaW5kaWEqFgoFaW5kaWEVVpGpQBoIYWlyaW5kaWEqiwEKCWNvbXBsYWludBU8a6FAGghjb21wbGFpbhoKY29tcGxhaW50cxoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoJZ3JpZXZhbmNlGgpncmlldmFuY2VzGghoZWxwbGluZRoHaG90bGluZRoIdG9sbGZyZWUaDml2O3A7Y29tcGxhaW50KhwKBm51bWJlchWzmlM-GgRsaW5lGgdudW1iZXJzMtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZTWjVZeUtHVGF0UlN1d2pRQUFaS1ZNeTVuTmZXV2NnaTBnekxfWVg3WTR0ZzVMdE4wRFhhdGh5NGhYZnRoUTExenNYYjl6eVVEbmQ5Smw0R0I1THhlVkpqT0hYSUpzN1pKeW9lU1d4WTVlQ3kxdnpPT1dneFRIMEZVZ3RiVHhnOC1LNGdHYUsxRmFvZDBmaEE0b3ZjcHU2b2tQZDJjRG16bi05cjRCbFdSamtqV3lGMHg2aFoxeENtemc6R0ZpbGUgYSBDb25zdW1lciA8Yj5Db21wbGFpbnQ8L2I-IEFnYWluc3QgPGI-QWlyIEluZGlhPC9iPiAtIFZha2lsc2VhcmNoQrgBMS4gU3RlcCAxOiBDb250YWN0IDxiPmN1c3RvbWVyIHNlcnZpY2U8L2I-LCByZWFjaCBvdXQgdG8gdXNpbmcgcGhvbmUsIGVtYWlsIG9yIHdlYnNpdGUgJm1pZGRvdDsgMi4gU3RlcCAyOiBDb21tdW5pY2F0ZSB0aGUgaXNzdWUsIHByb3ZpZGluZyBkZXRhaWxzIHN1Y2ggYXMgYm9va2luZyBpbmZvcm1hdGlvbiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZTWjVZeUtHVGF0UlN1d2pRQUFaS1ZNeTVuTmZXV2NnaTBnekxfWVg3WTR0ZzVMdE4wRFhhdGh5NGhYZnRoUTExenNYYjl6eVVEbmQ5Smw0R0I1THhlVkpqT0hYSUpzN1pKeW9lU1d4WTVlQ3kxdnpPT1dneFRIMEZVZ3RiVHhnOC1LNGdHYUsxRmFvZDBmaEE0b3ZjcHU2b2tQZDJjRG16bi05cjRCbFdSamtqV3lGMHg2aFoxeENtemcSBBoCCAAa3gUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAugUIABAAGAAgACoUCgNhaXIVVpGpQBoIYWlyaW5kaWEqFgoFaW5kaWEVVpGpQBoIYWlyaW5kaWEqiwEKCWNvbXBsYWludBU8a6FAGghjb21wbGFpbhoKY29tcGxhaW50cxoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoJZ3JpZXZhbmNlGgpncmlldmFuY2VzGghoZWxwbGluZRoHaG90bGluZRoIdG9sbGZyZWUaDml2O3A7Y29tcGxhaW50KhwKBm51bWJlchWzmlM-GgRsaW5lGgdudW1iZXJzMtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZTWjVZeUtHVGF0UlN1d2pRQUFaS1ZNeTVuTmZXV2NnaTBnekxfWVg3WTR0ZzVMdE4wRFhhdGh5NGhYZnRoUTExenNYYjl6eVVEbmQ5Smw0R0I1THhlVkpqT0hYSUpzN1pKeW9lU1d4WTVlQ3kxdnpPT1dneFRIMEZVZ3RiVHhnOC1LNGdHYUsxRmFvZDBmaEE0b3ZjcHU2b2tQZDJjRG16bi05cjRCbFdSamtqV3lGMHg2aFoxeENtemc6R0ZpbGUgYSBDb25zdW1lciA8Yj5Db21wbGFpbnQ8L2I-IEFnYWluc3QgPGI-QWlyIEluZGlhPC9iPiAtIFZha2lsc2VhcmNoQrgBMS4gU3RlcCAxOiBDb250YWN0IDxiPmN1c3RvbWVyIHNlcnZpY2U8L2I-LCByZWFjaCBvdXQgdG8gdXNpbmcgcGhvbmUsIGVtYWlsIG9yIHdlYnNpdGUgJm1pZGRvdDsgMi4gU3RlcCAyOiBDb21tdW5pY2F0ZSB0aGUgaXNzdWUsIHByb3ZpZGluZyBkZXRhaWxzIHN1Y2ggYXMgYm9va2luZyBpbmZvcm1hdGlvbiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "1. Step 1: Contact customer service, reach out to using phone, email or website · 2. Step 2: Communicate the issue, providing details such as booking information ...",
+          "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABQBgCdASocABwAPtEutFooIagoGAEAGglmALsvSTUAIMf5GMngZeLpFzNjvuXglhHeEXBrsYZ7rwosAAD-3oR7l9nFoq_EuXpCkhrUEXX9G5t8X-puPChUe_lDNKxHSATv5ELsUOab3Vds13o7XPJD1tazVwv_52D8D9Bet9-qr9v9Vla_z7rj8_0-Z3xZ6V1Gf9i_i_6GO9_mv5V8r_HXAY5JBunfrnyFWez0W36annTqRIsjaKP1Q_a5VvSv_iTuiP5HKr39mB8zG36u8odVyQSf3Z6au_dpJZZsBgSFOcbIrI-0hy4EK5w5F3YOOeU5VwSydrUPxv1xr38wBKM88_4IC6mzf5oPbiPTKlV27_Hnbi_29-ceRZkVqkyroeW16hXfn32ewLFZjgcNABagAAA.webp",
+          "source_info_link": "https://vakilsearch.com/consumer-complaints/travel/air-india/650c9851bd05e5fd4d19d91d"
+        }
+      },
+      "displayed_link": "https://vakilsearch.com › consumer-complaints › travel",
+      "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABQBgCdASocABwAPtEutFooIagoGAEAGglmALsvSTUAIMf5GMngZeLpFzNjvuXglhHeEXBrsYZ7rwosAAD-3oR7l9nFoq_EuXpCkhrUEXX9G5t8X-puPChUe_lDNKxHSATv5ELsUOab3Vds13o7XPJD1tazVwv_52D8D9Bet9-qr9v9Vla_z7rj8_0-Z3xZ6V1Gf9i_i_6GO9_mv5V8r_HXAY5JBunfrnyFWez0W36annTqRIsjaKP1Q_a5VvSv_iTuiP5HKr39mB8zG36u8odVyQSf3Z6au_dpJZZsBgSFOcbIrI-0hy4EK5w5F3YOOeU5VwSydrUPxv1xr38wBKM88_4IC6mzf5oPbiPTKlV27_Hnbi_29-ceRZkVqkyroeW16hXfn32ewLFZjgcNABagAAA.webp",
+      "link": "https://vakilsearch.com/consumer-complaints/travel/air-india/650c9851bd05e5fd4d19d91d",
+      "position": 3,
+      "read_more_link": "https://vakilsearch.com/consumer-complaints/travel/air-india/650c9851bd05e5fd4d19d91d#:~:text=1.%20Step%201%3A%20Contact%20customer,using%20phone%2C%20email%20or%20website&text=2.%20Step%202%3A%20Communicate%20the,dates%2C%20and%20any%20relevant%20evidence",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFSZ5YyKGTatRSuwjQAAZKVMy5nNfWWcgi0gzL_YX7Y4tg5LtN0DXathy4hXfthQ11zsXb9zyUDnd9Jl4GB5LxeVJjOHXIJs7ZJyoeSWxY5eCy1vzOOWgxTH0FUgtbTxg8-K4gGaK1Faod0fhA4ovcpu6okPd2cDmzn-9r4BlWRjkjWyF0x6hZ1xCmzg&ved=2ahUKEwjtzo2tvqKXAxWsNYYAHWjtPHYQFnoECCwQAQ&uoh=1",
+      "snippet": "1. Step 1: Contact customer service, reach out to using phone, email or website · 2. Step 2: Communicate the issue, providing details such as booking information ...",
+      "snippet_highlighted_words": [
+        "customer service"
+      ],
+      "source": "Vakilsearch",
+      "title": "File a Consumer Complaint Against Air India"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZjVzdDMHdCWnRCRkFGT25TYzZUc1hsbGNWUWZWMDFtNmwzZ3NCNjc1aERmMWI4d3lNS1lGZklSWklyYjRqZXo1ajNYVzZqeFkzc0tMYjN4LU5IT1NORmtNclNUR1RzeEdHYlVYV0d4ZTFZNFktWlp3eFJNQmFSSzk4QXF4YjVrVkRscUV3cWxOSnJSekRhNEs0QnhHWDF6Mk80bWNkNUdiaFJ6ZGwwS1I1bUhaZ0QyeFJzRGRtYm1UTUJRREdvTzUxTDc2b1NSNUx2b3dQMkt6Nm5SanZ3cWF5RzFjVDN3bVRxVE1PbXhSdDU1aV8wMEtQMUdmVkhhZ0EwQkN1cDh5VG03EgQaAggAGogGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQOQFCAAQABgAIAAqFAoDYWlyFeYafEAaCGFpcmluZGlhKhYKBWluZGlhFTDZgkAaCGFpcmluZGlhKosBCgljb21wbGFpbnQVAAAAABoIY29tcGxhaW4aCmNvbXBsYWludHMaDWN1c3RvbWVyIGNhcmUaEGN1c3RvbWVyIHNlcnZpY2UaCWdyaWV2YW5jZRoKZ3JpZXZhbmNlcxoIaGVscGxpbmUaB2hvdGxpbmUaCHRvbGxmcmVlGg5pdjtwO2NvbXBsYWludCocCgZudW1iZXIVNNf8PRoEbGluZRoHbnVtYmVyczKaAi9nb3RvP3VybD1DQUVTeHdFQjZ6c3dGY1c3QzB3Qlp0QkZBRk9uU2M2VHNYbGxjVlFmVjAxbTZsM2dzQjY3NWhEZjFiOHd5TUtZRmZJUlpJcmI0amV6NWozWFc2anhZM3NLTGIzeC1OSE9TTkZrTXJTVEdUc3hHR2JVWFdHeGUxWTRZLVpad3hSTUJhUks5OEFxeGI1a1ZEbHFFd3FsTkpyUnpEYTRLNEJ4R1gxejJPNG1jZDVHYmhSemRsMEtSNW1IWmdEMnhSc0RkbWJtVE1CUURHb081MUw3Nm9TUjVMdm93UDJLejZuUmp2d3FheUcxY1Qzd21UcVRNT214UnQ1NWlfMDBLUDFHZlZIYWdBMEJDdXA4eVRtNzo_PGI-QUlSIElORElBPC9iPiAoQWlycG9ydCBPZmZpY2UpIGluIEFveWltdGksRGltYXB1ciAtIEp1c3RkaWFsQqEBPGI-QUlSIElORElBIChBaXJwb3J0IE9mZmljZSkgaW4gQW95aW10aSxEaW1hcHVyPC9iPiBsaXN0ZWQgdW5kZXIgRG9tZXN0aWMgQWlybGluZXMgaW4gRGltYXB1ci4gUmF0ZWQgNC4zIGJhc2VkIG9uIDEyIEN1c3RvbWVyIFJldmlld3MgYW5kIFJhdGluZ3Mgd2l0aCA4IFBob3Rvcy4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZjVzdDMHdCWnRCRkFGT25TYzZUc1hsbGNWUWZWMDFtNmwzZ3NCNjc1aERmMWI4d3lNS1lGZklSWklyYjRqZXo1ajNYVzZqeFkzc0tMYjN4LU5IT1NORmtNclNUR1RzeEdHYlVYV0d4ZTFZNFktWlp3eFJNQmFSSzk4QXF4YjVrVkRscUV3cWxOSnJSekRhNEs0QnhHWDF6Mk80bWNkNUdiaFJ6ZGwwS1I1bUhaZ0QyeFJzRGRtYm1UTUJRREdvTzUxTDc2b1NSNUx2b3dQMkt6Nm5SanZ3cWF5RzFjVDN3bVRxVE1PbXhSdDU1aV8wMEtQMUdmVkhhZ0EwQkN1cDh5VG03EgQaAggAGogGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQOQFCAAQABgAIAAqFAoDYWlyFeYafEAaCGFpcmluZGlhKhYKBWluZGlhFTDZgkAaCGFpcmluZGlhKosBCgljb21wbGFpbnQVAAAAABoIY29tcGxhaW4aCmNvbXBsYWludHMaDWN1c3RvbWVyIGNhcmUaEGN1c3RvbWVyIHNlcnZpY2UaCWdyaWV2YW5jZRoKZ3JpZXZhbmNlcxoIaGVscGxpbmUaB2hvdGxpbmUaCHRvbGxmcmVlGg5pdjtwO2NvbXBsYWludCocCgZudW1iZXIVNNf8PRoEbGluZRoHbnVtYmVyczKaAi9nb3RvP3VybD1DQUVTeHdFQjZ6c3dGY1c3QzB3Qlp0QkZBRk9uU2M2VHNYbGxjVlFmVjAxbTZsM2dzQjY3NWhEZjFiOHd5TUtZRmZJUlpJcmI0amV6NWozWFc2anhZM3NLTGIzeC1OSE9TTkZrTXJTVEdUc3hHR2JVWFdHeGUxWTRZLVpad3hSTUJhUks5OEFxeGI1a1ZEbHFFd3FsTkpyUnpEYTRLNEJ4R1gxejJPNG1jZDVHYmhSemRsMEtSNW1IWmdEMnhSc0RkbWJtVE1CUURHb081MUw3Nm9TUjVMdm93UDJLejZuUmp2d3FheUcxY1Qzd21UcVRNT214UnQ1NWlfMDBLUDFHZlZIYWdBMEJDdXA4eVRtNzo_PGI-QUlSIElORElBPC9iPiAoQWlycG9ydCBPZmZpY2UpIGluIEFveWltdGksRGltYXB1ciAtIEp1c3RkaWFsQqEBPGI-QUlSIElORElBIChBaXJwb3J0IE9mZmljZSkgaW4gQW95aW10aSxEaW1hcHVyPC9iPiBsaXN0ZWQgdW5kZXIgRG9tZXN0aWMgQWlybGluZXMgaW4gRGltYXB1ci4gUmF0ZWQgNC4zIGJhc2VkIG9uIDEyIEN1c3RvbWVyIFJldmlld3MgYW5kIFJhdGluZ3Mgd2l0aCA4IFBob3Rvcy4iAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "AIR INDIA (Airport Office) in Aoyimti,Dimapur listed under Domestic Airlines in Dimapur. Rated 4.3 based on 12 Customer Reviews and Ratings with 8 Photos.",
+          "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+          "source_info_link": "https://www.justdial.com/Dimapur/AIR-INDIA-Airport-Office-Besides-Sps-Office-Off-Kohima-Road-Aoyimti/9999P3862-3862-121027150144-V3A9_BZDET"
+        }
+      },
+      "displayed_link": "https://www.justdial.com › Dimapur › AIR-INDIA-Airpo...",
+      "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+      "link": "https://www.justdial.com/Dimapur/AIR-INDIA-Airport-Office-Besides-Sps-Office-Off-Kohima-Road-Aoyimti/9999P3862-3862-121027150144-V3A9_BZDET",
+      "position": 4,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxwEB6zswFcW7C0wBZtBFAFOnSc6TsXllcVQfV01m6l3gsB675hDf1b8wyMKYFfIRZIrb4jez5j3XW6jxY3sKLb3x-NHOSNFkMrSTGTsxGGbUXWGxe1Y4Y-ZZwxRMBaRK98Aqxb5kVDlqEwqlNJrRzDa4K4BxGX1z2O4mcd5GbhRzdl0KR5mHZgD2xRsDdmbmTMBQDGoO51L76oSR5LvowP2Kz6nRjvwqayG1cT3wmTqTMOmxRt55i_00KP1GfVHagA0BCup8yTm7&ved=2ahUKEwjtzo2tvqKXAxWsNYYAHWjtPHYQFnoECDQQAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.3,
+            "reviews": 12
+          },
+          "extensions": [
+            "4.3(12)"
+          ]
+        }
+      },
+      "snippet": "AIR INDIA (Airport Office) in Aoyimti,Dimapur listed under Domestic Airlines in Dimapur. Rated 4.3 based on 12 Customer Reviews and Ratings with 8 Photos.",
+      "snippet_highlighted_words": [
+        "AIR INDIA (Airport Office) in Aoyimti,Dimapur"
+      ],
+      "source": "Justdial",
+      "title": "AIR INDIA (Airport Office) in Aoyimti,Dimapur"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVkctMnFOd19ZLUo2cUhrdS1KcThYTTFsTnRNeE1QUlJWcHphc085eWwyQUZzcmVqU2lDQzVkXzZwSDYzNXpUZUJJVnRlSHAxa1Bna0dZc0ZTOGhCNjhoYjBtby1vVFpQUlk0ekd4VV9QdlRwQUpEcmRQbW92UnpIR0ZHWFE5S295RVl0Q0VELU42URIEGgIIABqaBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkD2BAgAEAAYACAAKhQKA2FpchXI6dlAGghhaXJpbmRpYSoWCgVpbmRpYRXOD95AGghhaXJpbmRpYSqLAQoJY29tcGxhaW50FQAAAAAaCGNvbXBsYWluGgpjb21wbGFpbnRzGg1jdXN0b21lciBjYXJlGhBjdXN0b21lciBzZXJ2aWNlGglncmlldmFuY2UaCmdyaWV2YW5jZXMaCGhlbHBsaW5lGgdob3RsaW5lGgh0b2xsZnJlZRoOaXY7cDtjb21wbGFpbnQqHAoGbnVtYmVyFaO6jUAaBGxpbmUaB251bWJlcnMyoAEvZ290bz91cmw9Q0FFU2JBSHJPekFWRy0ycU53X1ktSjZxSGt1LUpxOFhNMWxOdE14TVBSUlZwemFzTzl5bDJBRnNyZWpTaUNDNWRfNnBINjM1elRlQklWdGVIcDFrUGdrR1lzRlM4aEI2OGhiMG1vLW9UWlBSWTR6R3hVX1B2VHBBSkRyZFBtb3ZSekhHRkdYUTlLb3lFWXRDRUQtTjZROis8Yj5BaXIgSW5kaWE8L2I-IG9mZmljZSBpbiBHb2EgLSBHcm90YWwuY29tQsEBPGI-QWlyIEluZGlhIEhlbHBsaW5lIE51bWJlciBpbiBHb25kaWE8L2I-ICZtaWRkb3Q7IEFpciBJbmRpYSBUb2xsIEZyZWUgTnVtYmVyIG5lYXIgbWUgJm1pZGRvdDsgQWlyIEluZGlhIEhlbHBsaW5lIE51bWJlciBpbiBQb3J0IEJsYWlyICZtaWRkb3Q7IEFpciBJbmRpYSBIZWxwbGluZSBOdW1iZXIgaW4gSmFtc2hlZHB1ciZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVkctMnFOd19ZLUo2cUhrdS1KcThYTTFsTnRNeE1QUlJWcHphc085eWwyQUZzcmVqU2lDQzVkXzZwSDYzNXpUZUJJVnRlSHAxa1Bna0dZc0ZTOGhCNjhoYjBtby1vVFpQUlk0ekd4VV9QdlRwQUpEcmRQbW92UnpIR0ZHWFE5S295RVl0Q0VELU42URIEGgIIABqaBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkD2BAgAEAAYACAAKhQKA2FpchXI6dlAGghhaXJpbmRpYSoWCgVpbmRpYRXOD95AGghhaXJpbmRpYSqLAQoJY29tcGxhaW50FQAAAAAaCGNvbXBsYWluGgpjb21wbGFpbnRzGg1jdXN0b21lciBjYXJlGhBjdXN0b21lciBzZXJ2aWNlGglncmlldmFuY2UaCmdyaWV2YW5jZXMaCGhlbHBsaW5lGgdob3RsaW5lGgh0b2xsZnJlZRoOaXY7cDtjb21wbGFpbnQqHAoGbnVtYmVyFaO6jUAaBGxpbmUaB251bWJlcnMyoAEvZ290bz91cmw9Q0FFU2JBSHJPekFWRy0ycU53X1ktSjZxSGt1LUpxOFhNMWxOdE14TVBSUlZwemFzTzl5bDJBRnNyZWpTaUNDNWRfNnBINjM1elRlQklWdGVIcDFrUGdrR1lzRlM4aEI2OGhiMG1vLW9UWlBSWTR6R3hVX1B2VHBBSkRyZFBtb3ZSekhHRkdYUTlLb3lFWXRDRUQtTjZROis8Yj5BaXIgSW5kaWE8L2I-IG9mZmljZSBpbiBHb2EgLSBHcm90YWwuY29tQsEBPGI-QWlyIEluZGlhIEhlbHBsaW5lIE51bWJlciBpbiBHb25kaWE8L2I-ICZtaWRkb3Q7IEFpciBJbmRpYSBUb2xsIEZyZWUgTnVtYmVyIG5lYXIgbWUgJm1pZGRvdDsgQWlyIEluZGlhIEhlbHBsaW5lIE51bWJlciBpbiBQb3J0IEJsYWlyICZtaWRkb3Q7IEFpciBJbmRpYSBIZWxwbGluZSBOdW1iZXIgaW4gSmFtc2hlZHB1ciZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Air India Helpline Number in Gondia · Air India Toll Free Number near me · Air India Helpline Number in Port Blair · Air India Helpline Number in Jamshedpur ...",
+          "icon": "https://serpapi.com/images/i/UklGRrYAAABXRUJQVlA4IKoAAACwAgCdASoQABAAAsBMJbACdLoAfg8RDZGX1bj_AuQA_W_V9p91vsFtlP-BEz4BYOJQt7UCSXLew_CiIXH6e68CZQbQ4tUFrFM6uU_4njlTdUR_JjvnoeQHPTKGeNfi6ji0Aw81yOxCGPnKWZNU3tAs0JyHB_J4_tAF6PezUbv_7Tq2LBPxbSTuES3wFCO_A3_8z3zSLMfH8yxGNs395zVoH6H3YuIgukK-AA.webp",
+          "source_info_link": "https://www.grotal.com/Goa/Air-India-office-C133/"
+        }
+      },
+      "displayed_link": "https://www.grotal.com › Goa › Air-India-office-C133",
+      "favicon": "https://serpapi.com/images/i/UklGRrYAAABXRUJQVlA4IKoAAACwAgCdASoQABAAAsBMJbACdLoAfg8RDZGX1bj_AuQA_W_V9p91vsFtlP-BEz4BYOJQt7UCSXLew_CiIXH6e68CZQbQ4tUFrFM6uU_4njlTdUR_JjvnoeQHPTKGeNfi6ji0Aw81yOxCGPnKWZNU3tAs0JyHB_J4_tAF6PezUbv_7Tq2LBPxbSTuES3wFCO_A3_8z3zSLMfH8yxGNs395zVoH6H3YuIgukK-AA.webp",
+      "link": "https://www.grotal.com/Goa/Air-India-office-C133/",
+      "position": 5,
+      "read_more_link": "https://www.grotal.com/Goa/Air-India-office-C133/#:~:text=Air%20India%20Limited",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVG-2qNw_Y-J6qHku-Jq8XM1lNtMxMPRRVpzasO9yl2AFsrejSiCC5d_6pH635zTeBIVteHp1kPgkGYsFS8hB68hb0mo-oTZPRY4zGxU_PvTpAJDrdPmovRzHGFGXQ9KoyEYtCED-N6Q&ved=2ahUKEwjtzo2tvqKXAxWsNYYAHWjtPHYQFnoECC8QAQ&uoh=1",
+      "snippet": "Air India Helpline Number in Gondia · Air India Toll Free Number near me · Air India Helpline Number in Port Blair · Air India Helpline Number in Jamshedpur ...",
+      "snippet_highlighted_words": [
+        "Air India Helpline Number in Gondia"
+      ],
+      "source": "Grotal.com",
+      "title": "Air India office in Goa"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVk90UFBlZG9jRFF5U1ppaEJOZENyM29rcHNsMVR6Y2RybmZjSjlndTVuRGhYclU3a24wbFc4aEhjRS1qeE85REQ2S2xXZG5aR1hYSnVIMGVLNDJuYzBEaDc0T0gxT0dJd3RFM3pBeTV0SFhMeWdGYnFwRU5MZmZOVERVVm5VZk84TE85V2lREgQaAggAGs8EEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQKsECAAQABgAIAAqFAoDYWlyFWfOtkAaCGFpcmluZGlhKhYKBWluZGlhFQ6fuUAaCGFpcmluZGlhKosBCgljb21wbGFpbnQVnO4dQBoIY29tcGxhaW4aCmNvbXBsYWludHMaDWN1c3RvbWVyIGNhcmUaEGN1c3RvbWVyIHNlcnZpY2UaCWdyaWV2YW5jZRoKZ3JpZXZhbmNlcxoIaGVscGxpbmUaB2hvdGxpbmUaCHRvbGxmcmVlGg5pdjtwO2NvbXBsYWludCocCgZudW1iZXIVAIstPhoEbGluZRoHbnVtYmVyczKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZPdFBQZWRvY0RReVNaaWhCTmRDcjNva3BzbDFUemNkcm5mY0o5Z3U1bkRoWHJVN2tuMGxXOGhIY0UtanhPOURENktsV2RuWkdYWEp1SDBlSzQybmMwRGg3NE9IMU9HSXd0RTN6QXk1dEhYTHlnRmJxcEVOTGZmTlREVVZuVWZPOExPOVdpUTohPGI-QWlyIEluZGlhPC9iPiAtIE11bWJhaSBBaXJwb3J0QoQBPGI-Q29tcGxhaW50PC9iPiBhZ2FpbnN0IGltbWlncmF0aW9uIHN0YWZmLiBNeSBuYW1lIGlzIFByYWJoam90IEthdXIgS2FuZyBhIEJyaXRpc2ggQ2l0aXplbi4gTXkgcGFzc3BvcnQgPGI-bnVtYmVyPC9iPiBpcyA1NTY0ODE3NDYuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVk90UFBlZG9jRFF5U1ppaEJOZENyM29rcHNsMVR6Y2RybmZjSjlndTVuRGhYclU3a24wbFc4aEhjRS1qeE85REQ2S2xXZG5aR1hYSnVIMGVLNDJuYzBEaDc0T0gxT0dJd3RFM3pBeTV0SFhMeWdGYnFwRU5MZmZOVERVVm5VZk84TE85V2lREgQaAggAGs8EEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQKsECAAQABgAIAAqFAoDYWlyFWfOtkAaCGFpcmluZGlhKhYKBWluZGlhFQ6fuUAaCGFpcmluZGlhKosBCgljb21wbGFpbnQVnO4dQBoIY29tcGxhaW4aCmNvbXBsYWludHMaDWN1c3RvbWVyIGNhcmUaEGN1c3RvbWVyIHNlcnZpY2UaCWdyaWV2YW5jZRoKZ3JpZXZhbmNlcxoIaGVscGxpbmUaB2hvdGxpbmUaCHRvbGxmcmVlGg5pdjtwO2NvbXBsYWludCocCgZudW1iZXIVAIstPhoEbGluZRoHbnVtYmVyczKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZPdFBQZWRvY0RReVNaaWhCTmRDcjNva3BzbDFUemNkcm5mY0o5Z3U1bkRoWHJVN2tuMGxXOGhIY0UtanhPOURENktsV2RuWkdYWEp1SDBlSzQybmMwRGg3NE9IMU9HSXd0RTN6QXk1dEhYTHlnRmJxcEVOTGZmTlREVVZuVWZPOExPOVdpUTohPGI-QWlyIEluZGlhPC9iPiAtIE11bWJhaSBBaXJwb3J0QoQBPGI-Q29tcGxhaW50PC9iPiBhZ2FpbnN0IGltbWlncmF0aW9uIHN0YWZmLiBNeSBuYW1lIGlzIFByYWJoam90IEthdXIgS2FuZyBhIEJyaXRpc2ggQ2l0aXplbi4gTXkgcGFzc3BvcnQgPGI-bnVtYmVyPC9iPiBpcyA1NTY0ODE3NDYuIgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Complaint against immigration staff. My name is Prabhjot Kaur Kang a British Citizen. My passport number is 556481746.",
+          "icon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAACQBQCdASogACAAPtE-tFooIigoFAEAGglqALbLLqxSyM9KlHe1fPNlNpwXpG1Sdg4laLx6gAD-_SzW4bvHWhlK0tURXP1q7Wq2L8-TBZPh9m_B9SXSjo7Whvk6VRfEkFhM4A9Ig0pan55nGN-G5HhGH8LKWah4kiSQ9CZ8BxVUrEKuDNKx5peDuULAeYAO1Xgik5nu8zioCnn4yG1wft1nRGezQH8APF4gaJWQ8VJQo5OxbUZ4AA.webp",
+          "source_info_link": "https://mumbaiairport.in/complaints/air-india/"
+        }
+      },
+      "date": "21 Nov 2024",
+      "displayed_link": "https://mumbaiairport.in › complaints › air-india",
+      "favicon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAACQBQCdASogACAAPtE-tFooIigoFAEAGglqALbLLqxSyM9KlHe1fPNlNpwXpG1Sdg4laLx6gAD-_SzW4bvHWhlK0tURXP1q7Wq2L8-TBZPh9m_B9SXSjo7Whvk6VRfEkFhM4A9Ig0pan55nGN-G5HhGH8LKWah4kiSQ9CZ8BxVUrEKuDNKx5peDuULAeYAO1Xgik5nu8zioCnn4yG1wft1nRGezQH8APF4gaJWQ8VJQo5OxbUZ4AA.webp",
+      "link": "https://mumbaiairport.in/complaints/air-india/",
+      "position": 6,
+      "read_more_link": "https://mumbaiairport.in/complaints/air-india/#:~:text=Complaint%20against%20immigration%20staff",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVOtPPedocDQySZihBNdCr3okpsl1TzcdrnfcJ9gu5nDhXrU7kn0lW8hHcE-jxO9DD6KlWdnZGXXJuH0eK42nc0Dh74OH1OGIwtE3zAy5tHXLygFbqpENLffNTDUVnUfO8LO9WiQ&ved=2ahUKEwjtzo2tvqKXAxWsNYYAHWjtPHYQFnoECC4QAQ&uoh=1",
+      "snippet": "Complaint against immigration staff. My name is Prabhjot Kaur Kang a British Citizen. My passport number is 556481746.",
+      "snippet_highlighted_words": [
+        "Complaint",
+        "number"
+      ],
+      "source": "mumbaiairport.in",
+      "title": "Air India - Mumbai Airport"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZkcFNvaFp4V3F5NkxyX0hXWFdyY21Qb3BRUTVWWWFoOE9sQUR3UHJqNUdVUGFKMFU3THNLdlJYQy1wbTNpWlRzeWhwYlhsVXA0em00S3N6TThNTGdJeGduWHNDbkFCMjZqM01VQW8xQTkyeTFhYzhZbDhjTWVnZzhaVDhIVXJXOFdxcHVvUGFhSG9nNHhFQmlLZVFNVFV4cjhLS3JwWGpSSzRsSnpGdmNjNnIydVNvWUNWQkJUN1VxZzJna2dxV3NjX2dXUTgSBBoCCAAaxAUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAoAUIABAAGAAgACoUCgNhaXIVCCZ7QBoIYWlyaW5kaWEqFgoFaW5kaWEVeqt4QBoIYWlyaW5kaWEqiwEKCWNvbXBsYWludBWDrNY_Gghjb21wbGFpbhoKY29tcGxhaW50cxoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoJZ3JpZXZhbmNlGgpncmlldmFuY2VzGghoZWxwbGluZRoHaG90bGluZRoIdG9sbGZyZWUaDml2O3A7Y29tcGxhaW50KhwKBm51bWJlchUAAAAAGgRsaW5lGgdudW1iZXJzMt0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZkcFNvaFp4V3F5NkxyX0hXWFdyY21Qb3BRUTVWWWFoOE9sQUR3UHJqNUdVUGFKMFU3THNLdlJYQy1wbTNpWlRzeWhwYlhsVXA0em00S3N6TThNTGdJeGduWHNDbkFCMjZqM01VQW8xQTkyeTFhYzhZbDhjTWVnZzhaVDhIVXJXOFdxcHVvUGFhSG9nNHhFQmlLZVFNVFV4cjhLS3JwWGpSSzRsSnpGdmNjNnIydVNvWUNWQkJUN1VxZzJna2dxV3NjX2dXUTg6RjxiPkFpciBJbmRpYTwvYj4gRXhwcmVzcyAtIFJlZ2FyZGluZyBQb29yIFNlcnZpY2UgYW5kIExhY2sgLi4uIC0gVm94eWFCkwE8Yj5BaXIgSW5kaWEgRXhwcmVzczwvYj4gLSBSZWdhcmRpbmcgUG9vciBTZXJ2aWNlIGFuZCBMYWNrIG9mIENvbW11bmljYXRpb24uIElxYmFsIEFobWVkIGZpbGVkIGNvbXBsYWludCBhZ2FpbnN0IEFpciBJbmRpYSBFeHByZXNzIG9uIEp1biAzMCwgMjAyNS4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZkcFNvaFp4V3F5NkxyX0hXWFdyY21Qb3BRUTVWWWFoOE9sQUR3UHJqNUdVUGFKMFU3THNLdlJYQy1wbTNpWlRzeWhwYlhsVXA0em00S3N6TThNTGdJeGduWHNDbkFCMjZqM01VQW8xQTkyeTFhYzhZbDhjTWVnZzhaVDhIVXJXOFdxcHVvUGFhSG9nNHhFQmlLZVFNVFV4cjhLS3JwWGpSSzRsSnpGdmNjNnIydVNvWUNWQkJUN1VxZzJna2dxV3NjX2dXUTgSBBoCCAAaxAUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAoAUIABAAGAAgACoUCgNhaXIVCCZ7QBoIYWlyaW5kaWEqFgoFaW5kaWEVeqt4QBoIYWlyaW5kaWEqiwEKCWNvbXBsYWludBWDrNY_Gghjb21wbGFpbhoKY29tcGxhaW50cxoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoJZ3JpZXZhbmNlGgpncmlldmFuY2VzGghoZWxwbGluZRoHaG90bGluZRoIdG9sbGZyZWUaDml2O3A7Y29tcGxhaW50KhwKBm51bWJlchUAAAAAGgRsaW5lGgdudW1iZXJzMt0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZkcFNvaFp4V3F5NkxyX0hXWFdyY21Qb3BRUTVWWWFoOE9sQUR3UHJqNUdVUGFKMFU3THNLdlJYQy1wbTNpWlRzeWhwYlhsVXA0em00S3N6TThNTGdJeGduWHNDbkFCMjZqM01VQW8xQTkyeTFhYzhZbDhjTWVnZzhaVDhIVXJXOFdxcHVvUGFhSG9nNHhFQmlLZVFNVFV4cjhLS3JwWGpSSzRsSnpGdmNjNnIydVNvWUNWQkJUN1VxZzJna2dxV3NjX2dXUTg6RjxiPkFpciBJbmRpYTwvYj4gRXhwcmVzcyAtIFJlZ2FyZGluZyBQb29yIFNlcnZpY2UgYW5kIExhY2sgLi4uIC0gVm94eWFCkwE8Yj5BaXIgSW5kaWEgRXhwcmVzczwvYj4gLSBSZWdhcmRpbmcgUG9vciBTZXJ2aWNlIGFuZCBMYWNrIG9mIENvbW11bmljYXRpb24uIElxYmFsIEFobWVkIGZpbGVkIGNvbXBsYWludCBhZ2FpbnN0IEFpciBJbmRpYSBFeHByZXNzIG9uIEp1biAzMCwgMjAyNS4iAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Air India Express - Regarding Poor Service and Lack of Communication. Iqbal Ahmed filed complaint against Air India Express on Jun 30, 2025.",
+          "icon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADQBgCdASocABwAPtEutFooIagoGAEAGglsALEe44KxACwAPKq9kbygE8B7zzWKYe74RMPmmHpDVpp3gmtiLAAA_swtOG39QTlf4Xu2orukUGqa4K3LbC5LB3YPKexX1oSNC6H2sYz54pATr13WU2L_-Jb-ap7CyEL9hvU0-zzfEJhMupAGxY_qO3ONZXpRIzjf6bJJAFJT2ckHm1hVZhhIblwG6d0viFG1fMkZMOgSvVJkHN_E62g_S-fU9dQSyWTv2lBqPRC_X--t5UrPtk_qzd_ptOjnpsuZbUwzEkLzfb2wU7yn-WPTtzOpuUtygPBMLveUBN7cmFEMgAwxGyoMf_GUoEygM15Jx67T8_3A1OyZwZuAKYfjzM9bt6Drn_n_nKpfcl1_6wAAAAA.webp",
+          "source_info_link": "https://voxya.com/consumer-complaints/regarding-poor-service-and-lack-of-communication-/246389"
+        }
+      },
+      "date": "30 Jun 2025",
+      "displayed_link": "https://voxya.com › consumer-complaints › regarding-...",
+      "favicon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADQBgCdASocABwAPtEutFooIagoGAEAGglsALEe44KxACwAPKq9kbygE8B7zzWKYe74RMPmmHpDVpp3gmtiLAAA_swtOG39QTlf4Xu2orukUGqa4K3LbC5LB3YPKexX1oSNC6H2sYz54pATr13WU2L_-Jb-ap7CyEL9hvU0-zzfEJhMupAGxY_qO3ONZXpRIzjf6bJJAFJT2ckHm1hVZhhIblwG6d0viFG1fMkZMOgSvVJkHN_E62g_S-fU9dQSyWTv2lBqPRC_X--t5UrPtk_qzd_ptOjnpsuZbUwzEkLzfb2wU7yn-WPTtzOpuUtygPBMLveUBN7cmFEMgAwxGyoMf_GUoEygM15Jx67T8_3A1OyZwZuAKYfjzM9bt6Drn_n_nKpfcl1_6wAAAAA.webp",
+      "link": "https://voxya.com/consumer-complaints/regarding-poor-service-and-lack-of-communication-/246389",
+      "position": 7,
+      "read_more_link": "https://voxya.com/consumer-complaints/regarding-poor-service-and-lack-of-communication-/246389#:~:text=Air%20India%20Express%20%2D%20Regarding,Express%20on%20Jun%2030%2C%202025",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFdpSohZxWqy6Lr_HWXWrcmPopQQ5VYah8OlADwPrj5GUPaJ0U7LsKvRXC-pm3iZTsyhpbXlUp4zm4KszM8MLgIxgnXsCnAB26j3MUAo1A92y1ac8Yl8cMegg8ZT8HUrW8WqpuoPaaHog4xEBiKeQMTUxr8KKrpXjRK4lJzFvcc6r2uSoYCVBBT7Uqg2gkgqWsc_gWQ8&ved=2ahUKEwjtzo2tvqKXAxWsNYYAHWjtPHYQFnoECDAQAQ&uoh=1",
+      "snippet": "Air India Express - Regarding Poor Service and Lack of Communication. Iqbal Ahmed filed complaint against Air India Express on Jun 30, 2025.",
+      "snippet_highlighted_words": [
+        "Air India Express"
+      ],
+      "source": "Voxya",
+      "title": "Air India Express - Regarding Poor Service and Lack of ..."
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZZRTdhTFRQQjZaaGdua3lYbkFHTTM3aEtMc19ZeUxWNk5vZFhEYWUyTkdSMkstb0VSQmxpTmF4eDJaTUVPbWtqWFY1bURBU0VFVnp5eWpHaHhWU2ppR0tKZjN3cUl2bnl3SXBFWWI3T01Remo4Wk1sQ2FqNjFCeFNPNVZHT19lbHZCd281VTJOTm1SS1BJQUZkWHJ0S2xIUUdyZ2hra2lFOG5ZOUszcRIEGgIIABqrBRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCHBQgAEAAYACAAKhQKA2FpchWG5WBAGghhaXJpbmRpYSoWCgVpbmRpYRWG5WBAGghhaXJpbmRpYSqLAQoJY29tcGxhaW50FXPy5j0aCGNvbXBsYWluGgpjb21wbGFpbnRzGg1jdXN0b21lciBjYXJlGhBjdXN0b21lciBzZXJ2aWNlGglncmlldmFuY2UaCmdyaWV2YW5jZXMaCGhlbHBsaW5lGgdob3RsaW5lGgh0b2xsZnJlZRoOaXY7cDtjb21wbGFpbnQqHAoGbnVtYmVyFQAAAAAaBGxpbmUaB251bWJlcnMyvgEvZ290bz91cmw9Q0FFU2dnRUI2enN3RllFN2FMVFBCNlpoZ25reVhuQUdNMzdoS0xzX1l5TFY2Tm9kWERhZTJOR1IySy1vRVJCbGlOYXh4MlpNRU9ta2pYVjVtREFTRUVWenl5akdoeFZTamlHS0pmM3dxSXZueXdJcEVZYjdPTVF6ajhaTWxDYWo2MUJ4U081VkdPX2VsdkJ3bzVVMk5ObVJLUElBRmRYcnRLbEhRR3JnaGtraUU4blk5SzNxOkY8Yj5BaXIgSW5kaWE8L2I-IEV4cHJlc3MgZmxpZ2h0IGV4cGVyaWVuY2UgYW5kIHJlZnVuZCBpc3N1ZSAtIEZhY2Vib29rQpkBV2hvbSBzaG91bGQgb25lIDxiPmNvbXBsYWludDwvYj4gdG8gPyBEbyBub3QgaGF2ZSBhIG1haWwgYWRkcmVzcyBmb3IgY3VzdG9tZXIgc3VwcG9ydCB0byBtYWtlIG15IHRyaXAuIE1lcmEgQmhhcmF0IE1haGFuICEgU2Fuc2thciBEb3JpeWEgYW5kIDM1Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZZRTdhTFRQQjZaaGdua3lYbkFHTTM3aEtMc19ZeUxWNk5vZFhEYWUyTkdSMkstb0VSQmxpTmF4eDJaTUVPbWtqWFY1bURBU0VFVnp5eWpHaHhWU2ppR0tKZjN3cUl2bnl3SXBFWWI3T01Remo4Wk1sQ2FqNjFCeFNPNVZHT19lbHZCd281VTJOTm1SS1BJQUZkWHJ0S2xIUUdyZ2hra2lFOG5ZOUszcRIEGgIIABqrBRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCHBQgAEAAYACAAKhQKA2FpchWG5WBAGghhaXJpbmRpYSoWCgVpbmRpYRWG5WBAGghhaXJpbmRpYSqLAQoJY29tcGxhaW50FXPy5j0aCGNvbXBsYWluGgpjb21wbGFpbnRzGg1jdXN0b21lciBjYXJlGhBjdXN0b21lciBzZXJ2aWNlGglncmlldmFuY2UaCmdyaWV2YW5jZXMaCGhlbHBsaW5lGgdob3RsaW5lGgh0b2xsZnJlZRoOaXY7cDtjb21wbGFpbnQqHAoGbnVtYmVyFQAAAAAaBGxpbmUaB251bWJlcnMyvgEvZ290bz91cmw9Q0FFU2dnRUI2enN3RllFN2FMVFBCNlpoZ25reVhuQUdNMzdoS0xzX1l5TFY2Tm9kWERhZTJOR1IySy1vRVJCbGlOYXh4MlpNRU9ta2pYVjVtREFTRUVWenl5akdoeFZTamlHS0pmM3dxSXZueXdJcEVZYjdPTVF6ajhaTWxDYWo2MUJ4U081VkdPX2VsdkJ3bzVVMk5ObVJLUElBRmRYcnRLbEhRR3JnaGtraUU4blk5SzNxOkY8Yj5BaXIgSW5kaWE8L2I-IEV4cHJlc3MgZmxpZ2h0IGV4cGVyaWVuY2UgYW5kIHJlZnVuZCBpc3N1ZSAtIEZhY2Vib29rQpkBV2hvbSBzaG91bGQgb25lIDxiPmNvbXBsYWludDwvYj4gdG8gPyBEbyBub3QgaGF2ZSBhIG1haWwgYWRkcmVzcyBmb3IgY3VzdG9tZXIgc3VwcG9ydCB0byBtYWtlIG15IHRyaXAuIE1lcmEgQmhhcmF0IE1haGFuICEgU2Fuc2thciBEb3JpeWEgYW5kIDM1Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Whom should one complaint to ? Do not have a mail address for customer support to make my trip. Mera Bharat Mahan ! Sanskar Doriya and 35 ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+          "source_info_link": "https://www.facebook.com/groups/178716542706698/posts/2003115040266830/"
+        }
+      },
+      "displayed_link": "8 comments · 6 months ago",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "link": "https://www.facebook.com/groups/178716542706698/posts/2003115040266830/",
+      "position": 8,
+      "read_more_link": "https://www.facebook.com/groups/178716542706698/posts/2003115040266830/#:~:text=Whom%20should%20one%20complaint%20to,Sanskar%20Doriya%20and%2035%20others",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFYE7aLTPB6ZhgnkyXnAGM37hKLs_YyLV6NodXDae2NGR2K-oERBliNaxx2ZMEOmkjXV5mDASEEVzyyjGhxVSjiGKJf3wqIvnywIpEYb7OMQzj8ZMlCaj61BxSO5VGO_elvBwo5U2NNmRKPIAFdXrtKlHQGrghkkiE8nY9K3q&ved=2ahUKEwjtzo2tvqKXAxWsNYYAHWjtPHYQFnoECDUQAQ&uoh=1",
+      "snippet": "Whom should one complaint to ? Do not have a mail address for customer support to make my trip. Mera Bharat Mahan ! Sanskar Doriya and 35 ...",
+      "snippet_highlighted_words": [
+        "complaint"
+      ],
+      "source": "Facebook · Kovalam Connect",
+      "title": "Air India Express flight experience and refund issue"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZZZ2hXYTdOYUhJeUdQN3B1YldZYkdRY04wQ1Fta0dFb1RUYU15VkllTm5ZZHA4eVlpbU5Fc0pYQXNrdW1yeXJUVEhnS3AyVUNmMjctOXJEbEJ4RlE4eWhFdFIwM1h3MXZ2YVJqd3JzMmhlTkZLNVJWX0N1S2JiU2FYeW1YT1UxaU1CclhuRUxPaUJ3NE1rQjJUTC1rS3M3MXg5b2dKSUFTUlV4NHM4dFdvaDg5SnhMcF9EaWRVRVVZZlpTYzhCVTdZQ1YyZWJ2QXBLc2o0eFNzYWsSBBoCCAAa2QUSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAtQUIABAAGAAgACoUCgNhaXIVVZGxQBoIYWlyaW5kaWEqFgoFaW5kaWEVpMexQBoIYWlyaW5kaWEqiwEKCWNvbXBsYWludBUAAAAAGghjb21wbGFpbhoKY29tcGxhaW50cxoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoJZ3JpZXZhbmNlGgpncmlldmFuY2VzGghoZWxwbGluZRoHaG90bGluZRoIdG9sbGZyZWUaDml2O3A7Y29tcGxhaW50KhwKBm51bWJlchV7pvw_GgRsaW5lGgdudW1iZXJzMukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZZZ2hXYTdOYUhJeUdQN3B1YldZYkdRY04wQ1Fta0dFb1RUYU15VkllTm5ZZHA4eVlpbU5Fc0pYQXNrdW1yeXJUVEhnS3AyVUNmMjctOXJEbEJ4RlE4eWhFdFIwM1h3MXZ2YVJqd3JzMmhlTkZLNVJWX0N1S2JiU2FYeW1YT1UxaU1CclhuRUxPaUJ3NE1rQjJUTC1rS3M3MXg5b2dKSUFTUlV4NHM4dFdvaDg5SnhMcF9EaWRVRVVZZlpTYzhCVTdZQ1YyZWJ2QXBLc2o0eFNzYWs6UDxiPkFpciBJbmRpYTwvYj4gTG95YWx0eSBhIG5pZ2h0bWFyZSAsIDxiPmN1c3RvbWVyIGNhcmU8L2I-IGlzbnQgd29ya2luZywgbm8gLi4uQpIBQWlyIEluZGlhIExveWFsdHkgYSBuaWdodG1hcmUgLCBjdXN0b21lciBjYXJlIGlzbnQgd29ya2luZywgbm8gdGlja2V0aW5nIHN5c3RlbSwgPGI-bm8gZGlyZWN0IHBob25lIG51bWJlcjwvYj4gb3IgZW1haWwgYWRkcmVzcyBvbmUgY2FuIHdyaXRlIHRvby4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZZZ2hXYTdOYUhJeUdQN3B1YldZYkdRY04wQ1Fta0dFb1RUYU15VkllTm5ZZHA4eVlpbU5Fc0pYQXNrdW1yeXJUVEhnS3AyVUNmMjctOXJEbEJ4RlE4eWhFdFIwM1h3MXZ2YVJqd3JzMmhlTkZLNVJWX0N1S2JiU2FYeW1YT1UxaU1CclhuRUxPaUJ3NE1rQjJUTC1rS3M3MXg5b2dKSUFTUlV4NHM4dFdvaDg5SnhMcF9EaWRVRVVZZlpTYzhCVTdZQ1YyZWJ2QXBLc2o0eFNzYWsSBBoCCAAa2QUSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAtQUIABAAGAAgACoUCgNhaXIVVZGxQBoIYWlyaW5kaWEqFgoFaW5kaWEVpMexQBoIYWlyaW5kaWEqiwEKCWNvbXBsYWludBUAAAAAGghjb21wbGFpbhoKY29tcGxhaW50cxoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoJZ3JpZXZhbmNlGgpncmlldmFuY2VzGghoZWxwbGluZRoHaG90bGluZRoIdG9sbGZyZWUaDml2O3A7Y29tcGxhaW50KhwKBm51bWJlchV7pvw_GgRsaW5lGgdudW1iZXJzMukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZZZ2hXYTdOYUhJeUdQN3B1YldZYkdRY04wQ1Fta0dFb1RUYU15VkllTm5ZZHA4eVlpbU5Fc0pYQXNrdW1yeXJUVEhnS3AyVUNmMjctOXJEbEJ4RlE4eWhFdFIwM1h3MXZ2YVJqd3JzMmhlTkZLNVJWX0N1S2JiU2FYeW1YT1UxaU1CclhuRUxPaUJ3NE1rQjJUTC1rS3M3MXg5b2dKSUFTUlV4NHM4dFdvaDg5SnhMcF9EaWRVRVVZZlpTYzhCVTdZQ1YyZWJ2QXBLc2o0eFNzYWs6UDxiPkFpciBJbmRpYTwvYj4gTG95YWx0eSBhIG5pZ2h0bWFyZSAsIDxiPmN1c3RvbWVyIGNhcmU8L2I-IGlzbnQgd29ya2luZywgbm8gLi4uQpIBQWlyIEluZGlhIExveWFsdHkgYSBuaWdodG1hcmUgLCBjdXN0b21lciBjYXJlIGlzbnQgd29ya2luZywgbm8gdGlja2V0aW5nIHN5c3RlbSwgPGI-bm8gZGlyZWN0IHBob25lIG51bWJlcjwvYj4gb3IgZW1haWwgYWRkcmVzcyBvbmUgY2FuIHdyaXRlIHRvby4iAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Air India Loyalty a nightmare , customer care isnt working, no ticketing system, no direct phone number or email address one can write too.",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+          "source_info_link": "https://www.reddit.com/r/awardtravel/comments/18y5dyn/air_india_loyalty_a_nightmare_customer_care_isnt/"
+        }
+      },
+      "displayed_link": "4 comments · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "link": "https://www.reddit.com/r/awardtravel/comments/18y5dyn/air_india_loyalty_a_nightmare_customer_care_isnt/",
+      "position": 9,
+      "read_more_link": "https://www.reddit.com/r/awardtravel/comments/18y5dyn/air_india_loyalty_a_nightmare_customer_care_isnt/#:~:text=Air%20India%20Loyalty%20a%20nightmare,address%20one%20can%20write%20too.",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESogEB6zswFYghWa7NaHIyGP7pubWYbGQcN0CQmkGEoTTaMyVIeNnYdp8yYimNEsJXAskumryrTTHgKp2UCf27-9rDlBxFQ8yhEtR03Xw1vvaRjwrs2heNFK5RV_CuKbbSaXymXOU1iMBrXnELOiBw4MkB2TL-kKs71x9ogJIASRUx4s8tWoh89JxLp_DidUEUYfZSc8BU7YCV2ebvApKsj4xSsak&ved=2ahUKEwjtzo2tvqKXAxWsNYYAHWjtPHYQFnoECDEQAQ&uoh=1",
+      "snippet": "Air India Loyalty a nightmare , customer care isnt working, no ticketing system, no direct phone number or email address one can write too.",
+      "snippet_highlighted_words": [
+        "no direct phone number"
+      ],
+      "source": "Reddit · r/awardtravel",
+      "title": "Air India Loyalty a nightmare , customer care isnt working ..."
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVjh1OTVobUpnVjMwbnZZZ2xfa1I0TnB1eWRkMUtKU1FHVDlQSkl4S28tQ2lmMWF0Sm9jOVdFWmY5QWlfUkZ4bWNpUlM4dkhCNm0xaWJnODI5WHh0ZUstOGp3VGNWaWp6WHZMLUI3WS1zU2J5S0NpRGdiUi03ZWVSeld3dGVOSWNkX3dzNE1oLWttLTQSBBoCCAAahQUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA4QQIABAAGAAgACoUCgNhaXIV5kHRQBoIYWlyaW5kaWEqFgoFaW5kaWEVKsXXQBoIYWlyaW5kaWEqiwEKCWNvbXBsYWludBUAAAAAGghjb21wbGFpbhoKY29tcGxhaW50cxoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoJZ3JpZXZhbmNlGgpncmlldmFuY2VzGghoZWxwbGluZRoHaG90bGluZRoIdG9sbGZyZWUaDml2O3A7Y29tcGxhaW50KhwKBm51bWJlchUNuTJAGgRsaW5lGgdudW1iZXJzMqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVjh1OTVobUpnVjMwbnZZZ2xfa1I0TnB1eWRkMUtKU1FHVDlQSkl4S28tQ2lmMWF0Sm9jOVdFWmY5QWlfUkZ4bWNpUlM4dkhCNm0xaWJnODI5WHh0ZUstOGp3VGNWaWp6WHZMLUI3WS1zU2J5S0NpRGdiUi03ZWVSeld3dGVOSWNkX3dzNE1oLWttLTQ6LTxiPkFpciBJbmRpYTwvYj4gb2ZmaWNlIGluIFN1cmF0IC0gR3JvdGFsLmNvbUKpATxiPkFpciBJbmRpYTwvYj4gTGltaXRlZC4gUmluZyBSb2FkLiA0dGggRmxvb3IsIFNoYW50aSBQb2ludCBCdWlsZGluZywgR2FsYSBObzogMi82NTggdG8gNjYwLCBSdXNodGFtcHVyYSwgUGluIENvZGU6IDM5NTAwMiwgUmluZyBSb2FkLCBTdXJhdCA7IDxiPkFpciBJbmRpYTwvYj4gTGltaXRlZC4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVjh1OTVobUpnVjMwbnZZZ2xfa1I0TnB1eWRkMUtKU1FHVDlQSkl4S28tQ2lmMWF0Sm9jOVdFWmY5QWlfUkZ4bWNpUlM4dkhCNm0xaWJnODI5WHh0ZUstOGp3VGNWaWp6WHZMLUI3WS1zU2J5S0NpRGdiUi03ZWVSeld3dGVOSWNkX3dzNE1oLWttLTQSBBoCCAAahQUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA4QQIABAAGAAgACoUCgNhaXIV5kHRQBoIYWlyaW5kaWEqFgoFaW5kaWEVKsXXQBoIYWlyaW5kaWEqiwEKCWNvbXBsYWludBUAAAAAGghjb21wbGFpbhoKY29tcGxhaW50cxoNY3VzdG9tZXIgY2FyZRoQY3VzdG9tZXIgc2VydmljZRoJZ3JpZXZhbmNlGgpncmlldmFuY2VzGghoZWxwbGluZRoHaG90bGluZRoIdG9sbGZyZWUaDml2O3A7Y29tcGxhaW50KhwKBm51bWJlchUNuTJAGgRsaW5lGgdudW1iZXJzMqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVjh1OTVobUpnVjMwbnZZZ2xfa1I0TnB1eWRkMUtKU1FHVDlQSkl4S28tQ2lmMWF0Sm9jOVdFWmY5QWlfUkZ4bWNpUlM4dkhCNm0xaWJnODI5WHh0ZUstOGp3VGNWaWp6WHZMLUI3WS1zU2J5S0NpRGdiUi03ZWVSeld3dGVOSWNkX3dzNE1oLWttLTQ6LTxiPkFpciBJbmRpYTwvYj4gb2ZmaWNlIGluIFN1cmF0IC0gR3JvdGFsLmNvbUKpATxiPkFpciBJbmRpYTwvYj4gTGltaXRlZC4gUmluZyBSb2FkLiA0dGggRmxvb3IsIFNoYW50aSBQb2ludCBCdWlsZGluZywgR2FsYSBObzogMi82NTggdG8gNjYwLCBSdXNodGFtcHVyYSwgUGluIENvZGU6IDM5NTAwMiwgUmluZyBSb2FkLCBTdXJhdCA7IDxiPkFpciBJbmRpYTwvYj4gTGltaXRlZC4iAhABSABYAGgA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Air India Limited. Ring Road. 4th Floor, Shanti Point Building, Gala No: 2/658 to 660, Rushtampura, Pin Code: 395002, Ring Road, Surat ; Air India Limited.",
+          "icon": "https://serpapi.com/images/i/UklGRrYAAABXRUJQVlA4IKoAAACwAgCdASoQABAAAsBMJbACdLoAfg8RDZGX1bj_AuQA_W_V9p91vsFtlP-BEz4BYOJQt7UCSXLew_CiIXH6e68CZQbQ4tUFrFM6uU_4njlTdUR_JjvnoeQHPTKGeNfi6ji0Aw81yOxCGPnKWZNU3tAs0JyHB_J4_tAF6PezUbv_7Tq2LBPxbSTuES3wFCO_A3_8z3zSLMfH8yxGNs395zVoH6H3YuIgukK-AA.webp",
+          "source_info_link": "https://www.grotal.com/Surat/Air-India-office-C97/"
+        }
+      },
+      "displayed_link": "https://www.grotal.com › Surat › Air-India-office-C97",
+      "favicon": "https://serpapi.com/images/i/UklGRrYAAABXRUJQVlA4IKoAAACwAgCdASoQABAAAsBMJbACdLoAfg8RDZGX1bj_AuQA_W_V9p91vsFtlP-BEz4BYOJQt7UCSXLew_CiIXH6e68CZQbQ4tUFrFM6uU_4njlTdUR_JjvnoeQHPTKGeNfi6ji0Aw81yOxCGPnKWZNU3tAs0JyHB_J4_tAF6PezUbv_7Tq2LBPxbSTuES3wFCO_A3_8z3zSLMfH8yxGNs395zVoH6H3YuIgukK-AA.webp",
+      "link": "https://www.grotal.com/Surat/Air-India-office-C97/",
+      "position": 10,
+      "read_more_link": "https://www.grotal.com/Surat/Air-India-office-C97/#:~:text=Air%20India%20Limited,Code%3A%20395002%2C%20Ring%20Road%2C%20Surat&text=Air%20India%20Limited",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAV8u95hmJgV30nvYgl_kR4Npuydd1KJSQGT9PJIxKo-Cif1atJoc9WEZf9Ai_RFxmciRS8vHB6m1ibg829XxteK-8jwTcVijzXvL-B7Y-sSbyKCiDgbR-7eeRzWwteNIcd_ws4Mh-km-4&ved=2ahUKEwjtzo2tvqKXAxWsNYYAHWjtPHYQFnoECE8QAQ&uoh=1",
+      "snippet": "Air India Limited. Ring Road. 4th Floor, Shanti Point Building, Gala No: 2/658 to 660, Rushtampura, Pin Code: 395002, Ring Road, Surat ; Air India Limited.",
+      "snippet_highlighted_words": [
+        "Air India",
+        "Air India"
+      ],
+      "source": "Grotal.com",
+      "title": "Air India office in Surat"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Air+India+complaint+number&sca_esv=7f9c4df3eb7148c2&hl=en&gl=in&sxsrf=APpeQns8XVpsT3Wq50_v3o56j4qcxEcRgw:1791189898724&ei=imPDau3hK6zrmLQP6NrzsQc&start=10&sa=N&sstk=AS6-VmKf9aNrq8OJ9mL8KlHAOORJ_rtMCGhUw1cC7l_3nizYAa1B-QWXw40ZIHFiZzrP2_-g--xbg6ZY_oIPuYyEAVU3cTlR3M0CoQ&ved=2ahUKEwjtzo2tvqKXAxWsNYYAHWjtPHYQ8NMDegQISxAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Air+India+complaint+number&sca_esv=7f9c4df3eb7148c2&hl=en&gl=in&sxsrf=APpeQns8XVpsT3Wq50_v3o56j4qcxEcRgw:1791189898724&ei=imPDau3hK6zrmLQP6NrzsQc&start=10&sa=N&sstk=AS6-VmKf9aNrq8OJ9mL8KlHAOORJ_rtMCGhUw1cC7l_3nizYAa1B-QWXw40ZIHFiZzrP2_-g--xbg6ZY_oIPuYyEAVU3cTlR3M0CoQ&ved=2ahUKEwjtzo2tvqKXAxWsNYYAHWjtPHYQ8tMDegQISxAE"
+    }
+  },
+  "related_questions": [
+    {
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNYTkNRVlY0VEZodFprRldYMHhaT0c4NVZtMUNjMWhQZEZCdVRuSTVNM3BuT1c1bGVIUjZVM1UyZVVGSWF6RkhlblpHVEdFNFVUQnhaak5xYzFGUldsbzFXRmwyVjBkMWJqbGliRU5zU0ZvNWVtVXdSalJNUld4U2R4SVhhVzFRUkdGMU0yaExObnB5YlV4UlVEWk9jbnB6VVdNYUlrRkVjM0k1WmxSVlJGTXROekpJTkdsWWJuVmlUR05UTFhaNWRqVktSbTV1UzJjIiwiZmN2IjoiMyIsImVpIjoiaW1QRGF1M2hLNnpybUxRUDZOcnpzUWMiLCJxYyI6IkNocGhhWElnYVc1a2FXRWdZMjl0Y0d4aGFXNTBJRzUxYldKbGNoQUFmVGgwdXo0IiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgZmlsZSBhIGNvbXBsYWludCB3aXRoIEFpciBJbmRpYT8iLCJsayI6IkdobGhhWElnYVc1a2FXRWdZMjl0Y0d4aGFXNTBJSEpoYVhObCIsImJzIjoiYzUyUU1RLUNNQkNGNDlySlZWeHVVSWdtTGcxR04tSW1jWEl3emdWYWU3RzBwclRCbjItSklneE9UcGVYLS02OXl5TTVXUjlOQ3lYVGtJTkF4WUZCYWVxSFlxZ2R0T2drSE5CQ3JpdGtHWjFITXhZVWRtcUVXWVlOSndYWlhpVnpnQTA0eVlHbUcybThEZFpLUWNtMTR4YTByNHN3aExGajExV1VqRng3M1BJZWZ5OW8tdHlGalAwX0dYQTVaVFNPRmtPTXY0Zl90V09sNnc5b0NwMVhRODRrSGlxNWNSY2FzVng0WFlHd3BoNF9ua1JMLVNIeEJfbE5tMDVlIiwiaWQiOiJmY19pbVBEYXUzaEs2enJtTFFQNk5yenNRY18xIn0=",
+      "page_token": "NHgmCXicHdBdToMwAADgeBkfHT9OkyWLsZYqxNW0tKX0xUDbjbHy53BjvHkXT-VpNH5H-L6-3b49_FydqnHsj6vF4nw-3-y6bufsje6aRXG8tHqhC-fKQh9Wd_d3_sNWr6PPGDwNMSC87wWkXlobZbzlxGoERbRMaCPGjXycsU-8MsqnEqqKMPeZBmLYQBwQ3xWZEClG4g9usxpsbIQYc_FFN-Ri-a1vIEhp5telr4RFps1cEnOERxEakMo4kDN2NhupgQYVtfhQgYIipCORptBQh5vs6DFJlynDA5_1JBjasxmD1FOVrUHOeDIwmewxq6B16GSy6Ym4nS8YplFl-lKAKJd8LqJjYNtkZAgRfFhebItpPnV7wumsa9fwxijOk1fjKywaOsgZnfIQkLcXlaTPWCoJkDlfb_VpHV7_f67ft8246j-63S8w54QO",
+      "question": "How can I file a complaint with Air India?",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NHgmCXicHdBdToMwAADgeBkfHT9OkyWLsZYqxNW0tKX0xUDbjbHy53BjvHkXT-VpNH5H-L6-3b49_FydqnHsj6vF4nw-3-y6bufsje6aRXG8tHqhC-fKQh9Wd_d3_sNWr6PPGDwNMSC87wWkXlobZbzlxGoERbRMaCPGjXycsU-8MsqnEqqKMPeZBmLYQBwQ3xWZEClG4g9usxpsbIQYc_FFN-Ri-a1vIEhp5telr4RFps1cEnOERxEakMo4kDN2NhupgQYVtfhQgYIipCORptBQh5vs6DFJlynDA5_1JBjasxmD1FOVrUHOeDIwmewxq6B16GSy6Ym4nS8YplFl-lKAKJd8LqJjYNtkZAgRfFhebItpPnV7wumsa9fwxijOk1fjKywaOsgZnfIQkLcXlaTPWCoJkDlfb_VpHV7_f67ft8246j-63S8w54QO",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNYTkNRVlY0VEZodFprRldYMHhaT0c4NVZtMUNjMWhQZEZCdVRuSTVNM3BuT1c1bGVIUjZVM1UyZVVGSWF6RkhlblpHVEdFNFVUQnhaak5xYzFGUldsbzFXRmwyVjBkMWJqbGliRU5zU0ZvNWVtVXdSalJNUld4U2R4SVhhVzFRUkdGMU0yaExObnB5YlV4UlVEWk9jbnB6VVdNYUlrRkVjM0k1WmxSVlJGTXROekpJTkdsWWJuVmlUR05UTFhaNWRqVktSbTV1UzJjIiwiZmN2IjoiMyIsImVpIjoiaW1QRGF1M2hLNnpybUxRUDZOcnpzUWMiLCJxYyI6IkNocGhhWElnYVc1a2FXRWdZMjl0Y0d4aGFXNTBJRzUxYldKbGNoQUFmVGgwdXo0IiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgZmlsZSBhIGNvbXBsYWludCB3aXRoIEFpciBJbmRpYT8iLCJsayI6IkdobGhhWElnYVc1a2FXRWdZMjl0Y0d4aGFXNTBJSEpoYVhObCIsImJzIjoiYzUyUU1RLUNNQkNGNDlySlZWeHVVSWdtTGcxR04tSW1jWEl3emdWYWU3RzBwclRCbjItSklneE9UcGVYLS02OXl5TTVXUjlOQ3lYVGtJTkF4WUZCYWVxSFlxZ2R0T2drSE5CQ3JpdGtHWjFITXhZVWRtcUVXWVlOSndYWlhpVnpnQTA0eVlHbUcybThEZFpLUWNtMTR4YTByNHN3aExGajExV1VqRng3M1BJZWZ5OW8tdHlGalAwX0dYQTVaVFNPRmtPTXY0Zl90V09sNnc5b0NwMVhRODRrSGlxNWNSY2FzVng0WFlHd3BoNF9ua1JMLVNIeEJfbE5tMDVlIiwiaWQiOiJmY19pbVBEYXUzaEs2enJtTFFQNk5yenNRY18xIn0%3D",
+      "type": "ai_overview"
+    },
+    {
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNYTkNRVlY0VEZodFprRldYMHhaT0c4NVZtMUNjMWhQZEZCdVRuSTVNM3BuT1c1bGVIUjZVM1UyZVVGSWF6RkhlblpHVEdFNFVUQnhaak5xYzFGUldsbzFXRmwyVjBkMWJqbGliRU5zU0ZvNWVtVXdSalJNUld4U2R4SVhhVzFRUkdGMU0yaExObnB5YlV4UlVEWk9jbnB6VVdNYUlrRkVjM0k1WmxSVlJGTXROekpJTkdsWWJuVmlUR05UTFhaNWRqVktSbTV1UzJjIiwiZmN2IjoiMyIsImVpIjoiaW1QRGF1M2hLNnpybUxRUDZOcnpzUWMiLCJxYyI6IkNocGhhWElnYVc1a2FXRWdZMjl0Y0d4aGFXNTBJRzUxYldKbGNoQUFmVGgwdXo0IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAyNC1ob3VyIGNhbGwgY2VudGVyIG51bWJlciBmb3IgQWlyIEluZGlhPyIsImxrIjoiYzVOU1Q4d3NVc2pNUzhsTVZFaE96TWxSU0U3Tkt5bEtWY2dyelUxS2hVa1ltVlNZQXdBIiwiYnMiOiJjNTJRTVEtQ01CQ0Y0OXJKVlZ4dVVJZ21MZzFHTi1JbWNYSXd6Z1ZhZTdHMHByVEJuMi1KSWd4T1RwZVgtLTY5eXlNNVdSOU5DeVhUa0lOQXhZRkJhZXFIWXFnZHRPZ2tITkJDcml0a0daMUhNeFlVZG1xRVdZWU5Kd1haWGlWemdBMDR5WUdtRzJtOERkWktRY20xNHhhMHI0c3doTEZqMTFXVWpGeDczUEllZnk5by10eUZqUDBfR1hBNVpUU09Ga09NdjRmX3RXT2w2dzlvQ3AxWFE4NGtIaXE1Y1JjYXNWeDRYWUd3cGg0X25rUkwtU0h4Ql9sTm0wNWUiLCJpZCI6ImZjX2ltUERhdTNoSzZ6cm1MUVA2TnJ6c1FjXzEifQ==",
+      "page_token": "dJ0KnnicHdBBbqMwFABQzWW6bDCUVI0UVUMDpFFxiu1vEzYVGCdOMQYFJgR2vULPMKea04zUd4T39decbf3v17cehq5fLRbjON6f2vZk1L1sm0XRT1YuZGFMWch6tXxcouejXIdXGbxcZJBC1_ENcSjc-tTgLWlynMc7LZ1-5p_BqxTGskwi6hJGG1PTmeDM052qsS5QO1KHg8rIUHHdl5toyWZMRIwiZZJJMJhorB1iTZu45F1mkS6YbitXYxm_jhgQEYCgtByXGzklAga65T6xFaKIMM7gQTU5kFDnlcA5riuPx7t3QIGDG9-t4GmPgeTU6Ihy_FDx3-5-G10TqzO-Df6IMwqV8Hk2Ry-pq98I-OfCqy6hrrqSB-Ehg7kIe1fZ3cCiKMW1PymLyeHWnlMgs_w0DQh_x63ep15uDg542EU3OicObcKRxeSizFMC6d1RXtfe3c_1-uPYDKvu0p7-AyGgjQ0",
+      "question": "What is the 24-hour call center number for Air India?",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=dJ0KnnicHdBBbqMwFABQzWW6bDCUVI0UVUMDpFFxiu1vEzYVGCdOMQYFJgR2vULPMKea04zUd4T39decbf3v17cehq5fLRbjON6f2vZk1L1sm0XRT1YuZGFMWch6tXxcouejXIdXGbxcZJBC1_ENcSjc-tTgLWlynMc7LZ1-5p_BqxTGskwi6hJGG1PTmeDM052qsS5QO1KHg8rIUHHdl5toyWZMRIwiZZJJMJhorB1iTZu45F1mkS6YbitXYxm_jhgQEYCgtByXGzklAga65T6xFaKIMM7gQTU5kFDnlcA5riuPx7t3QIGDG9-t4GmPgeTU6Ihy_FDx3-5-G10TqzO-Df6IMwqV8Hk2Ry-pq98I-OfCqy6hrrqSB-Ehg7kIe1fZ3cCiKMW1PymLyeHWnlMgs_w0DQh_x63ep15uDg542EU3OicObcKRxeSizFMC6d1RXtfe3c_1-uPYDKvu0p7-AyGgjQ0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNYTkNRVlY0VEZodFprRldYMHhaT0c4NVZtMUNjMWhQZEZCdVRuSTVNM3BuT1c1bGVIUjZVM1UyZVVGSWF6RkhlblpHVEdFNFVUQnhaak5xYzFGUldsbzFXRmwyVjBkMWJqbGliRU5zU0ZvNWVtVXdSalJNUld4U2R4SVhhVzFRUkdGMU0yaExObnB5YlV4UlVEWk9jbnB6VVdNYUlrRkVjM0k1WmxSVlJGTXROekpJTkdsWWJuVmlUR05UTFhaNWRqVktSbTV1UzJjIiwiZmN2IjoiMyIsImVpIjoiaW1QRGF1M2hLNnpybUxRUDZOcnpzUWMiLCJxYyI6IkNocGhhWElnYVc1a2FXRWdZMjl0Y0d4aGFXNTBJRzUxYldKbGNoQUFmVGgwdXo0IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAyNC1ob3VyIGNhbGwgY2VudGVyIG51bWJlciBmb3IgQWlyIEluZGlhPyIsImxrIjoiYzVOU1Q4d3NVc2pNUzhsTVZFaE96TWxSU0U3Tkt5bEtWY2dyelUxS2hVa1ltVlNZQXdBIiwiYnMiOiJjNTJRTVEtQ01CQ0Y0OXJKVlZ4dVVJZ21MZzFHTi1JbWNYSXd6Z1ZhZTdHMHByVEJuMi1KSWd4T1RwZVgtLTY5eXlNNVdSOU5DeVhUa0lOQXhZRkJhZXFIWXFnZHRPZ2tITkJDcml0a0daMUhNeFlVZG1xRVdZWU5Kd1haWGlWemdBMDR5WUdtRzJtOERkWktRY20xNHhhMHI0c3doTEZqMTFXVWpGeDczUEllZnk5by10eUZqUDBfR1hBNVpUU09Ga09NdjRmX3RXT2w2dzlvQ3AxWFE4NGtIaXE1Y1JjYXNWeDRYWUd3cGg0X25rUkwtU0h4Ql9sTm0wNWUiLCJpZCI6ImZjX2ltUERhdTNoSzZ6cm1MUVA2TnJ6c1FjXzEifQ%3D%3D",
+      "type": "ai_overview"
+    },
+    {
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNYTkNRVlY0VEZodFprRldYMHhaT0c4NVZtMUNjMWhQZEZCdVRuSTVNM3BuT1c1bGVIUjZVM1UyZVVGSWF6RkhlblpHVEdFNFVUQnhaak5xYzFGUldsbzFXRmwyVjBkMWJqbGliRU5zU0ZvNWVtVXdSalJNUld4U2R4SVhhVzFRUkdGMU0yaExObnB5YlV4UlVEWk9jbnB6VVdNYUlrRkVjM0k1WmxSVlJGTXROekpJTkdsWWJuVmlUR05UTFhaNWRqVktSbTV1UzJjIiwiZmN2IjoiMyIsImVpIjoiaW1QRGF1M2hLNnpybUxRUDZOcnpzUWMiLCJxYyI6IkNocGhhWElnYVc1a2FXRWdZMjl0Y0d4aGFXNTBJRzUxYldKbGNoQUFmVGgwdXo0IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAyNC1ob3VyIGNhbGwgY2VudGVyIG51bWJlciBmb3IgQWlyIEluZGlhIFVLPyIsImxrIjoiR2lSaGFYSWdhVzVrYVdFZ2RXc2dZMjl1ZEdGamRDQnVkVzFpWlhJZ01qUWdhRzkxY25NIiwiYnMiOiJjNTJRTVEtQ01CQ0Y0OXJKVlZ4dVVJZ21MZzFHTi1JbWNYSXd6Z1ZhZTdHMHByVEJuMi1KSWd4T1RwZVgtLTY5eXlNNVdSOU5DeVhUa0lOQXhZRkJhZXFIWXFnZHRPZ2tITkJDcml0a0daMUhNeFlVZG1xRVdZWU5Kd1haWGlWemdBMDR5WUdtRzJtOERkWktRY20xNHhhMHI0c3doTEZqMTFXVWpGeDczUEllZnk5by10eUZqUDBfR1hBNVpUU09Ga09NdjRmX3RXT2w2dzlvQ3AxWFE4NGtIaXE1Y1JjYXNWeDRYWUd3cGg0X25rUkwtU0h4Ql9sTm0wNWUiLCJpZCI6ImZjX2ltUERhdTNoSzZ6cm1MUVA2TnJ6c1FjXzEifQ==",
+      "page_token": "AGXibXicHZBNbqMwGEA1l-my4SekaqSomjR2CwNUGH8OsKmITeJiA26CkuBdr9AzzKnmNBN19Zbv6X391R-9-vfrW46jOS1ns8vlcn8YhoNu7vnQzerT1PMZr7Xe1VwtFw8L92nPV-jM189Hvs7AGLYhDsW_rwSCN2CkII708zbqqBYT7yoLSpQpNosdJlXdSuAOWKrmfu5KRF05ECWeK1R9il5P5CUyNxZUD4F4AVvrwct7c6lZFOYYBTHwILE6TpBRW-RWTZt4TMGcb9S89GVF9aOfgDwzm77l2yttOhGyNvQYIq9UjWHMHuME47J03HILrqGWHFMk_nBksgbSCXQ07rzrJ1E4rFqxqQtS5oX0GqVzqpCf6KhFUpgdW6OyuPWhk9f00UgxzlIVTE2fkvI6fGRALG91Bxbf3Hoh9DrmjkzE1nhg-Ryw9AQKRsbkHrK7PT-v_Luf16v3fTcuzXE4_AfJGI7Q",
+      "question": "What is the 24-hour call center number for Air India UK?",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AGXibXicHZBNbqMwGEA1l-my4SekaqSomjR2CwNUGH8OsKmITeJiA26CkuBdr9AzzKnmNBN19Zbv6X391R-9-vfrW46jOS1ns8vlcn8YhoNu7vnQzerT1PMZr7Xe1VwtFw8L92nPV-jM189Hvs7AGLYhDsW_rwSCN2CkII708zbqqBYT7yoLSpQpNosdJlXdSuAOWKrmfu5KRF05ECWeK1R9il5P5CUyNxZUD4F4AVvrwct7c6lZFOYYBTHwILE6TpBRW-RWTZt4TMGcb9S89GVF9aOfgDwzm77l2yttOhGyNvQYIq9UjWHMHuME47J03HILrqGWHFMk_nBksgbSCXQ07rzrJ1E4rFqxqQtS5oX0GqVzqpCf6KhFUpgdW6OyuPWhk9f00UgxzlIVTE2fkvI6fGRALG91Bxbf3Hoh9DrmjkzE1nhg-Ryw9AQKRsbkHrK7PT-v_Luf16v3fTcuzXE4_AfJGI7Q",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNYTkNRVlY0VEZodFprRldYMHhaT0c4NVZtMUNjMWhQZEZCdVRuSTVNM3BuT1c1bGVIUjZVM1UyZVVGSWF6RkhlblpHVEdFNFVUQnhaak5xYzFGUldsbzFXRmwyVjBkMWJqbGliRU5zU0ZvNWVtVXdSalJNUld4U2R4SVhhVzFRUkdGMU0yaExObnB5YlV4UlVEWk9jbnB6VVdNYUlrRkVjM0k1WmxSVlJGTXROekpJTkdsWWJuVmlUR05UTFhaNWRqVktSbTV1UzJjIiwiZmN2IjoiMyIsImVpIjoiaW1QRGF1M2hLNnpybUxRUDZOcnpzUWMiLCJxYyI6IkNocGhhWElnYVc1a2FXRWdZMjl0Y0d4aGFXNTBJRzUxYldKbGNoQUFmVGgwdXo0IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAyNC1ob3VyIGNhbGwgY2VudGVyIG51bWJlciBmb3IgQWlyIEluZGlhIFVLPyIsImxrIjoiR2lSaGFYSWdhVzVrYVdFZ2RXc2dZMjl1ZEdGamRDQnVkVzFpWlhJZ01qUWdhRzkxY25NIiwiYnMiOiJjNTJRTVEtQ01CQ0Y0OXJKVlZ4dVVJZ21MZzFHTi1JbWNYSXd6Z1ZhZTdHMHByVEJuMi1KSWd4T1RwZVgtLTY5eXlNNVdSOU5DeVhUa0lOQXhZRkJhZXFIWXFnZHRPZ2tITkJDcml0a0daMUhNeFlVZG1xRVdZWU5Kd1haWGlWemdBMDR5WUdtRzJtOERkWktRY20xNHhhMHI0c3doTEZqMTFXVWpGeDczUEllZnk5by10eUZqUDBfR1hBNVpUU09Ga09NdjRmX3RXT2w2dzlvQ3AxWFE4NGtIaXE1Y1JjYXNWeDRYWUd3cGg0X25rUkwtU0h4Ql9sTm0wNWUiLCJpZCI6ImZjX2ltUERhdTNoSzZ6cm1MUVA2TnJ6c1FjXzEifQ%3D%3D",
+      "type": "ai_overview"
+    },
+    {
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNYTkNRVlY0VEZodFprRldYMHhaT0c4NVZtMUNjMWhQZEZCdVRuSTVNM3BuT1c1bGVIUjZVM1UyZVVGSWF6RkhlblpHVEdFNFVUQnhaak5xYzFGUldsbzFXRmwyVjBkMWJqbGliRU5zU0ZvNWVtVXdSalJNUld4U2R4SVhhVzFRUkdGMU0yaExObnB5YlV4UlVEWk9jbnB6VVdNYUlrRkVjM0k1WmxSVlJGTXROekpJTkdsWWJuVmlUR05UTFhaNWRqVktSbTV1UzJjIiwiZmN2IjoiMyIsImVpIjoiaW1QRGF1M2hLNnpybUxRUDZOcnpzUWMiLCJxYyI6IkNocGhhWElnYVc1a2FXRWdZMjl0Y0d4aGFXNTBJRzUxYldKbGNoQUFmVGgwdXo0IiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgZ2V0IGEgcmVmdW5kIGZyb20gQWlyIEluZGlhPyIsImxrIjoiR2lWb2IzY2dZMkZ1SUdrZ1oyVjBJR0VnY21WbWRXNWtJR1p5YjIwZ1lXbHlJR2x1WkdsaCIsImJzIjoiYzUyUU1RLUNNQkNGNDlySlZWeHVVSWdtTGcxR04tSW1jWEl3emdWYWU3RzBwclRCbjItSklneE9UcGVYLS02OXl5TTVXUjlOQ3lYVGtJTkF4WUZCYWVxSFlxZ2R0T2drSE5CQ3JpdGtHWjFITXhZVWRtcUVXWVlOSndYWlhpVnpnQTA0eVlHbUcybThEZFpLUWNtMTR4YTByNHN3aExGajExV1VqRng3M1BJZWZ5OW8tdHlGalAwX0dYQTVaVFNPRmtPTXY0Zl90V09sNnc5b0NwMVhRODRrSGlxNWNSY2FzVng0WFlHd3BoNF9ua1JMLVNIeEJfbE5tMDVlIiwiaWQiOiJmY19pbVBEYXUzaEs2enJtTFFQNk5yenNRY18xIn0=",
+      "page_token": "8Nbks3icHdBNbqMwAEBh9TJdNmCGjIgUjUSDSd2JWxywgc0IbJIU_-AUEgi7uUtP1dO06uptP73_H-rNyM-762kYbL9aLMZxfDh23VE1D7zTi6q_Gb7glVJ1xeVq-Xvp_jnwdXR5Ch_PT2GSWUs3xEnj6Z1ocSAb9Lx3xK2iKiuY7UWOXlOGlw0NYJHTK2mF2unjmM-krFUAUxeNLHOtANQXTJU7Ixg1aFvGA6jjYC9mFdcymAoN53oLsYjKl30kKM3LKVHEI1HAhFHdTva_RDxsSsf_yxXNd2BySBteOPBve4-DCkjAmf_caHt5ofYxd08T9cIzg6RIW4hZrs6pRpoYbDmlYXQStv5OkWdzFfWgMWhIIUyw9G-NwaSYurckIzNvlc4UkkQ6IJXllHl0mzGIcYwM_taIFl9Sx0VJcn_g17V3__Nz_e-gh5V9745fk9OEsg",
+      "question": "How can I get a refund from Air India?",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8Nbks3icHdBNbqMwAEBh9TJdNmCGjIgUjUSDSd2JWxywgc0IbJIU_-AUEgi7uUtP1dO06uptP73_H-rNyM-762kYbL9aLMZxfDh23VE1D7zTi6q_Gb7glVJ1xeVq-Xvp_jnwdXR5Ch_PT2GSWUs3xEnj6Z1ocSAb9Lx3xK2iKiuY7UWOXlOGlw0NYJHTK2mF2unjmM-krFUAUxeNLHOtANQXTJU7Ixg1aFvGA6jjYC9mFdcymAoN53oLsYjKl30kKM3LKVHEI1HAhFHdTva_RDxsSsf_yxXNd2BySBteOPBve4-DCkjAmf_caHt5ofYxd08T9cIzg6RIW4hZrs6pRpoYbDmlYXQStv5OkWdzFfWgMWhIIUyw9G-NwaSYurckIzNvlc4UkkQ6IJXllHl0mzGIcYwM_taIFl9Sx0VJcn_g17V3__Nz_e-gh5V9745fk9OEsg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNYTkNRVlY0VEZodFprRldYMHhaT0c4NVZtMUNjMWhQZEZCdVRuSTVNM3BuT1c1bGVIUjZVM1UyZVVGSWF6RkhlblpHVEdFNFVUQnhaak5xYzFGUldsbzFXRmwyVjBkMWJqbGliRU5zU0ZvNWVtVXdSalJNUld4U2R4SVhhVzFRUkdGMU0yaExObnB5YlV4UlVEWk9jbnB6VVdNYUlrRkVjM0k1WmxSVlJGTXROekpJTkdsWWJuVmlUR05UTFhaNWRqVktSbTV1UzJjIiwiZmN2IjoiMyIsImVpIjoiaW1QRGF1M2hLNnpybUxRUDZOcnpzUWMiLCJxYyI6IkNocGhhWElnYVc1a2FXRWdZMjl0Y0d4aGFXNTBJRzUxYldKbGNoQUFmVGgwdXo0IiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgZ2V0IGEgcmVmdW5kIGZyb20gQWlyIEluZGlhPyIsImxrIjoiR2lWb2IzY2dZMkZ1SUdrZ1oyVjBJR0VnY21WbWRXNWtJR1p5YjIwZ1lXbHlJR2x1WkdsaCIsImJzIjoiYzUyUU1RLUNNQkNGNDlySlZWeHVVSWdtTGcxR04tSW1jWEl3emdWYWU3RzBwclRCbjItSklneE9UcGVYLS02OXl5TTVXUjlOQ3lYVGtJTkF4WUZCYWVxSFlxZ2R0T2drSE5CQ3JpdGtHWjFITXhZVWRtcUVXWVlOSndYWlhpVnpnQTA0eVlHbUcybThEZFpLUWNtMTR4YTByNHN3aExGajExV1VqRng3M1BJZWZ5OW8tdHlGalAwX0dYQTVaVFNPRmtPTXY0Zl90V09sNnc5b0NwMVhRODRrSGlxNWNSY2FzVng0WFlHd3BoNF9ua1JMLVNIeEJfbE5tMDVlIiwiaWQiOiJmY19pbVBEYXUzaEs2enJtTFFQNk5yenNRY18xIn0%3D",
+      "type": "ai_overview"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&hl=en&gl=in&sxsrf=APpeQns8XVpsT3Wq50_v3o56j4qcxEcRgw:1791189898724&q=Air+india+complaint+number+mumbai&sa=X&ved=2ahUKEwjtzo2tvqKXAxWsNYYAHWjtPHYQ1QJ6BAhNEAE",
+      "query": "Air india complaint number mumbai",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+india+complaint+number+mumbai"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&hl=en&gl=in&sxsrf=APpeQns8XVpsT3Wq50_v3o56j4qcxEcRgw:1791189898724&q=Air+india+complaint+number+delhi&sa=X&ved=2ahUKEwjtzo2tvqKXAxWsNYYAHWjtPHYQ1QJ6BAhOEAE",
+      "query": "Air india complaint number delhi",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+india+complaint+number+delhi"
+    }
+  ],
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "Air India complaint number",
+    "time_taken_displayed": 0.2,
+    "total_results": 55100
+  },
+  "search_metadata": {
+    "created_at": "2026-10-05 08:44:58 UTC",
+    "google_url": "https://www.google.com/search?q=Air+India+complaint+number&oq=Air+India+complaint+number&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "id": "6ac3638a7bf2f9d9bcc0a01e",
+    "json_endpoint": "https://serpapi.com/searches/usuBW-GJfnJINNj5TvKviwFYBf0UTpx0gMRYHlQUb2E/6ac3638a7bf2f9d9bcc0a01e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/usuBW-GJfnJINNj5TvKviwFYBf0UTpx0gMRYHlQUb2E/6ac3638a7bf2f9d9bcc0a01e.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/usuBW-GJfnJINNj5TvKviwFYBf0UTpx0gMRYHlQUb2E/6ac3638a7bf2f9d9bcc0a01e.json_with_pixel_position",
+    "processed_at": "2026-10-05 08:44:58 UTC",
+    "raw_html_file": "https://serpapi.com/searches/usuBW-GJfnJINNj5TvKviwFYBf0UTpx0gMRYHlQUb2E/6ac3638a7bf2f9d9bcc0a01e.html",
+    "status": "Success",
+    "total_time_taken": 0.41
+  },
+  "search_parameters": {
+    "device": "desktop",
+    "engine": "google",
+    "gl": "in",
+    "google_domain": "google.com",
+    "hl": "en",
+    "q": "Air India complaint number"
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+complaint+number&start=10",
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+complaint+number&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+complaint+number&start=10"
+    }
+  }
+}

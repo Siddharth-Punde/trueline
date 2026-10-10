@@ -1,0 +1,535 @@
+{
+  "ai_overview": {
+    "references": [
+      {
+        "index": 0,
+        "link": "https://www.airindia.com/in/en/manage/request-refund.html",
+        "snippet": "Refunds: Request via manage booking (tickets post-25 May 2022), reservation office (city/airport), or original travel agent; valid within two years; provide ticket...",
+        "source": "Air India",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.airindia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSt4A43bJXYYjRF72D6UrlvP9O-jrfWfZrg6V7DfxSLO4xt4nj7AZ2_OifdeDzHTSH3cmd6FEDYrXBgULMvi29hLWU",
+        "title": "Request for Refunds Online - Ticket Refund Process | Air India"
+      },
+      {
+        "index": 1,
+        "link": "https://www.airindia.com/in/en/frequently-asked-questions/payment-refund-cancellations.html",
+        "snippet": "Refunds: Request via website/app manage booking, ticketing office, or third-party agent; valid up to two years from issuance; processed in 7-10 business days (dela...",
+        "source": "Air India",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.airindia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbNd0d8c1S7G3p4ic0AN4nWQxkhO79n7kGSA7MFdoxetj67IoecfYhf-hwv28rst5FEXtz10PX6KHLeaSar3cCgbKaNEz7Yh798DWA",
+        "title": "Payment, Refund, and Cancellations FAQ - Air India Official"
+      },
+      {
+        "index": 2,
+        "link": "https://www.happyfares.in/news/air-india-cancellation-policy-guide-2026",
+        "snippet": "Refund time: 5–7 business days to credit/debit card; instant to travel credit shell. * How to Cancel Air India Ticket Online (Step-by-Step) Go to airindia.com → cl...",
+        "source": "HappyFares",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.happyfares.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "title": "Air India Cancellation Policy & Refund Guide 2026"
+      },
+      {
+        "index": 3,
+        "link": "https://www.airindia.com/in/en/contact-us/customer-support-portal/refunds.html",
+        "snippet": "Contact Us Customer Support Portal Refunds Refunds Please reach out directly to your travel agent for assistance with refunds related to bookings or additional anc...",
+        "source": "Air India",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.airindia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNtfofGBn2JF7wklnd0-8f1FG6Y3kz3yFhDw9fLeVi4dOiEAlsVk0DFsX3y3eqJmdTOlYYkPyP1vklAu4CHiM7sBFVOMwEY08zybqy",
+        "title": "Online Refund Request and Status Check - Air India"
+      },
+      {
+        "index": 4,
+        "link": "https://www.flightsmojo.in/blog/air-india-flight-cancellation-policy",
+        "snippet": "FAQs * Can I cancel an Air India ticket booked through a travel agency or third-party website? Yes, but you must contact the travel agency or third-party platform ...",
+        "source": "FlightsMojo",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.flightsmojo.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmYUh8763-hwfSC0JEshK3t4j8cA59qxF3qiITujRR24_B3XirF2HB9Z7UFCgDs3ejb_daSQDtXWXTrPqgASC74duA9KY__04fYbXs",
+        "title": "Air India Flight Cancellation Policy 2025: Full Refund and Fee Details"
+      },
+      {
+        "index": 5,
+        "link": "https://www.flightsmojo.in/blog/air-india-flight-cancellation-policy-2026",
+        "snippet": "A full refund is allowed if you cancel the ticket within 24 hours of booking and the travel date is at least seven days away. A full refund is also permitted if Ai...",
+        "source": "FlightsMojo",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.flightsmojo.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQA-0mF9MPF4RyKuYEyG1hmtC_pQHRmKcNggSu5KdvtPb0acFcU3drtKHfkWOFQNcmhrLZPdFH_5gL9SVFfDmnZJ1-D7LIs-sEE15VW",
+        "title": "Air India Cancellation and Refund Policy - FlightsMojo"
+      }
+    ],
+    "text_blocks": [
+      {
+        "reference_indexes": [
+          0
+        ],
+        "snippet": "You can request a refund directly through the Air India Request Refund Portal.",
+        "snippet_highlighted_words": [
+          "request a refund directly through the Air India Request Refund Portal"
+        ],
+        "snippet_links": [
+          {
+            "link": "https://www.airindia.com/in/en/manage/request-refund.html",
+            "text": "Air India Request Refund Portal"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "snippet": "How to Cancel and Claim",
+        "type": "heading"
+      },
+      {
+        "list": [
+          {
+            "reference_indexes": [
+              1,
+              2
+            ],
+            "snippet": "Online: Go to Air India Official Website, log into Manage Booking with your PNR and last name, select your flight segments, and cancel. Online cancellations automatically trigger refund processing.",
+            "snippet_links": [
+              {
+                "link": "https://www.airindia.com/in/en/frequently-asked-questions/payment-refund-cancellations.html",
+                "text": "Air India Official Website"
+              }
+            ]
+          },
+          {
+            "reference_indexes": [
+              0,
+              3,
+              4
+            ],
+            "snippet": "Travel Agents: If you booked through a third-party site or travel agent, you must contact them directly to handle the cancellation and refund."
+          },
+          {
+            "snippet": "Validity: Refund requests are valid up to two years from the ticket issuance date."
+          }
+        ],
+        "reference_indexes": [
+          0,
+          1
+        ],
+        "type": "list"
+      },
+      {
+        "snippet": "Refund Timelines and Rules",
+        "type": "heading"
+      },
+      {
+        "list": [
+          {
+            "reference_indexes": [
+              1
+            ],
+            "snippet": "Processing Time: Direct refunds typically take 7 to 10 business days (delays can extend up to 15–20 days) to reflect in your original payment source."
+          },
+          {
+            "reference_indexes": [
+              0,
+              1
+            ],
+            "snippet": "Cancellation Fees: Deductions depend on your fare class (Basic, Value, Classic, Flex) and timing. Canceling inside the no-show window (less than 2 hours for domestic, 4 hours for international) results in forfeiture of the base fare."
+          },
+          {
+            "reference_indexes": [
+              0,
+              4,
+              5
+            ],
+            "snippet": "Full Refunds: Allowed if canceled within specific statutory/airline windows (such as within 24 hours of booking if outside the departure threshold) or if Air India cancels or significantly changes your flight."
+          },
+          {
+            "snippet": "Add-ons: Ancillary services like pre-paid meals, extra baggage, or seat selection are generally non-refundable."
+          }
+        ],
+        "reference_indexes": [
+          5
+        ],
+        "type": "list"
+      },
+      {
+        "snippet": "If you share your booking type (direct vs. travel agent) and fare class, I can help provide more specific cancellation penalty details.",
+        "type": "paragraph"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVmNzMGRwTGhpa3pYYUR3SThIaDNTelJtVi1wM2ZWTWJ0YkhfbkZTM3hGVDBiTkNfRk5lcjhscmNsVmJMdktfSm02TDVqUkhoSEtkMUl3WmIxWVUybWVOWlZBTTZhM1VzTDFlcXZXTlNiekdaVTQtdzhNLUNkUEt1QXJxcG9iOVUSBBoCCAAamAQSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWhAIARIMYWlyaW5kaWEuY29tcgB6AIJA4gMIABAAGAAgACoUCgNhaXIVT0k-QRoIYWlyaW5kaWEqFgoFaW5kaWEVSYY6QRoIYWlyaW5kaWEqFgoGcmVmdW5kFfCN5j0aB3JlZnVuZHMylQEvZ290bz91cmw9Q0FFU1pBSHJPekFWY3MwZHBMaGlrelhhRHdJOEhoM1N6Um1WLXAzZlZNYnRiSF9uRlMzeEZUMGJOQ19GTmVyOGxyY2xWYkx2S19KbTZMNWpSSGhIS2QxSXdaYjFZVTJtZU5aVkFNNmEzVXNMMWVxdldOU2J6R1pVNC13OE0tQ2RQS3VBcnFwb2I5VTpGRmxpZ2h0cyBCb29raW5nIC0gU2VhcmNoIEZsaWdodHMgYXQgTG93ZXN0IEFpciBGYXJlIC0gPGI-QWlyIEluZGlhPC9iPkKxAS4uLiA8Yj5SZWZ1bmQ8L2I-RmxpZ2h0IFN0YXR1c1RyYWNrIFlvdXIgQmFnc0ZvZyBDYXJlVHJhdmVsIENlcnRpZmljYXRlLiBXSEVSRSBXRSBGTFkuIFJvdXRlIE1hcE5vbnN0b3AgSW50ZXJuYXRpb25hbCBGbGlnaHRzUGFydG5lciBBaXJsaW5lc1BvcHVsYXIgRmxpZ2h0cy4gUFJFUEFSRSBUTyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVmNzMGRwTGhpa3pYYUR3SThIaDNTelJtVi1wM2ZWTWJ0YkhfbkZTM3hGVDBiTkNfRk5lcjhscmNsVmJMdktfSm02TDVqUkhoSEtkMUl3WmIxWVUybWVOWlZBTTZhM1VzTDFlcXZXTlNiekdaVTQtdzhNLUNkUEt1QXJxcG9iOVUSBBoCCAAamAQSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWhAIARIMYWlyaW5kaWEuY29tcgB6AIJA4gMIABAAGAAgACoUCgNhaXIVT0k-QRoIYWlyaW5kaWEqFgoFaW5kaWEVSYY6QRoIYWlyaW5kaWEqFgoGcmVmdW5kFfCN5j0aB3JlZnVuZHMylQEvZ290bz91cmw9Q0FFU1pBSHJPekFWY3MwZHBMaGlrelhhRHdJOEhoM1N6Um1WLXAzZlZNYnRiSF9uRlMzeEZUMGJOQ19GTmVyOGxyY2xWYkx2S19KbTZMNWpSSGhIS2QxSXdaYjFZVTJtZU5aVkFNNmEzVXNMMWVxdldOU2J6R1pVNC13OE0tQ2RQS3VBcnFwb2I5VTpGRmxpZ2h0cyBCb29raW5nIC0gU2VhcmNoIEZsaWdodHMgYXQgTG93ZXN0IEFpciBGYXJlIC0gPGI-QWlyIEluZGlhPC9iPkKxAS4uLiA8Yj5SZWZ1bmQ8L2I-RmxpZ2h0IFN0YXR1c1RyYWNrIFlvdXIgQmFnc0ZvZyBDYXJlVHJhdmVsIENlcnRpZmljYXRlLiBXSEVSRSBXRSBGTFkuIFJvdXRlIE1hcE5vbnN0b3AgSW50ZXJuYXRpb25hbCBGbGlnaHRzUGFydG5lciBBaXJsaW5lc1BvcHVsYXIgRmxpZ2h0cy4gUFJFUEFSRSBUTyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "... RefundFlight StatusTrack Your BagsFog CareTravel Certificate. WHERE WE FLY. Route MapNonstop International FlightsPartner AirlinesPopular Flights. PREPARE TO ...",
+          "icon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAAAQBQCdASogACAAPrUurVanIacnG_DgFolsALUXwKuA9yat26l6s4eGD1Q8lFaSUZeQAPwz-csAiBqj8Mk_unYzT6eOPwC6to1BkexeLWN8X_29Wm7WTz4Jvs0ibxad_80JDqD--PaLPNf5b8HCpxNtUEXpcaVduAIurzZINhkbwOkRhXAxiLgMYdYg-oaEiqPi6b85PqgK69J7JOGzrGHdzR83npj9e5WTcFU91Sg2CViA5lFO1aeXWnUvAviMT9JYkyrlX8Teraza8m-fmIQ1F794ekkWMAA.webp",
+          "source_info_link": "https://www.airindia.com/en/book-flights/"
+        }
+      },
+      "displayed_link": "https://www.airindia.com › book-flights",
+      "favicon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAAAQBQCdASogACAAPrUurVanIacnG_DgFolsALUXwKuA9yat26l6s4eGD1Q8lFaSUZeQAPwz-csAiBqj8Mk_unYzT6eOPwC6to1BkexeLWN8X_29Wm7WTz4Jvs0ibxad_80JDqD--PaLPNf5b8HCpxNtUEXpcaVduAIurzZINhkbwOkRhXAxiLgMYdYg-oaEiqPi6b85PqgK69J7JOGzrGHdzR83npj9e5WTcFU91Sg2CViA5lFO1aeXWnUvAviMT9JYkyrlX8Teraza8m-fmIQ1F794ekkWMAA.webp",
+      "link": "https://www.airindia.com/en/book-flights/",
+      "position": 1,
+      "read_more_link": "https://www.airindia.com/en/book-flights/#:~:text=Home",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVcs0dpLhikzXaDwI8Hh3SzRmV-p3fVMbtbH_nFS3xFT0bNC_FNer8lrclVbLvK_Jm6L5jRHhHKd1IwZb1YU2meNZVAM6a3UsL1eqvWNSbzGZU4-w8M-CdPKuArqpob9U&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQFnoECBAQAQ&uoh=1",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8,
+            "reviews": 137000
+          },
+          "extensions": [
+            "4.8(1,37,000)",
+            "Free"
+          ]
+        }
+      },
+      "snippet": "... RefundFlight StatusTrack Your BagsFog CareTravel Certificate. WHERE WE FLY. Route MapNonstop International FlightsPartner AirlinesPopular Flights. PREPARE TO ...",
+      "snippet_highlighted_words": [
+        "Refund"
+      ],
+      "source": "Air India",
+      "title": "Flights Booking - Search Flights at Lowest Air Fare"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZiWGZaUFE2bTBoajZtRDIxZENIYUZLM1l5cjFIWkZNcHlzZTM0MW1qMmRhSGVqbjFPc01TeWFZWXF2YW1FSzVtVU5kVHJJYzNZTktZYzZTakV0SG8zSl9xc201RHlBdmlZTnRQcUVVTlRXUzRLZ3NXVFlvRndLdHZjVVRDam1ycjNtQjR1Y203ZFZBcUUtb1VpMFk5RTdERjJGRC1RWnpSQ012OVBVNUxBEgQaAggAGp8EEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQPsDCAAQABgAIAAqFAoDYWlyFUTVnkAaCGFpcmluZGlhKhYKBWluZGlhFSKLpEAaCGFpcmluZGlhKhYKBnJlZnVuZBUc7KhAGgdyZWZ1bmRzMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZiWGZaUFE2bTBoajZtRDIxZENIYUZLM1l5cjFIWkZNcHlzZTM0MW1qMmRhSGVqbjFPc01TeWFZWXF2YW1FSzVtVU5kVHJJYzNZTktZYzZTakV0SG8zSl9xc201RHlBdmlZTnRQcUVVTlRXUzRLZ3NXVFlvRndLdHZjVVRDam1ycjNtQjR1Y203ZFZBcUUtb1VpMFk5RTdERjJGRC1RWnpSQ012OVBVNUxBOj48Yj5BaXIgSW5kaWEgcmVmdW5kPC9iPiBwcm9jZXNzIGFuZCB0aW1lbGluZSBpc3N1ZXMgLSBGYWNlYm9va0KnAUluIHRoZSBldmVudCBvZiBhIHBhc3NlbmdlciBjYW5jZWxpbmcgaGlzIGZsaWdodCwgYWxsIGFpcmxpbmVzIDxiPnJlZnVuZDwvYj4gdGhlIHRpY2tldCBhbW91bnQgaW4gdGhyZWUgdG8gZml2ZSB3b3JraW5nIGRheXMuLiA8Yj5BaXIgSW5kaWE8L2I-IG5lZWRzIDE1IHRvIDQ1Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZiWGZaUFE2bTBoajZtRDIxZENIYUZLM1l5cjFIWkZNcHlzZTM0MW1qMmRhSGVqbjFPc01TeWFZWXF2YW1FSzVtVU5kVHJJYzNZTktZYzZTakV0SG8zSl9xc201RHlBdmlZTnRQcUVVTlRXUzRLZ3NXVFlvRndLdHZjVVRDam1ycjNtQjR1Y203ZFZBcUUtb1VpMFk5RTdERjJGRC1RWnpSQ012OVBVNUxBEgQaAggAGp8EEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQPsDCAAQABgAIAAqFAoDYWlyFUTVnkAaCGFpcmluZGlhKhYKBWluZGlhFSKLpEAaCGFpcmluZGlhKhYKBnJlZnVuZBUc7KhAGgdyZWZ1bmRzMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZiWGZaUFE2bTBoajZtRDIxZENIYUZLM1l5cjFIWkZNcHlzZTM0MW1qMmRhSGVqbjFPc01TeWFZWXF2YW1FSzVtVU5kVHJJYzNZTktZYzZTakV0SG8zSl9xc201RHlBdmlZTnRQcUVVTlRXUzRLZ3NXVFlvRndLdHZjVVRDam1ycjNtQjR1Y203ZFZBcUUtb1VpMFk5RTdERjJGRC1RWnpSQ012OVBVNUxBOj48Yj5BaXIgSW5kaWEgcmVmdW5kPC9iPiBwcm9jZXNzIGFuZCB0aW1lbGluZSBpc3N1ZXMgLSBGYWNlYm9va0KnAUluIHRoZSBldmVudCBvZiBhIHBhc3NlbmdlciBjYW5jZWxpbmcgaGlzIGZsaWdodCwgYWxsIGFpcmxpbmVzIDxiPnJlZnVuZDwvYj4gdGhlIHRpY2tldCBhbW91bnQgaW4gdGhyZWUgdG8gZml2ZSB3b3JraW5nIGRheXMuLiA8Yj5BaXIgSW5kaWE8L2I-IG5lZWRzIDE1IHRvIDQ1Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "In the event of a passenger canceling his flight, all airlines refund the ticket amount in three to five working days.. Air India needs 15 to 45 ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+          "source_info_link": "https://www.facebook.com/groups/1341284359569558/posts/1466593073705352/"
+        }
+      },
+      "displayed_link": "20+ comments · 5 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "link": "https://www.facebook.com/groups/1341284359569558/posts/1466593073705352/",
+      "position": 2,
+      "read_more_link": "https://www.facebook.com/groups/1341284359569558/posts/1466593073705352/#:~:text=In%20the%20event%20of%20a,needs%2015%20to%2045%20days..",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFbXfZPQ6m0hj6mD21dCHaFK3Yyr1HZFMpyse341mj2daHejn1OsMSyaYYqvamEK5mUNdTrIc3YNKYc6SjEtHo3J_qsm5DyAviYNtPqEUNTWS4KgsWTYoFwKtvcUTCjmrr3mB4ucm7dVAqE-oUi0Y9E7DF2FD-QZzRCMv9PU5LA&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQFnoECC0QAQ&uoh=1",
+      "snippet": "In the event of a passenger canceling his flight, all airlines refund the ticket amount in three to five working days.. Air India needs 15 to 45 ...",
+      "snippet_highlighted_words": [
+        "refund",
+        "Air India"
+      ],
+      "source": "Facebook · Emergency SOS Indians group (USA TO INDIA)",
+      "title": "Air India refund process and timeline issues"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVkNIZnFnOVREbVNmUWkzbl91NGJ3Y2tVeUtrQnRaeWRXXzZfT2dkOThuRlFMTjRGdTNIWURlUG43N2dnb2Q0QnRxazF3VkhIbHBOc0pmYVVQNWp6azZOajM4em5HM1JwYk1vS09wUUZtWTk3RXR4ano4RDFySUx1MV93cTk2LXhVMlBCdVJoLWJBWERzU1BYUE1QUnlPSkpxSHBDcXREYmY1QRIEGgIIABqcBBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkD4AwgAEAAYACAAKhQKA2FpchVafb5AGghhaXJpbmRpYSoWCgVpbmRpYRXZR71AGghhaXJpbmRpYSoWCgZyZWZ1bmQVIxbJQBoHcmVmdW5kczK4AS9nb3RvP3VybD1DQUVTZmdIck96QVZDSGZxZzlURG1TZlFpM25fdTRid2NrVXlLa0J0WnlkV182X09nZDk4bkZRTE40RnUzSFlEZVBuNzdnZ29kNEJ0cWsxd1ZISGxwTnNKZmFVUDVqems2TmozOHpuRzNScGJNb0tPcFFGbVk5N0V0eGp6OEQxcklMdTFfd3E5Ni14VTJQQnVSaC1iQVhEc1NQWFBNUFJ5T0pKcUhwQ3F0RGJmNUE6RTxiPkFpciBJbmRpYSBSZWZ1bmQ8L2I-IFBvbGljeSAoMjAyNikgfCBHZXQgWW91ciBNb25leSBCYWNrIC0gUGluZSBBSUKlATxiPkFpciBJbmRpYSYjMzk7cyBzdGF0ZWQgcHJvY2Vzc2luZyB0aW1lIGlzIDfigJMyMCBidXNpbmVzcyBkYXlzPC9iPi4gSWYgeW91IGhlYXIgbm90aGluZyBhZnRlciA3IGJ1c2luZXNzIGRheXMsIGNvbnRhY3QgY3VzdG9tZXIgc3VwcG9ydCB2aWEgcGhvbmUgb3IgY2hhdCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVkNIZnFnOVREbVNmUWkzbl91NGJ3Y2tVeUtrQnRaeWRXXzZfT2dkOThuRlFMTjRGdTNIWURlUG43N2dnb2Q0QnRxazF3VkhIbHBOc0pmYVVQNWp6azZOajM4em5HM1JwYk1vS09wUUZtWTk3RXR4ano4RDFySUx1MV93cTk2LXhVMlBCdVJoLWJBWERzU1BYUE1QUnlPSkpxSHBDcXREYmY1QRIEGgIIABqcBBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkD4AwgAEAAYACAAKhQKA2FpchVafb5AGghhaXJpbmRpYSoWCgVpbmRpYRXZR71AGghhaXJpbmRpYSoWCgZyZWZ1bmQVIxbJQBoHcmVmdW5kczK4AS9nb3RvP3VybD1DQUVTZmdIck96QVZDSGZxZzlURG1TZlFpM25fdTRid2NrVXlLa0J0WnlkV182X09nZDk4bkZRTE40RnUzSFlEZVBuNzdnZ29kNEJ0cWsxd1ZISGxwTnNKZmFVUDVqems2TmozOHpuRzNScGJNb0tPcFFGbVk5N0V0eGp6OEQxcklMdTFfd3E5Ni14VTJQQnVSaC1iQVhEc1NQWFBNUFJ5T0pKcUhwQ3F0RGJmNUE6RTxiPkFpciBJbmRpYSBSZWZ1bmQ8L2I-IFBvbGljeSAoMjAyNikgfCBHZXQgWW91ciBNb25leSBCYWNrIC0gUGluZSBBSUKlATxiPkFpciBJbmRpYSYjMzk7cyBzdGF0ZWQgcHJvY2Vzc2luZyB0aW1lIGlzIDfigJMyMCBidXNpbmVzcyBkYXlzPC9iPi4gSWYgeW91IGhlYXIgbm90aGluZyBhZnRlciA3IGJ1c2luZXNzIGRheXMsIGNvbnRhY3QgY3VzdG9tZXIgc3VwcG9ydCB2aWEgcGhvbmUgb3IgY2hhdCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Air India's stated processing time is 7–20 business days. If you hear nothing after 7 business days, contact customer support via phone or chat ...",
+          "icon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAACwBgCdASogACAAPtE-tFooIigoFAEAGglAF2BlgwwUzjx3PdkcGvgxGpVjNTncjABNvf8EAi4CYB7ZFv5AAAD-_S8hB6WGjapP3cxt74uI8Emu7mXrk6wmk1UJggLyhikrh71cYKTacxfV8UUfpZ5ZuDlxGI9_P1dhkytIzPdmUiEI0_UdAmVbSfGo4K-iSW5CXQxLSohhxmNBQLn1Ye2DeGYH7P7bdA8qTHdeRZejcITXw6eDib_DFZjtfi0CdqHRrvr0_ATyajlecsmS3d8SFWOz6Yf4EW5br0a0nd0R-DVohuJ3CaWZ1teodfYWFcOmVb8-iZt_joZm_iF3amONfTzUmnMMLRZGPHDlM-TWFvM9JMbcU545hwLxkE_rENFIoe4AHw2w-EnaAAA.webp",
+          "source_info_link": "https://www.19pine.ai/refund-policy/airlines-and-aviation/air-india"
+        }
+      },
+      "date": "12 Mar 2026",
+      "displayed_link": "https://www.19pine.ai › airlines-and-aviation › air-india",
+      "favicon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAACwBgCdASogACAAPtE-tFooIigoFAEAGglAF2BlgwwUzjx3PdkcGvgxGpVjNTncjABNvf8EAi4CYB7ZFv5AAAD-_S8hB6WGjapP3cxt74uI8Emu7mXrk6wmk1UJggLyhikrh71cYKTacxfV8UUfpZ5ZuDlxGI9_P1dhkytIzPdmUiEI0_UdAmVbSfGo4K-iSW5CXQxLSohhxmNBQLn1Ye2DeGYH7P7bdA8qTHdeRZejcITXw6eDib_DFZjtfi0CdqHRrvr0_ATyajlecsmS3d8SFWOz6Yf4EW5br0a0nd0R-DVohuJ3CaWZ1teodfYWFcOmVb8-iZt_joZm_iF3amONfTzUmnMMLRZGPHDlM-TWFvM9JMbcU545hwLxkE_rENFIoe4AHw2w-EnaAAA.webp",
+      "link": "https://www.19pine.ai/refund-policy/airlines-and-aviation/air-india",
+      "position": 3,
+      "read_more_link": "https://www.19pine.ai/refund-policy/airlines-and-aviation/air-india#:~:text=Air%20India's%20stated%20processing%20time,with%20your%20refund%20reference%20number.",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVCHfqg9TDmSfQi3n_u4bwckUyKkBtZydW_6_Ogd98nFQLN4Fu3HYDePn77ggod4Btqk1wVHHlpNsJfaUP5jzk6Nj38znG3RpbMoKOpQFmY97Etxjz8D1rILu1_wq96-xU2PBuRh-bAXDsSPXPMPRyOJJqHpCqtDbf5A&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQFnoECDAQAQ&uoh=1",
+      "snippet": "Air India's stated processing time is 7–20 business days. If you hear nothing after 7 business days, contact customer support via phone or chat ...",
+      "snippet_highlighted_words": [
+        "Air India's stated processing time is 7–20 business days"
+      ],
+      "source": "Pine AI",
+      "title": "Air India Refund Policy (2026) | Get Your Money Back"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZmUVdoM3lyZ0J1UU9xSngydXc3WVYtbWFKTExLRG9PS2pSWkZZTjA3TDJISDFtRVV6TkZndk5sUEpWSnFBMy1nVHBvV1hxS2d2RV84ODc2VkpQT0NzS1JwTW1WSFhYUml4bU1BcmQySjI0Z2FtVmVURF9lNkVYNkllUXNDaFdibERtOUs5czFhanpEWDVPbER3NjhURUxHRXJWc3FYZWw0czdMdVMwN2tuc1Z4TXh3SnctOFh2TnY4UVdoNkVvRk5iLUQzbngzRmNORHo2RVVQQUlmTFd3YhIEGgIIABrPBBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKkECAAQABgAIAAqFAoDYWlyFewPsEAaCGFpcmluZGlhKhYKBWluZGlhFaBTs0AaCGFpcmluZGlhKhYKBnJlZnVuZBVe2ZdAGgdyZWZ1bmRzMu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZmUVdoM3lyZ0J1UU9xSngydXc3WVYtbWFKTExLRG9PS2pSWkZZTjA3TDJISDFtRVV6TkZndk5sUEpWSnFBMy1nVHBvV1hxS2d2RV84ODc2VkpQT0NzS1JwTW1WSFhYUml4bU1BcmQySjI0Z2FtVmVURF9lNkVYNkllUXNDaFdibERtOUs5czFhanpEWDVPbER3NjhURUxHRXJWc3FYZWw0czdMdVMwN2tuc1Z4TXh3SnctOFh2TnY4UVdoNkVvRk5iLUQzbngzRmNORHo2RVVQQUlmTFd3YjpIQ29yb25hdmlydXMgTG9ja2Rvd246IFRob3VzYW5kcyBzZWVrIDxiPnJlZnVuZDwvYj4gZnJvbSA8Yj5BaXIgSW5kaWE8L2I-Qp0BVGhlIGFpcmxpbmUsIGFzIG9uIFR1ZXNkYXksIHdhcyBob2xkaW5nIGFuIGVzdGltYXRlZCBScyA1MDAgY3JvcmUgPGI-cmVmdW5kPC9iPiBhbW91bnQuIEUtcGFwZXIgb24gbXVsdGlwbGUgZGV2aWNlcy4gQU5ZVElNRSwgQU5ZV0hFUkUuIEV4cGVyaWVuY2UgYSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZmUVdoM3lyZ0J1UU9xSngydXc3WVYtbWFKTExLRG9PS2pSWkZZTjA3TDJISDFtRVV6TkZndk5sUEpWSnFBMy1nVHBvV1hxS2d2RV84ODc2VkpQT0NzS1JwTW1WSFhYUml4bU1BcmQySjI0Z2FtVmVURF9lNkVYNkllUXNDaFdibERtOUs5czFhanpEWDVPbER3NjhURUxHRXJWc3FYZWw0czdMdVMwN2tuc1Z4TXh3SnctOFh2TnY4UVdoNkVvRk5iLUQzbngzRmNORHo2RVVQQUlmTFd3YhIEGgIIABrPBBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKkECAAQABgAIAAqFAoDYWlyFewPsEAaCGFpcmluZGlhKhYKBWluZGlhFaBTs0AaCGFpcmluZGlhKhYKBnJlZnVuZBVe2ZdAGgdyZWZ1bmRzMu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZmUVdoM3lyZ0J1UU9xSngydXc3WVYtbWFKTExLRG9PS2pSWkZZTjA3TDJISDFtRVV6TkZndk5sUEpWSnFBMy1nVHBvV1hxS2d2RV84ODc2VkpQT0NzS1JwTW1WSFhYUml4bU1BcmQySjI0Z2FtVmVURF9lNkVYNkllUXNDaFdibERtOUs5czFhanpEWDVPbER3NjhURUxHRXJWc3FYZWw0czdMdVMwN2tuc1Z4TXh3SnctOFh2TnY4UVdoNkVvRk5iLUQzbngzRmNORHo2RVVQQUlmTFd3YjpIQ29yb25hdmlydXMgTG9ja2Rvd246IFRob3VzYW5kcyBzZWVrIDxiPnJlZnVuZDwvYj4gZnJvbSA8Yj5BaXIgSW5kaWE8L2I-Qp0BVGhlIGFpcmxpbmUsIGFzIG9uIFR1ZXNkYXksIHdhcyBob2xkaW5nIGFuIGVzdGltYXRlZCBScyA1MDAgY3JvcmUgPGI-cmVmdW5kPC9iPiBhbW91bnQuIEUtcGFwZXIgb24gbXVsdGlwbGUgZGV2aWNlcy4gQU5ZVElNRSwgQU5ZV0hFUkUuIEV4cGVyaWVuY2UgYSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "The airline, as on Tuesday, was holding an estimated Rs 500 crore refund amount. E-paper on multiple devices. ANYTIME, ANYWHERE. Experience a ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEVHcEwAkawAkawAkawAkawAkawAkawAkawAkawAkawAkawAkawAkawAkawAkaw6WdmkAAAAD3RSTlMABq-ivV07if_nLXLYFPQx3YCgAAAAfElEQVR4AWOgG2BUMlJRZUhRUglQUnIH8lk6s3Z0MZ7oZWB6EQDkis5hYPO4sO8BA7fFAiCXew4Dg4UBCndPAwq3qBeFW9y2r-fMSWTuw7vScG4JquJ9KEYxWhTAuaxzGNhnMsC5Ih1hGg5gR84IAHnBWKkKyQtAEXqEHAAisTfy_F60GwAAAABJRU5ErkJggg.png",
+          "source_info_link": "https://www.deccanherald.com/business/coronavirus-lockdown-thousands-seek-refund-from-air-india-842171.html"
+        }
+      },
+      "date": "26 May 2020",
+      "displayed_link": "https://www.deccanherald.com › Business",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEVHcEwAkawAkawAkawAkawAkawAkawAkawAkawAkawAkawAkawAkawAkawAkaw6WdmkAAAAD3RSTlMABq-ivV07if_nLXLYFPQx3YCgAAAAfElEQVR4AWOgG2BUMlJRZUhRUglQUnIH8lk6s3Z0MZ7oZWB6EQDkis5hYPO4sO8BA7fFAiCXew4Dg4UBCndPAwq3qBeFW9y2r-fMSWTuw7vScG4JquJ9KEYxWhTAuaxzGNhnMsC5Ih1hGg5gR84IAHnBWKkKyQtAEXqEHAAisTfy_F60GwAAAABJRU5ErkJggg.png",
+      "link": "https://www.deccanherald.com/business/coronavirus-lockdown-thousands-seek-refund-from-air-india-842171.html",
+      "position": 4,
+      "read_more_link": "https://www.deccanherald.com/business/coronavirus-lockdown-thousands-seek-refund-from-air-india-842171.html#:~:text=The%20airline%2C%20as%20on%20Tuesday%2C,a%20more%20refined%20e%2Dpaper%20today",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEB6zswFfQWh3yrgBuQOqJx2uw7YV-maJLLKDoOKjRZFYN07L2HH1mEUzNFgvNlPJVJqA3-gTpoWXqKgvE_8876VJPOCsKRpMmVHXXRixmMArd2J24gamVeTD_e6EX6IeQsChWblDm9K9s1ajzDX5OlDw68TELGErVsqXel4s7LuS07knsVxMxwJw-8XvNv8QWh6EoFNb-D3nx3FcNDz6EUPAIfLWwb&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQFnoECCwQAQ&uoh=1",
+      "snippet": "The airline, as on Tuesday, was holding an estimated Rs 500 crore refund amount. E-paper on multiple devices. ANYTIME, ANYWHERE. Experience a ...",
+      "snippet_highlighted_words": [
+        "refund"
+      ],
+      "source": "Deccan Herald",
+      "title": "Thousands seek refund from Air India"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZVdnFyY09fNzZXeVJSemt6cHVsWFM5SFBlN0RCckRhT01lQ1ktQVJtU2tlWG10WlhKTVcxN3dha2RXcEJWcjdvcnVFZ0VtU3pFRUhsQTlMLVhfLVplZWlsN04xNkRLTkNxWmJwenBJY3dVQnpwRFRxazZyTDdMVW1mcHRRWTd1eXlQN0VQS0pxUW5IQmItaHFmVHdkU3pWcW91VFljZGRWVkNCSk5tOG1oaXNlURIEGgIIABqwBBIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkCMBAgAEAAYACAAKhQKA2FpchVB2MRAGghhaXJpbmRpYSoWCgVpbmRpYRXN_MdAGghhaXJpbmRpYSoWCgZyZWZ1bmQVgsinPxoHcmVmdW5kczLEAS9nb3RvP3VybD1DQUVTaGdFQjZ6c3dGVXZxcmNPXzc2V3lSUnprenB1bFhTOUhQZTdEQnJEYU9NZUNZLUFSbVNrZVhtdFpYSk1XMTd3YWtkV3BCVnI3b3J1RWdFbVN6RUVIbEE5TC1YXy1aZWVpbDdOMTZES05DcVpicHpwSWN3VUJ6cERUcWs2ckw3TFVtZnB0UVk3dXl5UDdFUEtKcVFuSEJiLWhxZlR3ZFN6VnFvdVRZY2RkVlZDQkpObThtaGlzZVE6RTxiPmFpciBpbmRpYTwvYj4gZmxpZ2h0IGRlbGF5IGNvbXBlbnNhdGlvbjogYSBjb21wcmVoZW5zaXZlIHN1bW1hdGlvbkKtAVlvdSBtYXkgYmUgZWxpZ2libGUgZm9yIHJlaW1idXJzZW1lbnQgaWYgPGI-QWlyIEluZGlhIGNhbmNlbHMgeW91ciBmbGlnaHQgbGVzcyB0aGFuIGZvdXJ0ZWVuIGRheXMgYmVmb3JlIHlvdXIgcGxhbm5lZCBkZXBhcnR1cmU8L2I-IGFuZCB0aGUgY2FuY2VsbGF0aW9uIGNhdXNlcyB5b3VyJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZVdnFyY09fNzZXeVJSemt6cHVsWFM5SFBlN0RCckRhT01lQ1ktQVJtU2tlWG10WlhKTVcxN3dha2RXcEJWcjdvcnVFZ0VtU3pFRUhsQTlMLVhfLVplZWlsN04xNkRLTkNxWmJwenBJY3dVQnpwRFRxazZyTDdMVW1mcHRRWTd1eXlQN0VQS0pxUW5IQmItaHFmVHdkU3pWcW91VFljZGRWVkNCSk5tOG1oaXNlURIEGgIIABqwBBIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkCMBAgAEAAYACAAKhQKA2FpchVB2MRAGghhaXJpbmRpYSoWCgVpbmRpYRXN_MdAGghhaXJpbmRpYSoWCgZyZWZ1bmQVgsinPxoHcmVmdW5kczLEAS9nb3RvP3VybD1DQUVTaGdFQjZ6c3dGVXZxcmNPXzc2V3lSUnprenB1bFhTOUhQZTdEQnJEYU9NZUNZLUFSbVNrZVhtdFpYSk1XMTd3YWtkV3BCVnI3b3J1RWdFbVN6RUVIbEE5TC1YXy1aZWVpbDdOMTZES05DcVpicHpwSWN3VUJ6cERUcWs2ckw3TFVtZnB0UVk3dXl5UDdFUEtKcVFuSEJiLWhxZlR3ZFN6VnFvdVRZY2RkVlZDQkpObThtaGlzZVE6RTxiPmFpciBpbmRpYTwvYj4gZmxpZ2h0IGRlbGF5IGNvbXBlbnNhdGlvbjogYSBjb21wcmVoZW5zaXZlIHN1bW1hdGlvbkKtAVlvdSBtYXkgYmUgZWxpZ2libGUgZm9yIHJlaW1idXJzZW1lbnQgaWYgPGI-QWlyIEluZGlhIGNhbmNlbHMgeW91ciBmbGlnaHQgbGVzcyB0aGFuIGZvdXJ0ZWVuIGRheXMgYmVmb3JlIHlvdXIgcGxhbm5lZCBkZXBhcnR1cmU8L2I-IGFuZCB0aGUgY2FuY2VsbGF0aW9uIGNhdXNlcyB5b3VyJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "You may be eligible for reimbursement if Air India cancels your flight less than fourteen days before your planned departure and the cancellation causes your ...",
+          "icon": "https://serpapi.com/images/i/UklGRpQAAABXRUJQVlA4IIgAAADQAgCdASoQABAAAsBMJaACdH8I_-HjLcX72achR30AAP75regUKs8-yyc_fGkb0iE5_GDxfWhahVSqok0qCuDKIz7GxCXpSAxB4J1bzPQAOHIc-LMODnpT7xh3DSvwYfGvWsuFr4gjH7xe4WnAIeSbk9joqNY1LuckfAENnTuEHXBbWMNzwAAA.webp",
+          "source_info_link": "https://www.click2refund.com/en/Airline/Air-India-flight-delay-compensation"
+        }
+      },
+      "displayed_link": "https://www.click2refund.com › Airline › Air-India-fligh...",
+      "favicon": "https://serpapi.com/images/i/UklGRpQAAABXRUJQVlA4IIgAAADQAgCdASoQABAAAsBMJaACdH8I_-HjLcX72achR30AAP75regUKs8-yyc_fGkb0iE5_GDxfWhahVSqok0qCuDKIz7GxCXpSAxB4J1bzPQAOHIc-LMODnpT7xh3DSvwYfGvWsuFr4gjH7xe4WnAIeSbk9joqNY1LuckfAENnTuEHXBbWMNzwAAA.webp",
+      "link": "https://www.click2refund.com/en/Airline/Air-India-flight-delay-compensation",
+      "position": 5,
+      "read_more_link": "https://www.click2refund.com/en/Airline/Air-India-flight-delay-compensation#:~:text=You%20may%20be%20eligible%20for,two%20hours%20later%20than%20expected.",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFUvqrcO_76WyRRzkzpulXS9HPe7DBrDaOMeCY-ARmSkeXmtZXJMW17wakdWpBVr7oruEgEmSzEEHlA9L-X_-Zeeil7N16DKNCqZbpzpIcwUBzpDTqk6rL7LUmfptQY7uyyP7EPKJqQnHBb-hqfTwdSzVqouTYcddVVCBJNm8mhiseQ&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQFnoECCYQAQ&uoh=1",
+      "snippet": "You may be eligible for reimbursement if Air India cancels your flight less than fourteen days before your planned departure and the cancellation causes your ...",
+      "snippet_highlighted_words": [
+        "Air India cancels your flight less than fourteen days before your planned departure"
+      ],
+      "source": "Click2Refund",
+      "title": "air india flight delay compensation"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoACL2dvdG8_dXJsPUNBRVNzd0VCNnpzd0ZmelgwXzBKakFfQmpmTmZMVFJSOEwtMWJNbWxyTVlPWVZjYlgyME5jaWNGN1dnb2s1cUprT0dEaGlCRjV1OHRpZ19hVUw4MnZaZXpUUWF5RjlVUU5QdmM5OFRPdXpKZk8tZkJGMVhSTkxtb0JnV21fVWh0RkNjSjJpMkhUdDdmcVdBcmlGZUIzMG1PODN3c3p1VnZJcW9UMXNZSjNQbzh2MlN1RmxsUUlxdHZXZmVCbDhsUnEzNWpXdXJIZDgzbHNpVTdmS2o0NHZQcW9VNUpEbTMwZjRRQl9BUE5HaktnZVVrcVA1MzdKdxIEGgIIABrgBBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkC8BAgAEAAYACAAKhQKA2FpchVE3KVAGghhaXJpbmRpYSoWCgVpbmRpYRXYGptAGghhaXJpbmRpYSoWCgZyZWZ1bmQV9HSHQBoHcmVmdW5kczKAAi9nb3RvP3VybD1DQUVTc3dFQjZ6c3dGZnpYMF8wSmpBX0JqZk5mTFRSUjhMLTFiTW1sck1ZT1lWY2JYMjBOY2ljRjdXZ29rNXFKa09HRGhpQkY1dTh0aWdfYVVMODJ2WmV6VFFheUY5VVFOUHZjOThUT3V6SmZPLWZCRjFYUk5MbW9CZ1dtX1VodEZDY0oyaTJIVHQ3ZnFXQXJpRmVCMzBtTzgzd3N6dVZ2SXFvVDFzWUozUG84djJTdUZsbFFJcXR2V2ZlQmw4bFJxMzVqV3VySGQ4M2xzaVU3ZktqNDR2UHFvVTVKRG0zMGY0UUJfQVBOR2pLZ2VVa3FQNTM3Snc6STxiPkFJciBJbmRpYSByZWZ1bmQ8L2I-IGFmdGVyIGNhbmNlbGxpbmcgd2l0aGluIDI0IGhycyAtIEFpciBUcmF2ZWwgRm9ydW1CnQFJdCBhbHdheXMgdGFrZXMgYSB3aGlsZSB0byBzZWUgdGhlIHJlZnVuZC4gRG9lcyA8Yj5BaXIgSW5kaWEgaGF2ZSBjYW5jZWwgZnJlZSB3aXRoaW4gMjQgaHJzPC9iPiBhcyBhIHBvbGljeT8_IEkga25vdyB0aGF0IFVTQSBhaXJsaW5lcyBoYXZlIHRoYXQgYnV0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoACL2dvdG8_dXJsPUNBRVNzd0VCNnpzd0ZmelgwXzBKakFfQmpmTmZMVFJSOEwtMWJNbWxyTVlPWVZjYlgyME5jaWNGN1dnb2s1cUprT0dEaGlCRjV1OHRpZ19hVUw4MnZaZXpUUWF5RjlVUU5QdmM5OFRPdXpKZk8tZkJGMVhSTkxtb0JnV21fVWh0RkNjSjJpMkhUdDdmcVdBcmlGZUIzMG1PODN3c3p1VnZJcW9UMXNZSjNQbzh2MlN1RmxsUUlxdHZXZmVCbDhsUnEzNWpXdXJIZDgzbHNpVTdmS2o0NHZQcW9VNUpEbTMwZjRRQl9BUE5HaktnZVVrcVA1MzdKdxIEGgIIABrgBBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkC8BAgAEAAYACAAKhQKA2FpchVE3KVAGghhaXJpbmRpYSoWCgVpbmRpYRXYGptAGghhaXJpbmRpYSoWCgZyZWZ1bmQV9HSHQBoHcmVmdW5kczKAAi9nb3RvP3VybD1DQUVTc3dFQjZ6c3dGZnpYMF8wSmpBX0JqZk5mTFRSUjhMLTFiTW1sck1ZT1lWY2JYMjBOY2ljRjdXZ29rNXFKa09HRGhpQkY1dTh0aWdfYVVMODJ2WmV6VFFheUY5VVFOUHZjOThUT3V6SmZPLWZCRjFYUk5MbW9CZ1dtX1VodEZDY0oyaTJIVHQ3ZnFXQXJpRmVCMzBtTzgzd3N6dVZ2SXFvVDFzWUozUG84djJTdUZsbFFJcXR2V2ZlQmw4bFJxMzVqV3VySGQ4M2xzaVU3ZktqNDR2UHFvVTVKRG0zMGY0UUJfQVBOR2pLZ2VVa3FQNTM3Snc6STxiPkFJciBJbmRpYSByZWZ1bmQ8L2I-IGFmdGVyIGNhbmNlbGxpbmcgd2l0aGluIDI0IGhycyAtIEFpciBUcmF2ZWwgRm9ydW1CnQFJdCBhbHdheXMgdGFrZXMgYSB3aGlsZSB0byBzZWUgdGhlIHJlZnVuZC4gRG9lcyA8Yj5BaXIgSW5kaWEgaGF2ZSBjYW5jZWwgZnJlZSB3aXRoaW4gMjQgaHJzPC9iPiBhcyBhIHBvbGljeT8_IEkga25vdyB0aGF0IFVTQSBhaXJsaW5lcyBoYXZlIHRoYXQgYnV0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "It always takes a while to see the refund. Does Air India have cancel free within 24 hrs as a policy?? I know that USA airlines have that but ...",
+          "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAADQBgCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y43UHrqeAN4sRoIQDV4vgCTRvB1tMXw-Ape1f4gxv7fJIlmAA_FHCFlLdcABXyY72clExk4RdAtev8mLy_Ws-uojgoLjRWQZ0Gku77ttm-gMJFu3wFcz6gfhtA_OZN_79epZAT2R1__0YegM5bI2MS1sgfHl64Ymve17rG-lDfFSkP0pfcGpBIipy0siH9dzFV4xzcVO-6OrAR2QkZyrGrsLlkJJACSgyoWsgnNLLc5mXcbTqYXfBtftqxSxjvuV-6f1iJrv9NKKGGVrzr55G7G76DtPh7l8RrCfPlKt4k-QrcVlba5dWvj71G5MmPPx1ZbpHL-xUS1c4Ve8M_Co8xZoYJUKG-Z3wfFCGQUJmSLSO4_79-i6ze-Ay_IbZCcAAAAA.webp",
+          "source_info_link": "https://www.tripadvisor.in/ShowTopic-g1-i10702-k12283524-AIr_India_refund_after_cancelling_within_24_hrs-Air_Travel.html"
+        }
+      },
+      "date": "28 Jan 2019",
+      "displayed_link": "https://www.tripadvisor.in › ShowTopic-g1-i10702-k12...",
+      "favicon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAADQBgCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y43UHrqeAN4sRoIQDV4vgCTRvB1tMXw-Ape1f4gxv7fJIlmAA_FHCFlLdcABXyY72clExk4RdAtev8mLy_Ws-uojgoLjRWQZ0Gku77ttm-gMJFu3wFcz6gfhtA_OZN_79epZAT2R1__0YegM5bI2MS1sgfHl64Ymve17rG-lDfFSkP0pfcGpBIipy0siH9dzFV4xzcVO-6OrAR2QkZyrGrsLlkJJACSgyoWsgnNLLc5mXcbTqYXfBtftqxSxjvuV-6f1iJrv9NKKGGVrzr55G7G76DtPh7l8RrCfPlKt4k-QrcVlba5dWvj71G5MmPPx1ZbpHL-xUS1c4Ve8M_Co8xZoYJUKG-Z3wfFCGQUJmSLSO4_79-i6ze-Ay_IbZCcAAAAA.webp",
+      "link": "https://www.tripadvisor.in/ShowTopic-g1-i10702-k12283524-AIr_India_refund_after_cancelling_within_24_hrs-Air_Travel.html",
+      "position": 6,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESswEB6zswFfzX0_0JjA_BjfNfLTRR8L-1bMmlrMYOYVcbX20NcicF7Wgok5qJkOGDhiBF5u8tig_aUL82vZezTQayF9UQNPvc98TOuzJfO-fBF1XRNLmoBgWm_UhtFCcJ2i2HTt7fqWAriFeB30mO83wszuVvIqoT1sYJ3Po8v2SuFllQIqtvWfeBl8lRq35jWurHd83lsiU7fKj44vPqoU5JDm30f4QB_APNGjKgeUkqP537Jw&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQFnoECC8QAQ&uoh=1",
+      "snippet": "It has been several days since I cancelled the booking that was booked online and mailed to ecoomerce@airindia.in. They have looted my money",
+      "source": "Tripadvisor",
+      "title": "AIr India refund after cancelling within 24 hrs - Air Travel ..."
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVnlRREVOX1pFcHIxT0g0RUVNVW51U21yRnYwVUZBT3l1Nnowd0lPeXVILXZma0ZxVlMza0psQ0dKZndZS3NLeDZCSjRoWkJXb3BxNEtBdVI0Y2Y2bHdiX0l0VzQtS2w0Y2REZm1fWnpkTmtPT0F0aXl6bE1sZDNNUVZUU2YyV3YwTG5TLVUxdG5jMGtHNTNuemxheHMSBBoCCAAalAQSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDuAwgAEAAYACAAKhQKA2FpchWMpLFAGghhaXJpbmRpYSoWCgVpbmRpYRUU4kRAGghhaXJpbmRpYSoWCgZyZWZ1bmQVqBSVPxoHcmVmdW5kczKqAS9nb3RvP3VybD1DQUVTZEFIck96QVZ5UURFTl9aRXByMU9INEVFTVVudVNtckZ2MFVGQU95dTZ6MHdJT3l1SC12ZmtGcVZTM2tKbENHSmZ3WUtzS3g2Qko0aFpCV29wcTRLQXVSNGNmNmx3Yl9JdFc0LUtsNGNkRGZtX1p6ZE5rT09BdGl5emxNbGQzTVFWVFNmMld2MExuUy1VMXRuYzBrRzUzbnpsYXhzOj08Yj5SZWZ1bmRzPC9iPiwgdm91Y2hlcnMsIGFuZCBjb21wZW5zYXRpb24gLSBBaXIgRnJhbmNlIEluZGlhQrEBVGlja2V0IGFuZCBvcHRpb24gcmVmdW5kcy4gPGI-U2VsZWN0IGEgcmVhc29uIGFuZCBmb2xsb3cgdGhlIHN0ZXBzIHRvIHJlcXVlc3QgYSByZWZ1bmQ8L2I-LCBvYnRhaW4gYSB2b3VjaGVyLCBvciByZWNlaXZlIGNvbXBlbnNhdGlvbi4gUkVRVUVTVCBBIFJFRlVORCAmbWlkZG90OyBCYWdnYWdlJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVnlRREVOX1pFcHIxT0g0RUVNVW51U21yRnYwVUZBT3l1Nnowd0lPeXVILXZma0ZxVlMza0psQ0dKZndZS3NLeDZCSjRoWkJXb3BxNEtBdVI0Y2Y2bHdiX0l0VzQtS2w0Y2REZm1fWnpkTmtPT0F0aXl6bE1sZDNNUVZUU2YyV3YwTG5TLVUxdG5jMGtHNTNuemxheHMSBBoCCAAalAQSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDuAwgAEAAYACAAKhQKA2FpchWMpLFAGghhaXJpbmRpYSoWCgVpbmRpYRUU4kRAGghhaXJpbmRpYSoWCgZyZWZ1bmQVqBSVPxoHcmVmdW5kczKqAS9nb3RvP3VybD1DQUVTZEFIck96QVZ5UURFTl9aRXByMU9INEVFTVVudVNtckZ2MFVGQU95dTZ6MHdJT3l1SC12ZmtGcVZTM2tKbENHSmZ3WUtzS3g2Qko0aFpCV29wcTRLQXVSNGNmNmx3Yl9JdFc0LUtsNGNkRGZtX1p6ZE5rT09BdGl5emxNbGQzTVFWVFNmMld2MExuUy1VMXRuYzBrRzUzbnpsYXhzOj08Yj5SZWZ1bmRzPC9iPiwgdm91Y2hlcnMsIGFuZCBjb21wZW5zYXRpb24gLSBBaXIgRnJhbmNlIEluZGlhQrEBVGlja2V0IGFuZCBvcHRpb24gcmVmdW5kcy4gPGI-U2VsZWN0IGEgcmVhc29uIGFuZCBmb2xsb3cgdGhlIHN0ZXBzIHRvIHJlcXVlc3QgYSByZWZ1bmQ8L2I-LCBvYnRhaW4gYSB2b3VjaGVyLCBvciByZWNlaXZlIGNvbXBlbnNhdGlvbi4gUkVRVUVTVCBBIFJFRlVORCAmbWlkZG90OyBCYWdnYWdlJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Ticket and option refunds. Select a reason and follow the steps to request a refund, obtain a voucher, or receive compensation. REQUEST A REFUND · Baggage ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAAo0lEQVR4AWP4TwMwaijRYNRQN7f_DAzY0Z07ZBm6ahVOE-fMIcul79_jNNHUlFzvBwXhNPTRI7IM3bYNp4mTJ5MVUV--4DRRR4fc2I-MJORxTEMp9zimoZR4nCxDU1LwJHWyDN27F6eJra0EsinJHpeVJTfve3vji3HChmJmR0dHnCaeP09aKQUK-8JCkE5hYaAfkREod3d1gcKEEBgt-UcNBQCqSyDbHzspogAAAABJRU5ErkJggg.png",
+          "source_info_link": "https://wwws.airfrance.in/information/legal/remboursement"
+        }
+      },
+      "displayed_link": "https://wwws.airfrance.in › legal › remboursement",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAAo0lEQVR4AWP4TwMwaijRYNRQN7f_DAzY0Z07ZBm6ahVOE-fMIcul79_jNNHUlFzvBwXhNPTRI7IM3bYNp4mTJ5MVUV--4DRRR4fc2I-MJORxTEMp9zimoZR4nCxDU1LwJHWyDN27F6eJra0EsinJHpeVJTfve3vji3HChmJmR0dHnCaeP09aKQUK-8JCkE5hYaAfkREod3d1gcKEEBgt-UcNBQCqSyDbHzspogAAAABJRU5ErkJggg.png",
+      "link": "https://wwws.airfrance.in/information/legal/remboursement",
+      "position": 7,
+      "read_more_link": "https://wwws.airfrance.in/information/legal/remboursement#:~:text=Ticket%20and%20option%20refunds,REQUEST%20A%20REFUND",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVyQDEN_ZEpr1OH4EEMUnuSmrFv0UFAOyu6z0wIOyuH-vfkFqVS3kJlCGJfwYKsKx6BJ4hZBWopq4KAuR4cf6lwb_ItW4-Kl4cdDfm_ZzdNkOOAtiyzlMld3MQVTSf2Wv0LnS-U1tnc0kG53nzlaxs&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQFnoECCcQAQ&uoh=1",
+      "snippet": "Ticket and option refunds. Select a reason and follow the steps to request a refund, obtain a voucher, or receive compensation. REQUEST A REFUND · Baggage ...",
+      "snippet_highlighted_words": [
+        "Select a reason and follow the steps to request a refund"
+      ],
+      "source": "Air France India",
+      "title": "Refunds, vouchers, and compensation"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVjNfZVpJdmIweVlIaFB3SmpMUXNOUERXT2tuaTU2Ny1VRV9WNGd3MVg1ZWZ5VzVMRmtJcEx4ZnhnNHdOZFRvRDFUcnVmQ3ZkMDFLcjZPaGF3cmhoMk1wcWJTWlZCZ3EwM2p5YVZYbXNrcVV3eTlmOUVyaFdkOHNla2ZabFdSYnMSBBoCCAAa8QMSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDLAwgAEAAYACAAKhQKA2FpchXEjf1AGghhaXJpbmRpYSoWCgVpbmRpYRVWnAFBGghhaXJpbmRpYSoWCgZyZWZ1bmQVAAAAABoHcmVmdW5kczKVAS9nb3RvP3VybD1DQUVTWkFIck96QVYzX2VaSXZiMHlZSGhQd0pqTFFzTlBEV09rbmk1NjctVUVfVjRndzFYNWVmeVc1TEZrSXBMeGZ4ZzR3TmRUb0QxVHJ1ZkN2ZDAxS3I2T2hhd3JoaDJNcHFiU1pWQmdxMDNqeWFWWG1za3FVd3k5ZjlFcmhXZDhzZWtmWmxXUmJzOjVGbGlnaHQgUE5SIFN0YXR1cyAtIENoZWNrICZhbXA7IE1hbmFnZSBCb29raW5nIE9ubGluZUKrATxiPkFjY2VzcyB5b3VyIEFpciBJbmRpYSBFeHByZXNzIGJvb2tpbmc8L2I-IHRvIHZpZXcgb3IgbW9kaWZ5IGZsaWdodHMsIHNlbGVjdCBhZGQtb25zLCBhbmQgbWFuYWdlIHlvdXIgdHJhdmVsIGRldGFpbHMgZWFzaWx5LiBFbnRlciB5b3VyIFBOUiBhbmQgbGFzdCBuYW1lIHRvIGdldCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVjNfZVpJdmIweVlIaFB3SmpMUXNOUERXT2tuaTU2Ny1VRV9WNGd3MVg1ZWZ5VzVMRmtJcEx4ZnhnNHdOZFRvRDFUcnVmQ3ZkMDFLcjZPaGF3cmhoMk1wcWJTWlZCZ3EwM2p5YVZYbXNrcVV3eTlmOUVyaFdkOHNla2ZabFdSYnMSBBoCCAAa8QMSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDLAwgAEAAYACAAKhQKA2FpchXEjf1AGghhaXJpbmRpYSoWCgVpbmRpYRVWnAFBGghhaXJpbmRpYSoWCgZyZWZ1bmQVAAAAABoHcmVmdW5kczKVAS9nb3RvP3VybD1DQUVTWkFIck96QVYzX2VaSXZiMHlZSGhQd0pqTFFzTlBEV09rbmk1NjctVUVfVjRndzFYNWVmeVc1TEZrSXBMeGZ4ZzR3TmRUb0QxVHJ1ZkN2ZDAxS3I2T2hhd3JoaDJNcHFiU1pWQmdxMDNqeWFWWG1za3FVd3k5ZjlFcmhXZDhzZWtmWmxXUmJzOjVGbGlnaHQgUE5SIFN0YXR1cyAtIENoZWNrICZhbXA7IE1hbmFnZSBCb29raW5nIE9ubGluZUKrATxiPkFjY2VzcyB5b3VyIEFpciBJbmRpYSBFeHByZXNzIGJvb2tpbmc8L2I-IHRvIHZpZXcgb3IgbW9kaWZ5IGZsaWdodHMsIHNlbGVjdCBhZGQtb25zLCBhbmQgbWFuYWdlIHlvdXIgdHJhdmVsIGRldGFpbHMgZWFzaWx5LiBFbnRlciB5b3VyIFBOUiBhbmQgbGFzdCBuYW1lIHRvIGdldCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "Access your Air India Express booking to view or modify flights, select add-ons, and manage your travel details easily. Enter your PNR and last name to get ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEX_ZCJHcEz_ZCP_ZCP_ZCL_____XRH_VAD_xLL_cDj_7un_hVv_o4j_k3D_2s__s53mZZbIAAAABHRSTlNJABSzKUlETgAAAMFJREFUKJF9k1EChCAIRLUMRKXuf9vA1hYr5aOCJ0QDOe_94j5sEeC8X8OnrQoHTKlbRiwEeZ3eQO0ONsddsMR4ZLwQ5kM8Aze1RHIeQqrOE14R89jKctklsiNoXmS2ZaUDjBLOpBfsG6qN1NR9K9giBkIRSjndzMKaGpHCJ6ypVqEOstYdQEzjstOGNFE_heEBIRgR6CFCyWzly7kY-FNbmqG38GZk9BqZjDdyGzbHftjdmsB_TaYLNl3N-VJPfocTwAQNt6SNKf8AAAAASUVORK5CYII.png",
+          "source_info_link": "https://www.airindiaexpress.com/mybooking"
+        }
+      },
+      "displayed_link": "https://www.airindiaexpress.com › mybooking",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEX_ZCJHcEz_ZCP_ZCP_ZCL_____XRH_VAD_xLL_cDj_7un_hVv_o4j_k3D_2s__s53mZZbIAAAABHRSTlNJABSzKUlETgAAAMFJREFUKJF9k1EChCAIRLUMRKXuf9vA1hYr5aOCJ0QDOe_94j5sEeC8X8OnrQoHTKlbRiwEeZ3eQO0ONsddsMR4ZLwQ5kM8Aze1RHIeQqrOE14R89jKctklsiNoXmS2ZaUDjBLOpBfsG6qN1NR9K9giBkIRSjndzMKaGpHCJ6ypVqEOstYdQEzjstOGNFE_heEBIRgR6CFCyWzly7kY-FNbmqG38GZk9BqZjDdyGzbHftjdmsB_TaYLNl3N-VJPfocTwAQNt6SNKf8AAAAASUVORK5CYII.png",
+      "link": "https://www.airindiaexpress.com/mybooking",
+      "position": 8,
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAV3_eZIvb0yYHhPwJjLQsNPDWOkni567-UE_V4gw1X5efyW5LFkIpLxfxg4wNdToD1TrufCvd01Kr6Ohawrhh2MpqbSZVBgq03jyaVXmskqUwy9f9ErhWd8sekfZlWRbs&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQFnoECDMQAQ&uoh=1",
+      "snippet": "Access your Air India Express booking to view or modify flights, select add-ons, and manage your travel details easily. Enter your PNR and last name to get ...",
+      "snippet_highlighted_words": [
+        "Access your Air India Express booking"
+      ],
+      "source": "Air India Express",
+      "title": "Flight PNR Status - Check & Manage Booking Online"
+    },
+    {
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZTQW1fVEdQaGlWZThTcTIxcnY5VG82WUlvelZraTVZdlNZVnZXTFI5Y2Rfbjlha0lHY2Z5eW12dnVxZEQzMDBtaENBSDJCcnd1YnF2TllQOXNCejRVZFRIOUdjYVJQMGxLdUVqVTRYaVVBRHZKeGR6LUNrTGJ2NjVDYVE0SUo4NWFCS0p3NFNQNnhJa1ItY19sRUZDN1FmYXhJRGVsY0dpa203dl9JSllqX0oSBBoCCAAanQQSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA-QMIABAAGAAgACoUCgNhaXIV4qmsQBoIYWlyaW5kaWEqFgoFaW5kaWEVzuWsQBoIYWlyaW5kaWEqFgoGcmVmdW5kFcp7m0AaB3JlZnVuZHMywgEvZ290bz91cmw9Q0FFU2hRRUI2enN3RlNBbV9UR1BoaVZlOFNxMjFydjlUbzZZSW96VmtpNVl2U1lWdldMUjljZF9uOWFrSUdjZnl5bXZ2dXFkRDMwMG1oQ0FIMkJyd3VicXZOWVA5c0J6NFVkVEg5R2NhUlAwbEt1RWpVNFhpVUFEdkp4ZHotQ2tMYnY2NUNhUTRJSjg1YUJLSnc0U1A2eElrUi1jX2xFRkM3UWZheElEZWxjR2lrbTd2X0lKWWpfSjpBPGI-QWlyIEluZGlhIHJlZnVuZDwvYj4gZ3VpZGFuY2UgZm9yIGNhbmNlbGxlZCB0aWNrZXRzIC0gRmFjZWJvb2tCoAFJbiB0aGUgZXZlbnQgb2YgYSBwYXNzZW5nZXIgY2FuY2VsaW5nIGhpcyBmbGlnaHQsIGFsbCBhaXJsaW5lcyA8Yj5yZWZ1bmQgdGhlIHRpY2tldCBhbW91bnQgaW4gdGhyZWUgdG8gZml2ZSB3b3JraW5nIGRheXM8L2I-Li4gQWlyIEluZGlhIG5lZWRzIDE1IHRvIDQ1Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZTQW1fVEdQaGlWZThTcTIxcnY5VG82WUlvelZraTVZdlNZVnZXTFI5Y2Rfbjlha0lHY2Z5eW12dnVxZEQzMDBtaENBSDJCcnd1YnF2TllQOXNCejRVZFRIOUdjYVJQMGxLdUVqVTRYaVVBRHZKeGR6LUNrTGJ2NjVDYVE0SUo4NWFCS0p3NFNQNnhJa1ItY19sRUZDN1FmYXhJRGVsY0dpa203dl9JSllqX0oSBBoCCAAanQQSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA-QMIABAAGAAgACoUCgNhaXIV4qmsQBoIYWlyaW5kaWEqFgoFaW5kaWEVzuWsQBoIYWlyaW5kaWEqFgoGcmVmdW5kFcp7m0AaB3JlZnVuZHMywgEvZ290bz91cmw9Q0FFU2hRRUI2enN3RlNBbV9UR1BoaVZlOFNxMjFydjlUbzZZSW96VmtpNVl2U1lWdldMUjljZF9uOWFrSUdjZnl5bXZ2dXFkRDMwMG1oQ0FIMkJyd3VicXZOWVA5c0J6NFVkVEg5R2NhUlAwbEt1RWpVNFhpVUFEdkp4ZHotQ2tMYnY2NUNhUTRJSjg1YUJLSnc0U1A2eElrUi1jX2xFRkM3UWZheElEZWxjR2lrbTd2X0lKWWpfSjpBPGI-QWlyIEluZGlhIHJlZnVuZDwvYj4gZ3VpZGFuY2UgZm9yIGNhbmNlbGxlZCB0aWNrZXRzIC0gRmFjZWJvb2tCoAFJbiB0aGUgZXZlbnQgb2YgYSBwYXNzZW5nZXIgY2FuY2VsaW5nIGhpcyBmbGlnaHQsIGFsbCBhaXJsaW5lcyA8Yj5yZWZ1bmQgdGhlIHRpY2tldCBhbW91bnQgaW4gdGhyZWUgdG8gZml2ZSB3b3JraW5nIGRheXM8L2I-Li4gQWlyIEluZGlhIG5lZWRzIDE1IHRvIDQ1Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_this_result": {
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ],
+        "source": {
+          "description": "In the event of a passenger canceling his flight, all airlines refund the ticket amount in three to five working days.. Air India needs 15 to 45 ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+          "source_info_link": "https://www.facebook.com/groups/desisinthebayarea/posts/10158089438103946/"
+        }
+      },
+      "displayed_link": "5 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "link": "https://www.facebook.com/groups/desisinthebayarea/posts/10158089438103946/",
+      "position": 9,
+      "read_more_link": "https://www.facebook.com/groups/desisinthebayarea/posts/10158089438103946/#:~:text=In%20the%20event%20of%20a,needs%2015%20to%2045%20days..",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFSAm_TGPhiVe8Sq21rv9To6YIozVki5YvSYVvWLR9cd_n9akIGcfyymvvuqdD300mhCAH2BrwubqvNYP9sBz4UdTH9GcaRP0lKuEjU4XiUADvJxdz-CkLbv65CaQ4IJ85aBKJw4SP6xIkR-c_lEFC7QfaxIDelcGikm7v_IJYj_J&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQFnoECEgQAQ&uoh=1",
+      "snippet": "In the event of a passenger canceling his flight, all airlines refund the ticket amount in three to five working days.. Air India needs 15 to 45 ...",
+      "snippet_highlighted_words": [
+        "refund the ticket amount in three to five working days"
+      ],
+      "source": "Facebook · Desis in the Bay Area",
+      "title": "Air India refund guidance for cancelled tickets"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Air+India+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&ei=iWPDasS9No2aptQPk_eUsAY&start=10&sa=N&sstk=AS6-VmKSJFho-BPDQSUpEmuG15BUwFOGIVrjGJtgPnb-4YApVdo6D34pv0XcOBcVvM7OOqGTOXaAalBqL022B-hAkhofaEmEBZPhug&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ8NMDegQIPhAW",
+    "other_pages": {
+      "10": "https://www.google.com/search?q=Air+India+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&ei=iWPDasS9No2aptQPk_eUsAY&start=90&sa=N&sstk=AS6-VmKSJFho-BPDQSUpEmuG15BUwFOGIVrjGJtgPnb-4YApVdo6D34pv0XcOBcVvM7OOqGTOXaAalBqL022B-hAkhofaEmEBZPhug&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ8tMDegQIPhAU",
+      "2": "https://www.google.com/search?q=Air+India+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&ei=iWPDasS9No2aptQPk_eUsAY&start=10&sa=N&sstk=AS6-VmKSJFho-BPDQSUpEmuG15BUwFOGIVrjGJtgPnb-4YApVdo6D34pv0XcOBcVvM7OOqGTOXaAalBqL022B-hAkhofaEmEBZPhug&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ8tMDegQIPhAE",
+      "3": "https://www.google.com/search?q=Air+India+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&ei=iWPDasS9No2aptQPk_eUsAY&start=20&sa=N&sstk=AS6-VmKSJFho-BPDQSUpEmuG15BUwFOGIVrjGJtgPnb-4YApVdo6D34pv0XcOBcVvM7OOqGTOXaAalBqL022B-hAkhofaEmEBZPhug&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ8tMDegQIPhAG",
+      "4": "https://www.google.com/search?q=Air+India+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&ei=iWPDasS9No2aptQPk_eUsAY&start=30&sa=N&sstk=AS6-VmKSJFho-BPDQSUpEmuG15BUwFOGIVrjGJtgPnb-4YApVdo6D34pv0XcOBcVvM7OOqGTOXaAalBqL022B-hAkhofaEmEBZPhug&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ8tMDegQIPhAI",
+      "5": "https://www.google.com/search?q=Air+India+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&ei=iWPDasS9No2aptQPk_eUsAY&start=40&sa=N&sstk=AS6-VmKSJFho-BPDQSUpEmuG15BUwFOGIVrjGJtgPnb-4YApVdo6D34pv0XcOBcVvM7OOqGTOXaAalBqL022B-hAkhofaEmEBZPhug&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ8tMDegQIPhAK",
+      "6": "https://www.google.com/search?q=Air+India+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&ei=iWPDasS9No2aptQPk_eUsAY&start=50&sa=N&sstk=AS6-VmKSJFho-BPDQSUpEmuG15BUwFOGIVrjGJtgPnb-4YApVdo6D34pv0XcOBcVvM7OOqGTOXaAalBqL022B-hAkhofaEmEBZPhug&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ8tMDegQIPhAM",
+      "7": "https://www.google.com/search?q=Air+India+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&ei=iWPDasS9No2aptQPk_eUsAY&start=60&sa=N&sstk=AS6-VmKSJFho-BPDQSUpEmuG15BUwFOGIVrjGJtgPnb-4YApVdo6D34pv0XcOBcVvM7OOqGTOXaAalBqL022B-hAkhofaEmEBZPhug&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ8tMDegQIPhAO",
+      "8": "https://www.google.com/search?q=Air+India+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&ei=iWPDasS9No2aptQPk_eUsAY&start=70&sa=N&sstk=AS6-VmKSJFho-BPDQSUpEmuG15BUwFOGIVrjGJtgPnb-4YApVdo6D34pv0XcOBcVvM7OOqGTOXaAalBqL022B-hAkhofaEmEBZPhug&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ8tMDegQIPhAQ",
+      "9": "https://www.google.com/search?q=Air+India+refund&sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&ei=iWPDasS9No2aptQPk_eUsAY&start=80&sa=N&sstk=AS6-VmKSJFho-BPDQSUpEmuG15BUwFOGIVrjGJtgPnb-4YApVdo6D34pv0XcOBcVvM7OOqGTOXaAalBqL022B-hAkhofaEmEBZPhug&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ8tMDegQIPhAS"
+    }
+  },
+  "related_searches": [
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&q=Air+india+refund+status&sa=X&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ1QJ6BAhAEAE",
+      "query": "Air india refund status",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+india+refund+status"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&q=Air+india+refund+online&sa=X&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ1QJ6BAhHEAE",
+      "query": "Air india refund online",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+india+refund+online"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&q=Air+india+refund+policy&sa=X&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ1QJ6BAhGEAE",
+      "query": "Air india refund policy",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+india+refund+policy"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&q=Air+india+refund+number&sa=X&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ1QJ6BAhCEAE",
+      "query": "Air india refund number",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+india+refund+number"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&q=Air+India+international+flight+booking&sa=X&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ1QJ6BAhEEAE",
+      "query": "Air India international flight booking",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+international+flight+booking"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&q=Air+India+flight+booking+direct&sa=X&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ1QJ6BAhFEAE",
+      "query": "Air India flight booking direct",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+flight+booking+direct"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&q=Air+India+international+flight+booking+online+free&sa=X&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ1QJ6BAhBEAE",
+      "query": "Air India international flight booking online free",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+international+flight+booking+online+free"
+    },
+    {
+      "block_position": 1,
+      "link": "https://www.google.com/search?sca_esv=7f9c4df3eb7148c2&gl=in&hl=en&sxsrf=APpeQnv_XmirPo5BH5FpCmVdZuDt0tSSgg:1791189897898&q=Air+India+domestic+flight+booking&sa=X&ved=2ahUKEwiEptusvqKXAxUNjYkEHZM7BWYQ1QJ6BAhDEAE",
+      "query": "Air India domestic flight booking",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+domestic+flight+booking"
+    }
+  ],
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "Air India refund",
+    "time_taken_displayed": 0.15,
+    "total_results": 115
+  },
+  "search_metadata": {
+    "created_at": "2026-10-05 08:44:57 UTC",
+    "google_url": "https://www.google.com/search?q=Air+India+refund&oq=Air+India+refund&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "id": "6ac3638903610a815e1996b2",
+    "json_endpoint": "https://serpapi.com/searches/zMXVu7K3JYMHf2cEJWfKsi_AS8be1yBNKctC9OKh7ho/6ac3638903610a815e1996b2.json",
+    "markdown_endpoint": "https://serpapi.com/searches/zMXVu7K3JYMHf2cEJWfKsi_AS8be1yBNKctC9OKh7ho/6ac3638903610a815e1996b2.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/zMXVu7K3JYMHf2cEJWfKsi_AS8be1yBNKctC9OKh7ho/6ac3638903610a815e1996b2.json_with_pixel_position",
+    "processed_at": "2026-10-05 08:44:57 UTC",
+    "raw_html_file": "https://serpapi.com/searches/zMXVu7K3JYMHf2cEJWfKsi_AS8be1yBNKctC9OKh7ho/6ac3638903610a815e1996b2.html",
+    "status": "Success",
+    "total_time_taken": 0.46
+  },
+  "search_parameters": {
+    "device": "desktop",
+    "engine": "google",
+    "gl": "in",
+    "google_domain": "google.com",
+    "hl": "en",
+    "q": "Air India refund"
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+refund&start=10",
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+refund&start=10",
+    "other_pages": {
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+refund&start=90",
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+refund&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+refund&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+refund&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+refund&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+refund&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+refund&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+refund&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Air+India+refund&start=80"
+    }
+  }
+}

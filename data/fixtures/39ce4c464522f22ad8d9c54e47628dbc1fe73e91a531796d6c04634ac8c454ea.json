@@ -1,0 +1,249 @@
+{
+  "local_results": [
+    {
+      "address": "CRRW+F49, Shani Nagar, Ambegaon Budruk, Pune, Maharashtra 411046",
+      "country": "India",
+      "data_cid": "4104813670488302488",
+      "data_id": "0x3bc2eb59c967f39f:0x38f73a48fa9f6398",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair-accessible car park"
+          ]
+        }
+      ],
+      "gps_coordinates": {
+        "latitude": 18.4411524,
+        "longitude": 73.8453565
+      },
+      "hours": "Open 24 hours",
+      "open_state": "Open 24 hours",
+      "operating_hours": {
+        "friday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours"
+      },
+      "phone": "0124 264 1407",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2eb59c967f39f%3A0x38f73a48fa9f6398&engine=google_maps_photos&hl=en",
+      "place_id": "ChIJn_NnyVnrwjsRmGOf-kg69zg",
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn_NnyVnrwjsRmGOf-kg69zg",
+      "position": 1,
+      "provider_id": "/g/11fl0snvvk",
+      "rating": 2.4,
+      "reviews": 89,
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2eb59c967f39f%3A0x38f73a48fa9f6398&engine=google_maps_reviews&hl=en",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6JtWLHicHcTbboIwGADgJ6qUw0BMvNBtYDAzHNQSbxZg2FooLfxF5An3DL6Nid_F9_xnWitYGUbL7AWVkrb1CPVQyU7XnV5UUhhUAaoAgbHZpfGRiGImUWQ3Oe-hL_pZQzBs3dsySTllf0rx_JLhZHPnzhH1j3i_5UKcl6RwhZ8HoU-86YCubqnRV2ixm3J20pxguEdzaPtzbB2sIGvSxPFcyEjLh7GWMfu9Rvjnuxwv3scpb_aCfq4nE2OM2PsKdS-8TUUI",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmayWJJ3kXjqsqaqytsFrB6i8QRjghdppjXZS0QAvj4T-qxPKBjmmV8Wa6m9XFG9W7wN-f6bt-DG2hip4Ho1wsrvJyG39yP2N2FSkRQ476sSWljrueoPh_fJ0MEbuZ75UXkKmgC=w1000-h1000-c-n",
+      "title": "Air india customer care",
+      "type": "Travel agency",
+      "type_id": "travel_agency",
+      "type_ids": [
+        "travel_agency"
+      ],
+      "types": [
+        "Travel agency"
+      ],
+      "unclaimed_listing": true,
+      "website": "https://www.airindia.in/"
+    },
+    {
+      "address": "33R4+62C, Sonegaon, Nagpur, Maharashtra 440005",
+      "country": "India",
+      "data_cid": "646155703661765476",
+      "data_id": "0x3bd4bfa365c48a5d:0x8f79b30625a2364",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair-accessible car park",
+            "Wheelchair-accessible entrance",
+            "Wheelchair-accessible toilet"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "gps_coordinates": {
+        "latitude": 21.0905632,
+        "longitude": 79.0550265
+      },
+      "hours": "Open 24 hours",
+      "open_state": "Open 24 hours",
+      "operating_hours": {
+        "friday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours"
+      },
+      "phone": "091462 96373",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bd4bfa365c48a5d%3A0x8f79b30625a2364&engine=google_maps_photos&hl=en",
+      "place_id": "ChIJXYrEZaO_1DsRZCNaYjCb9wg",
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXYrEZaO_1DsRZCNaYjCb9wg",
+      "position": 2,
+      "provider_id": "/g/11cspys7dv",
+      "rating": 3.2,
+      "reviews": 31,
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bd4bfa365c48a5d%3A0x8f79b30625a2364&engine=google_maps_reviews&hl=en",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fSXzg3icHcTbEoFAAADQL0rltsaMh1qxVBRhedPKltrLtEvqB32DvzHjPJzvJ9daqqlpVvmgR4WgVfZUWU0E1xnXPSKYSaUyiDKU6aBdlJwqOA-2LgWpdWQ6levbRnYHjx_f87itz2DU79NSI_fNEGfCwzBug4sTALhUdrO_hjfQBSiyH4vVyvGvFfKTLizBC7cnD09EXWL_1WIofNLFB76JCrWW6bAYg4KOWOPBrXsPz0s8mTW2ZVlG_p8Y_AeAvET8",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlCDLOBg7b0VmtbpJdNpzUEnVxDQyrY7522gktHBxmHnmoEXCQyLZAL7CGs1wSaMd7zLHP1jFIIAKalHKTzMk7vXyWEX8orkXKvyXCoKczQUnNPisJpb4i67ig5mwECOBfMYGX8=w1000-h1000-c-n",
+      "title": "Air India Ltd.",
+      "type": "Airline",
+      "type_id": "airline",
+      "type_ids": [
+        "airline"
+      ],
+      "types": [
+        "Airline"
+      ],
+      "unclaimed_listing": true,
+      "website": "http://www.airindia.in/"
+    },
+    {
+      "address": "Safdarjung Airport, Sri Aurobindo Marg, Safdarjung Airport Area, Satya Sadan, New Delhi, Delhi, 110003",
+      "country": "India",
+      "data_cid": "17635921622439835863",
+      "data_id": "0x390ce28dd518ce15:0xf4bf6146c82838d7",
+      "extensions": [
+        {
+          "service_options": [
+            "On-site services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair-accessible car park",
+            "Wheelchair-accessible entrance",
+            "Wheelchair-accessible toilet"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "gps_coordinates": {
+        "latitude": 28.585665199999998,
+        "longitude": 77.2119288
+      },
+      "hours": "Open · Closes 6 pm",
+      "open_state": "Open · Closes 6 pm",
+      "operating_hours": {
+        "friday": "9:30 am–6 pm",
+        "monday": "9:30 am–6 pm",
+        "saturday": "9:30 am–6 pm",
+        "sunday": "Closed",
+        "thursday": "9:30 am–6 pm",
+        "tuesday": "9:30 am–6 pm",
+        "wednesday": "9:30 am–6 pm"
+      },
+      "phone": "1860 233 1407",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x390ce28dd518ce15%3A0xf4bf6146c82838d7&engine=google_maps_photos&hl=en",
+      "place_id": "ChIJFc4Y1Y3iDDkR1zgoyEZhv_Q",
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFc4Y1Y3iDDkR1zgoyEZhv_Q",
+      "position": 3,
+      "provider_id": "/g/11c2q_p3kh",
+      "rating": 3.8,
+      "reviews": 1612,
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce28dd518ce15%3A0xf4bf6146c82838d7&engine=google_maps_reviews&hl=en",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tieTQ3icHcRRboIwGADgE1UqiE4THxCosG4TKGrgxVAgdAq0-FcxXtAz7DZL_B6-v5fQWsHKMFphTRopm7a-QX0tZa_rXk9K2RmNAlQCAsMJkig9XtxFrgZWsXEkrNux6TAPWNHs7zg9WOeYUFYk2L4Sz_OXg0Pt-OSYPzTCjxZCNWzDA591yslgm92-JUqqPPIs8vxahjSPO_YbuJyO3J3tZHs2733KiRDZppb-5RPC3AbNteebH-txijFG4n2J-n8KRUPd",
+      "service_options": {
+        "on_site_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkC7ZpqSdSwwFSmOS1q6HSagUv0TV3jQFKSaR05rFDDE9qAK5Q_A2NKP0xlsIpqGIVb4mpAYsGYuMo-RdZPD3FzL9IKZQmSiHCbKwbC4Oolj2vnTbFhhYBeoEkJsIZ5stbtDE28=w1000-h1000-c-n",
+      "title": "Air India Reservation Office",
+      "type": "Airline ticket agency",
+      "type_id": "airline_ticket_agency",
+      "type_ids": [
+        "airline_ticket_agency"
+      ],
+      "types": [
+        "Airline ticket agency"
+      ],
+      "website": "http://www.airindia.in/"
+    },
+    {
+      "address": "CFP4+948, Hakka Bahvan, New Terminal, opposite Police Control Room, Begumpet, Hyderabad, Telangana 500016",
+      "country": "India",
+      "data_cid": "16414876566552207655",
+      "data_id": "0x3bcb90ba05d2429d:0xe3cd5b447d3a6127",
+      "gps_coordinates": {
+        "latitude": 17.435917099999998,
+        "longitude": 78.455339
+      },
+      "hours": "Temporarily closed",
+      "open_state": "Temporarily closed",
+      "phone": "040 2343 0343",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bcb90ba05d2429d%3A0xe3cd5b447d3a6127&engine=google_maps_photos&hl=en",
+      "place_id": "ChIJnULSBbqQyzsRJ2E6fURbzeM",
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnULSBbqQyzsRJ2E6fURbzeM",
+      "position": 4,
+      "provider_id": "/g/1v27sysn",
+      "rating": 3.3,
+      "reviews": 17,
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bcb90ba05d2429d%3A0xe3cd5b447d3a6127&engine=google_maps_reviews&hl=en",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qs5iUXicHcRJDoIwAADAFyFVXKqJBxWlAamAdeNiaqksIkVbQHmgf_A3Js5hvp9EqVJOdD1PjE4sRJzzSvInE4XiheowcdfjUmpMalKfocAjh6KuXR85i0fvdEij0WydUoHCh9F1l60fsF3GWmEQ2lRHMD7hlZcOq_6GwLltLuw9Ls2Yhim5-iGOvLVjWpDSLITbm23nHn83JlaDZ35BrQUtfIEBV6PmHAF1J9XL3e43jpVJVMtp0wUAaMl_phU_FKVErw",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnvvMQHKCq2YWid7ALiaoHZq31MEzQRcUjczo3TawuX09YNFPi6u4OT8BJDCJVNpDgaZiTfQZNdPLKDG8aajZ8SkJJlPeywDNt5rlbHzG8GNb8Ret7w_d0tmTuxMSVOKGjsHvs=w1000-h1000-c-n",
+      "title": "Indian Airlines Limited",
+      "type": "Airline",
+      "type_id": "airline",
+      "type_ids": [
+        "airline",
+        "aviation_consultant",
+        "travel"
+      ],
+      "types": [
+        "Airline",
+        "Aviation consultant",
+        "Travel"
+      ],
+      "unclaimed_listing": true
+    }
+  ],
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "Air India customer care"
+  },
+  "search_metadata": {
+    "created_at": "2026-10-05 08:45:08 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/Air+India+customer+care/@20.5937,78.9629,4z/data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=in",
+    "id": "6ac36394d3982c246b018e49",
+    "json_endpoint": "https://serpapi.com/searches/wDnQjmFoD4tpMEROIdvRxYzYBzUoaPMwiAQhjKS3ND0/6ac36394d3982c246b018e49.json",
+    "markdown_endpoint": "https://serpapi.com/searches/wDnQjmFoD4tpMEROIdvRxYzYBzUoaPMwiAQhjKS3ND0/6ac36394d3982c246b018e49.md",
+    "prettify_html_file": "https://serpapi.com/searches/wDnQjmFoD4tpMEROIdvRxYzYBzUoaPMwiAQhjKS3ND0/6ac36394d3982c246b018e49.prettify",
+    "processed_at": "2026-10-05 08:45:08 UTC",
+    "raw_html_file": "https://serpapi.com/searches/wDnQjmFoD4tpMEROIdvRxYzYBzUoaPMwiAQhjKS3ND0/6ac36394d3982c246b018e49.html",
+    "status": "Success",
+    "total_time_taken": 0.74
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "gl": "in",
+    "google_domain": "google.com",
+    "hl": "en",
+    "ll": "@20.5937,78.9629,4z",
+    "q": "Air India customer care",
+    "type": "search"
+  }
+}
