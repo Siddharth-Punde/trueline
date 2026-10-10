@@ -275,25 +275,55 @@
     font-size: .8125rem; line-height: 1.55; overflow-wrap: anywhere;
   }
 
-  /* ---------- progress steps ---------- */
-  .progress-steps { list-style: none; margin: .9rem 0 0; padding: 0; }
-  .progress-step { display: flex; align-items: center; gap: .75rem; padding: .6rem 0; }
-  .progress-step + .progress-step { border-top: 1px solid var(--line); }
+  /* ---------- scan-sweep loading ---------- */
+  .sweep { position: relative; margin-top: 1rem; }
+  .sweep-glow {
+    position: absolute; top: -7px; bottom: -7px; left: 0;
+    width: calc((100% - 1rem) / 3 + .5rem);
+    border-radius: 16px; pointer-events: none;
+    background: radial-gradient(110% 90% at 50% 50%, rgba(11, 107, 79, .14), transparent 72%);
+    transform: translateX(calc(var(--sweep-i, 0) * 100%));
+    transition: transform .5s cubic-bezier(.22, .61, .36, 1), opacity .3s ease;
+  }
+  @media (prefers-color-scheme: dark) {
+    .sweep-glow { background: radial-gradient(110% 90% at 50% 50%, rgba(63, 191, 143, .16), transparent 72%); }
+  }
+  .sweep-list {
+    list-style: none; margin: 0; padding: 0; position: relative; z-index: 1;
+    display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .5rem;
+  }
+  .sweep-step {
+    display: flex; flex-direction: column; align-items: center; gap: .45rem;
+    padding: .85rem .4rem .7rem; text-align: center; min-width: 0;
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 12px;
+    transition: border-color .3s ease, background-color .3s ease, box-shadow .3s ease;
+  }
   .step-dot {
-    width: 1.25rem; height: 1.25rem; border-radius: 50%; flex: none;
+    position: relative; width: 2rem; height: 2rem; border-radius: 50%; flex: none;
     display: flex; align-items: center; justify-content: center;
-    border: 1px solid var(--line-strong); color: var(--faint);
-    font-size: .65rem; line-height: 1;
-    transition: background-color .2s ease, border-color .2s ease, color .2s ease;
+    border: 1px solid var(--line-strong); color: var(--faint); background: var(--surface);
+    transition: border-color .25s ease, color .25s ease, background-color .25s ease;
   }
+  .step-dot svg { display: block; }
   .step-label {
-    font-size: .875rem; color: var(--faint);
-    transition: color .2s ease; overflow-wrap: break-word;
+    font-family: var(--font-mono); font-size: .6875rem; letter-spacing: .02em;
+    color: var(--faint); overflow-wrap: break-word;
+    transition: color .25s ease;
   }
-  .progress-step[data-state="active"] .step-dot { border: 2px solid var(--accent); }
-  .progress-step[data-state="active"] .step-label { color: var(--ink); font-weight: 500; }
-  .progress-step[data-state="done"] .step-dot { background: var(--ok-bg); border-color: var(--ok-border); color: var(--ok-text); }
-  .progress-step[data-state="done"] .step-label { color: var(--ink-soft); }
+  .sweep-step[data-state="active"] {
+    border-color: var(--accent); background: var(--surface);
+    box-shadow: 0 0 0 3px rgba(11, 107, 79, .1), 0 10px 22px -16px rgba(11, 107, 79, .5);
+  }
+  @media (prefers-color-scheme: dark) {
+    .sweep-step[data-state="active"] { box-shadow: 0 0 0 3px rgba(63, 191, 143, .14), 0 10px 22px -16px rgba(63, 191, 143, .5); }
+  }
+  .sweep-step[data-state="active"] .step-dot { border: 2px solid var(--accent); color: var(--accent); }
+  .sweep-step[data-state="active"] .step-label { color: var(--ink); }
+  .sweep-step[data-state="done"] .step-dot { background: var(--ok-bg); border-color: var(--ok-border); color: var(--ok-text); }
+  .sweep-step[data-state="done"] .step-label { color: var(--ink-soft); }
+  .sweep-caption {
+    margin: .8rem 0 0; text-align: center; font-size: .8125rem; color: var(--muted); min-height: 1.4em;
+  }
 
   /* ---------- results ---------- */
   .results-head {
@@ -419,6 +449,27 @@
   .footnote { margin: 1.75rem 0 0; font-size: .75rem; line-height: 1.6; color: var(--faint); }
 
   /* ---------- motion ---------- */
+  body::before {
+    content: ''; position: fixed; inset: -20%; z-index: -1; pointer-events: none;
+    background:
+      radial-gradient(42% 38% at 18% 22%, rgba(11, 107, 79, .06), transparent 70%),
+      radial-gradient(38% 34% at 82% 12%, rgba(22, 163, 74, .045), transparent 70%),
+      radial-gradient(45% 40% at 70% 85%, rgba(180, 83, 9, .035), transparent 70%);
+    animation: drift 48s ease-in-out infinite alternate;
+  }
+  @media (prefers-color-scheme: dark) {
+    body::before {
+      background:
+        radial-gradient(42% 38% at 18% 22%, rgba(63, 191, 143, .07), transparent 70%),
+        radial-gradient(38% 34% at 82% 12%, rgba(52, 211, 153, .05), transparent 70%),
+        radial-gradient(45% 40% at 70% 85%, rgba(251, 191, 36, .03), transparent 70%);
+    }
+  }
+  @keyframes drift {
+    from { transform: translate3d(-1.5%, -1%, 0) scale(1); }
+    to { transform: translate3d(1.5%, 1.5%, 0) scale(1.04); }
+  }
+
   @keyframes rise {
     from { opacity: 0; transform: translateY(10px); }
     to { opacity: 1; transform: translateY(0); }
@@ -427,10 +478,33 @@
   .enter { animation: rise .5s cubic-bezier(.22, .61, .36, 1) both; }
   .enter-delay { animation-delay: .1s; }
 
+  .finding {
+    animation: rise .45s cubic-bezier(.22, .61, .36, 1) backwards;
+    animation-delay: var(--stagger, 0ms);
+  }
+
+  @media (hover: hover) and (prefers-reduced-motion: no-preference) {
+    .finding {
+      transition: border-color .15s ease, transform .18s ease, box-shadow .18s ease;
+    }
+    .finding:hover {
+      transform: translateY(-2px);
+      border-color: var(--line-strong);
+      box-shadow: 0 2px 4px rgba(16, 24, 21, .05), 0 18px 34px -22px rgba(16, 24, 21, .45);
+    }
+    .btn-primary:hover:not(:disabled) {
+      transform: translateY(-1px);
+      box-shadow: 0 10px 22px -14px rgba(16, 24, 21, .55);
+    }
+    .btn-secondary:hover, .btn-icon:hover { transform: translateY(-1px); }
+  }
+
   @media (prefers-reduced-motion: reduce) {
-    .enter { animation: none; }
+    body::before { animation: none; }
+    .enter, .finding { animation: none; }
+    .sweep-glow { transition: none; }
     .spinner, .step-spinner { animation: none; border-top-color: currentColor; opacity: .55; }
-    #score-arc, .chevron, .btn, .select, .step-dot, .step-label, .finding, .skip-link { transition: none; }
+    #score-arc, .chevron, .btn, .select, .step-dot, .step-label, .sweep-step, .skip-link { transition: none; }
   }
 </style>
 </head>
@@ -488,7 +562,11 @@
       <div class="card">
         <h2 id="loading-title" class="card-title">Scanning <span id="loading-brand"></span>&hellip;</h2>
         <p class="card-hint">Running customer-care style queries across Search, Maps and Ads Transparency.</p>
-        <ul id="progress-list" class="progress-steps"></ul>
+        <div class="sweep">
+          <div id="sweep-glow" class="sweep-glow" aria-hidden="true"></div>
+          <ul id="sweep-list" class="sweep-list"></ul>
+        </div>
+        <p id="sweep-caption" class="sweep-caption"></p>
         <p class="note">Every finding links back to the search result that produced it.</p>
       </div>
     </section>
@@ -698,43 +776,63 @@ const STEPS = ['Checking Google Search…', 'Checking Maps…', 'Checking Ads Tr
 const STEP_MS = 750;
 const MIN_SCAN_MS = 2400;
 
+const ICON_SEARCH = '<svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="9" cy="9" r="5.5"/><path d="M13.5 13.5 17 17" stroke-linecap="round"/></svg>';
+const ICON_MAPS = '<svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M10 17s5.5-4.6 5.5-9a5.5 5.5 0 1 0-11 0c0 4.4 5.5 9 5.5 9Z" stroke-linejoin="round"/><circle cx="10" cy="8" r="2"/></svg>';
+const ICON_ADS = '<svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M4 8.5v3a1.5 1.5 0 0 0 1.5 1.5H7l6 3.5V5L7 8.5H5.5A1.5 1.5 0 0 0 4 10Z" stroke-linejoin="round"/><path d="M15.5 8a4 4 0 0 1 0 4" stroke-linecap="round"/></svg>';
+
+const SWEEP_SOURCES = [
+  { label: 'Search', icon: ICON_SEARCH },
+  { label: 'Maps', icon: ICON_MAPS },
+  { label: 'Ads Transparency', icon: ICON_ADS },
+];
+
 function renderProgress() {
-  const list = document.getElementById('progress-list');
+  const list = document.getElementById('sweep-list');
   list.innerHTML = '';
-  for (const label of STEPS) {
-    list.append(h('li', { class: 'progress-step', 'data-state': 'pending' },
-      h('span', { class: 'step-dot', 'aria-hidden': 'true' }),
-      h('span', { class: 'step-label', text: label })
+  for (const source of SWEEP_SOURCES) {
+    list.append(h('li', { class: 'sweep-step', 'data-state': 'pending' },
+      h('span', { class: 'step-dot' }, svg(source.icon)),
+      h('span', { class: 'step-label', text: source.label })
     ));
   }
+  document.getElementById('sweep-glow').style.setProperty('--sweep-i', '0');
+  document.getElementById('sweep-caption').textContent = '';
 }
 
 function setStep(li, state) {
   li.dataset.state = state;
   const dot = li.querySelector('.step-dot');
-  dot.innerHTML = '';
-  if (state === 'active') {
-    dot.append(h('span', { class: 'step-spinner' }));
+  const source = SWEEP_SOURCES[[...li.parentElement.children].indexOf(li)];
+  if (state === 'pending') {
+    dot.innerHTML = '';
+    dot.append(svg(source.icon));
+  } else if (state === 'active') {
+    dot.innerHTML = '';
+    dot.append(h('span', { class: 'spinner' }));
   } else if (state === 'done') {
+    dot.innerHTML = '';
     dot.append(document.createTextNode('✓'));
   }
 }
 
 function runProgress() {
-  const items = [...document.querySelectorAll('#progress-list .progress-step')];
+  const items = [...document.querySelectorAll('#sweep-list .sweep-step')];
+  const glow = document.getElementById('sweep-glow');
+  const caption = document.getElementById('sweep-caption');
   items.forEach((li) => setStep(li, 'pending'));
   let index = 0;
-  setStep(items[0], 'active');
-  announce(items[0].querySelector('.step-label').textContent);
+  const activate = (i) => {
+    setStep(items[i], 'active');
+    glow.style.setProperty('--sweep-i', String(i));
+    caption.textContent = STEPS[i];
+    announce(STEPS[i]);
+  };
+  activate(0);
   const timer = setInterval(() => {
     if (index < items.length) setStep(items[index], 'done');
     index += 1;
-    if (index < items.length) {
-      setStep(items[index], 'active');
-      announce(items[index].querySelector('.step-label').textContent);
-    } else {
-      clearInterval(timer);
-    }
+    if (index < items.length) activate(index);
+    else clearInterval(timer);
   }, STEP_MS);
   return () => { clearInterval(timer); items.forEach((li) => setStep(li, 'done')); };
 }
@@ -797,6 +895,42 @@ function renderScore(score) {
   const label = document.getElementById('score-label');
   label.textContent = score + '/100';
   label.className = 'score-label tone-' + tone.key;
+}
+
+const SCORE_DRAW_MS = 750;
+
+function animateScore(score) {
+  const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (reduced) { renderScore(score); return; }
+
+  const circumference = 326.73;
+  const clamped = Math.max(0, Math.min(100, score));
+  const tone = scoreTone(score);
+  const arc = document.getElementById('score-arc');
+  const value = document.getElementById('score-value');
+  const label = document.getElementById('score-label');
+  value.className = 'score-value tone-' + tone.key;
+  label.className = 'score-label tone-' + tone.key;
+
+  arc.style.transition = 'none';
+  arc.style.stroke = 'var(--' + tone.key + '-strong)';
+  arc.style.strokeDashoffset = String(circumference);
+  value.textContent = '0';
+  label.textContent = '0/100';
+  void arc.offsetWidth;
+  arc.style.transition = '';
+  arc.style.strokeDashoffset = String(circumference * (1 - clamped / 100));
+
+  const started = performance.now();
+  const tick = (now) => {
+    const progress = Math.min(1, (now - started) / SCORE_DRAW_MS);
+    const eased = 1 - Math.pow(1 - progress, 3);
+    const current = progress < 1 ? Math.round(clamped * eased) : score;
+    value.textContent = String(current);
+    label.textContent = current + '/100';
+    if (progress < 1) requestAnimationFrame(tick);
+  };
+  requestAnimationFrame(tick);
 }
 
 function evidenceCard(item) {
@@ -897,7 +1031,7 @@ function renderResults(result, meta) {
   }
   document.getElementById('result-meta').textContent = 'brand_id: ' + result.brand_id;
 
-  renderScore(score);
+  animateScore(score);
   document.getElementById('score-summary').textContent =
     findings.length === 0
       ? 'No mismatches were found against the brand’s official details.'
@@ -909,7 +1043,11 @@ function renderResults(result, meta) {
     list.append(allClearCard(displayName, evidence.length));
   } else {
     const evidenceById = new Map(evidence.map((item) => [item.evidence_id, item]));
-    for (const finding of findings) list.append(findingCard(finding, evidenceById));
+    findings.forEach((finding, index) => {
+      const card = findingCard(finding, evidenceById);
+      card.style.setProperty('--stagger', Math.min(index, 15) * 50 + 'ms');
+      list.append(card);
+    });
   }
 
   const openId = urlParam('open');
