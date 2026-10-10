@@ -17,7 +17,25 @@ Replay mode works out of the box with **zero API key** — the bundled fixtures 
 uvicorn app.api:app --reload
 ```
 
-Then open [web/index.html](web/index.html) in your browser (the web UI makes CORS requests to `http://localhost:8000`).
+Then open [web/index.html](web/index.html) in your browser (the web UI makes CORS requests to `http://localhost:8000`), or just visit `http://localhost:8000` (the API serves the same page).
+
+## Demo brands
+
+Two brands are meant to be shown side by side — one real, one synthetic:
+
+| `brand_id` | Display name | What it demonstrates |
+| --- | --- | --- |
+| `airindia` | Air India | **Real brand — low-risk result.** The real-brand control: it replays recorded SERP fixtures for a legitimate airline (no API key needed), and what it flags is non-matching public numbers/domains rather than an impersonation of the brand itself. |
+| `demobrand` | QuivoKart | **Synthetic brand — clear impersonation catch.** A fake e-commerce brand whose fixtures contain a lookalike ad domain (`quivo-kart.com`), a rogue Maps listing and unofficial phone numbers, so the scan comes back with Suspected findings you can safely show on camera. |
+
+Exact commands (both run in replay mode, offline):
+
+```bash
+python -m app.cli scan airindia     # brand_id: airindia
+python -m app.cli scan demobrand    # brand_id: demobrand
+```
+
+In the web UI dropdown, pick **Air India** (`airindia`) or **QuivoKart** (`demobrand`), then press `Scan <brand name>`.
 
 ## SerpApi products used and why
 
