@@ -1,0 +1,23 @@
+{
+  "search_information": {
+    "query_displayed": "QuivoKart toll free number",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "QuivoKart Toll Free Number",
+      "link": "https://www.quivokart.example/contact",
+      "displayed_link": "www.quivokart.example › contact",
+      "snippet": "The official QuivoKart toll free number is 1800-000-044.",
+      "source": "QuivoKart"
+    },
+    {
+      "position": 2,
+      "title": "QuivoKart help centre",
+      "link": "https://help.quivokart.example/contact",
+      "displayed_link": "help.quivokart.example › contact",
+      "snippet": "Second official line for QuivoKart customers: 1800-000-054."
+    }
+  ]
+}

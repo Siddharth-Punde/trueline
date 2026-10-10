@@ -1,0 +1,33 @@
+{
+  "search_information": {
+    "query_displayed": "QuivoKart customer care",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "QuivoKart - Official Website",
+      "link": "https://www.quivokart.example/help",
+      "displayed_link": "www.quivokart.example › help",
+      "snippet": "Official QuivoKart help centre. Dial 1800-000-044 for assistance.",
+      "source": "QuivoKart"
+    },
+    {
+      "position": 2,
+      "title": "Contact QuivoKart",
+      "link": "https://contact.quivokart.example/toll-free",
+      "displayed_link": "contact.quivokart.example › toll-free",
+      "snippet": "Reach the QuivoKart team on 1800-000-054, Monday to Sunday."
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are QuivoKart support hours?",
+      "type": "featured_snippet",
+      "title": "QuivoKart support hours",
+      "snippet": "QuivoKart customer care runs 24x7 on 1800-000-044.",
+      "link": "https://help.quivokart.example/hours",
+      "date": "1 week ago"
+    }
+  ]
+}

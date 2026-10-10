@@ -1,0 +1,27 @@
+{
+  "search_information": {
+    "total_results": 1
+  },
+  "advertiser": {
+    "id": "AR0000000000000000004",
+    "name": "QuivoKart Official",
+    "legal_name": "QuivoKart Demo Private Limited",
+    "country_code": "IN",
+    "country": "India"
+  },
+  "ad_creatives": [
+    {
+      "advertiser_id": "AR0000000000000000004",
+      "advertiser": "QuivoKart Official",
+      "ad_creative_id": "CRFAKE0000004",
+      "format": "text",
+      "link": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=fake4",
+      "total_days_shown": 30,
+      "first_shown": 1700000000,
+      "last_shown": 1700002560,
+      "details_link": "https://adstransparency.google.com/advertiser/AR0000000000000000004/creative/CRFAKE0000004?region=anywhere",
+      "serpapi_details_link": "https://serpapi.com/search.json?advertiser_id=AR0000000000000000004&creative_id=CRFAKE0000004&engine=google_ads_transparency_center"
+    }
+  ],
+  "serpapi_pagination": {}
+}

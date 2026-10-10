@@ -281,7 +281,7 @@ function badgeFor(finding) {
   const severity = severityOf(finding);
   if (severity >= 0.6) return { label: 'Suspected', cls: 'border-red-200 bg-red-50 text-red-700' };
   if (severity >= 0.25) return { label: 'Unverified', cls: 'border-amber-200 bg-amber-50 text-amber-700' };
-  return { label: 'Official', cls: 'border-green-200 bg-green-50 text-green-700' };
+  return { label: 'Low risk', cls: 'border-green-200 bg-green-50 text-green-700' };
 }
 
 function scoreColor(score) {

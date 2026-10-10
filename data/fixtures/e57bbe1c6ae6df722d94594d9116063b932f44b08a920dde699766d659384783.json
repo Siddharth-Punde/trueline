@@ -1,0 +1,43 @@
+{
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "QuivoKart customer care"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "QuivoKart Customer Care (Official)",
+      "place_id": "FAKEPLACEID000011",
+      "data_id": "0x0000000000000000:0x0000000000000011",
+      "data_cid": "1000000000000011",
+      "gps_coordinates": {
+        "latitude": 20.5937,
+        "longitude": 78.9629
+      },
+      "address": "11 Placeholder Avenue, Faketown, FK 000011",
+      "type": "Customer service",
+      "rating": 4.5,
+      "reviews": 9,
+      "phone": "1800-000-044",
+      "website": "https://www.quivokart.example/help"
+    },
+    {
+      "position": 2,
+      "title": "QuivoKart Support Desk (Unofficial)",
+      "place_id": "FAKEPLACEID000012",
+      "data_id": "0x0000000000000000:0x0000000000000012",
+      "data_cid": "1000000000000012",
+      "gps_coordinates": {
+        "latitude": 28.6139,
+        "longitude": 77.209
+      },
+      "address": "12 Synthetic Street, Dummyville, DV 000012",
+      "type": "Customer service",
+      "rating": 2.8,
+      "reviews": 3,
+      "phone": "1800-000-077",
+      "unclaimed_listing": true
+    }
+  ],
+  "serpapi_pagination": {}
+}

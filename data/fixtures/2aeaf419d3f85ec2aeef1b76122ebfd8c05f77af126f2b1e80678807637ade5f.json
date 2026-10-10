@@ -1,0 +1,23 @@
+{
+  "search_information": {
+    "query_displayed": "QuivoKart complaint number",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "QuivoKart Grievance Cell",
+      "link": "https://www.quivokart.example/grievance",
+      "displayed_link": "www.quivokart.example › grievance",
+      "snippet": "Log a complaint with the official QuivoKart grievance cell.",
+      "source": "QuivoKart"
+    },
+    {
+      "position": 2,
+      "title": "QuivoKart complaint helpline",
+      "link": "https://contact.quivokart.example/complaint",
+      "displayed_link": "contact.quivokart.example › complaint",
+      "snippet": "QuivoKart complaint desk: 1800-000-054, answered around the clock."
+    }
+  ]
+}

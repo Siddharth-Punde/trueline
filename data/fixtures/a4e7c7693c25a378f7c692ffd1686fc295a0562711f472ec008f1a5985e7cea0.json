@@ -1,0 +1,68 @@
+{
+  "search_information": {
+    "query_displayed": "QuivoKart customer care number",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "title": "QuivoKart Order Help - Talk To An Agent",
+      "link": "https://quivo-kart.com/care",
+      "displayed_link": "quivo-kart.com › care",
+      "snippet": "Third-party order and refund help for QuivoKart shoppers, chat open now."
+    }
+  ],
+  "answer_box": {
+    "title": "QuivoKart customer care number",
+    "answer": "The QuivoKart customer care number is 1800-000-044, available 24x7.",
+    "link": "https://help.quivokart.example/contact"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "QuivoKart - Official Website",
+      "link": "https://www.quivokart.example/help",
+      "displayed_link": "www.quivokart.example › help",
+      "snippet": "Official QuivoKart help centre. Dial 1800-000-044 for assistance.",
+      "source": "QuivoKart"
+    },
+    {
+      "position": 2,
+      "title": "QuivoKart Help Desk - 24x7 Assistance",
+      "link": "https://quivokart-support.com/care",
+      "displayed_link": "quivokart-support.com › care",
+      "snippet": "Independent QuivoKart assistance desk, chat with an agent any time."
+    },
+    {
+      "position": 3,
+      "title": "QuivoKart Complaint Thread",
+      "link": "https://www.reddit.com/r/quivokart",
+      "displayed_link": "www.reddit.com › r › quivokart",
+      "snippet": "Shoppers share numbers such as 1800-000-088 after a slow QuivoKart refund."
+    },
+    {
+      "position": 11,
+      "title": "How to track a QuivoKart order",
+      "link": "https://www.quivokart.example/track",
+      "displayed_link": "www.quivokart.example › track",
+      "snippet": "Track any QuivoKart parcel with the order id from your account."
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How do I contact QuivoKart support?",
+      "type": "featured_snippet",
+      "title": "Contact QuivoKart",
+      "snippet": "Call the toll-free number 1800-000-044 to speak with a QuivoKart agent.",
+      "link": "https://contact.quivokart.example/toll-free",
+      "date": "3 days ago"
+    },
+    {
+      "question": "Does QuivoKart have a mobile app?",
+      "type": "ai_overview",
+      "title": "QuivoKart mobile app",
+      "snippet": "QuivoKart offers a mobile app for order tracking and payments.",
+      "link": "https://app.quivokart.example"
+    }
+  ]
+}

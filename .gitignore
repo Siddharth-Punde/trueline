@@ -3,6 +3,16 @@ data/fixtures/*.json
 # Synthetic "Testco" fixtures are committed on purpose (tests/test_collectors.py);
 # real recorded responses above stay ignored.
 !data/fixtures/testco_*.json
+# Hand-written synthetic "QuivoKart"/demobrand fixtures, named by the replay
+# cache key (sha256 of engine+params) for data/brands/demobrand.json.
+!data/fixtures/a4e7c7693c25a378f7c692ffd1686fc295a0562711f472ec008f1a5985e7cea0.json
+!data/fixtures/4b6d480d54ba491c8aa782cfa32f9aab58bdebf6629f97dcea99e89e4bf4d63d.json
+!data/fixtures/3e9dfc8cff861298eda6e01fdcca179faa9453142e25b912abeca91156219458.json
+!data/fixtures/2aeaf419d3f85ec2aeef1b76122ebfd8c05f77af126f2b1e80678807637ade5f.json
+!data/fixtures/f3701906e5d82a89ed8a3d0c2f5d64c8e6382569e55b7bed2d60c382b62dcda8.json
+!data/fixtures/ccfc5ea2a5b142e526e970d8e785a5fa4263796e05c94c5825a0ce5bc3fb1001.json
+!data/fixtures/e57bbe1c6ae6df722d94594d9116063b932f44b08a920dde699766d659384783.json
+!data/fixtures/5f1d464388b6744340873b65a3e3c8c8a89bf5f9ae458d4ff2074b98c8b44efd.json
 __pycache__/
 *.pyc
 .venv/

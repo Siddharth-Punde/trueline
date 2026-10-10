@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import re
 import shutil
 from pathlib import Path
 
@@ -67,6 +68,29 @@ def test_scan_prints_trust_score_and_findings_table(replay_env, capsys):
     assert "KIND" in out and "VALUE" in out and "CONF" in out
     # findings must trace to evidence ids from the scan
     assert "unofficial_" in out or "ad_off_domain" in out
+
+
+def test_scan_demobrand_surfaces_the_four_planted_findings(capsys, monkeypatch):
+    """The committed QuivoKart demo brand replays from data/fixtures/.
+
+    Its hand-written payloads plant exactly one lookalike domain, one
+    unofficial organic phone, one off-domain ad and one unclaimed maps
+    listing, so the scan must surface four findings and a trust score
+    clearly below the Air India scan's 65.
+    """
+    monkeypatch.setenv("SERPAPI_MODE", "replay")
+    monkeypatch.setenv("TRUELINE_BRANDS_DIR", str(BRANDS_DIR))
+    monkeypatch.setenv("TRUELINE_FIXTURES_DIR", str(RECORDED_FIXTURES_DIR))
+
+    assert cli.main(["scan", "demobrand"]) == 0
+
+    out = capsys.readouterr().out
+    assert "Mode       : replay" in out
+    assert "Findings (4):" in out
+    for planted in ("quivokart-support.com", "quivo-kart.com", "+911800000088", "+911800000077"):
+        assert planted in out
+    match = re.search(r"Trust score: (\d+)/100", out)
+    assert match and int(match.group(1)) < 65
 
 
 def test_scan_unknown_brand_exits_nonzero(capsys):

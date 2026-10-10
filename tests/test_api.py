@@ -25,7 +25,7 @@ BRANDS_DIR = REPO_ROOT / "data" / "brands"
 RECORDED_FIXTURES_DIR = REPO_ROOT / "data" / "fixtures"
 
 BRAND_ID = "vastrakart"
-COMMITTED_BRAND_IDS = {"vastrakart", "mediraksha", "khetsetu"}
+COMMITTED_BRAND_IDS = {"vastrakart", "mediraksha", "khetsetu", "demobrand"}
 
 SOURCE_FIXTURE = {
     EngineType.GOOGLE_SEARCH: "testco_search.json",
@@ -156,7 +156,10 @@ def test_brands_lists_every_committed_brand_config(client):
 
     assert response.status_code == 200
     body = response.json()
-    assert {item["brand_id"] for item in body} == COMMITTED_BRAND_IDS
+    listed = {item["brand_id"] for item in body}
+    # Superset, not equality: /brands serves every config on disk, and a
+    # working copy may hold brands that are deliberately not committed here.
+    assert COMMITTED_BRAND_IDS <= listed
     for item in body:
         assert set(item) == {"brand_id", "display_name"}
         assert item["display_name"].strip()

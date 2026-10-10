@@ -1,0 +1,26 @@
+{
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "QuivoKart customer care"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "QuivoKart Help Centre",
+      "place_id": "FAKEPLACEID000021",
+      "data_id": "0x0000000000000000:0x0000000000000021",
+      "data_cid": "1000000000000021",
+      "gps_coordinates": {
+        "latitude": 19.076,
+        "longitude": 72.8777
+      },
+      "address": "21 Placeholder Avenue, Faketown, FK 000021",
+      "type": "Customer service",
+      "rating": 4.4,
+      "reviews": 6,
+      "phone": "1800-000-044",
+      "website": "https://help.quivokart.example"
+    }
+  ],
+  "serpapi_pagination": {}
+}

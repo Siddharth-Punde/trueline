@@ -1,0 +1,23 @@
+{
+  "search_information": {
+    "query_displayed": "QuivoKart refund",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "QuivoKart Refund Policy",
+      "link": "https://www.quivokart.example/refund",
+      "displayed_link": "www.quivokart.example › refund",
+      "snippet": "Official QuivoKart refund timelines and status checks.",
+      "source": "QuivoKart"
+    },
+    {
+      "position": 2,
+      "title": "Track a QuivoKart refund",
+      "link": "https://help.quivokart.example/refund-status",
+      "displayed_link": "help.quivokart.example › refund-status",
+      "snippet": "Check your QuivoKart refund status online, no phone call needed."
+    }
+  ]
+}
