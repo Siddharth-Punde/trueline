@@ -25,7 +25,7 @@ Two brands are meant to be shown side by side — one real, one synthetic:
 
 | `brand_id` | Display name | What it demonstrates |
 | --- | --- | --- |
-| `airindia` | Air India | **Real brand — low-risk result.** The real-brand control: it replays recorded SERP fixtures for a legitimate airline (no API key needed), and what it flags is non-matching public numbers/domains rather than an impersonation of the brand itself. |
+| `airindia` | Air India | **Real brand — authentic live-search noise.** A verified brand whose scan scores 65/100 with 12 findings — a sister-brand domain (`airindiaexpress.com`), unlisted phone numbers and off-domain links — not impersonation. Proof the tool works on real messy data, not a scripted clean result. |
 | `demobrand` | QuivoKart | **Synthetic brand — clear impersonation catch.** A fake e-commerce brand whose fixtures contain a lookalike ad domain (`quivo-kart.com`), a rogue Maps listing and unofficial phone numbers, so the scan comes back with Suspected findings you can safely show on camera. |
 
 Exact commands (both run in replay mode, offline):

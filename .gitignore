@@ -31,3 +31,5 @@ data/fixtures/*.json
 __pycache__/
 *.pyc
 .venv/
+# UI review screenshots (Playwright) — local evidence, kept out of the repo.
+docs/screenshots/
