@@ -228,6 +228,15 @@ def test_cors_preflight_for_local_web_ui(client):
     assert response.headers.get("access-control-allow-origin") in {"*", "null"}
 
 
+def test_scan_exposes_serpapi_mode_header_to_browser_js(client):
+    # The web UI reads X-Serpapi-Mode in fetch(); CORS must expose it.
+    response = client.post(
+        "/scan", json={"brand_id": BRAND_ID}, headers={"Origin": "null"}
+    )
+    exposed = response.headers.get("access-control-expose-headers", "")
+    assert "X-Serpapi-Mode" in exposed
+
+
 # --- scan flow / mode helpers ----------------------------------------------
 
 

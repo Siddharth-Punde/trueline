@@ -4,11 +4,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light dark">
-<title>TrueLine — brand trust scan</title>
+<meta name="theme-color" content="#f3f5f3" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0b120f" media="(prefers-color-scheme: dark)">
+<meta name="description" content="TrueLine checks what customers see when they search for your brand across Google Search, Maps, and Ads Transparency.">
+<title>TrueLine &middot; Brand Trust Scan</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400..700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 
 <script src="https://cdn.tailwindcss.com"></script>
 <script>
@@ -23,8 +26,8 @@
           muted: 'var(--muted)',
         },
         fontFamily: {
-          display: ['"Source Serif 4"', 'Georgia', 'serif'],
-          sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+          sans: ['Geist', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+          mono: ['"Geist Mono"', 'ui-monospace', 'SFMono-Regular', 'monospace'],
         },
       },
     },
@@ -32,44 +35,48 @@
 </script>
 
 <style>
-  /* ---------- palette ---------- */
+  /* ---------- palette ----------
+     Calm trust-scan utility: cool green-tinted neutrals, one deep-green
+     accent, and the risk semantics (green/amber/red) kept intact. */
   :root {
     color-scheme: light;
-    --font-sans: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
-    --font-display: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+    --font-sans: 'Geist', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+    --font-mono: 'Geist Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
 
-    --canvas: #eff2ee;
+    --canvas: #f3f5f3;
     --surface: #ffffff;
-    --surface-2: #f6f8f5;
-    --line: #e0e5df;
-    --line-strong: #c6cfc6;
-    --ink: #0f1c17;
-    --ink-soft: #38493f;
-    --muted: #5f7168;
-    --faint: #8a9891;
+    --surface-2: #f7f9f7;
+    --line: #e2e7e2;
+    --line-strong: #c5cfc6;
+    --ink: #101815;
+    --ink-soft: #36473e;
+    --muted: #566a60;
+    --faint: #66736c;
 
     --accent: #0b6b4f;
     --accent-ink: #0a5c44;
 
-    --btn-bg: #0f1c17;
-    --btn-bg-hover: #1e352b;
+    --btn-bg: #101815;
+    --btn-bg-hover: #24352d;
     --btn-fg: #f4f8f5;
 
     --ok-strong: #16a34a;
     --ok-text: #14663c;
     --ok-bg: #e9f5ee;
-    --ok-border: #bee0cd;
-    --warn-strong: #ca8a04;
+    --ok-border: #b9dcc8;
+    --warn-strong: #b45309;
     --warn-text: #8a5a08;
     --warn-bg: #faf2e0;
-    --warn-border: #e9d7a6;
+    --warn-border: #e6d3a0;
     --bad-strong: #dc2626;
     --bad-text: #a32b2b;
     --bad-bg: #fbebeb;
-    --bad-border: #f1c7c7;
+    --bad-border: #f0c4c4;
 
     --focus: #0b6b4f;
-    --shadow-card: 0 1px 2px rgba(15, 28, 23, .05), 0 18px 32px -28px rgba(15, 28, 23, .45);
+    --radius-card: 14px;
+    --radius-control: 10px;
+    --shadow-card: 0 1px 2px rgba(16, 24, 21, .05), 0 16px 30px -26px rgba(16, 24, 21, .4);
   }
 
   @media (prefers-color-scheme: dark) {
@@ -82,8 +89,8 @@
       --line-strong: #35443c;
       --ink: #e7eee9;
       --ink-soft: #bdcac3;
-      --muted: #8b9c93;
-      --faint: #6b7b73;
+      --muted: #97a89e;
+      --faint: #7f9089;
 
       --accent: #3fbf8f;
       --accent-ink: #7bd9b6;
@@ -97,11 +104,11 @@
       --ok-bg: #0f2a1e;
       --ok-border: #1f4a36;
       --warn-strong: #fbbf24;
-      --warn-text: #e9c776;
+      --warn-text: #e2be6d;
       --warn-bg: #292110;
       --warn-border: #4c3d1b;
       --bad-strong: #f87171;
-      --bad-text: #f29797;
+      --bad-text: #ef9090;
       --bad-bg: #2c1515;
       --bad-border: #4c2424;
 
@@ -110,62 +117,86 @@
     }
   }
 
-  /* ---------- base ---------- */
+  /* ---------- reset & base ---------- */
   *, *::before, *::after { box-sizing: border-box; }
-  html { -webkit-text-size-adjust: 100%; }
+  html { -webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: transparent; }
+  @media (pointer: fine) { html { overscroll-behavior: none; } }
   body {
     margin: 0;
+    min-height: 100dvh;
     background: var(--canvas);
     color: var(--ink);
     font-family: var(--font-sans);
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
   }
-  .hidden { display: none !important; }
+  .is-hidden { display: none !important; }
+  h1, h2, h3, [tabindex] { scroll-margin-top: 1rem; }
+  h1, h2, h3 { text-wrap: balance; }
 
   a:focus-visible, button:focus-visible, select:focus-visible, [tabindex]:focus-visible {
     outline: 2px solid var(--focus);
     outline-offset: 2px;
+    border-radius: 4px;
   }
   button, select { font-family: inherit; }
+  button { touch-action: manipulation; }
+  .u-mono { font-family: var(--font-mono); }
+  .u-visually-hidden {
+    position: absolute; width: 1px; height: 1px; margin: -1px;
+    padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+  }
 
-  .wrap { width: 100%; max-width: 44rem; margin: 0 auto; padding: 1.5rem 1.25rem 3.5rem; }
-  @media (min-width: 640px) { .wrap { padding-top: 2.5rem; } }
+  .skip-link {
+    position: absolute; left: 1rem; top: -4rem; z-index: 50;
+    background: var(--btn-bg); color: var(--btn-fg);
+    font-size: .875rem; font-weight: 600; text-decoration: none;
+    padding: .55rem .9rem; border-radius: var(--radius-control);
+    transition: top .15s ease;
+  }
+  .skip-link:focus-visible { top: 1rem; outline-offset: 3px; }
+
+  .page {
+    width: 100%; max-width: 45rem; margin: 0 auto;
+    padding: max(1.5rem, env(safe-area-inset-top)) max(1.25rem, env(safe-area-inset-right)) 3.5rem max(1.25rem, env(safe-area-inset-left));
+  }
+  @media (min-width: 640px) { .page { padding-top: 2.25rem; } }
 
   /* ---------- top bar ---------- */
   .topbar { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
-  .lockup { display: flex; align-items: center; gap: .6rem; }
+  .lockup { display: flex; align-items: center; gap: .55rem; }
   .logo-mark {
-    width: 1.375rem; height: 1.375rem; border-radius: 6px;
+    width: 1.375rem; height: 1.375rem; border-radius: 7px;
     background: var(--ink); position: relative; flex: none;
   }
   .logo-mark::after {
     content: ''; position: absolute; left: 24%; right: 24%; top: 50%;
     height: 2px; margin-top: -1px; background: var(--canvas); border-radius: 2px;
   }
-  .wordmark { font-family: var(--font-display); font-size: 1.25rem; font-weight: 600; letter-spacing: -.01em; }
+  .wordmark { font-size: 1.1875rem; font-weight: 650; letter-spacing: -.015em; }
   .mode-chip {
-    font-size: .6875rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase;
+    font-family: var(--font-mono);
+    font-size: .6875rem; font-weight: 500; letter-spacing: .08em; text-transform: uppercase;
     color: var(--muted); background: var(--surface); border: 1px solid var(--line);
-    border-radius: 999px; padding: .25rem .6rem;
+    border-radius: 999px; padding: .25rem .6rem; white-space: nowrap;
   }
 
   /* ---------- intro ---------- */
-  .intro { margin-top: 2rem; }
+  .intro { margin-top: 1.75rem; }
   .eyebrow {
-    margin: 0; font-size: .6875rem; font-weight: 600; letter-spacing: .16em;
-    text-transform: uppercase; color: var(--accent-ink);
+    margin: 0; font-family: var(--font-mono); font-size: .6875rem; font-weight: 500;
+    letter-spacing: .14em; text-transform: uppercase; color: var(--accent-ink);
   }
   .headline {
-    margin: .6rem 0 0; font-family: var(--font-display); font-weight: 600;
-    font-size: clamp(1.7rem, 4.6vw, 2.35rem); line-height: 1.14; letter-spacing: -.015em;
+    margin: .55rem 0 0; font-weight: 620;
+    font-size: clamp(1.6rem, 4.4vw, 2.15rem); line-height: 1.16; letter-spacing: -.022em;
     color: var(--ink); overflow-wrap: break-word;
   }
-  .lede { margin: .8rem 0 0; max-width: 60ch; font-size: .9375rem; line-height: 1.65; color: var(--muted); }
+  .lede { margin: .75rem 0 0; max-width: 58ch; font-size: .9375rem; line-height: 1.62; color: var(--muted); }
   .trust-strip {
-    margin: 1.1rem 0 0; display: inline-flex; align-items: center; gap: .55rem;
+    margin: 1rem 0 0; display: inline-flex; align-items: center; gap: .5rem;
     font-size: .75rem; color: var(--muted); background: var(--surface);
-    border: 1px solid var(--line); border-radius: 999px; padding: .4rem .8rem;
+    border: 1px solid var(--line); border-radius: 999px; padding: .35rem .75rem;
     overflow-wrap: break-word;
   }
   .trust-dot {
@@ -174,45 +205,45 @@
   }
 
   /* ---------- cards ---------- */
-  .screen { margin-top: 1.25rem; }
+  .screen { margin-top: 1.15rem; }
   .card {
     background: var(--surface); border: 1px solid var(--line);
-    border-radius: 16px; box-shadow: var(--shadow-card); padding: 1.15rem 1.2rem;
+    border-radius: var(--radius-card); box-shadow: var(--shadow-card); padding: 1.2rem 1.25rem;
   }
   .card-title {
-    margin: 0; font-family: var(--font-display); font-size: 1.125rem;
-    font-weight: 600; letter-spacing: -.01em; overflow-wrap: break-word;
+    margin: 0; font-size: 1.0625rem; font-weight: 620; letter-spacing: -.01em; overflow-wrap: break-word;
   }
   .card-hint { margin: .3rem 0 0; font-size: .8125rem; color: var(--muted); line-height: 1.5; }
   .field-label { display: block; font-size: .8125rem; font-weight: 600; color: var(--ink); }
 
-  .scan-row { display: flex; flex-direction: column; gap: .6rem; margin-top: .9rem; }
+  .scan-row { display: flex; flex-direction: column; gap: .6rem; margin-top: .85rem; }
   @media (min-width: 640px) { .scan-row { flex-direction: row; align-items: stretch; } }
 
-  .select-wrap { position: relative; flex: 1 1 auto; min-width: 0; display: block; }
-  .select-wrap::after {
+  .select-shell { position: relative; flex: 1 1 auto; min-width: 0; display: block; }
+  .select-shell::after {
     content: ''; position: absolute; right: 1rem; top: 50%; width: .5rem; height: .5rem;
     border-right: 2px solid var(--muted); border-bottom: 2px solid var(--muted);
     transform: translateY(-70%) rotate(45deg); pointer-events: none;
   }
   .select {
     appearance: none; -webkit-appearance: none; width: 100%;
-    padding: .72rem 2.5rem .72rem .85rem;
+    padding: .7rem 2.5rem .7rem .85rem;
     background: var(--surface); color: var(--ink);
-    border: 1px solid var(--line-strong); border-radius: 10px;
+    border: 1px solid var(--line-strong); border-radius: var(--radius-control);
     font-size: .9375rem; line-height: 1.4; cursor: pointer;
     transition: border-color .15s ease;
     text-overflow: ellipsis;
   }
-  .select:hover { border-color: var(--muted); }
+  @media (hover: hover) { .select:hover { border-color: var(--muted); } }
 
   .btn {
     display: inline-flex; align-items: center; justify-content: center; gap: .5rem;
-    border: 1px solid transparent; border-radius: 10px; cursor: pointer;
-    font-size: .9375rem; font-weight: 600; padding: .72rem 1.15rem; white-space: nowrap;
+    border: 1px solid transparent; border-radius: var(--radius-control); cursor: pointer;
+    font-size: .9375rem; font-weight: 600; padding: .7rem 1.15rem; white-space: nowrap;
+    min-width: 0;
     transition: background-color .15s ease, border-color .15s ease, color .15s ease;
   }
-  .btn:disabled { cursor: progress; opacity: .8; }
+  .btn:disabled { cursor: progress; opacity: .85; }
   .btn-primary { background: var(--btn-bg); color: var(--btn-fg); }
   @media (hover: hover) { .btn-primary:hover:not(:disabled) { background: var(--btn-bg-hover); } }
   .btn-secondary {
@@ -239,15 +270,15 @@
 
   .note { margin: .7rem 0 0; font-size: .8125rem; color: var(--muted); line-height: 1.5; }
   .error-box {
-    margin-top: .85rem; padding: .65rem .85rem; border-radius: 10px;
+    margin-top: .85rem; padding: .65rem .85rem; border-radius: var(--radius-control);
     border: 1px solid var(--bad-border); background: var(--bad-bg); color: var(--bad-text);
     font-size: .8125rem; line-height: 1.55; overflow-wrap: anywhere;
   }
 
   /* ---------- progress steps ---------- */
-  .steps { list-style: none; margin: .9rem 0 0; padding: 0; }
-  .step { display: flex; align-items: center; gap: .75rem; padding: .62rem 0; }
-  .step + .step { border-top: 1px solid var(--line); }
+  .progress-steps { list-style: none; margin: .9rem 0 0; padding: 0; }
+  .progress-step { display: flex; align-items: center; gap: .75rem; padding: .6rem 0; }
+  .progress-step + .progress-step { border-top: 1px solid var(--line); }
   .step-dot {
     width: 1.25rem; height: 1.25rem; border-radius: 50%; flex: none;
     display: flex; align-items: center; justify-content: center;
@@ -259,10 +290,10 @@
     font-size: .875rem; color: var(--faint);
     transition: color .2s ease; overflow-wrap: break-word;
   }
-  .step[data-state="active"] .step-dot { border: 2px solid var(--accent); }
-  .step[data-state="active"] .step-label { color: var(--ink); font-weight: 500; }
-  .step[data-state="done"] .step-dot { background: var(--ok-bg); border-color: var(--ok-border); color: var(--ok-text); }
-  .step[data-state="done"] .step-label { color: var(--ink-soft); }
+  .progress-step[data-state="active"] .step-dot { border: 2px solid var(--accent); }
+  .progress-step[data-state="active"] .step-label { color: var(--ink); font-weight: 500; }
+  .progress-step[data-state="done"] .step-dot { background: var(--ok-bg); border-color: var(--ok-border); color: var(--ok-text); }
+  .progress-step[data-state="done"] .step-label { color: var(--ink-soft); }
 
   /* ---------- results ---------- */
   .results-head {
@@ -270,85 +301,84 @@
     justify-content: space-between; gap: .75rem 1rem;
   }
   .results-brand {
-    margin: 0; font-family: var(--font-display); font-size: 1.375rem;
-    font-weight: 600; letter-spacing: -.01em; overflow-wrap: break-word;
+    margin: 0; font-size: 1.3125rem; font-weight: 620; letter-spacing: -.015em; overflow-wrap: break-word;
   }
-  .results-meta { margin: .2rem 0 0; font-size: .8125rem; color: var(--muted); overflow-wrap: anywhere; }
+  .results-meta { margin: .2rem 0 0; font-family: var(--font-mono); font-size: .75rem; color: var(--muted); overflow-wrap: anywhere; }
   .results-actions { display: flex; align-items: center; gap: .5rem; }
 
-  .score-grid { display: grid; gap: .85rem; margin-top: 1rem; }
-  @media (min-width: 640px) { .score-grid { grid-template-columns: auto 1fr; } }
+  .score-stack { display: flex; flex-direction: column; gap: .75rem; margin-top: 1rem; }
 
-  .score-card { display: flex; align-items: center; gap: 1.15rem; }
-  .ring { position: relative; width: 8rem; height: 8rem; flex: none; }
-  .ring svg { display: block; transform: rotate(-90deg); }
+  .score-card { display: flex; align-items: center; gap: 1.25rem; }
+  .score-ring { position: relative; width: 7.5rem; height: 7.5rem; flex: none; }
+  .score-ring svg { display: block; transform: rotate(-90deg); }
   #score-track { stroke: var(--line); }
   #score-arc { stroke: var(--ok-strong); transition: stroke-dashoffset .9s cubic-bezier(.22, .61, .36, 1), stroke .35s ease; }
-  .ring-center {
+  .score-ring-center {
     position: absolute; inset: 0; display: flex; flex-direction: column;
     align-items: center; justify-content: center; text-align: center;
   }
-  .score-value { font-size: 2rem; font-weight: 700; line-height: 1; font-variant-numeric: tabular-nums; }
+  .score-value {
+    font-family: var(--font-mono); font-size: 1.875rem; font-weight: 600;
+    line-height: 1; font-variant-numeric: tabular-nums;
+  }
   .score-caption {
-    margin-top: .4rem; font-size: .625rem; font-weight: 600;
+    margin-top: .4rem; font-family: var(--font-mono); font-size: .5625rem; font-weight: 500;
     letter-spacing: .12em; text-transform: uppercase; color: var(--faint);
   }
   .score-copy { min-width: 0; }
-  .score-label { margin: 0 0 .3rem; font-size: 1rem; font-weight: 600; }
+  .score-label { margin: 0 0 .25rem; font-family: var(--font-mono); font-size: .9375rem; font-weight: 600; font-variant-numeric: tabular-nums; }
   .score-summary { margin: 0; font-size: .875rem; line-height: 1.55; color: var(--muted); overflow-wrap: break-word; }
 
   .tone-ok { color: var(--ok-strong); }
   .tone-warn { color: var(--warn-strong); }
   .tone-bad { color: var(--bad-strong); }
 
-  .stats-card { display: flex; flex-direction: column; justify-content: center; gap: .55rem; }
-  .stat-row { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; font-size: .875rem; }
-  .stat-key { color: var(--muted); flex: none; }
+  .stats-card { display: grid; grid-template-columns: minmax(0, 1fr); gap: .7rem 1rem; }
+  @media (min-width: 560px) { .stats-card { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+  .stat-cell { min-width: 0; }
+  .stat-key { display: block; font-size: .75rem; color: var(--muted); }
   .stat-val {
-    font-weight: 600; font-variant-numeric: tabular-nums;
-    text-align: right; overflow-wrap: anywhere; min-width: 0;
+    display: block; margin-top: .15rem;
+    font-family: var(--font-mono); font-size: .9375rem; font-weight: 500;
+    font-variant-numeric: tabular-nums; overflow-wrap: anywhere; color: var(--ink);
   }
 
-  .section-label {
-    margin: 1.5rem 0 .7rem; font-size: .75rem; font-weight: 600;
-    letter-spacing: .12em; text-transform: uppercase; color: var(--muted);
+  .section-title {
+    margin: 1.4rem 0 .7rem; font-size: .9375rem; font-weight: 620; letter-spacing: -.005em; color: var(--ink-soft);
   }
-  .findings { display: flex; flex-direction: column; gap: .75rem; }
+  .findings { display: flex; flex-direction: column; gap: .7rem; }
 
   /* all-clear (zero findings) */
   .all-clear {
-    display: flex; align-items: flex-start; gap: .95rem;
+    display: flex; align-items: flex-start; gap: .9rem;
     background: var(--ok-bg); border: 1px solid var(--ok-border);
-    border-radius: 16px; padding: 1.15rem 1.2rem;
+    border-radius: var(--radius-card); padding: 1.15rem 1.2rem;
   }
   .all-clear-icon {
     width: 2.15rem; height: 2.15rem; border-radius: 999px; flex: none;
     background: var(--ok-strong); color: #fff;
     display: flex; align-items: center; justify-content: center;
   }
-  .all-clear-title {
-    margin: 0; font-family: var(--font-display); font-size: 1.0625rem;
-    font-weight: 600; color: var(--ok-text);
-  }
+  .all-clear-title { margin: 0; font-size: 1rem; font-weight: 620; color: var(--ok-text); }
   .all-clear-body { margin: .3rem 0 0; font-size: .875rem; line-height: 1.6; color: var(--ink-soft); overflow-wrap: break-word; }
   .all-clear-meta { margin: .5rem 0 0; font-size: .75rem; color: var(--muted); overflow-wrap: break-word; }
 
   /* findings */
   .finding {
     background: var(--surface); border: 1px solid var(--line);
-    border-radius: 14px; box-shadow: var(--shadow-card); overflow: hidden;
+    border-radius: var(--radius-card); box-shadow: var(--shadow-card); overflow: hidden;
     transition: border-color .15s ease;
   }
   @media (hover: hover) { .finding:hover { border-color: var(--line-strong); } }
   .finding-toggle {
     display: flex; width: 100%; align-items: flex-start; gap: .7rem;
-    padding: .95rem 1.05rem; background: none; border: 0;
+    padding: .9rem 1.05rem; background: none; border: 0;
     text-align: left; cursor: pointer; color: inherit; font-size: 1rem;
   }
   .finding-main { flex: 1 1 auto; min-width: 0; }
   .finding-topline { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem .5rem; }
   .finding-value {
-    font-size: .9375rem; font-weight: 600; color: var(--ink);
+    font-family: var(--font-mono); font-size: .875rem; font-weight: 600; color: var(--ink);
     overflow-wrap: anywhere; word-break: break-word; min-width: 0;
   }
   .badge {
@@ -361,32 +391,32 @@
   .badge--bad { color: var(--bad-text); background: var(--bad-bg); border-color: var(--bad-border); }
   .finding-kind { margin: .3rem 0 0; font-size: .8125rem; color: var(--muted); overflow-wrap: break-word; }
   .finding-expl { margin: .35rem 0 0; font-size: .875rem; line-height: 1.55; color: var(--ink-soft); overflow-wrap: break-word; }
-  .finding-meta { margin: .45rem 0 0; font-size: .75rem; color: var(--faint); overflow-wrap: break-word; }
+  .finding-meta { margin: .45rem 0 0; font-family: var(--font-mono); font-size: .6875rem; color: var(--faint); overflow-wrap: break-word; }
   .chevron { margin-left: auto; flex: none; color: var(--faint); transition: transform .2s ease; }
   .finding-toggle[aria-expanded="true"] .chevron { transform: rotate(180deg); }
 
   .finding-body { border-top: 1px solid var(--line); padding: .85rem 1.05rem 1rem; }
   .evidence-label {
-    margin: 0 0 .5rem; font-size: .6875rem; font-weight: 600;
+    margin: 0 0 .5rem; font-family: var(--font-mono); font-size: .6875rem; font-weight: 500;
     letter-spacing: .1em; text-transform: uppercase; color: var(--faint);
   }
   .evidence-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: .5rem; }
   .evidence {
     background: var(--surface-2); border: 1px solid var(--line);
-    border-radius: 10px; padding: .7rem .8rem;
+    border-radius: var(--radius-control); padding: .7rem .8rem;
   }
   .evidence-title { margin: 0; font-size: .875rem; font-weight: 600; color: var(--ink); overflow-wrap: break-word; }
-  .evidence-meta { margin: .2rem 0 0; font-size: .75rem; color: var(--muted); overflow-wrap: anywhere; }
+  .evidence-meta { margin: .2rem 0 0; font-family: var(--font-mono); font-size: .6875rem; color: var(--muted); overflow-wrap: anywhere; }
   .evidence-snippet { margin: .4rem 0 0; font-size: .8125rem; line-height: 1.55; color: var(--ink-soft); overflow-wrap: break-word; }
   .evidence-link {
     display: inline-block; margin-top: .45rem; max-width: 100%;
-    font-size: .75rem; color: var(--accent-ink);
+    font-family: var(--font-mono); font-size: .6875rem; color: var(--accent-ink);
     text-decoration: underline; text-underline-offset: 2px;
     overflow-wrap: anywhere; word-break: break-all;
   }
   @media (hover: hover) { .evidence-link:hover { color: var(--accent); } }
 
-  .footnote { margin: 2rem 0 0; font-size: .75rem; line-height: 1.6; color: var(--faint); }
+  .footnote { margin: 1.75rem 0 0; font-size: .75rem; line-height: 1.6; color: var(--faint); }
 
   /* ---------- motion ---------- */
   @keyframes rise {
@@ -400,121 +430,137 @@
   @media (prefers-reduced-motion: reduce) {
     .enter { animation: none; }
     .spinner, .step-spinner { animation: none; border-top-color: currentColor; opacity: .55; }
-    #score-arc, .chevron, .btn, .select, .step-dot, .step-label, .finding { transition: none; }
+    #score-arc, .chevron, .btn, .select, .step-dot, .step-label, .finding, .skip-link { transition: none; }
   }
 </style>
 </head>
 
 <body>
-<div class="wrap">
+<a class="skip-link" href="#main">Skip to content</a>
+
+<div class="page">
   <!-- ============ top bar ============ -->
   <header class="topbar">
     <div class="lockup">
       <span class="logo-mark" aria-hidden="true"></span>
-      <span class="wordmark">TrueLine</span>
+      <span class="wordmark" translate="no">TrueLine</span>
     </div>
-    <span class="mode-chip">demo</span>
+    <span id="mode-chip" class="mode-chip">demo</span>
   </header>
 
-  <!-- ============ intro ============ -->
-  <section id="intro" class="intro enter" aria-labelledby="intro-title">
-    <p class="eyebrow">Brand trust scan</p>
-    <h1 id="intro-title" class="headline">See what your customers see when they search for your brand.</h1>
-    <p class="lede">TrueLine runs customer-care style queries across three engines and flags anything that does not match the brand’s official details — every flag linked to the exact search result behind it.</p>
-    <p class="trust-strip">
-      <span class="trust-dot" aria-hidden="true"></span>
-      Powered by SerpApi · checks Search, Maps, Ads Transparency
-    </p>
-  </section>
+  <main id="main" tabindex="-1">
+    <!-- ============ intro ============ -->
+    <section class="intro enter" aria-labelledby="intro-title">
+      <p class="eyebrow">Brand trust scan</p>
+      <h1 id="intro-title" class="headline">See what your customers see when they search for your brand.</h1>
+      <p class="lede">TrueLine runs customer-care style queries across three engines and flags anything that does not match the brand&rsquo;s official details. Every flag links back to the exact search result behind it.</p>
+      <p class="trust-strip">
+        <span class="trust-dot" aria-hidden="true"></span>
+        Powered by SerpApi &middot; checks Search, Maps, Ads Transparency
+      </p>
+    </section>
 
-  <!-- ============ 1. input ============ -->
-  <section id="screen-input" class="screen enter enter-delay">
-    <div class="card">
-      <label for="brand-select" class="field-label">Brand to scan</label>
-      <p class="card-hint">Pick a configured brand, then run the scan.</p>
+    <!-- ============ 1. input ============ -->
+    <section id="screen-input" class="screen enter enter-delay">
+      <div class="card">
+        <label for="brand-select" class="field-label">Brand to scan</label>
+        <p class="card-hint">Pick a configured brand, then run the scan.</p>
 
-      <div class="scan-row">
-        <span class="select-wrap">
-          <select id="brand-select" class="select">
-            <option value="">Loading brands…</option>
-          </select>
-        </span>
-        <button id="scan-btn" type="button" class="btn btn-primary">
-          <span id="scan-btn-spinner" class="spinner hidden" aria-hidden="true"></span>
-          <span id="scan-btn-label" class="btn-label">Select a brand</span>
-        </button>
+        <div class="scan-row">
+          <span class="select-shell">
+            <select id="brand-select" class="select" name="brand" autocomplete="off">
+              <option value="">Loading brands&hellip;</option>
+            </select>
+          </span>
+          <button id="scan-btn" type="button" class="btn btn-primary">
+            <span id="scan-btn-spinner" class="spinner is-hidden" aria-hidden="true"></span>
+            <span id="scan-btn-label" class="btn-label">Select a brand</span>
+          </button>
+        </div>
+
+        <p id="brands-note" class="note"></p>
+        <div id="input-error" class="error-box is-hidden" role="alert" tabindex="-1"></div>
+      </div>
+    </section>
+
+    <!-- ============ 2. loading ============ -->
+    <section id="screen-loading" class="screen is-hidden" aria-labelledby="loading-title">
+      <div class="card">
+        <h2 id="loading-title" class="card-title">Scanning <span id="loading-brand"></span>&hellip;</h2>
+        <p class="card-hint">Running customer-care style queries across Search, Maps and Ads Transparency.</p>
+        <ul id="progress-list" class="progress-steps"></ul>
+        <p class="note">Every finding links back to the search result that produced it.</p>
+      </div>
+    </section>
+
+    <!-- ============ 3. results ============ -->
+    <section id="screen-results" class="screen is-hidden" role="region" aria-labelledby="result-brand">
+      <p id="scan-status" class="u-visually-hidden" role="status" aria-live="polite"></p>
+      <div class="results-head">
+        <div>
+          <h2 id="result-brand" class="results-brand"></h2>
+          <p id="result-meta" class="results-meta" translate="no"></p>
+        </div>
+        <div class="results-actions">
+          <button id="again-btn" type="button" class="btn btn-icon" aria-label="New scan" title="New scan">
+            <svg width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
+              <path d="M12.5 4.5 7 10l5.5 5.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M7 10h9" stroke-linecap="round"/>
+            </svg>
+          </button>
+          <button id="download-btn" type="button" class="btn btn-secondary">
+            <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
+              <path d="M10 3.5v9m0 0 3.5-3.5M10 12.5 6.5 9" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M4 14.5v1a1.5 1.5 0 0 0 1.5 1.5h9a1.5 1.5 0 0 0 1.5-1.5v-1" stroke-linecap="round"/>
+            </svg>
+            Download Report
+          </button>
+        </div>
       </div>
 
-      <p id="brands-note" class="note"></p>
-      <div id="input-error" class="error-box hidden" role="alert"></div>
-    </div>
-  </section>
-
-  <!-- ============ 2. loading ============ -->
-  <section id="screen-loading" class="screen hidden">
-    <div class="card">
-      <h2 class="card-title">Scanning <span id="loading-brand"></span>…</h2>
-      <p class="card-hint">Running customer-care style queries across Search, Maps and Ads Transparency.</p>
-      <ul id="progress-list" class="steps"></ul>
-      <p class="note">Each finding will be linked to the search result that produced it.</p>
-    </div>
-  </section>
-
-  <!-- ============ 3. results ============ -->
-  <section id="screen-results" class="screen hidden" aria-live="polite">
-    <div class="results-head">
-      <div>
-        <h2 id="result-brand" class="results-brand"></h2>
-        <p id="result-meta" class="results-meta"></p>
-      </div>
-      <div class="results-actions">
-        <button id="again-btn" type="button" class="btn btn-icon" aria-label="Start a new scan for another brand" title="New scan">
-          <svg width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
-            <path d="M12.5 4.5 7 10l5.5 5.5" stroke-linecap="round" stroke-linejoin="round"/>
-            <path d="M7 10h9" stroke-linecap="round"/>
-          </svg>
-        </button>
-        <button id="download-btn" type="button" class="btn btn-secondary">
-          <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
-            <path d="M10 3.5v9m0 0 3.5-3.5M10 12.5 6.5 9" stroke-linecap="round" stroke-linejoin="round"/>
-            <path d="M4 14.5v1a1.5 1.5 0 0 0 1.5 1.5h9a1.5 1.5 0 0 0 1.5-1.5v-1" stroke-linecap="round"/>
-          </svg>
-          Download report
-        </button>
-      </div>
-    </div>
-
-    <div class="score-grid">
-      <div class="card score-card">
-        <div class="ring">
-          <svg viewBox="0 0 120 120" width="128" height="128" aria-hidden="true">
-            <circle id="score-track" cx="60" cy="60" r="52" fill="none" stroke-width="10"></circle>
-            <circle id="score-arc" cx="60" cy="60" r="52" fill="none" stroke-width="10"
-              stroke-linecap="round" stroke-dasharray="326.73" stroke-dashoffset="326.73"></circle>
-          </svg>
-          <div class="ring-center">
-            <span id="score-value" class="score-value">–</span>
-            <span class="score-caption">trust score</span>
+      <div class="score-stack">
+        <div class="card score-card">
+          <div class="score-ring">
+            <svg viewBox="0 0 120 120" width="120" height="120" aria-hidden="true">
+              <circle id="score-track" cx="60" cy="60" r="52" fill="none" stroke-width="10"></circle>
+              <circle id="score-arc" cx="60" cy="60" r="52" fill="none" stroke-width="10"
+                stroke-linecap="round" stroke-dasharray="326.73" stroke-dashoffset="326.73"></circle>
+            </svg>
+            <div class="score-ring-center">
+              <span id="score-value" class="score-value">&ndash;</span>
+              <span class="score-caption">trust score</span>
+            </div>
+          </div>
+          <div class="score-copy">
+            <p id="score-label" class="score-label"></p>
+            <p id="score-summary" class="score-summary"></p>
           </div>
         </div>
-        <div class="score-copy">
-          <p id="score-label" class="score-label"></p>
-          <p id="score-summary" class="score-summary"></p>
+
+        <div class="card stats-card">
+          <div class="stat-cell">
+            <span class="stat-key">Findings</span>
+            <span id="stat-findings" class="stat-val"></span>
+          </div>
+          <div class="stat-cell">
+            <span class="stat-key">Evidence items</span>
+            <span id="stat-evidence" class="stat-val"></span>
+          </div>
+          <div class="stat-cell">
+            <span class="stat-key">Scanned at</span>
+            <time id="stat-scanned" class="stat-val"></time>
+          </div>
         </div>
       </div>
 
-      <div class="card stats-card">
-        <div class="stat-row"><span class="stat-key">Findings</span><span id="stat-findings" class="stat-val"></span></div>
-        <div class="stat-row"><span class="stat-key">Evidence items</span><span id="stat-evidence" class="stat-val"></span></div>
-        <div class="stat-row"><span class="stat-key">Scanned at</span><span id="stat-scanned" class="stat-val"></span></div>
-      </div>
-    </div>
+      <h3 class="section-title">What a customer sees</h3>
+      <div id="findings-list" class="findings"></div>
+    </section>
 
-    <h3 class="section-label">What a customer sees</h3>
-    <div id="findings-list" class="findings"></div>
-  </section>
+    <p class="footnote">Wording is deliberately factual: we flag items as unverified or suspected, never as confirmed.</p>
+  </main>
+</div>
 
-  <p class="footnote">Wording is deliberately factual: items are flagged as unverified or suspected, never as confirmed.</p>
 <script>
 const API = 'http://localhost:8000';
 
@@ -525,9 +571,9 @@ const screens = {
 };
 
 function show(name) {
-  screens.input.classList.toggle('hidden', name === 'results');
-  screens.loading.classList.toggle('hidden', name !== 'loading');
-  screens.results.classList.toggle('hidden', name !== 'results');
+  screens.input.classList.toggle('is-hidden', name !== 'input');
+  screens.loading.classList.toggle('is-hidden', name !== 'loading');
+  screens.results.classList.toggle('is-hidden', name !== 'results');
   const target = screens[name];
   target.classList.remove('enter', 'enter-delay');
   void target.offsetWidth;
@@ -569,9 +615,27 @@ async function detailFrom(res) {
 
 function setInputError(message) {
   const box = document.getElementById('input-error');
-  if (!message) { box.classList.add('hidden'); box.textContent = ''; return; }
+  if (!message) { box.classList.add('is-hidden'); box.textContent = ''; return; }
   box.textContent = message;
-  box.classList.remove('hidden');
+  box.classList.remove('is-hidden');
+  box.focus();
+}
+
+function announce(message) {
+  const region = document.getElementById('scan-status');
+  region.textContent = '';
+  setTimeout(() => { region.textContent = message; }, 60);
+}
+
+function setUrlParam(key, value) {
+  const url = new URL(window.location.href);
+  if (value) url.searchParams.set(key, value);
+  else url.searchParams.delete(key);
+  history.replaceState(null, '', url);
+}
+
+function urlParam(key) {
+  return new URL(window.location.href).searchParams.get(key) || '';
 }
 
 /* ---------- input screen ---------- */
@@ -603,6 +667,8 @@ async function loadBrands() {
   for (const brand of BRANDS) {
     select.append(h('option', { value: brand.brand_id, text: brand.display_name }));
   }
+  const deepLinked = urlParam('brand');
+  if (deepLinked && BRANDS.some((b) => b.brand_id === deepLinked)) select.value = deepLinked;
   note.textContent = '';
   setInputError('');
 }
@@ -622,7 +688,7 @@ function updateScanLabel() {
 function setScanning(on) {
   scanning = on;
   document.getElementById('scan-btn').disabled = on;
-  document.getElementById('scan-btn-spinner').classList.toggle('hidden', !on);
+  document.getElementById('scan-btn-spinner').classList.toggle('is-hidden', !on);
   updateScanLabel();
 }
 
@@ -636,7 +702,7 @@ function renderProgress() {
   const list = document.getElementById('progress-list');
   list.innerHTML = '';
   for (const label of STEPS) {
-    list.append(h('li', { class: 'step', 'data-state': 'pending' },
+    list.append(h('li', { class: 'progress-step', 'data-state': 'pending' },
       h('span', { class: 'step-dot', 'aria-hidden': 'true' }),
       h('span', { class: 'step-label', text: label })
     ));
@@ -655,15 +721,20 @@ function setStep(li, state) {
 }
 
 function runProgress() {
-  const items = [...document.querySelectorAll('#progress-list .step')];
+  const items = [...document.querySelectorAll('#progress-list .progress-step')];
   items.forEach((li) => setStep(li, 'pending'));
   let index = 0;
   setStep(items[0], 'active');
+  announce(items[0].querySelector('.step-label').textContent);
   const timer = setInterval(() => {
     if (index < items.length) setStep(items[index], 'done');
     index += 1;
-    if (index < items.length) setStep(items[index], 'active');
-    else clearInterval(timer);
+    if (index < items.length) {
+      setStep(items[index], 'active');
+      announce(items[index].querySelector('.step-label').textContent);
+    } else {
+      clearInterval(timer);
+    }
   }, STEP_MS);
   return () => { clearInterval(timer); items.forEach((li) => setStep(li, 'done')); };
 }
@@ -748,7 +819,7 @@ function findingCard(finding, evidenceById) {
   const linked = (finding.evidence_ids || []).map((id) => evidenceById.get(id)).filter(Boolean);
   const bodyId = 'body-' + finding.finding_id;
 
-  const body = h('div', { id: bodyId, class: 'finding-body hidden' });
+  const body = h('div', { id: bodyId, class: 'finding-body is-hidden' });
   if (linked.length) {
     body.append(h('p', { class: 'evidence-label', text: 'Linked evidence (' + linked.length + ')' }));
     body.append(h('ul', { class: 'evidence-list' }, linked.map(evidenceCard)));
@@ -763,8 +834,9 @@ function findingCard(finding, evidenceById) {
     'aria-expanded': 'false',
     'aria-controls': bodyId,
     onclick: (event) => {
-      const open = body.classList.toggle('hidden') === false;
+      const open = body.classList.toggle('is-hidden') === false;
       event.currentTarget.setAttribute('aria-expanded', String(open));
+      setUrlParam('open', open ? finding.finding_id : '');
       if (open) {
         body.classList.remove('enter');
         void body.offsetWidth;
@@ -788,7 +860,7 @@ function findingCard(finding, evidenceById) {
     chevron
   );
 
-  return h('article', { class: 'finding' }, header, body);
+  return h('article', { class: 'finding', 'data-finding-id': finding.finding_id }, header, body);
 }
 
 function allClearCard(name, evidenceCount) {
@@ -801,6 +873,9 @@ function allClearCard(name, evidenceCount) {
     )
   );
 }
+
+const scannedAtFormatter = new Intl.DateTimeFormat(undefined, { dateStyle: 'medium', timeStyle: 'short' });
+
 function renderResults(result, meta) {
   lastResult = result;
   const score = Number(result.trust_score) || 0;
@@ -811,10 +886,15 @@ function renderResults(result, meta) {
   document.getElementById('result-brand').textContent = displayName;
   document.getElementById('stat-findings').textContent = String(findings.length);
   document.getElementById('stat-evidence').textContent = String(evidence.length);
+  const scannedEl = document.getElementById('stat-scanned');
   const scanned = new Date(result.scanned_at);
-  document.getElementById('stat-scanned').textContent = Number.isNaN(scanned.getTime())
-    ? String(result.scanned_at)
-    : scanned.toLocaleString();
+  if (Number.isNaN(scanned.getTime())) {
+    scannedEl.removeAttribute('datetime');
+    scannedEl.textContent = String(result.scanned_at);
+  } else {
+    scannedEl.setAttribute('datetime', result.scanned_at);
+    scannedEl.textContent = scannedAtFormatter.format(scanned);
+  }
   document.getElementById('result-meta').textContent = 'brand_id: ' + result.brand_id;
 
   renderScore(score);
@@ -831,6 +911,17 @@ function renderResults(result, meta) {
     const evidenceById = new Map(evidence.map((item) => [item.evidence_id, item]));
     for (const finding of findings) list.append(findingCard(finding, evidenceById));
   }
+
+  const openId = urlParam('open');
+  if (openId) {
+    const article = list.querySelector('[data-finding-id="' + CSS.escape(openId) + '"]');
+    if (article) {
+      article.querySelector('.finding-toggle').click();
+    }
+  }
+
+  announce('Scan complete. Trust score ' + score + ' out of 100. '
+    + findings.length + ' finding' + (findings.length === 1 ? '' : 's') + '.');
   show('results');
 }
 
@@ -873,6 +964,12 @@ async function runScan() {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ brand_id: brandId }),
     });
+    const mode = res.headers.get('X-Serpapi-Mode');
+    if (mode) {
+      const chip = document.getElementById('mode-chip');
+      chip.textContent = mode;
+      chip.title = 'SerpApi mode for this scan: ' + mode;
+    }
     if (!res.ok) throw new Error(await detailFrom(res));
     const result = await res.json();
     const elapsed = Date.now() - started;
@@ -896,19 +993,18 @@ function renderResult(result, brandId) {
 }
 
 document.getElementById('scan-btn').addEventListener('click', runScan);
-document.getElementById('brand-select').addEventListener('change', () => {
+document.getElementById('brand-select').addEventListener('change', (event) => {
   setInputError('');
+  setUrlParam('brand', event.target.value);
   updateScanLabel();
 });
 document.getElementById('download-btn').addEventListener('click', downloadReport);
-document.getElementById('again-btn').addEventListener('click', () => show('input'));
+document.getElementById('again-btn').addEventListener('click', () => {
+  setUrlParam('open', '');
+  show('input');
+});
 
 loadBrands().then(updateScanLabel);
 </script>
-
-
-
-
-</div>
 </body>
 </html>

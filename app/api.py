@@ -140,6 +140,8 @@ def create_app() -> FastAPI:
         allow_origins=["*"],
         allow_methods=["GET", "POST", "OPTIONS"],
         allow_headers=["*"],
+        # Without this the browser UI cannot read the mode header in JS.
+        expose_headers=["X-Serpapi-Mode"],
     )
 
     @application.get("/", response_class=FileResponse)
